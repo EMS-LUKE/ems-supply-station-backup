@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-26T01:41:28.791070+00:00",
-  "count": 192,
-  "course_count": 117,
-  "news_count": 75,
+  "updated": "2026-06-26T11:58:20.358380+00:00",
+  "count": 195,
+  "course_count": 125,
+  "news_count": 70,
   "items": [
     {
       "id": "26138c8efa38",
@@ -665,56 +665,6 @@
       "url": "https://www.tana.org.tw/news/news_info.asp?/1080.html"
     },
     {
-      "id": "5bfcff8d3c72",
-      "title": "理監事名單",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/about/index_03_a.asp"
-    },
-    {
-      "id": "52aeba42ceae",
-      "title": "委員會名單",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/about/index_03_b.asp"
-    },
-    {
-      "id": "7c813915b5bc",
-      "title": "理事長的話",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/about/index_04.asp"
-    },
-    {
-      "id": "97e6c65f194c",
-      "title": "訓練課程專區",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/EL/train_list.asp"
-    },
-    {
-      "id": "31969e1f295e",
-      "title": "研討會專區",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/EL/seminar.asp"
-    },
-    {
       "id": "05449c89cbe5",
       "title": "活動醫療站服務",
       "source": "中華民國大型活動緊急救護協會",
@@ -895,6 +845,36 @@
       "url": "https://www.tsorcc.org.tw/活動花絮/2026年活動花絮集"
     },
     {
+      "id": "081055711dbb",
+      "title": "2026母親節節慶關懷系列活動",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "b7bcbff339ec",
+      "title": "2026兒童節節慶關懷系列活動",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "9de74e1ce4a1",
+      "title": "2025兒童醫院聖誕節慶活動",
+      "source": "臺大兒童醫院急重症外接醫療團隊",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
       "id": "77517feee91a",
       "title": "【守護生命更便利！聽見AED正式上架7-ELEVEN「把愛找回來」公益平台】",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1015,14 +995,64 @@
       "url": "https://www.jems.com/news/"
     },
     {
-      "id": "fa7bfbf49367",
-      "title": "TX Firefighter Saves Airline Passenger Mid-Flight",
+      "id": "11acddc2b99a",
+      "title": "Hazmat Team Investigates Suspected Fentanyl Exposure at CA Apartment Complex",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/tx-firefighter-saves-airline-passenger-mid-flight/"
+      "url": "https://www.jems.com/news/hazmat-team-investigates-suspected-fentanyl-exposure-at-ca-apartment-complex/"
+    },
+    {
+      "id": "cc05242f9202",
+      "title": "Event & Expedition Medic Provision",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
+    },
+    {
+      "id": "36dc95e80ac8",
+      "title": "Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
+    },
+    {
+      "id": "cdc892f17af7",
+      "title": "Expedition & Wilderness Medicine",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
+    },
+    {
+      "id": "55342de8b5f8",
+      "title": "WEMFund Prolonged Field Care Course",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
+    },
+    {
+      "id": "17f164e2e04b",
+      "title": "All Extreme Medicine Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
     },
     {
       "id": "b8d5eb07b1d3",
@@ -1892,7 +1922,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://bjsm.bmj.com/cgi/content/short/bjsports-2025-111225v2?rss=1"
+      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-338449v1?rss=1"
     },
     {
       "id": "8d656ad77115",
