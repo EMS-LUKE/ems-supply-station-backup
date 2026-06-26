@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-26T00:24:55.631707+00:00",
-  "count": 200,
-  "course_count": 125,
+  "updated": "2026-06-26T01:41:28.791070+00:00",
+  "count": 192,
+  "course_count": 117,
   "news_count": 75,
   "items": [
     {
@@ -615,6 +615,16 @@
       "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
     },
     {
+      "id": "90c9bbf3fb6d",
+      "title": "溫馨小提醒：有關115年麻醉實證研究與專一逆轉劑照護工作坊-嘉義場舉行與否",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1084.html"
+    },
+    {
       "id": "787fcef26734",
       "title": "代登~~115 年 診所病人安全年度目標推廣課程（美醫視訊場）",
       "source": "台灣麻醉專科護理學會",
@@ -643,16 +653,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/793.html"
-    },
-    {
-      "id": "f84b8be07a86",
-      "title": "115年麻醉實證研究與專一逆轉劑照護工作坊-台中場",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/791.html"
     },
     {
       "id": "a28a9b19cf1b",
@@ -895,36 +895,6 @@
       "url": "https://www.tsorcc.org.tw/活動花絮/2026年活動花絮集"
     },
     {
-      "id": "081055711dbb",
-      "title": "2026母親節節慶關懷系列活動",
-      "source": "臺大兒童醫院急重症外接醫療團隊",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "b7bcbff339ec",
-      "title": "2026兒童節節慶關懷系列活動",
-      "source": "臺大兒童醫院急重症外接醫療團隊",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "9de74e1ce4a1",
-      "title": "2025兒童醫院聖誕節慶活動",
-      "source": "臺大兒童醫院急重症外接醫療團隊",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
       "id": "77517feee91a",
       "title": "【守護生命更便利！聽見AED正式上架7-ELEVEN「把愛找回來」公益平台】",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1053,56 +1023,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/tx-firefighter-saves-airline-passenger-mid-flight/"
-    },
-    {
-      "id": "cc05242f9202",
-      "title": "Event & Expedition Medic Provision",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
-    },
-    {
-      "id": "36dc95e80ac8",
-      "title": "Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
-    },
-    {
-      "id": "cdc892f17af7",
-      "title": "Expedition & Wilderness Medicine",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
-    },
-    {
-      "id": "55342de8b5f8",
-      "title": "WEMFund Prolonged Field Care Course",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
-    },
-    {
-      "id": "17f164e2e04b",
-      "title": "All Extreme Medicine Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
     },
     {
       "id": "b8d5eb07b1d3",
@@ -1972,7 +1892,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2026-338790v1?rss=1"
+      "url": "http://bjsm.bmj.com/cgi/content/short/bjsports-2025-111225v2?rss=1"
     },
     {
       "id": "8d656ad77115",
