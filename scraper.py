@@ -1175,19 +1175,6 @@ def scrape_foamfrat_news():
                       resolve(a.get("href",""), BASE), "news"))
     return out[:10]
 
-def scrape_tml_news():
-    """The Medical Lounge"""
-    out = []
-    BASE = "https://www.themedicallounge.co.uk"
-    soup = fetch(BASE + "/")
-    if not soup: return out
-    for a in soup.select("h2 a, h3 a, .entry-title a, article a"):
-        t = clean(a.get_text())
-        if len(t) < 8 or len(t) > 150: continue
-        out.append(mk(t, "The Medical Lounge", "資料庫/媒體",
-                      resolve(a.get("href",""), BASE), "news"))
-    return out[:10]
-
 def scrape_wem():
     """World Extreme Medicine"""
     out = []
