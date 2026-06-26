@@ -1,9 +1,39 @@
 {
-  "updated": "2026-06-25T22:13:51.747490+00:00",
-  "count": 196,
-  "course_count": 86,
-  "news_count": 110,
+  "updated": "2026-06-26T00:24:55.631707+00:00",
+  "count": 200,
+  "course_count": 125,
+  "news_count": 75,
   "items": [
+    {
+      "id": "26138c8efa38",
+      "title": "【重症復健聯甄課程-無需積分,免費參加!】東區「重症運動會」重症早期復健研討會-115.07.04花蓮慈濟醫院",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-04",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/acls_union_info.asp?/802.html#here"
+    },
+    {
+      "id": "f6c85576748d",
+      "title": "【重症聯甄課程】2026重症呼吸器實作課程115.07.04-台中榮總教學大樓1樓",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-04",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/acls_union_info.asp?/801.html#here"
+    },
+    {
+      "id": "6c7acf9af5b5",
+      "title": "【重症聯甄】Holistic and Patient-Centered Critical Care 115.07.18 國泰人壽大樓B1國際會議廳",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-18",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/acls_union_info.asp?/805.html#here"
+    },
     {
       "id": "452b7eab7397",
       "title": "2026.7.18 台灣復甦照護學會Holistic and Patient-Centered Critical Care研討會及工作坊開放報名",
@@ -13,6 +43,16 @@
       "date": "2026-07-18",
       "deadline": null,
       "url": "http://course.tsccm.org.tw/df_info.asp?/967.html"
+    },
+    {
+      "id": "f2d34a9b9a5d",
+      "title": "【重症聯甄】超值價!即日開放報名~急救重症傷口皮膚照護工作坊-115.07.25 秀傳紀念醫院",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/acls_union_info.asp?/804.html#here"
     },
     {
       "id": "5bd23fc6becf",
@@ -85,6 +125,16 @@
       "url": "https://jcmit2026.medinfo.org.tw/"
     },
     {
+      "id": "0020131fc592",
+      "title": "<公佈學員編號和注意事項>115年高級心臟救命術指導員訓練課程115.03.28大林慈濟醫院",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-03-28",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/acls_course_info.asp?/786.html#here"
+    },
+    {
       "id": "2847c76d4063",
       "title": "2026.4.22-23 6th World Sepsis Congress 各專題錄影, 歡迎觀看分享",
       "source": "中華民國重症醫學會",
@@ -105,6 +155,16 @@
       "url": "https://www.mgems.org/260424_t1_course/"
     },
     {
+      "id": "713ac020d3c8",
+      "title": "閱讀全文 2026年台北初級救護技術員繼續教育訓練",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-05-26",
+      "deadline": null,
+      "url": "https://www.mgems.org/260424_t1_course/"
+    },
+    {
       "id": "26eb3bb8e0c5",
       "title": "2026年玉山管理處初級救護技術員繼續教育訓練",
       "source": "中華民國大型活動緊急救護協會",
@@ -113,6 +173,76 @@
       "date": "2026-06-02",
       "deadline": null,
       "url": "https://www.mgems.org/260514_yushan_t1f/"
+    },
+    {
+      "id": "f1c78b2ccaf8",
+      "title": "閱讀全文 2026年玉山管理處初級救護技術員繼續教育訓練",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-06-02",
+      "deadline": null,
+      "url": "https://www.mgems.org/260514_yushan_t1f/"
+    },
+    {
+      "id": "15398861885b",
+      "title": "【重症聯甄】2026年血液動力學重症聯甄工作坊-115.06.06(免費參加)",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-06-06",
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/acls_union_info.asp?/794.html#here"
+    },
+    {
+      "id": "d519c337b79c",
+      "title": "115年會",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/orgNews/News115_list.asp"
+    },
+    {
+      "id": "dd8d4639b22e",
+      "title": "114年會",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/orgNews/News114_list.asp"
+    },
+    {
+      "id": "3990f44165aa",
+      "title": "113年會",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/orgNews/News113_list.asp"
+    },
+    {
+      "id": "7b1c483d747d",
+      "title": "112年會",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/orgNews/News112_list.asp"
+    },
+    {
+      "id": "d5ebbb855177",
+      "title": "111年會",
+      "source": "台灣急救加護醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.seccm.org.tw/orgNews/News111_list.asp"
     },
     {
       "id": "576b1178525a",
@@ -175,6 +305,16 @@
       "url": "https://forms.gle/wRpfnT6FwUaPYZ7j8"
     },
     {
+      "id": "e7a0def5d3c9",
+      "title": "taemsp2017@gmail.com",
+      "source": "台灣緊急救護醫療指導醫師學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "mailto:hearaed@aol.com"
+    },
+    {
       "id": "75b24c5b342a",
       "title": "理監事會及秘書處",
       "source": "台灣緊急救護醫療指導醫師學會",
@@ -193,16 +333,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.taemsp.com/notifications"
-    },
-    {
-      "id": "e7a0def5d3c9",
-      "title": "taemsp2017@gmail.com",
-      "source": "台灣緊急救護醫療指導醫師學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "mailto:taemsp2017@gmail.com"
     },
     {
       "id": "8909e27f00b3",
@@ -305,6 +435,36 @@
       "url": "https://tamis.org.tw/activity/60"
     },
     {
+      "id": "430166c11ad5",
+      "title": "繼續教育積分申請",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tebma.org.tw"
+    },
+    {
+      "id": "b4fd5dbf16ac",
+      "title": "繼續教育積分申請辦法",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/page/031696213a2365640c728061b511eac5?page_id=5"
+    },
+    {
+      "id": "be63c36735d1",
+      "title": "實證健康照護教師繼續教育積分認定辦法",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "javascript:void(0)"
+    },
+    {
       "id": "32dbb30467e3",
       "title": "★★★ 學會醫事課程開課一覽表 ★★★",
       "source": "臺灣醫事繼續教育學會",
@@ -335,6 +495,16 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
+      "id": "e5677d4220ac",
+      "title": "本會合辦「2026年亞太醫學資訊學會年會（APAMI 2026）」，歡迎報名參加！",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
       "id": "f7cb8f1a3ec8",
       "title": "【代轉】臺大醫院舉辦「臺大醫院131週年院慶-數位與智慧醫療國 際研討會」，歡迎報名參加！",
       "source": "台灣醫學資訊學會",
@@ -345,28 +515,18 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "fbce3e42c088",
-      "title": "訂購《醫療資訊雜誌》價格調漲公告！",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "e5677d4220ac",
-      "title": "本會合辦「2026年亞太醫學資訊學會年會（APAMI 2026）」，歡迎報名參加！",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
       "id": "b3f9851ab73d",
       "title": "2026下半年醫學資訊管理師/分析師證照考試簡章公告，歡迎線上報名！",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
+      "id": "fbce3e42c088",
+      "title": "訂購《醫療資訊雜誌》價格調漲公告！",
       "source": "台灣醫學資訊學會",
       "cat": "台灣學會",
       "type": "news",
@@ -445,56 +605,6 @@
       "url": "https://www.tsamairway.org.tw/副本-2022年年會活動-1"
     },
     {
-      "id": "47d8739069ad",
-      "title": "2025年年會大會會長的話",
-      "source": "台灣呼吸道處理醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tsamairway.org.tw/2025nian-hui-nian-hui"
-    },
-    {
-      "id": "734e15a1e228",
-      "title": "2025年年會議程",
-      "source": "台灣呼吸道處理醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tsamairway.org.tw/copy-2-of-2025nian-hui-nian-hui-1"
-    },
-    {
-      "id": "b5a855bed0dc",
-      "title": "2025年年會論文投稿",
-      "source": "台灣呼吸道處理醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tsamairway.org.tw/副本-2025年年會議程"
-    },
-    {
-      "id": "c7c1e1ab115c",
-      "title": "2025年年會交通/會場",
-      "source": "台灣呼吸道處理醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tsamairway.org.tw/copy-of-2025nian-hui-nian-hui-1"
-    },
-    {
-      "id": "29900ac9d455",
-      "title": "2025年年會住宿",
-      "source": "台灣呼吸道處理醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tsamairway.org.tw/副本-2025年年會交通-會場"
-    },
-    {
       "id": "bbf59a0ee0ad",
       "title": "線上影像學習課程",
       "source": "台灣麻醉專科護理學會",
@@ -555,16 +665,6 @@
       "url": "https://www.tana.org.tw/news/news_info.asp?/1080.html"
     },
     {
-      "id": "b19f5a244773",
-      "title": "115年年會報名開始~~~謝謝各位支持，已全數額滿！",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/786.html"
-    },
-    {
       "id": "5bfcff8d3c72",
       "title": "理監事名單",
       "source": "台灣運動醫學醫學會",
@@ -615,64 +715,84 @@
       "url": "https://www.tasm.org.tw/EL/seminar.asp"
     },
     {
-      "id": "c882249c61ba",
-      "title": "2025年青山宮繞境活動",
+      "id": "05449c89cbe5",
+      "title": "活動醫療站服務",
       "source": "中華民國大型活動緊急救護協會",
       "cat": "台灣協會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.mgems.org/251210_festival/"
+      "url": "https://www.mgems.org/category/ems-activity/"
     },
     {
-      "id": "140fdaafeed9",
-      "title": "2026年臺北101公益垂直馬拉松",
+      "id": "10d05d13b906",
+      "title": "緊急救護課程",
       "source": "中華民國大型活動緊急救護協會",
       "cat": "台灣協會",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.mgems.org/260509_taipei-101/"
+      "url": "https://www.mgems.org/category/ems-course/"
     },
     {
-      "id": "b68c7da13251",
-      "title": "2026年台新女生路跑",
+      "id": "a99516df576d",
+      "title": "緊急救護演練",
       "source": "中華民國大型活動緊急救護協會",
       "cat": "台灣協會",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.mgems.org/26-04-12-women-run/"
+      "url": "https://www.mgems.org/category/ems-drill/"
     },
     {
-      "id": "8d4b48f3d817",
-      "title": "2026 南山人壽臺北國道馬拉松",
+      "id": "5a9a03f56e4e",
+      "title": "中華民國大型活動緊急救護協會",
       "source": "中華民國大型活動緊急救護協會",
       "cat": "台灣協會",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.mgems.org/2026-taipei-highway-marathron/"
+      "url": "https://www.mgems.org/"
     },
     {
-      "id": "cb82e9f03a2b",
-      "title": "2026年舒跑杯路跑賽",
-      "source": "中華民國大型活動緊急救護協會",
+      "id": "ed2a5f6d63e6",
+      "title": "2024 國際救護競賽(IEMSC)專區",
+      "source": "中華緊急救護技術員協會",
       "cat": "台灣協會",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.mgems.org/260510_sports-run/"
+      "url": "https://www.emt.org.tw/temtaf"
     },
     {
-      "id": "f88b895cb5ea",
-      "title": "2026年台灣資安大會",
-      "source": "中華民國大型活動緊急救護協會",
+      "id": "7aeb46cd46ad",
+      "title": "認識課程/開課資訊",
+      "source": "中華緊急救護技術員協會",
       "cat": "台灣協會",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.mgems.org/260505-7_taiwan-cyber-security/"
+      "url": "https://www.emt.org.tw/temtaf"
+    },
+    {
+      "id": "4c0b071e56a2",
+      "title": "救護品香專欄",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.emt.org.tw/temtaf"
+    },
+    {
+      "id": "c5f58c36f1a6",
+      "title": "5119@emt.org.tw",
+      "source": "中華緊急救護技術員協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "mailto:5119@emt.org.tw"
     },
     {
       "id": "91790bdbec7d",
@@ -725,6 +845,16 @@
       "url": "https://reurl.cc/aMEgWl"
     },
     {
+      "id": "5446190a4c6b",
+      "title": "台灣復甦照護學會",
+      "source": "復甦照護小學堂",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tsorcc.org.tw/首頁"
+    },
+    {
       "id": "a8949ae88118",
       "title": "2023年活動花絮集",
       "source": "復甦照護小學堂",
@@ -765,36 +895,6 @@
       "url": "https://www.tsorcc.org.tw/活動花絮/2026年活動花絮集"
     },
     {
-      "id": "5446190a4c6b",
-      "title": "台灣復甦照護學會",
-      "source": "復甦照護小學堂",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tsorcc.org.tw/首頁"
-    },
-    {
-      "id": "c7f92f399b5e",
-      "title": "不只救命…更陪伴重生！台大首創「復甦科學中心」串連生命之鏈、打造完整救命流程",
-      "source": "復甦照護小學堂",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.google.com/url?q=https%3A%2F%2Fwww.cmmedia.com.tw%2Fhome%2Farticles%2F54096&sa=D&sntz=1&usg=AOvVaw2UWMcFMNCvNsJMK1QffFv8"
-    },
-    {
-      "id": "0c74e4a451bd",
-      "title": "40歲男跑馬拉松倒地無心跳 康復後再創完賽奇蹟 | 生活 | 中央社 CNA40歲宋先生1年多前參加台北馬拉松突然倒地，當場失去呼吸與心跳，如今卻能重返賽道，除歸功於現場搶救，還有台大醫院急救復甦環環相扣，以溫控治療緩解後遺症，助患者康復。",
-      "source": "復甦照護小學堂",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.google.com/url?q=https%3A%2F%2Fwww.cna.com.tw%2Fnews%2Fahel%2F202504280120.aspx&sa=D&sntz=1&usg=AOvVaw0jvek_Yw4OkSr8bUHclodX"
-    },
-    {
       "id": "081055711dbb",
       "title": "2026母親節節慶關懷系列活動",
       "source": "臺大兒童醫院急重症外接醫療團隊",
@@ -825,21 +925,11 @@
       "url": "https://www.ntuh.gov.tw"
     },
     {
-      "id": "4a9057508daa",
-      "title": "聽見AED 六月活動",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e5%85%ad%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
-    },
-    {
       "id": "77517feee91a",
       "title": "【守護生命更便利！聽見AED正式上架7-ELEVEN「把愛找回來」公益平台】",
       "source": "臺灣愛陌生安全推廣協會",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/%e6%9c%80%e6%96%b0%e6%b6%88%e6%81%af%e5%8f%8a%e5%85%ac%e5%91%8a/%e3%80%90%e5%ae%88%e8%ad%b7%e7%94%9f%e5%91%bd%e6%9b%b4%e4%be%bf%e5%88%a9%ef%bc%81%e8%81%bd%e8%a6%8baed%e6%ad%a3%e5%bc%8f%e4%b8%8a%e6%9e%b67-eleven%e3%80%8c%e6%8a%8a%e6%84%9b%e6%89%be%e5%9b%9e%e4%be%86/"
@@ -849,7 +939,7 @@
       "title": "【解密台北市救命網路：聽見AED攜手台大醫院，用數據實證生命韌性】",
       "source": "臺灣愛陌生安全推廣協會",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/%e6%9c%80%e6%96%b0%e6%b6%88%e6%81%af%e5%8f%8a%e5%85%ac%e5%91%8a/%e3%80%90%e8%a7%a3%e5%af%86%e5%8f%b0%e5%8c%97%e5%b8%82%e6%95%91%e5%91%bd%e7%b6%b2%e8%b7%af%ef%bc%9a%e8%81%bd%e8%a6%8baed%e6%94%9c%e6%89%8b%e5%8f%b0%e5%a4%a7%e9%86%ab%e9%99%a2%ef%bc%8c%e7%94%a8/"
@@ -859,7 +949,7 @@
       "title": "【聽見AED】LINE@救援通知系統2026年5月成果報告",
       "source": "臺灣愛陌生安全推廣協會",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/event-news/%e3%80%90%e8%81%bd%e8%a6%8baed%e3%80%91line%e6%95%91%e6%8f%b4%e9%80%9a%e7%9f%a5%e7%b3%bb%e7%b5%b12026%e5%b9%b45%e6%9c%88%e6%88%90%e6%9e%9c%e5%a0%b1%e5%91%8a/"
@@ -1035,31 +1125,11 @@
       "url": "https://www.erc.edu/education/for-professionals/course-rules/"
     },
     {
-      "id": "4a3309b6687c",
-      "title": "Basic Instructor Course",
-      "source": "ERC",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.erc.edu/education/for-professionals/course-types/bic/"
-    },
-    {
-      "id": "50371403d8de",
-      "title": "Generic Instructor Course",
-      "source": "ERC",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.erc.edu/education/for-professionals/course-types/gic/"
-    },
-    {
       "id": "ec7f7d3342ba",
       "title": "Basic Life Support",
       "source": "ERC",
       "cat": "國際期刊/組織",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.erc.edu/education/for-professionals/course-types/bls/"
@@ -1069,7 +1139,7 @@
       "title": "Advanced Life Support",
       "source": "ERC",
       "cat": "國際期刊/組織",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.erc.edu/education/for-professionals/course-types/als/"
@@ -1079,30 +1149,10 @@
       "title": "Immediate Life Support",
       "source": "ERC",
       "cat": "國際期刊/組織",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.erc.edu/education/for-professionals/course-types/ils/"
-    },
-    {
-      "id": "609b52e8e31f",
-      "title": "Paediatric Basic Life Support",
-      "source": "ERC",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.erc.edu/education/for-professionals/course-types/pbls/"
-    },
-    {
-      "id": "c933efd00410",
-      "title": "European Paediatric Advanced Life Support",
-      "source": "ERC",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.erc.edu/education/for-professionals/course-types/epals/"
     },
     {
       "id": "f54a091f6a36",
@@ -1279,7 +1329,7 @@
       "title": "Committee for TacticalEmergency Casualty Care C-TECC",
       "source": "C-TECC",
       "cat": "戰術救護",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.c-tecc.org/"
@@ -1289,7 +1339,7 @@
       "title": "What is C-TECC?",
       "source": "C-TECC",
       "cat": "戰術救護",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.c-tecc.org/about-us/what-is-ctecc"
@@ -1299,7 +1349,7 @@
       "title": "Newsletters",
       "source": "C-TECC",
       "cat": "戰術救護",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.c-tecc.org/our-work/newsletters"
@@ -1309,7 +1359,7 @@
       "title": "Membership Updates",
       "source": "C-TECC",
       "cat": "戰術救護",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.c-tecc.org/news/membership-updates-2026"
@@ -1319,7 +1369,7 @@
       "title": "Save-the-Date: April 2026 C-TECC Meeting",
       "source": "C-TECC",
       "cat": "戰術救護",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.c-tecc.org/news/save-the-date-apr-2026-mtg"
@@ -1429,7 +1479,7 @@
       "title": "Tactical Casualty Care – ONLINE",
       "source": "Crisis Medicine",
       "cat": "戰術救護",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.crisis-medicine.com/course/tactical-casualty-care/"
@@ -1439,7 +1489,7 @@
       "title": "Advanced TC2 – ONLINE",
       "source": "Crisis Medicine",
       "cat": "戰術救護",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.crisis-medicine.com/course/advanced-tactical-casualty-care/"
@@ -1449,30 +1499,10 @@
       "title": "Complete TC2 -ONLINE",
       "source": "Crisis Medicine",
       "cat": "戰術救護",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.crisis-medicine.com/course/complete-tactical-casualty-care/"
-    },
-    {
-      "id": "134e8c2deb73",
-      "title": "Improvised TECC/TCCC",
-      "source": "Crisis Medicine",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.crisis-medicine.com/course/improvised-tecc-tccc/"
-    },
-    {
-      "id": "17bebb77dab9",
-      "title": "K9 Tactical Casualty Care for Humans – ONLINE",
-      "source": "Crisis Medicine",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.crisis-medicine.com/course/k9-tactical-casualty-care-for-human-providers/"
     },
     {
       "id": "48c630a34218",
@@ -1733,6 +1763,16 @@
       "date": null,
       "deadline": null,
       "url": "https://safeguardmedical.com/blogs/news/the-evolution-of-combat-medicine"
+    },
+    {
+      "id": "98d7559e16ed",
+      "title": "LIFE® SoftPac™ AED Companion Oxygen Unit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/life-softpac-aed-companion-oxygen-unit-1"
     },
     {
       "id": "4110ccb750ce",
