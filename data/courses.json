@@ -1,19 +1,9 @@
 {
-  "updated": "2026-06-26T21:04:20.322358+00:00",
-  "count": 230,
-  "course_count": 102,
-  "news_count": 128,
+  "updated": "2026-06-27T09:24:10.550623+00:00",
+  "count": 213,
+  "course_count": 92,
+  "news_count": 121,
   "items": [
-    {
-      "id": "271c7e786ba4",
-      "title": "2026第十七屆第一次會員大會暨學術研討會 社團法人台灣急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-26",
-      "deadline": "2026-05-01",
-      "url": "https://www.sem.org.tw/Activity/A/Details/32620"
-    },
     {
       "id": "c8f312b5112b",
       "title": "戰傷與外傷處置的整合視角：輸血、腦傷與化學武器威脅 臺北榮總急診醫學部",
@@ -393,6 +383,16 @@
       "date": "2026-06-24",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1611"
+    },
+    {
+      "id": "271c7e786ba4",
+      "title": "2026第十七屆第一次會員大會暨學術研討會 社團法人台灣急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-06-26",
+      "deadline": "2026-05-01",
+      "url": "https://www.sem.org.tw/Activity/A/Details/32620"
     },
     {
       "id": "f33886bda428",
@@ -915,56 +915,6 @@
       "url": "https://www.tana.org.tw/news/learn_info.asp?/786.html"
     },
     {
-      "id": "5bfcff8d3c72",
-      "title": "理監事名單",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/about/index_03_a.asp"
-    },
-    {
-      "id": "52aeba42ceae",
-      "title": "委員會名單",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/about/index_03_b.asp"
-    },
-    {
-      "id": "7c813915b5bc",
-      "title": "理事長的話",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/about/index_04.asp"
-    },
-    {
-      "id": "97e6c65f194c",
-      "title": "訓練課程專區",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/EL/train_list.asp"
-    },
-    {
-      "id": "31969e1f295e",
-      "title": "研討會專區",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/EL/seminar.asp"
-    },
-    {
       "id": "c882249c61ba",
       "title": "2025年青山宮繞境活動",
       "source": "中華民國大型活動緊急救護協會",
@@ -1215,76 +1165,6 @@
       "url": "https://www.anne.education/flippedcpr.html"
     },
     {
-      "id": "1a7323e30be9",
-      "title": "2026母親節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "9fdb080fb678",
-      "title": "2026兒童節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "79f4d8162d0b",
-      "title": "2025兒童醫院聖誕節慶活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "ed2ee3e5b76a",
-      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
-    },
-    {
-      "id": "5bb633d2fb9b",
-      "title": "臺大醫院115年度母親節節慶關懷活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
-    },
-    {
-      "id": "9b54876f3cd3",
-      "title": "115年農曆春節本院服務公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
-    },
-    {
-      "id": "c32df82d097f",
-      "title": "115年農曆春節假期特設「傳染病特別診」公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
-    },
-    {
       "id": "4a9057508daa",
       "title": "聽見AED 六月活動",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1413,56 +1293,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "cc05242f9202",
-      "title": "Event & Expedition Medic Provision",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
-    },
-    {
-      "id": "36dc95e80ac8",
-      "title": "Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
-    },
-    {
-      "id": "cdc892f17af7",
-      "title": "Expedition & Wilderness Medicine",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
-    },
-    {
-      "id": "55342de8b5f8",
-      "title": "WEMFund Prolonged Field Care Course",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
-    },
-    {
-      "id": "17f164e2e04b",
-      "title": "All Extreme Medicine Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
     },
     {
       "id": "b8d5eb07b1d3",
