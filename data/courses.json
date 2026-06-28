@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-27T21:47:40.358854+00:00",
-  "count": 230,
-  "course_count": 102,
+  "updated": "2026-06-28T10:17:32.197465+00:00",
+  "count": 229,
+  "course_count": 101,
   "news_count": 128,
   "items": [
     {
@@ -383,16 +383,6 @@
       "date": "2026-06-24",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1611"
-    },
-    {
-      "id": "271c7e786ba4",
-      "title": "2026第十七屆第一次會員大會暨學術研討會 社團法人台灣急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-26",
-      "deadline": "2026-05-01",
-      "url": "https://www.sem.org.tw/Activity/A/Details/32620"
     },
     {
       "id": "f33886bda428",
@@ -2075,54 +2065,54 @@
       "url": "https://safeguardmedical.com/blogs/news/the-evolution-of-combat-medicine"
     },
     {
-      "id": "4110ccb750ce",
-      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
+      "id": "73b3c87b595d",
+      "title": "Venezuela Earthquake Relief - $25 Donation",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard"
+      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-25?_pos=1&_sid=d83111e11&_ss=r"
     },
     {
-      "id": "c7e010eeb627",
-      "title": "The HEMGUARD® Targeted Pressure Bandage",
+      "id": "06d62997c07e",
+      "title": "Venezuela Earthquake Relief - $100 Donation",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/thehemguard-r-targeted-pressure-bandage"
+      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-100?_pos=2&_sid=d83111e11&_ss=r"
     },
     {
-      "id": "59b9bcaf3a5b",
-      "title": "Elite Bags PARAMED Backpack",
+      "id": "bb4260c858ac",
+      "title": "Venezuela Earthquake Relief - $50 Donation",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/elite-bags-paramed-backpack"
+      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-50?_pos=3&_sid=d83111e11&_ss=r"
     },
     {
-      "id": "0694954ed379",
-      "title": "MED-TAC ALS Oxygen Trauma Backpack w/Modular Pouch System",
+      "id": "02ed41e80745",
+      "title": "Venezuela Earthquake Relief - $250 Donation",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/med-tac-als-oxygen-trauma-backpack-w-modular-pouch-system"
+      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-250?_pos=4&_sid=d83111e11&_ss=r"
     },
     {
-      "id": "7f27b5999ba6",
-      "title": "Tasmanian Tiger Modular Medic Combat Pack 18",
+      "id": "681fa7fe6bdf",
+      "title": "Venezuela Earthquake Relief - $500 Donation",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-modular-medic-combat-pack-18"
+      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-500?_pos=5&_sid=d83111e11&_ss=r"
     },
     {
       "id": "715383a36e2a",
