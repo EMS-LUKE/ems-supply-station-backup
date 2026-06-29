@@ -1,28 +1,28 @@
 {
-  "updated": "2026-06-28T21:49:42.461495+00:00",
-  "count": 230,
+  "updated": "2026-06-29T14:44:08.708040+00:00",
+  "count": 229,
   "course_count": 101,
-  "news_count": 129,
+  "news_count": 128,
   "items": [
     {
-      "id": "c8f312b5112b",
-      "title": "戰傷與外傷處置的整合視角：輸血、腦傷與化學武器威脅 臺北榮總急診醫學部",
+      "id": "79731aad3bdd",
+      "title": "第十七屆理、監事當選名單",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-28",
-      "deadline": "2026-06-28",
-      "url": "https://www.sem.org.tw/Activity/B/Details/32901"
+      "type": "news",
+      "date": "2026-06-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1612"
     },
     {
-      "id": "fe7ab61246e6",
-      "title": "健康台灣深耕計畫 : 守護兒童、拒絕傷害 臺灣兒童死因探討與青少年自殺的辨識與防治 臺北榮總兒童醫學部",
+      "id": "7619e60cf6d3",
+      "title": "公告AILS Training Course通過名單 (115.06.23~115.06.24)",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-28",
-      "deadline": "2026-06-28",
-      "url": "https://www.sem.org.tw/Activity/B/Details/32900"
+      "type": "news",
+      "date": "2026-06-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1613"
     },
     {
       "id": "6cdbc2d92f99",
@@ -235,16 +235,6 @@
       "url": "https://jcmit2026.medinfo.org.tw/"
     },
     {
-      "id": "0ac54b6fc1ed",
-      "title": "2026醫療無人機友誼賽",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-03-30",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1557"
-    },
-    {
       "id": "d480ed6083eb",
       "title": "轉知衛生福利部疾病管制署來函-有關「抗生素管理手冊」及「侵入性醫療處置組合式照護工作手冊」",
       "source": "台灣急診醫學會",
@@ -345,26 +335,6 @@
       "url": "https://www.sem.org.tw/Activity/B/Details/32940"
     },
     {
-      "id": "6639ba3141e8",
-      "title": "2026超音波競賽錄取隊伍公告",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-03",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1599"
-    },
-    {
-      "id": "1484c306a4b9",
-      "title": "公告第十七屆理、監事候選人名單及政見",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-04",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1600"
-    },
-    {
       "id": "03a609b501ef",
       "title": "公告115年度急診醫學科專科醫師甄審初審合格名單",
       "source": "台灣急診醫學會",
@@ -383,6 +353,26 @@
       "date": "2026-06-24",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1611"
+    },
+    {
+      "id": "c8f312b5112b",
+      "title": "戰傷與外傷處置的整合視角：輸血、腦傷與化學武器威脅 臺北榮總急診醫學部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-06-28",
+      "deadline": "2026-06-28",
+      "url": "https://www.sem.org.tw/Activity/B/Details/32901"
+    },
+    {
+      "id": "fe7ab61246e6",
+      "title": "健康台灣深耕計畫 : 守護兒童、拒絕傷害 臺灣兒童死因探討與青少年自殺的辨識與防治 臺北榮總兒童醫學部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-06-28",
+      "deadline": "2026-06-28",
+      "url": "https://www.sem.org.tw/Activity/B/Details/32900"
     },
     {
       "id": "f33886bda428",
@@ -1385,16 +1375,6 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
-      "id": "e25b3fc55cf6",
-      "title": "MA Duck Boat Tips Over on Ramp with 31 People Onboard, Sending 11 to the Hospital",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/ma-duck-boat-tips-over-on-ramp-with-31-people-onboard-sending-11-to-the-hospital/"
-    },
-    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -1413,6 +1393,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "e25b3fc55cf6",
+      "title": "MA Duck Boat Tips Over on Ramp with 31 People Onboard, Sending 11 to the Hospital",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/ma-duck-boat-tips-over-on-ramp-with-31-people-onboard-sending-11-to-the-hospital/"
     },
     {
       "id": "cc05242f9202",
@@ -2082,7 +2072,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-25?_pos=1&_sid=87f3ad23f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-25?_pos=1&_sid=261427245&_ss=r"
     },
     {
       "id": "06d62997c07e",
@@ -2092,7 +2082,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-100?_pos=2&_sid=87f3ad23f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-100?_pos=2&_sid=261427245&_ss=r"
     },
     {
       "id": "bb4260c858ac",
@@ -2102,7 +2092,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-50?_pos=3&_sid=87f3ad23f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-50?_pos=3&_sid=261427245&_ss=r"
     },
     {
       "id": "02ed41e80745",
@@ -2112,7 +2102,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-250?_pos=4&_sid=87f3ad23f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-250?_pos=4&_sid=261427245&_ss=r"
     },
     {
       "id": "681fa7fe6bdf",
@@ -2122,7 +2112,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-500?_pos=5&_sid=87f3ad23f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-500?_pos=5&_sid=261427245&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2272,7 +2262,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-338449v1?rss=1"
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e105740?rss=1"
     },
     {
       "id": "8d656ad77115",
@@ -2302,7 +2292,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/5"
+      "url": "https://emj.bmj.com/content/43/Suppl_2"
     }
   ]
 }
