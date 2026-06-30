@@ -1,29 +1,9 @@
 {
-  "updated": "2026-06-29T21:12:54.689420+00:00",
-  "count": 229,
-  "course_count": 101,
-  "news_count": 128,
+  "updated": "2026-06-30T11:31:56.187185+00:00",
+  "count": 199,
+  "course_count": 83,
+  "news_count": 116,
   "items": [
-    {
-      "id": "79731aad3bdd",
-      "title": "第十七屆理、監事當選名單",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1612"
-    },
-    {
-      "id": "7619e60cf6d3",
-      "title": "公告AILS Training Course通過名單 (115.06.23~115.06.24)",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1613"
-    },
     {
       "id": "6cdbc2d92f99",
       "title": "115年住院醫師初階災難訓練課程(南區)【線上+實體】 社團法人台灣急診醫學會",
@@ -355,24 +335,24 @@
       "url": "https://www.sem.org.tw/News/11/Details/1611"
     },
     {
-      "id": "c8f312b5112b",
-      "title": "戰傷與外傷處置的整合視角：輸血、腦傷與化學武器威脅 臺北榮總急診醫學部",
+      "id": "79731aad3bdd",
+      "title": "第十七屆理、監事當選名單",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-28",
-      "deadline": "2026-06-28",
-      "url": "https://www.sem.org.tw/Activity/B/Details/32901"
+      "type": "news",
+      "date": "2026-06-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1612"
     },
     {
-      "id": "fe7ab61246e6",
-      "title": "健康台灣深耕計畫 : 守護兒童、拒絕傷害 臺灣兒童死因探討與青少年自殺的辨識與防治 臺北榮總兒童醫學部",
+      "id": "7619e60cf6d3",
+      "title": "公告AILS Training Course通過名單 (115.06.23~115.06.24)",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-28",
-      "deadline": "2026-06-28",
-      "url": "https://www.sem.org.tw/Activity/B/Details/32900"
+      "type": "news",
+      "date": "2026-06-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1613"
     },
     {
       "id": "f33886bda428",
@@ -685,16 +665,6 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "9cf11eaf5a41",
-      "title": "學術與臨床並行｜【課程招生】第十三屆高級燒傷急救照護術（AEBC）暨第八屆換證課程",
-      "source": "臺灣燒傷暨傷口照護學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.burn.org.tw/index.php/news/25-the-project/298-aebc"
-    },
-    {
       "id": "2074c2677272",
       "title": "本會學術活動 2026",
       "source": "台灣呼吸道處理醫學會",
@@ -793,106 +763,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tsamairway.org.tw/副本-2025年年會議程"
-    },
-    {
-      "id": "c471c32f474a",
-      "title": "雜誌通訊課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/ecu/ecu_ccH.asp"
-    },
-    {
-      "id": "bbf59a0ee0ad",
-      "title": "線上影像學習課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
-    },
-    {
-      "id": "90c9bbf3fb6d",
-      "title": "溫馨小提醒：有關115年麻醉實證研究與專一逆轉劑照護工作坊-嘉義場舉行與否",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1084.html"
-    },
-    {
-      "id": "787fcef26734",
-      "title": "代登~~115 年 診所病人安全年度目標推廣課程（美醫視訊場）",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/795.html"
-    },
-    {
-      "id": "c6c9241645a1",
-      "title": "115年麻醉實證研究與專一逆轉劑照護工作坊-嘉義場",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/794.html"
-    },
-    {
-      "id": "7f4077aab8c4",
-      "title": "國際麻醉護士協會IFNA標準規範",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
-    },
-    {
-      "id": "edc0d9a86ef8",
-      "title": "恭賀~~~~本會第11屆行政委員會委員、衛生福利部臺中醫院開刀房副護理長暨麻醉專科護理師許芷寧委員，榮獲今年「臨床護理價值典範100」殊榮",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1083.html"
-    },
-    {
-      "id": "a28a9b19cf1b",
-      "title": "第十二屆監事(含候補監事)補選公告~~~更新通知",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1080.html"
-    },
-    {
-      "id": "7932017bfcfc",
-      "title": "實證轉譯與病人安全於麻醉護理之應用：CRNA/DNP教育論壇~~全英文授課",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/792.html"
-    },
-    {
-      "id": "b19f5a244773",
-      "title": "115年年會報名開始~~~謝謝各位支持，已全數額滿！",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/786.html"
     },
     {
       "id": "5bfcff8d3c72",
@@ -1035,56 +905,6 @@
       "url": "https://taiwanwma.org/activities?activity=3"
     },
     {
-      "id": "91790bdbec7d",
-      "title": "CPR+AED完整版3小時課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://sfast.innosoft.com.tw/iplm/pages/b.aspx?page=in_Meeting_list_A.html&method=In_MeetingUserResponse&in_meetingid=297C8E0AF68B4B609134923DF1F22659"
-    },
-    {
-      "id": "bf3f0e1ba292",
-      "title": "AED管理員4小時教育訓練",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/qKa2WE"
-    },
-    {
-      "id": "e0f77ddf7472",
-      "title": "基本救命術指導員BLS-I課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/eVQggR"
-    },
-    {
-      "id": "5bc9921519e2",
-      "title": "基本救命術BLS4小時課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/4bYO9v"
-    },
-    {
-      "id": "a2470c9c35e4",
-      "title": "基本救命術BLS8小時課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/aMEgWl"
-    },
-    {
       "id": "a8949ae88118",
       "title": "2023年活動花絮集",
       "source": "復甦照護小學堂",
@@ -1193,76 +1013,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/flippedcpr.html"
-    },
-    {
-      "id": "1a7323e30be9",
-      "title": "2026母親節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "9fdb080fb678",
-      "title": "2026兒童節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "79f4d8162d0b",
-      "title": "2025兒童醫院聖誕節慶活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "ed2ee3e5b76a",
-      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
-    },
-    {
-      "id": "5bb633d2fb9b",
-      "title": "臺大醫院115年度母親節節慶關懷活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
-    },
-    {
-      "id": "9b54876f3cd3",
-      "title": "115年農曆春節本院服務公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
-    },
-    {
-      "id": "c32df82d097f",
-      "title": "115年農曆春節假期特設「傳染病特別診」公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
       "id": "4a9057508daa",
@@ -1885,56 +1635,6 @@
       "url": "https://ctoms.ca/collections/tactical-clothing"
     },
     {
-      "id": "3f6989d40c6b",
-      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/"
-    },
-    {
-      "id": "df37b5e4d0b7",
-      "title": "Defense Committees on Trauma",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/committees/dcot"
-    },
-    {
-      "id": "2456a0f7da29",
-      "title": "Joint Trauma Education and Training (JTET) Branch",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/education/jtet_branch"
-    },
-    {
-      "id": "a461b6dfd9fe",
-      "title": "Trauma Care Resources",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/education/resources"
-    },
-    {
-      "id": "c60c443544a6",
-      "title": "Clinical Practice Guidelines (CPGs)",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
-    },
-    {
       "id": "1d5a35aee639",
       "title": "Future Training and Education Events",
       "source": "SOMA",
@@ -2065,54 +1765,54 @@
       "url": "https://safeguardmedical.com/blogs/news/the-evolution-of-combat-medicine"
     },
     {
-      "id": "73b3c87b595d",
-      "title": "Venezuela Earthquake Relief - $25 Donation",
+      "id": "4110ccb750ce",
+      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-25?_pos=1&_sid=a650863bf&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard"
     },
     {
-      "id": "bb4260c858ac",
-      "title": "Venezuela Earthquake Relief - $50 Donation",
+      "id": "c7e010eeb627",
+      "title": "The HEMGUARD® Targeted Pressure Bandage",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-50?_pos=2&_sid=a650863bf&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/thehemguard-r-targeted-pressure-bandage"
     },
     {
-      "id": "02ed41e80745",
-      "title": "Venezuela Earthquake Relief - $250 Donation",
+      "id": "59b9bcaf3a5b",
+      "title": "Elite Bags PARAMED Backpack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-250?_pos=3&_sid=a650863bf&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/elite-bags-paramed-backpack"
     },
     {
-      "id": "681fa7fe6bdf",
-      "title": "Venezuela Earthquake Relief - $500 Donation",
+      "id": "0694954ed379",
+      "title": "MED-TAC ALS Oxygen Trauma Backpack w/Modular Pouch System",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-relief-500?_pos=4&_sid=a650863bf&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/med-tac-als-oxygen-trauma-backpack-w-modular-pouch-system"
     },
     {
-      "id": "435122e501b7",
-      "title": "Venezuela Earthquake Medical Relief Gift Card",
+      "id": "7f27b5999ba6",
+      "title": "Tasmanian Tiger Modular Medic Combat Pack 18",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/venezuela-earthquake-medical-relief-gift-card?_pos=5&_sid=a650863bf&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-modular-medic-combat-pack-18"
     },
     {
       "id": "715383a36e2a",
@@ -2262,7 +1962,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/6/e105740?rss=1"
+      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-225169v1?rss=1"
     },
     {
       "id": "8d656ad77115",
