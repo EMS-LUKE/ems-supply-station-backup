@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-02T08:33:59.149661+00:00",
-  "count": 221,
+  "updated": "2026-07-02T16:23:18.018922+00:00",
+  "count": 225,
   "course_count": 100,
-  "news_count": 121,
+  "news_count": 125,
   "items": [
     {
       "id": "6cdbc2d92f99",
@@ -1365,16 +1365,6 @@
       "url": "https://www.jems.com/news/"
     },
     {
-      "id": "e25b3fc55cf6",
-      "title": "MA Duck Boat Tips Over on Ramp with 31 People Onboard, Sending 11 to the Hospital",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/ma-duck-boat-tips-over-on-ramp-with-31-people-onboard-sending-11-to-the-hospital/"
-    },
-    {
       "id": "cc05242f9202",
       "title": "Event & Expedition Medic Provision",
       "source": "World Extreme Medicine",
@@ -1853,6 +1843,56 @@
       "date": null,
       "deadline": null,
       "url": "https://ctoms.ca/collections/tactical-clothing"
+    },
+    {
+      "id": "3f6989d40c6b",
+      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/"
+    },
+    {
+      "id": "df37b5e4d0b7",
+      "title": "Defense Committees on Trauma",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/committees/dcot"
+    },
+    {
+      "id": "2456a0f7da29",
+      "title": "Joint Trauma Education and Training (JTET) Branch",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/education/jtet_branch"
+    },
+    {
+      "id": "a461b6dfd9fe",
+      "title": "Trauma Care Resources",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/education/resources"
+    },
+    {
+      "id": "c60c443544a6",
+      "title": "Clinical Practice Guidelines (CPGs)",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
     },
     {
       "id": "1d5a35aee639",
