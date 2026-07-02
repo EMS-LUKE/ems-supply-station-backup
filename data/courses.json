@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-02T16:23:18.018922+00:00",
-  "count": 225,
-  "course_count": 100,
-  "news_count": 125,
+  "updated": "2026-07-02T21:56:32.940991+00:00",
+  "count": 217,
+  "course_count": 95,
+  "news_count": 122,
   "items": [
     {
       "id": "6cdbc2d92f99",
@@ -1763,86 +1763,6 @@
       "date": null,
       "deadline": null,
       "url": "https://cbrnprofessionals.com/cbrn-resource-links/"
-    },
-    {
-      "id": "48c630a34218",
-      "title": "CTOMS Academy Online Training Online Training",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctomsacademy.skillbuilder.co/"
-    },
-    {
-      "id": "087eb9f506ed",
-      "title": "Available Online Courses",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctoms.ca/collections/lms-products"
-    },
-    {
-      "id": "a040994638c9",
-      "title": "Shop Training Products",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctoms.ca/collections/training-products"
-    },
-    {
-      "id": "55977415f8ec",
-      "title": "Training",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctoms.ca/pages/training"
-    },
-    {
-      "id": "08b05e7d9778",
-      "title": "CTOMS Academy™ - Online Training",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctoms.ca/pages/ctoms-academy"
-    },
-    {
-      "id": "ab859c7d3df3",
-      "title": "Tactical Medicine",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctoms.ca/pages/tactical-medicine"
-    },
-    {
-      "id": "ba4820a5a7f9",
-      "title": "Tactical Equipment",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctoms.ca/collections/tactical-equipment"
-    },
-    {
-      "id": "45ab60bb7fac",
-      "title": "Tactical Clothing",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctoms.ca/collections/tactical-clothing"
     },
     {
       "id": "3f6989d40c6b",
