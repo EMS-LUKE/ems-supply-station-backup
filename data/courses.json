@@ -1,29 +1,9 @@
 {
-  "updated": "2026-07-02T21:56:32.940991+00:00",
-  "count": 217,
-  "course_count": 95,
-  "news_count": 122,
+  "updated": "2026-07-03T10:20:00.133277+00:00",
+  "count": 227,
+  "course_count": 102,
+  "news_count": 125,
   "items": [
-    {
-      "id": "6cdbc2d92f99",
-      "title": "115年住院醫師初階災難訓練課程(南區)【線上+實體】 社團法人台灣急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-02",
-      "deadline": "2026-06-21",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33032"
-    },
-    {
-      "id": "de9ff590421c",
-      "title": "兒童急重症醫療照顧品質提升研討會 臺中榮民總醫院、台灣兒童急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-04",
-      "deadline": "2026-07-04",
-      "url": "https://www.sem.org.tw/Activity/B/Details/32990"
-    },
     {
       "id": "6e89d2b0fe74",
       "title": "夏季山域溪谷自救搜救知能安全講習 社團法人台灣急診醫學會、馬偕紀念醫院急診醫學部野外醫學中心",
@@ -33,6 +13,16 @@
       "date": "2026-07-08",
       "deadline": "2026-06-30",
       "url": "https://www.sem.org.tw/Activity/A/Details/33048"
+    },
+    {
+      "id": "a5bf2105d804",
+      "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【南區】 急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-14",
+      "deadline": "2026-07-14",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33133"
     },
     {
       "id": "452b7eab7397",
@@ -45,6 +35,16 @@
       "url": "http://course.tsccm.org.tw/df_info.asp?/967.html"
     },
     {
+      "id": "fa41141f901d",
+      "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【北區】 衛生福利部、急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-19",
+      "deadline": "2026-07-19",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33135"
+    },
+    {
       "id": "6581b870efd0",
       "title": "115年度中毒個案討論會–中區 社團法人台灣急診醫學會、秀傳紀念醫院",
       "source": "台灣急診醫學會",
@@ -53,6 +53,16 @@
       "date": "2026-07-20",
       "deadline": "2026-07-20",
       "url": "https://www.sem.org.tw/Activity/A/Details/32964"
+    },
+    {
+      "id": "8aa4ac76bb62",
+      "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【高屏區】 衛生福利部、急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-22",
+      "deadline": "2026-07-22",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33136"
     },
     {
       "id": "5bd23fc6becf",
@@ -85,14 +95,14 @@
       "url": "https://www.tebma.org.tw/event/list"
     },
     {
-      "id": "44140ae5ad0b",
-      "title": "115年師資培育工作坊 (中區) 社團法人台灣急診醫學會、中山醫學大學附設醫院",
+      "id": "fa10de726c18",
+      "title": "急性中毒救命課程（AILS Training Course）-115年第3場 社團法人台灣急診醫學會、中國醫藥大學附設醫院",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-07-28",
-      "deadline": "2026-07-13",
-      "url": "https://www.sem.org.tw/Activity/A/Details/32647"
+      "date": "2026-08-23",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/A/Details/33112"
     },
     {
       "id": "289ecb43dfc6",
@@ -355,6 +365,36 @@
       "url": "https://www.sem.org.tw/News/11/Details/1613"
     },
     {
+      "id": "68522910f9e2",
+      "title": "【ATLS課表公告】115年度第9+10梯次ATLS再認證課程（三軍總醫院）...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/69.html"
+    },
+    {
+      "id": "e03d91dc067f",
+      "title": "【ATLS報名】115年度「一般」課程報名資訊（含報名表）115.07.02更新...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/68.html"
+    },
+    {
+      "id": "621cebfd61cb",
+      "title": "公告2026年『ATLS課程』活動計劃表【含一般課程及再認證課程】_115.07.02更新...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/37.html"
+    },
+    {
       "id": "f33886bda428",
       "title": "【公告】學會進行辦公室搬遷作業...",
       "source": "台灣外傷醫學會",
@@ -365,44 +405,14 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/66.html"
     },
     {
-      "id": "a8f420c627f1",
-      "title": "【ATLS課表公告】115年度第8梯次ATLS再認證課程（1150627高雄榮民總醫院）...",
+      "id": "a1c141e1a0aa",
+      "title": "６月份ASSET課前通知信已寄...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/65.html"
-    },
-    {
-      "id": "bfe37b4a040f",
-      "title": "公告2026年『ATLS課程』活動計劃表【含一般課程及再認證課程】_115.06.04更新...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/37.html"
-    },
-    {
-      "id": "6fd1512b7cef",
-      "title": "【ATLS報名】115年度「一般」課程報名資訊（含報名表）115.06.04更新...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/36.html"
-    },
-    {
-      "id": "5f58c84b68b2",
-      "title": "【ATLS報名】115年度「再認證」課程報名資訊（含報名表）115.06.04更新...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/35.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/64.html"
     },
     {
       "id": "86005a8326cc",
@@ -645,8 +655,8 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "e5677d4220ac",
-      "title": "本會合辦「2026年亞太醫學資訊學會年會（APAMI 2026）」，歡迎報名參加！",
+      "id": "6455c13c8abc",
+      "title": "【代轉】11月20日至22日舉辦「2026 第七屆全球生物醫學工程年會（GCBME 2026）」，歡迎參與及踴躍投稿！",
       "source": "台灣醫學資訊學會",
       "cat": "台灣學會",
       "type": "news",
@@ -655,8 +665,8 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "b3f9851ab73d",
-      "title": "2026下半年醫學資訊管理師/分析師證照考試簡章公告，歡迎線上報名！",
+      "id": "e5677d4220ac",
+      "title": "本會合辦「2026年亞太醫學資訊學會年會（APAMI 2026）」，歡迎報名參加！",
       "source": "台灣醫學資訊學會",
       "cat": "台灣學會",
       "type": "news",
@@ -1235,6 +1245,16 @@
       "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
+      "id": "c23985b6b272",
+      "title": "聽見AED 七月活動",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e4%b8%83%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
+    },
+    {
       "id": "4a9057508daa",
       "title": "聽見AED 六月活動",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1765,6 +1785,86 @@
       "url": "https://cbrnprofessionals.com/cbrn-resource-links/"
     },
     {
+      "id": "48c630a34218",
+      "title": "CTOMS Academy Online Training Online Training",
+      "source": "CTOMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://ctomsacademy.skillbuilder.co/"
+    },
+    {
+      "id": "087eb9f506ed",
+      "title": "Available Online Courses",
+      "source": "CTOMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://ctoms.ca/collections/lms-products"
+    },
+    {
+      "id": "a040994638c9",
+      "title": "Shop Training Products",
+      "source": "CTOMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://ctoms.ca/collections/training-products"
+    },
+    {
+      "id": "55977415f8ec",
+      "title": "Training",
+      "source": "CTOMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://ctoms.ca/pages/training"
+    },
+    {
+      "id": "08b05e7d9778",
+      "title": "CTOMS Academy™ - Online Training",
+      "source": "CTOMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://ctoms.ca/pages/ctoms-academy"
+    },
+    {
+      "id": "ab859c7d3df3",
+      "title": "Tactical Medicine",
+      "source": "CTOMS",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://ctoms.ca/pages/tactical-medicine"
+    },
+    {
+      "id": "ba4820a5a7f9",
+      "title": "Tactical Equipment",
+      "source": "CTOMS",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://ctoms.ca/collections/tactical-equipment"
+    },
+    {
+      "id": "45ab60bb7fac",
+      "title": "Tactical Clothing",
+      "source": "CTOMS",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://ctoms.ca/collections/tactical-clothing"
+    },
+    {
       "id": "3f6989d40c6b",
       "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
       "source": "JTS — Joint Trauma System",
@@ -2142,7 +2242,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2026-338547v1?rss=1"
+      "url": "http://bjsm.bmj.com/cgi/content/short/bjsports-2026-111995v1?rss=1"
     },
     {
       "id": "8d656ad77115",
