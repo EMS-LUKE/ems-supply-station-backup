@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-06T12:26:26.159070+00:00",
-  "count": 178,
-  "course_count": 80,
-  "news_count": 98,
+  "updated": "2026-07-06T21:17:53.701715+00:00",
+  "count": 222,
+  "course_count": 100,
+  "news_count": 122,
   "items": [
     {
       "id": "ecf66c0125b7",
@@ -33,6 +33,16 @@
       "date": "2026-07-14",
       "deadline": "2026-07-14",
       "url": "https://www.sem.org.tw/Activity/A/Details/33133"
+    },
+    {
+      "id": "452b7eab7397",
+      "title": "2026.7.18 台灣復甦照護學會Holistic and Patient-Centered Critical Care研討會及工作坊開放報名",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-18",
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/df_info.asp?/967.html"
     },
     {
       "id": "fa41141f901d",
@@ -103,6 +113,26 @@
       "date": "2026-08-23",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/A/Details/33112"
+    },
+    {
+      "id": "289ecb43dfc6",
+      "title": "重症會員早鳥報名優惠-2026.9.18~20 【第七屆亞太急性腎損傷與連續性腎替代療法大會】",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-18",
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/df_info.asp?/968.html"
+    },
+    {
+      "id": "83ad24e5b303",
+      "title": "徵稿中~~2026.9.18-20 International Conference on Digital Health and Medical Analytics（DHA 2026）",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-18",
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/df_info.asp?/906.html"
     },
     {
       "id": "ce4831580b27",
@@ -225,6 +255,16 @@
       "url": "https://jcmit2026.medinfo.org.tw/"
     },
     {
+      "id": "2847c76d4063",
+      "title": "2026.4.22-23 6th World Sepsis Congress 各專題錄影, 歡迎觀看分享",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-04-22",
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/df_info.asp?/931.html"
+    },
+    {
       "id": "2ac09c278563",
       "title": "公告「2026年EMS傑出成就獎」獲獎人員。",
       "source": "台灣急診醫學會",
@@ -335,6 +375,56 @@
       "url": "https://www.sem.org.tw/News/11/Details/1613"
     },
     {
+      "id": "68522910f9e2",
+      "title": "【ATLS課表公告】115年度第9+10梯次ATLS再認證課程（三軍總醫院）...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/69.html"
+    },
+    {
+      "id": "e03d91dc067f",
+      "title": "【ATLS報名】115年度「一般」課程報名資訊（含報名表）115.07.02更新...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/68.html"
+    },
+    {
+      "id": "621cebfd61cb",
+      "title": "公告2026年『ATLS課程』活動計劃表【含一般課程及再認證課程】_115.07.02更新...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/37.html"
+    },
+    {
+      "id": "f33886bda428",
+      "title": "【公告】學會進行辦公室搬遷作業...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/66.html"
+    },
+    {
+      "id": "a1c141e1a0aa",
+      "title": "６月份ASSET課前通知信已寄...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/64.html"
+    },
+    {
       "id": "86005a8326cc",
       "title": "本學會災難醫學專科甄審辦法 🔗",
       "source": "台灣災難醫學會",
@@ -403,6 +493,56 @@
       "date": null,
       "deadline": null,
       "url": "https://forms.gle/RxQobu2FoVewH6Qs5"
+    },
+    {
+      "id": "5ddae5a72419",
+      "title": "ACLS 2007新課程規範",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/Academic/acls01.asp"
+    },
+    {
+      "id": "a12cd0974482",
+      "title": "ACLS 課程推薦書籍",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/Academic/acls02.asp"
+    },
+    {
+      "id": "effdca75c4e6",
+      "title": "重症課程(重症學分)",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tsccm.org.tw/od/Academic/index.asp?act_kindid=1"
+    },
+    {
+      "id": "a5ab109f670c",
+      "title": "聯甄課程(聯甄學分)",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tsccm.org.tw/od/Academic/index.asp?act_kindid=2"
+    },
+    {
+      "id": "3b881f2cc9c2",
+      "title": "申請學分(重症學分)",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/Academic/index_other.asp"
     },
     {
       "id": "47f965572631",
@@ -643,6 +783,156 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tsamairway.org.tw/副本-2025年年會議程"
+    },
+    {
+      "id": "c471c32f474a",
+      "title": "雜誌通訊課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/ecu/ecu_ccH.asp"
+    },
+    {
+      "id": "bbf59a0ee0ad",
+      "title": "線上影像學習課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
+    },
+    {
+      "id": "90c9bbf3fb6d",
+      "title": "溫馨小提醒：有關115年麻醉實證研究與專一逆轉劑照護工作坊-嘉義場舉行與否",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1084.html"
+    },
+    {
+      "id": "787fcef26734",
+      "title": "代登~~115 年 診所病人安全年度目標推廣課程（美醫視訊場）",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/795.html"
+    },
+    {
+      "id": "c6c9241645a1",
+      "title": "115年麻醉實證研究與專一逆轉劑照護工作坊-嘉義場",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/794.html"
+    },
+    {
+      "id": "7f4077aab8c4",
+      "title": "國際麻醉護士協會IFNA標準規範",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
+    },
+    {
+      "id": "edc0d9a86ef8",
+      "title": "恭賀~~~~本會第11屆行政委員會委員、衛生福利部臺中醫院開刀房副護理長暨麻醉專科護理師許芷寧委員，榮獲今年「臨床護理價值典範100」殊榮",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1083.html"
+    },
+    {
+      "id": "a28a9b19cf1b",
+      "title": "第十二屆監事(含候補監事)補選公告~~~更新通知",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1080.html"
+    },
+    {
+      "id": "7932017bfcfc",
+      "title": "實證轉譯與病人安全於麻醉護理之應用：CRNA/DNP教育論壇~~全英文授課",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/792.html"
+    },
+    {
+      "id": "b19f5a244773",
+      "title": "115年年會報名開始~~~謝謝各位支持，已全數額滿！",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/786.html"
+    },
+    {
+      "id": "5bfcff8d3c72",
+      "title": "理監事名單",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/about/index_03_a.asp"
+    },
+    {
+      "id": "52aeba42ceae",
+      "title": "委員會名單",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/about/index_03_b.asp"
+    },
+    {
+      "id": "7c813915b5bc",
+      "title": "理事長的話",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/about/index_04.asp"
+    },
+    {
+      "id": "97e6c65f194c",
+      "title": "訓練課程專區",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/EL/train_list.asp"
+    },
+    {
+      "id": "31969e1f295e",
+      "title": "研討會專區",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/EL/seminar.asp"
     },
     {
       "id": "c882249c61ba",
@@ -895,6 +1185,86 @@
       "url": "https://www.anne.education/flippedcpr.html"
     },
     {
+      "id": "1a7323e30be9",
+      "title": "2026母親節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "9fdb080fb678",
+      "title": "2026兒童節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "79f4d8162d0b",
+      "title": "2025兒童醫院聖誕節慶活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "ed2ee3e5b76a",
+      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
+    },
+    {
+      "id": "5bb633d2fb9b",
+      "title": "臺大醫院115年度母親節節慶關懷活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
+    },
+    {
+      "id": "ed1866c01f90",
+      "title": "【家庭資源中心閉館公告】",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
+    },
+    {
+      "id": "9b54876f3cd3",
+      "title": "115年農曆春節本院服務公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
+    },
+    {
+      "id": "c32df82d097f",
+      "title": "115年農曆春節假期特設「傳染病特別診」公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
+    },
+    {
       "id": "c302a6b91021",
       "title": "Learn CPR",
       "source": "AHA — American Heart Association",
@@ -915,6 +1285,56 @@
       "url": "https://cpr.heart.org/en/"
     },
     {
+      "id": "b22c2e9061fd",
+      "title": "Contact ITLS",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/leadership/staff/"
+    },
+    {
+      "id": "3a4af6f5d51b",
+      "title": "About ITLS",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls/about-itls/"
+    },
+    {
+      "id": "4b1e41b3315a",
+      "title": "ITLS Approach",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls-approach/"
+    },
+    {
+      "id": "a420ea5ad93b",
+      "title": "ITLS Strategic Plan",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls/itls-strategic-plan/"
+    },
+    {
+      "id": "179ef925b4dd",
+      "title": "Why ITLS",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/compare-itls/"
+    },
+    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -923,6 +1343,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/news-feed/"
+    },
+    {
+      "id": "98860142062c",
+      "title": "Headlines",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/"
     },
     {
       "id": "359187f4fb55",
@@ -943,6 +1373,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/eight-wounded-including-four-kids-in-shooting-near-coney-island-ny-beach/"
+    },
+    {
+      "id": "cc05242f9202",
+      "title": "Event & Expedition Medic Provision",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
+    },
+    {
+      "id": "36dc95e80ac8",
+      "title": "Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
+    },
+    {
+      "id": "cdc892f17af7",
+      "title": "Expedition & Wilderness Medicine",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
+    },
+    {
+      "id": "55342de8b5f8",
+      "title": "WEMFund Prolonged Field Care Course",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
+    },
+    {
+      "id": "17f164e2e04b",
+      "title": "All Extreme Medicine Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
     },
     {
       "id": "b8d5eb07b1d3",
@@ -1253,46 +1733,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.c-tecc.org/news/save-the-date-apr-2026-mtg"
-    },
-    {
-      "id": "fe9e49751244",
-      "title": "info@cbrnprofessionals.com",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "mailto:info@cbrnprofessionals.com"
-    },
-    {
-      "id": "88a83b47cbaa",
-      "title": "CBRN Corner",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://cbrnprofessionals.com/cbrn-corner/"
-    },
-    {
-      "id": "4fa62a7cd115",
-      "title": "CBRN Reference Material",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://cbrnprofessionals.com/cbrn-references/"
-    },
-    {
-      "id": "e9b634e786cc",
-      "title": "CBRN Resource Links",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://cbrnprofessionals.com/cbrn-resource-links/"
     },
     {
       "id": "48c630a34218",
