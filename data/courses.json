@@ -1,19 +1,9 @@
 {
-  "updated": "2026-07-06T21:17:53.701715+00:00",
-  "count": 222,
-  "course_count": 100,
-  "news_count": 122,
+  "updated": "2026-07-07T11:26:09.148830+00:00",
+  "count": 229,
+  "course_count": 102,
+  "news_count": 127,
   "items": [
-    {
-      "id": "ecf66c0125b7",
-      "title": "公告115年度急診醫學科專科醫師甄審合格人員名單",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-06",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/7/Details/1619"
-    },
     {
       "id": "6e89d2b0fe74",
       "title": "夏季山域溪谷自救搜救知能安全講習 社團法人台灣急診醫學會、馬偕紀念醫院急診醫學部野外醫學中心",
@@ -373,6 +363,16 @@
       "date": "2026-06-29",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1613"
+    },
+    {
+      "id": "ecf66c0125b7",
+      "title": "公告115年度急診醫學科專科醫師甄審合格人員名單",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-06",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/7/Details/1619"
     },
     {
       "id": "68522910f9e2",
@@ -1265,6 +1265,56 @@
       "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
+      "id": "c23985b6b272",
+      "title": "聽見AED 七月活動",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e4%b8%83%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
+    },
+    {
+      "id": "4a9057508daa",
+      "title": "聽見AED 六月活動",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e5%85%ad%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
+    },
+    {
+      "id": "2134d81b1a61",
+      "title": "【聽見AED】LINE@救援通知系統2026年6月成果報告",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/event-news/%e3%80%90%e8%81%bd%e8%a6%8baed%e3%80%91line%e6%95%91%e6%8f%b4%e9%80%9a%e7%9f%a5%e7%b3%bb%e7%b5%b12026%e5%b9%b46%e6%9c%88%e6%88%90%e6%9e%9c%e5%a0%b1%e5%91%8a/"
+    },
+    {
+      "id": "77517feee91a",
+      "title": "【守護生命更便利！聽見AED正式上架7-ELEVEN「把愛找回來」公益平台】",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/%e6%9c%80%e6%96%b0%e6%b6%88%e6%81%af%e5%8f%8a%e5%85%ac%e5%91%8a/%e3%80%90%e5%ae%88%e8%ad%b7%e7%94%9f%e5%91%bd%e6%9b%b4%e4%be%bf%e5%88%a9%ef%bc%81%e8%81%bd%e8%a6%8baed%e6%ad%a3%e5%bc%8f%e4%b8%8a%e6%9e%b67-eleven%e3%80%8c%e6%8a%8a%e6%84%9b%e6%89%be%e5%9b%9e%e4%be%86/"
+    },
+    {
+      "id": "0c6610f61fd2",
+      "title": "【解密台北市救命網路：聽見AED攜手台大醫院，用數據實證生命韌性】",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/%e6%9c%80%e6%96%b0%e6%b6%88%e6%81%af%e5%8f%8a%e5%85%ac%e5%91%8a/%e3%80%90%e8%a7%a3%e5%af%86%e5%8f%b0%e5%8c%97%e5%b8%82%e6%95%91%e5%91%bd%e7%b6%b2%e8%b7%af%ef%bc%9a%e8%81%bd%e8%a6%8baed%e6%94%9c%e6%89%8b%e5%8f%b0%e5%a4%a7%e9%86%ab%e9%99%a2%ef%bc%8c%e7%94%a8/"
+    },
+    {
       "id": "c302a6b91021",
       "title": "Learn CPR",
       "source": "AHA — American Heart Association",
@@ -1353,26 +1403,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "359187f4fb55",
-      "title": "Oakland (CA) Police Car and Medical Transport Van Collide at Intersection",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/oakland-ca-police-car-and-medical-transport-van-collide-at-intersection/"
-    },
-    {
-      "id": "dd158f0e3d35",
-      "title": "Eight Wounded, Including Four Kids, in Shooting Near Coney Island (NY) Beach",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/eight-wounded-including-four-kids-in-shooting-near-coney-island-ny-beach/"
     },
     {
       "id": "cc05242f9202",
@@ -1733,6 +1763,46 @@
       "date": null,
       "deadline": null,
       "url": "https://www.c-tecc.org/news/save-the-date-apr-2026-mtg"
+    },
+    {
+      "id": "fe9e49751244",
+      "title": "info@cbrnprofessionals.com",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "mailto:info@cbrnprofessionals.com"
+    },
+    {
+      "id": "88a83b47cbaa",
+      "title": "CBRN Corner",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-corner/"
+    },
+    {
+      "id": "4fa62a7cd115",
+      "title": "CBRN Reference Material",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-references/"
+    },
+    {
+      "id": "e9b634e786cc",
+      "title": "CBRN Resource Links",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-resource-links/"
     },
     {
       "id": "48c630a34218",
@@ -2192,7 +2262,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2026-338675v1?rss=1"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100153.short?rss=1"
     },
     {
       "id": "8d656ad77115",
