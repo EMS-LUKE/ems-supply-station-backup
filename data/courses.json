@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-07T11:26:09.148830+00:00",
-  "count": 229,
+  "updated": "2026-07-07T19:21:18.880407+00:00",
+  "count": 230,
   "course_count": 102,
-  "news_count": 127,
+  "news_count": 128,
   "items": [
     {
       "id": "6e89d2b0fe74",
@@ -1403,6 +1403,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "b8c07403e426",
+      "title": "Japan Reports Increase in Violence Toward Ambulance Crews",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/japan-reports-increase-in-violence-toward-ambulance-crews/"
     },
     {
       "id": "cc05242f9202",
