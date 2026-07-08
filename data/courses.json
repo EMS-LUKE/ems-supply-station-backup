@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-08T10:42:23.225406+00:00",
-  "count": 211,
-  "course_count": 92,
-  "news_count": 119,
+  "updated": "2026-07-08T17:16:40.990941+00:00",
+  "count": 229,
+  "course_count": 102,
+  "news_count": 127,
   "items": [
     {
       "id": "6e89d2b0fe74",
@@ -1185,6 +1185,86 @@
       "url": "https://www.anne.education/flippedcpr.html"
     },
     {
+      "id": "1a7323e30be9",
+      "title": "2026母親節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "9fdb080fb678",
+      "title": "2026兒童節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "79f4d8162d0b",
+      "title": "2025兒童醫院聖誕節慶活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "ed2ee3e5b76a",
+      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
+    },
+    {
+      "id": "5bb633d2fb9b",
+      "title": "臺大醫院115年度母親節節慶關懷活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
+    },
+    {
+      "id": "ed1866c01f90",
+      "title": "【家庭資源中心閉館公告】",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
+    },
+    {
+      "id": "9b54876f3cd3",
+      "title": "115年農曆春節本院服務公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
+    },
+    {
+      "id": "c32df82d097f",
+      "title": "115年農曆春節假期特設「傳染病特別診」公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
+    },
+    {
       "id": "c23985b6b272",
       "title": "聽見AED 七月活動",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1463,6 +1543,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.erc.edu/education/for-professionals/course-types/epals/"
+    },
+    {
+      "id": "f54a091f6a36",
+      "title": "2026 WMS Summer Conference In-Person",
+      "source": "Wilderness Medical Society",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://wms.org/WMS/WMS/Attend/Conferences/SC26/Master_Summer_2026.aspx"
+    },
+    {
+      "id": "2bf887ec0347",
+      "title": "2026 WMS Summer Conference Virtual",
+      "source": "Wilderness Medical Society",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://wms.org/WMS/Attend/Conferences/SC26/25-Virtual-Summer/Master_Virtual_Summer_2026.aspx"
+    },
+    {
+      "id": "4a6c51faaed4",
+      "title": "2026 Partner Rescue at Looking Glass Rock Pre-Conference",
+      "source": "Wilderness Medical Society",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://wms.org"
+    },
+    {
+      "id": "2df98071b351",
+      "title": "2026 Swift Water Rescue Post-Conference",
+      "source": "Wilderness Medical Society",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://wms.org"
+    },
+    {
+      "id": "a48a802d78f5",
+      "title": "Events",
+      "source": "Wilderness Medical Society",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://wms.org/Shared_Content/Events/Events_List.aspx"
     },
     {
       "id": "d7c182893afb",
@@ -1753,6 +1883,56 @@
       "date": null,
       "deadline": null,
       "url": "https://ctoms.ca/collections/tactical-clothing"
+    },
+    {
+      "id": "3f6989d40c6b",
+      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/"
+    },
+    {
+      "id": "df37b5e4d0b7",
+      "title": "Defense Committees on Trauma",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/committees/dcot"
+    },
+    {
+      "id": "2456a0f7da29",
+      "title": "Joint Trauma Education and Training (JTET) Branch",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/education/jtet_branch"
+    },
+    {
+      "id": "a461b6dfd9fe",
+      "title": "Trauma Care Resources",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/education/resources"
+    },
+    {
+      "id": "c60c443544a6",
+      "title": "Clinical Practice Guidelines (CPGs)",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
     },
     {
       "id": "1d5a35aee639",
