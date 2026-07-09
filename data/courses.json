@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-08T21:52:49.547694+00:00",
-  "count": 219,
-  "course_count": 97,
-  "news_count": 122,
+  "updated": "2026-07-09T11:28:14.314484+00:00",
+  "count": 231,
+  "course_count": 102,
+  "news_count": 129,
   "items": [
     {
-      "id": "6e89d2b0fe74",
-      "title": "夏季山域溪谷自救搜救知能安全講習 社團法人台灣急診醫學會、馬偕紀念醫院急診醫學部野外醫學中心",
+      "id": "82bfd7c732c8",
+      "title": "第十七屆理事長、常務理事、常務監事當選名單公告",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-08",
-      "deadline": "2026-06-30",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33048"
+      "type": "news",
+      "date": "2026-07-09",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1621"
     },
     {
       "id": "a5bf2105d804",
@@ -93,6 +93,16 @@
       "date": "2026-07-25",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "44140ae5ad0b",
+      "title": "115年師資培育工作坊 (中區) 社團法人台灣急診醫學會、中山醫學大學附設醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-28",
+      "deadline": "2026-07-13",
+      "url": "https://www.sem.org.tw/Activity/A/Details/32647"
     },
     {
       "id": "fa10de726c18",
@@ -345,16 +355,6 @@
       "url": "https://www.sem.org.tw/News/11/Details/1611"
     },
     {
-      "id": "79731aad3bdd",
-      "title": "第十七屆理、監事當選名單",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1612"
-    },
-    {
       "id": "7619e60cf6d3",
       "title": "公告AILS Training Course通過名單 (115.06.23~115.06.24)",
       "source": "台灣急診醫學會",
@@ -365,6 +365,16 @@
       "url": "https://www.sem.org.tw/News/11/Details/1613"
     },
     {
+      "id": "79731aad3bdd",
+      "title": "第十七屆理、監事當選名單",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-06-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1612"
+    },
+    {
       "id": "ecf66c0125b7",
       "title": "公告115年度急診醫學科專科醫師甄審合格人員名單",
       "source": "台灣急診醫學會",
@@ -373,6 +383,16 @@
       "date": "2026-07-06",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/7/Details/1619"
+    },
+    {
+      "id": "2858ff163761",
+      "title": "第9梯次及第10次ATLS再認證課程如期辦理...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/70.html"
     },
     {
       "id": "68522910f9e2",
@@ -413,16 +433,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/66.html"
-    },
-    {
-      "id": "a1c141e1a0aa",
-      "title": "６月份ASSET課前通知信已寄...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/64.html"
     },
     {
       "id": "86005a8326cc",
@@ -865,6 +875,16 @@
       "url": "https://www.tana.org.tw/news/news_info.asp?/1080.html"
     },
     {
+      "id": "b7d3ba88a411",
+      "title": "代登~台灣麻醉醫學會雲嘉地區聯合討論會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
+    },
+    {
       "id": "7932017bfcfc",
       "title": "實證轉譯與病人安全於麻醉護理之應用：CRNA/DNP教育論壇~~全英文授課",
       "source": "台灣麻醉專科護理學會",
@@ -873,16 +893,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/792.html"
-    },
-    {
-      "id": "b19f5a244773",
-      "title": "115年年會報名開始~~~謝謝各位支持，已全數額滿！",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/786.html"
     },
     {
       "id": "5bfcff8d3c72",
@@ -1385,6 +1395,16 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
+      "id": "a1709728bcba",
+      "title": "Who’s to Blame? SC Ambulance-Lyft Crash Sparks Dueling Lawsuits",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/whos-to-blame-sc-ambulance-lyft-crash-sparks-dueling-lawsuits/"
+    },
+    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -1403,6 +1423,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "cc05242f9202",
+      "title": "Event & Expedition Medic Provision",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
+    },
+    {
+      "id": "36dc95e80ac8",
+      "title": "Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
+    },
+    {
+      "id": "cdc892f17af7",
+      "title": "Expedition & Wilderness Medicine",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
+    },
+    {
+      "id": "55342de8b5f8",
+      "title": "WEMFund Prolonged Field Care Course",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
+    },
+    {
+      "id": "17f164e2e04b",
+      "title": "All Extreme Medicine Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
     },
     {
       "id": "b8d5eb07b1d3",
@@ -1835,6 +1905,56 @@
       "url": "https://ctoms.ca/collections/tactical-clothing"
     },
     {
+      "id": "3f6989d40c6b",
+      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/"
+    },
+    {
+      "id": "df37b5e4d0b7",
+      "title": "Defense Committees on Trauma",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/committees/dcot"
+    },
+    {
+      "id": "2456a0f7da29",
+      "title": "Joint Trauma Education and Training (JTET) Branch",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/education/jtet_branch"
+    },
+    {
+      "id": "a461b6dfd9fe",
+      "title": "Trauma Care Resources",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/education/resources"
+    },
+    {
+      "id": "c60c443544a6",
+      "title": "Clinical Practice Guidelines (CPGs)",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
+    },
+    {
       "id": "1d5a35aee639",
       "title": "Future Training and Education Events",
       "source": "SOMA",
@@ -2162,7 +2282,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2026-338459v1?rss=1"
+      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-339467v1?rss=1"
     },
     {
       "id": "8d656ad77115",
