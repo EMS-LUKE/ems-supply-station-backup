@@ -1,19 +1,9 @@
 {
-  "updated": "2026-07-09T18:31:37.561231+00:00",
-  "count": 223,
-  "course_count": 97,
-  "news_count": 126,
+  "updated": "2026-07-10T08:57:00.766545+00:00",
+  "count": 233,
+  "course_count": 102,
+  "news_count": 131,
   "items": [
-    {
-      "id": "82bfd7c732c8",
-      "title": "第十七屆理事長、常務理事、常務監事當選名單公告",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-09",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1621"
-    },
     {
       "id": "a5bf2105d804",
       "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【南區】 急診醫學會",
@@ -385,6 +375,26 @@
       "url": "https://www.sem.org.tw/News/7/Details/1619"
     },
     {
+      "id": "82bfd7c732c8",
+      "title": "第十七屆理事長、常務理事、常務監事當選名單公告",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-09",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1621"
+    },
+    {
+      "id": "0d835afef36b",
+      "title": "【課程取消舉辦公告】2026外傷教育課程-中部地區(Ⅰ)...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/71.html"
+    },
+    {
       "id": "2858ff163761",
       "title": "第9梯次及第10次ATLS再認證課程如期辦理...",
       "source": "台灣外傷醫學會",
@@ -423,16 +433,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/37.html"
-    },
-    {
-      "id": "f33886bda428",
-      "title": "【公告】學會進行辦公室搬遷作業...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/66.html"
     },
     {
       "id": "86005a8326cc",
@@ -1195,6 +1195,86 @@
       "url": "https://www.anne.education/flippedcpr.html"
     },
     {
+      "id": "1a7323e30be9",
+      "title": "2026母親節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "9fdb080fb678",
+      "title": "2026兒童節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "79f4d8162d0b",
+      "title": "2025兒童醫院聖誕節慶活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "ed2ee3e5b76a",
+      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
+    },
+    {
+      "id": "5bb633d2fb9b",
+      "title": "臺大醫院115年度母親節節慶關懷活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
+    },
+    {
+      "id": "ed1866c01f90",
+      "title": "【家庭資源中心閉館公告】",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
+    },
+    {
+      "id": "9b54876f3cd3",
+      "title": "115年農曆春節本院服務公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
+    },
+    {
+      "id": "c32df82d097f",
+      "title": "115年農曆春節假期特設「傳染病特別診」公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
+    },
+    {
       "id": "c23985b6b272",
       "title": "聽見AED 七月活動",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1215,6 +1295,26 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e5%85%ad%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
     },
     {
+      "id": "db4c9598885b",
+      "title": "生命之鏈是什麼？16歲少年OHCA奇蹟生還，看CPR+AED怎麼救回一條命",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/faq/popular-science/%e7%94%9f%e5%91%bd%e4%b9%8b%e9%8f%88%e6%98%af%e4%bb%80%e9%ba%bc%ef%bc%9f16%e6%ad%b2%e5%b0%91%e5%b9%b4ohca%e5%a5%87%e8%b9%9f%e7%94%9f%e9%82%84%ef%bc%8c%e7%9c%8bcpraed%e6%80%8e%e9%ba%bc%e6%95%91/"
+    },
+    {
+      "id": "fc345ad51215",
+      "title": "39%的公共心跳停止發生在職場，但只有2%的職場裝了AED",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/emson-advocacy/__trashed/"
+    },
+    {
       "id": "2134d81b1a61",
       "title": "【聽見AED】LINE@救援通知系統2026年6月成果報告",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1225,24 +1325,24 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/%e3%80%90%e8%81%bd%e8%a6%8baed%e3%80%91line%e6%95%91%e6%8f%b4%e9%80%9a%e7%9f%a5%e7%b3%bb%e7%b5%b12026%e5%b9%b46%e6%9c%88%e6%88%90%e6%9e%9c%e5%a0%b1%e5%91%8a/"
     },
     {
-      "id": "77517feee91a",
-      "title": "【守護生命更便利！聽見AED正式上架7-ELEVEN「把愛找回來」公益平台】",
+      "id": "d40a62b6ae9e",
+      "title": "【聽見AED｜2026年6月到場成果出爐",
       "source": "臺灣愛陌生安全推廣協會",
       "cat": "台灣急救社群",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/%e6%9c%80%e6%96%b0%e6%b6%88%e6%81%af%e5%8f%8a%e5%85%ac%e5%91%8a/%e3%80%90%e5%ae%88%e8%ad%b7%e7%94%9f%e5%91%bd%e6%9b%b4%e4%be%bf%e5%88%a9%ef%bc%81%e8%81%bd%e8%a6%8baed%e6%ad%a3%e5%bc%8f%e4%b8%8a%e6%9e%b67-eleven%e3%80%8c%e6%8a%8a%e6%84%9b%e6%89%be%e5%9b%9e%e4%be%86/"
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e3%80%90%e8%81%bd%e8%a6%8baed%ef%bd%9c2026%e5%b9%b46%e6%9c%88%e5%88%b0%e5%a0%b4%e6%88%90%e6%9e%9c%e5%87%ba%e7%88%90/"
     },
     {
-      "id": "0c6610f61fd2",
-      "title": "【解密台北市救命網路：聽見AED攜手台大醫院，用數據實證生命韌性】",
+      "id": "1723f5730c89",
+      "title": "各位聽見AED的前輩們好~我是愛陌生的實習生宥甫~",
       "source": "臺灣愛陌生安全推廣協會",
       "cat": "台灣急救社群",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/%e6%9c%80%e6%96%b0%e6%b6%88%e6%81%af%e5%8f%8a%e5%85%ac%e5%91%8a/%e3%80%90%e8%a7%a3%e5%af%86%e5%8f%b0%e5%8c%97%e5%b8%82%e6%95%91%e5%91%bd%e7%b6%b2%e8%b7%af%ef%bc%9a%e8%81%bd%e8%a6%8baed%e6%94%9c%e6%89%8b%e5%8f%b0%e5%a4%a7%e9%86%ab%e9%99%a2%ef%bc%8c%e7%94%a8/"
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e5%90%84%e4%bd%8d%e8%81%bd%e8%a6%8baed%e7%9a%84%e5%89%8d%e8%bc%a9%e5%80%91%e5%a5%bd%e6%88%91%e6%98%af%e6%84%9b%e9%99%8c%e7%94%9f%e7%9a%84%e5%af%a6%e7%bf%92%e7%94%9f%e5%ae%a5%e7%94%ab/"
     },
     {
       "id": "c302a6b91021",
@@ -2202,7 +2302,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-339467v1?rss=1"
+      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-224871v1?rss=1"
     },
     {
       "id": "8d656ad77115",
