@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-10T08:57:00.766545+00:00",
-  "count": 233,
-  "course_count": 102,
-  "news_count": 131,
+  "updated": "2026-07-10T16:42:14.697832+00:00",
+  "count": 231,
+  "course_count": 101,
+  "news_count": 130,
   "items": [
     {
       "id": "a5bf2105d804",
@@ -1285,16 +1285,6 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e4%b8%83%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
     },
     {
-      "id": "4a9057508daa",
-      "title": "聽見AED 六月活動",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e5%85%ad%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
-    },
-    {
       "id": "db4c9598885b",
       "title": "生命之鏈是什麼？16歲少年OHCA奇蹟生還，看CPR+AED怎麼救回一條命",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1423,16 +1413,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/news-feed/"
-    },
-    {
-      "id": "a1709728bcba",
-      "title": "Who’s to Blame? SC Ambulance-Lyft Crash Sparks Dueling Lawsuits",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/whos-to-blame-sc-ambulance-lyft-crash-sparks-dueling-lawsuits/"
     },
     {
       "id": "98860142062c",
