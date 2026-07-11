@@ -1,19 +1,9 @@
 {
-  "updated": "2026-07-10T21:42:57.703586+00:00",
-  "count": 218,
-  "course_count": 91,
-  "news_count": 127,
+  "updated": "2026-07-11T07:26:21.057171+00:00",
+  "count": 231,
+  "course_count": 100,
+  "news_count": 131,
   "items": [
-    {
-      "id": "a5bf2105d804",
-      "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【南區】 急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-14",
-      "deadline": "2026-07-14",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33133"
-    },
     {
       "id": "452b7eab7397",
       "title": "2026.7.18 台灣復甦照護學會Holistic and Patient-Centered Critical Care研討會及工作坊開放報名",
@@ -93,6 +83,16 @@
       "date": "2026-07-28",
       "deadline": "2026-07-13",
       "url": "https://www.sem.org.tw/Activity/A/Details/32647"
+    },
+    {
+      "id": "f6098c9071b3",
+      "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【中區】 衛生福利部、社團法人台灣急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-31",
+      "deadline": "2026-07-31",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33137"
     },
     {
       "id": "fa10de726c18",
@@ -383,6 +383,16 @@
       "date": "2026-07-09",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1621"
+    },
+    {
+      "id": "535915b17247",
+      "title": "【徵求推薦】ASEM Education & Research Champion 候選人",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-09",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1622"
     },
     {
       "id": "0d835afef36b",
@@ -1195,14 +1205,114 @@
       "url": "https://www.anne.education/flippedcpr.html"
     },
     {
-      "id": "c23985b6b272",
-      "title": "聽見AED 七月活動",
-      "source": "臺灣愛陌生安全推廣協會",
+      "id": "1a7323e30be9",
+      "title": "2026母親節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/event-news/%e8%81%bd%e8%a6%8baed-%e4%b8%83%e6%9c%88%e6%b4%bb%e5%8b%95-2/"
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "9fdb080fb678",
+      "title": "2026兒童節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "79f4d8162d0b",
+      "title": "2025兒童醫院聖誕節慶活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "ed2ee3e5b76a",
+      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
+    },
+    {
+      "id": "5bb633d2fb9b",
+      "title": "臺大醫院115年度母親節節慶關懷活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
+    },
+    {
+      "id": "ed1866c01f90",
+      "title": "【家庭資源中心閉館公告】",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
+    },
+    {
+      "id": "9b54876f3cd3",
+      "title": "115年農曆春節本院服務公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
+    },
+    {
+      "id": "c32df82d097f",
+      "title": "115年農曆春節假期特設「傳染病特別診」公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
+    },
+    {
+      "id": "f3c454cbadc0",
+      "title": "聽見AED 是什麼？急救守護系統完整介紹：LINE 通知＋IoT 警報器，讓救援早一步開始",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/faq/popular-science/hearaed-system-intro/"
+    },
+    {
+      "id": "2e734f9698f9",
+      "title": "1395 是什麼？1 分鐘 CPR、3 分鐘 AED、95% 活著回家",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/faq/popular-science/what-is-1395/"
+    },
+    {
+      "id": "3134ca0758be",
+      "title": "【感謝帝亞吉歐】一年、30 台警報器、2,300 位體驗 CPR 的人",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/event-news/thanks-diageo-keepwalking-2026/"
     },
     {
       "id": "db4c9598885b",
@@ -1223,36 +1333,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/emson-advocacy/__trashed/"
-    },
-    {
-      "id": "2134d81b1a61",
-      "title": "【聽見AED】LINE@救援通知系統2026年6月成果報告",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/event-news/%e3%80%90%e8%81%bd%e8%a6%8baed%e3%80%91line%e6%95%91%e6%8f%b4%e9%80%9a%e7%9f%a5%e7%b3%bb%e7%b5%b12026%e5%b9%b46%e6%9c%88%e6%88%90%e6%9e%9c%e5%a0%b1%e5%91%8a/"
-    },
-    {
-      "id": "d40a62b6ae9e",
-      "title": "【聽見AED｜2026年6月到場成果出爐",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e3%80%90%e8%81%bd%e8%a6%8baed%ef%bd%9c2026%e5%b9%b46%e6%9c%88%e5%88%b0%e5%a0%b4%e6%88%90%e6%9e%9c%e5%87%ba%e7%88%90/"
-    },
-    {
-      "id": "1723f5730c89",
-      "title": "各位聽見AED的前輩們好~我是愛陌生的實習生宥甫~",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e5%90%84%e4%bd%8d%e8%81%bd%e8%a6%8baed%e7%9a%84%e5%89%8d%e8%bc%a9%e5%80%91%e5%a5%bd%e6%88%91%e6%98%af%e6%84%9b%e9%99%8c%e7%94%9f%e7%9a%84%e5%af%a6%e7%bf%92%e7%94%9f%e5%ae%a5%e7%94%ab/"
     },
     {
       "id": "c302a6b91021",
@@ -1343,6 +1423,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "cc05242f9202",
+      "title": "Event & Expedition Medic Provision",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
+    },
+    {
+      "id": "36dc95e80ac8",
+      "title": "Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
+    },
+    {
+      "id": "cdc892f17af7",
+      "title": "Expedition & Wilderness Medicine",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
+    },
+    {
+      "id": "55342de8b5f8",
+      "title": "WEMFund Prolonged Field Care Course",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
+    },
+    {
+      "id": "17f164e2e04b",
+      "title": "All Extreme Medicine Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
     },
     {
       "id": "b8d5eb07b1d3",
