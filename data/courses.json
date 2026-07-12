@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-11T23:43:30.562823+00:00",
-  "count": 223,
-  "course_count": 95,
-  "news_count": 128,
+  "updated": "2026-07-12T07:54:41.325853+00:00",
+  "count": 231,
+  "course_count": 100,
+  "news_count": 131,
   "items": [
     {
       "id": "452b7eab7397",
@@ -1205,6 +1205,86 @@
       "url": "https://www.anne.education/flippedcpr.html"
     },
     {
+      "id": "1a7323e30be9",
+      "title": "2026母親節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "9fdb080fb678",
+      "title": "2026兒童節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "79f4d8162d0b",
+      "title": "2025兒童醫院聖誕節慶活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "ed2ee3e5b76a",
+      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
+    },
+    {
+      "id": "5bb633d2fb9b",
+      "title": "臺大醫院115年度母親節節慶關懷活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
+    },
+    {
+      "id": "ed1866c01f90",
+      "title": "【家庭資源中心閉館公告】",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
+    },
+    {
+      "id": "9b54876f3cd3",
+      "title": "115年農曆春節本院服務公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
+    },
+    {
+      "id": "c32df82d097f",
+      "title": "115年農曆春節假期特設「傳染病特別診」公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
+    },
+    {
       "id": "f3c454cbadc0",
       "title": "聽見AED 是什麼？急救守護系統完整介紹：LINE 通知＋IoT 警報器，讓救援早一步開始",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1895,6 +1975,16 @@
       "url": "https://specialoperationsmedicine.org/jsom/"
     },
     {
+      "id": "7784c83ef832",
+      "title": "Suzetrigine guide for Combat Medics",
+      "source": "Next Generation Combat Medic",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://nextgencombatmedic.com/2026/05/27/suzetrigine/"
+    },
+    {
       "id": "00685f87bbd6",
       "title": "Guide to running Prolonged Casualty Care Training by Ragged Edge",
       "source": "Next Generation Combat Medic",
@@ -1925,24 +2015,14 @@
       "url": "https://nextgencombatmedic.com/2025/07/20/enabling-medics-to-manage-sick-call/"
     },
     {
-      "id": "59a31503eb67",
-      "title": "Cricothyroidotomy Training Guide for Military Medics: Ragged Edge of the Scalpel",
+      "id": "9cc4bce2f6ae",
+      "title": "How to become an Army CRNA",
       "source": "Next Generation Combat Medic",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://nextgencombatmedic.com/2025/05/21/cric-training-guide/"
-    },
-    {
-      "id": "3cf66ede2961",
-      "title": "Treating TBI from the Aid Bag",
-      "source": "Next Generation Combat Medic",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://nextgencombatmedic.com/2024/12/11/treating-tbi-from-the-aid-bag/"
+      "url": "https://nextgencombatmedic.com/2025/07/05/how-to-become-an-army-crna-66f/"
     },
     {
       "id": "a08848dafaae",
