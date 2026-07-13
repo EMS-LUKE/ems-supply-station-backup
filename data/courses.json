@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T23:42:39.950195+00:00",
+  "updated": "2026-07-13T11:45:41.548387+00:00",
   "count": 232,
   "course_count": 100,
   "news_count": 132,
@@ -1405,16 +1405,6 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
-      "id": "73b9923f10e3",
-      "title": "Three Hurt, Two Critically, in NY Crash",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/three-hurt-two-critically-in-ny-crash/"
-    },
-    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -1433,6 +1423,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "73b9923f10e3",
+      "title": "Three Hurt, Two Critically, in NY Crash",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/three-hurt-two-critically-in-ny-crash/"
     },
     {
       "id": "cc05242f9202",
@@ -2292,7 +2292,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-224871v1?rss=1"
+      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2025-337747v1?rss=1"
     },
     {
       "id": "8d656ad77115",
