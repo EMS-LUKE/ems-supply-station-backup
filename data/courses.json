@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-13T11:45:41.548387+00:00",
-  "count": 232,
-  "course_count": 100,
-  "news_count": 132,
+  "updated": "2026-07-13T18:23:38.532785+00:00",
+  "count": 217,
+  "course_count": 95,
+  "news_count": 122,
   "items": [
     {
       "id": "452b7eab7397",
@@ -803,106 +803,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tsamairway.org.tw/副本-2025年年會議程"
-    },
-    {
-      "id": "c471c32f474a",
-      "title": "雜誌通訊課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/ecu/ecu_ccH.asp"
-    },
-    {
-      "id": "bbf59a0ee0ad",
-      "title": "線上影像學習課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
-    },
-    {
-      "id": "90c9bbf3fb6d",
-      "title": "溫馨小提醒：有關115年麻醉實證研究與專一逆轉劑照護工作坊-嘉義場舉行與否",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1084.html"
-    },
-    {
-      "id": "787fcef26734",
-      "title": "代登~~115 年 診所病人安全年度目標推廣課程（美醫視訊場）",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/795.html"
-    },
-    {
-      "id": "c6c9241645a1",
-      "title": "115年麻醉實證研究與專一逆轉劑照護工作坊-嘉義場",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/794.html"
-    },
-    {
-      "id": "7f4077aab8c4",
-      "title": "國際麻醉護士協會IFNA標準規範",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
-    },
-    {
-      "id": "edc0d9a86ef8",
-      "title": "恭賀~~~~本會第11屆行政委員會委員、衛生福利部臺中醫院開刀房副護理長暨麻醉專科護理師許芷寧委員，榮獲今年「臨床護理價值典範100」殊榮",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1083.html"
-    },
-    {
-      "id": "a28a9b19cf1b",
-      "title": "第十二屆監事(含候補監事)補選公告~~~更新通知",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1080.html"
-    },
-    {
-      "id": "b7d3ba88a411",
-      "title": "代登~台灣麻醉醫學會雲嘉地區聯合討論會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
-    },
-    {
-      "id": "7932017bfcfc",
-      "title": "實證轉譯與病人安全於麻醉護理之應用：CRNA/DNP教育論壇~~全英文授課",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/792.html"
     },
     {
       "id": "5bfcff8d3c72",
@@ -1913,56 +1813,6 @@
       "date": null,
       "deadline": null,
       "url": "https://ctoms.ca/collections/tactical-clothing"
-    },
-    {
-      "id": "3f6989d40c6b",
-      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/"
-    },
-    {
-      "id": "df37b5e4d0b7",
-      "title": "Defense Committees on Trauma",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/committees/dcot"
-    },
-    {
-      "id": "2456a0f7da29",
-      "title": "Joint Trauma Education and Training (JTET) Branch",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/education/jtet_branch"
-    },
-    {
-      "id": "a461b6dfd9fe",
-      "title": "Trauma Care Resources",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/education/resources"
-    },
-    {
-      "id": "c60c443544a6",
-      "title": "Clinical Practice Guidelines (CPGs)",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
     },
     {
       "id": "1d5a35aee639",
