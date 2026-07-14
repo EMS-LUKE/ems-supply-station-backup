@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-14T07:27:43.652079+00:00",
-  "count": 232,
-  "course_count": 100,
-  "news_count": 132,
+  "updated": "2026-07-14T13:00:00.973123+00:00",
+  "count": 224,
+  "course_count": 95,
+  "news_count": 129,
   "items": [
     {
       "id": "452b7eab7397",
@@ -1415,6 +1415,16 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
+      "id": "e003f2a65694",
+      "title": "Waymo’s July 4 Chaos in San Francisco Raises Questions About How Robotaxis Can Work at Scale",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/waymos-july-4-chaos-in-san-francisco-raises-questions-about-how-robotaxis-can-work-at-scale/"
+    },
+    {
       "id": "98860142062c",
       "title": "Headlines",
       "source": "JEMS",
@@ -1423,16 +1433,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "73b9923f10e3",
-      "title": "Three Hurt, Two Critically, in NY Crash",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/three-hurt-two-critically-in-ny-crash/"
     },
     {
       "id": "cc05242f9202",
@@ -1833,86 +1833,6 @@
       "date": null,
       "deadline": null,
       "url": "https://cbrnprofessionals.com/cbrn-resource-links/"
-    },
-    {
-      "id": "48c630a34218",
-      "title": "CTOMS Academy Online Training Online Training",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctomsacademy.skillbuilder.co/"
-    },
-    {
-      "id": "087eb9f506ed",
-      "title": "Available Online Courses",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctoms.ca/collections/lms-products"
-    },
-    {
-      "id": "a040994638c9",
-      "title": "Shop Training Products",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctoms.ca/collections/training-products"
-    },
-    {
-      "id": "55977415f8ec",
-      "title": "Training",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctoms.ca/pages/training"
-    },
-    {
-      "id": "08b05e7d9778",
-      "title": "CTOMS Academy™ - Online Training",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctoms.ca/pages/ctoms-academy"
-    },
-    {
-      "id": "ab859c7d3df3",
-      "title": "Tactical Medicine",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctoms.ca/pages/tactical-medicine"
-    },
-    {
-      "id": "ba4820a5a7f9",
-      "title": "Tactical Equipment",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctoms.ca/collections/tactical-equipment"
-    },
-    {
-      "id": "45ab60bb7fac",
-      "title": "Tactical Clothing",
-      "source": "CTOMS",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://ctoms.ca/collections/tactical-clothing"
     },
     {
       "id": "3f6989d40c6b",
