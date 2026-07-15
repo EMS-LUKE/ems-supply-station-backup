@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-14T23:41:53.024785+00:00",
-  "count": 232,
+  "updated": "2026-07-15T07:33:47.502149+00:00",
+  "count": 234,
   "course_count": 100,
-  "news_count": 132,
+  "news_count": 134,
   "items": [
     {
       "id": "452b7eab7397",
@@ -395,6 +395,16 @@
       "url": "https://www.sem.org.tw/News/10/Details/1622"
     },
     {
+      "id": "0236e4bc4186",
+      "title": "115年精進外科系醫師醫療韌性訓練計畫，將於9月~12月辦理六場課程...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/73.html"
+    },
+    {
       "id": "0d835afef36b",
       "title": "【課程取消舉辦公告】2026外傷教育課程-中部地區(Ⅰ)...",
       "source": "台灣外傷醫學會",
@@ -433,16 +443,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/68.html"
-    },
-    {
-      "id": "621cebfd61cb",
-      "title": "公告2026年『ATLS課程』活動計劃表【含一般課程及再認證課程】_115.07.02更新...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/37.html"
     },
     {
       "id": "86005a8326cc",
@@ -703,6 +703,26 @@
       "date": null,
       "deadline": null,
       "url": "https://www.medinfo.org.tw"
+    },
+    {
+      "id": "17196c2d9cd2",
+      "title": "第18屆理監事選舉推薦公告.pdf",
+      "source": "臺灣燒傷暨傷口照護學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.burn.org.tw/attachments/article/302/第18屆理監事選舉推薦公告.pdf"
+    },
+    {
+      "id": "2ebdb1828f3d",
+      "title": "深耕學術與臨床｜【徵稿中】2026年會論文發表",
+      "source": "臺灣燒傷暨傷口照護學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.burn.org.tw/index.php/news/25-the-project/301-2026"
     },
     {
       "id": "2074c2677272",
@@ -2292,7 +2312,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-225413v1?rss=1"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100282.short?rss=1"
     },
     {
       "id": "8d656ad77115",
