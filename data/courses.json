@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-16T00:16:30.262419+00:00",
-  "count": 229,
+  "updated": "2026-07-16T10:29:18.302088+00:00",
+  "count": 228,
   "course_count": 96,
-  "news_count": 133,
+  "news_count": 132,
   "items": [
     {
       "id": "452b7eab7397",
@@ -345,14 +345,14 @@
       "url": "https://www.sem.org.tw/News/11/Details/1621"
     },
     {
-      "id": "535915b17247",
-      "title": "【徵求推薦】ASEM Education & Research Champion 候選人",
-      "source": "台灣急診醫學會",
+      "id": "1cfee8fade00",
+      "title": "誠徵醫學會秘書...",
+      "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "news",
-      "date": "2026-07-09",
+      "date": null,
       "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1622"
+      "url": "http://www.trauma.org.tw/news/index.asp?/74.html"
     },
     {
       "id": "0236e4bc4186",
@@ -393,16 +393,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/69.html"
-    },
-    {
-      "id": "e03d91dc067f",
-      "title": "【ATLS報名】115年度「一般」課程報名資訊（含報名表）115.07.02更新...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/68.html"
     },
     {
       "id": "86005a8326cc",
@@ -845,6 +835,16 @@
       "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
     },
     {
+      "id": "e0909b9c6b4d",
+      "title": "代登~〔2026第二屆心安優護獎 - 臺灣優良心胸麻醉照護團隊〕",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1085.html"
+    },
+    {
       "id": "edc0d9a86ef8",
       "title": "恭賀~~~~本會第11屆行政委員會委員、衛生福利部臺中醫院開刀房副護理長暨麻醉專科護理師許芷寧委員，榮獲今年「臨床護理價值典範100」殊榮",
       "source": "台灣麻醉專科護理學會",
@@ -853,16 +853,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/news_info.asp?/1083.html"
-    },
-    {
-      "id": "a28a9b19cf1b",
-      "title": "第十二屆監事(含候補監事)補選公告~~~更新通知",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1080.html"
     },
     {
       "id": "b7d3ba88a411",
@@ -1215,6 +1205,16 @@
       "url": "https://www.ntuh.gov.tw"
     },
     {
+      "id": "a5c9190b67c3",
+      "title": "臺大醫院131週年院慶舉辦數位與智慧醫療國際研討會 聚焦機器人與AI創新應用 攜手國際專家共創智慧醫療新未來",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/News.action?q_type=-1&q_itemCode=19059"
+    },
+    {
       "id": "ed2ee3e5b76a",
       "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
       "source": "臺大兒童醫院",
@@ -1223,16 +1223,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
-    },
-    {
-      "id": "5bb633d2fb9b",
-      "title": "臺大醫院115年度母親節節慶關懷活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
     },
     {
       "id": "ed1866c01f90",
@@ -2262,7 +2252,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100282.short?rss=1"
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/7/e107583?rss=1"
     },
     {
       "id": "8d656ad77115",
