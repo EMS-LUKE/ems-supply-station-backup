@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-16T20:43:40.135416+00:00",
+  "updated": "2026-07-17T00:19:26.910031+00:00",
   "count": 214,
-  "course_count": 88,
-  "news_count": 126,
+  "course_count": 96,
+  "news_count": 118,
   "items": [
     {
       "id": "452b7eab7397",
@@ -43,6 +43,36 @@
       "date": "2026-07-22",
       "deadline": "2026-07-22",
       "url": "https://www.sem.org.tw/Activity/A/Details/33136"
+    },
+    {
+      "id": "5bd23fc6becf",
+      "title": "2026 Ai實證簡報力工作坊",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/4cb9057694d6a3a1b49e6cf5da5743e2"
+    },
+    {
+      "id": "adf23d0371a6",
+      "title": "2026/07/25(六) Ai實證簡報力工作坊2026-03-21",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "f224c9d93e14",
+      "title": "2026/07/25(六) Ai實證簡報力工作坊",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
     },
     {
       "id": "44140ae5ad0b",
@@ -95,6 +125,46 @@
       "url": "http://course.tsccm.org.tw/df_info.asp?/906.html"
     },
     {
+      "id": "ce4831580b27",
+      "title": "2026/09/19-20(六、日)系統性文獻回顧與統合分析工作坊(秋季班)2026-03-21",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "e2cea50802ce",
+      "title": "2026/09/19-20系統性文獻回顧與統合分析工作坊(秋季班)",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "6c12a2120576",
+      "title": "2026系統性文獻回顧與統合分析工作坊(秋季班)",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-20",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/11642ac2dab56a383c16166183e39187"
+    },
+    {
+      "id": "df5070bf548e",
+      "title": "高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-21",
+      "deadline": "2026-09-21",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33173"
+    },
+    {
       "id": "5ea18ba7e4da",
       "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【台北區】 衛生福利部、社團法人台灣急診醫學會",
       "source": "台灣急診醫學會",
@@ -105,6 +175,36 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33127"
     },
     {
+      "id": "b17460e903a3",
+      "title": "2026/10/03-04(六、日)台灣實證醫學學會種子師資培訓工作坊2026-03-22",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-03",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "38e10c16027c",
+      "title": "2026/10/03-04台灣實證醫學學會種子師資培訓工作坊",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-03",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "009c255ace66",
+      "title": "2026台灣實證醫學學會種子師資培訓工作坊",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-04",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
+    },
+    {
       "id": "3685f7be079e",
       "title": "115年度輻傷事件醫療應變訓練通識課程 衛生福利部北區緊急醫療應變中心",
       "source": "台灣急診醫學會",
@@ -113,6 +213,36 @@
       "date": "2026-10-28",
       "deadline": "2026-10-28",
       "url": "https://www.sem.org.tw/Activity/B/Details/32907"
+    },
+    {
+      "id": "c1772c700f8e",
+      "title": "2026 台灣實證醫學學會學術年會",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/2c1a39f064c4a01a76c81be6669b0392"
+    },
+    {
+      "id": "a5b6f0731389",
+      "title": "2026/11/14(六) 台灣實證醫學學會學術年會2026-06-08",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "d31ff383b8c0",
+      "title": "2026/11/14 台灣實證醫學學會學術年會",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
     },
     {
       "id": "62570103abc2",
@@ -265,34 +395,54 @@
       "url": "https://www.sem.org.tw/News/11/Details/1621"
     },
     {
-      "id": "dff9d384d956",
-      "title": "亞洲華人醫務管理交流學會舉辦【「高齡健康處方：共創跨域照護新模式」研討會】...",
+      "id": "1cfee8fade00",
+      "title": "誠徵醫學會秘書...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/53.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/74.html"
     },
     {
-      "id": "aaeadfa3e4a8",
-      "title": "台灣醫務管理學會舉辦【花蓮慈濟醫院-韌性‧永續‧智慧醫院深度巡禮】...",
+      "id": "0236e4bc4186",
+      "title": "115年精進外科系醫師醫療韌性訓練計畫，將於9月~12月辦理六場課程...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/52.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/73.html"
     },
     {
-      "id": "904c14e2c14a",
-      "title": "高醫大附醫舉辦【STRONG強韌網絡：高屏澎重大外傷區域聯訪成果發表會】...",
+      "id": "0d835afef36b",
+      "title": "【課程取消舉辦公告】2026外傷教育課程-中部地區(Ⅰ)...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/39.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/71.html"
+    },
+    {
+      "id": "2858ff163761",
+      "title": "第9梯次及第10次ATLS再認證課程如期辦理...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/70.html"
+    },
+    {
+      "id": "68522910f9e2",
+      "title": "【ATLS課表公告】115年度第9+10梯次ATLS再認證課程（三軍總醫院）...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/69.html"
     },
     {
       "id": "86005a8326cc",
@@ -1295,56 +1445,6 @@
       "url": "https://www.jems.com/news/"
     },
     {
-      "id": "cc05242f9202",
-      "title": "Event & Expedition Medic Provision",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
-    },
-    {
-      "id": "36dc95e80ac8",
-      "title": "Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
-    },
-    {
-      "id": "cdc892f17af7",
-      "title": "Expedition & Wilderness Medicine",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
-    },
-    {
-      "id": "55342de8b5f8",
-      "title": "WEMFund Prolonged Field Care Course",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
-    },
-    {
-      "id": "17f164e2e04b",
-      "title": "All Extreme Medicine Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
-    },
-    {
       "id": "b8d5eb07b1d3",
       "title": "Course Curriculum",
       "source": "ERC",
@@ -1953,106 +2053,6 @@
       "date": null,
       "deadline": null,
       "url": "https://safeguardmedical.com/blogs/news/the-evolution-of-combat-medicine"
-    },
-    {
-      "id": "4110ccb750ce",
-      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard"
-    },
-    {
-      "id": "c7e010eeb627",
-      "title": "The HEMGUARD® Targeted Pressure Bandage",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/thehemguard-r-targeted-pressure-bandage"
-    },
-    {
-      "id": "59b9bcaf3a5b",
-      "title": "Elite Bags PARAMED Backpack",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/elite-bags-paramed-backpack"
-    },
-    {
-      "id": "0694954ed379",
-      "title": "MED-TAC ALS Oxygen Trauma Backpack w/Modular Pouch System",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/med-tac-als-oxygen-trauma-backpack-w-modular-pouch-system"
-    },
-    {
-      "id": "7f27b5999ba6",
-      "title": "Tasmanian Tiger Modular Medic Combat Pack 18",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-modular-medic-combat-pack-18"
-    },
-    {
-      "id": "715383a36e2a",
-      "title": "TacMed Solutions™ Gains Airworthiness Certification for US Army & Navy Airframes",
-      "source": "TacMed Solutions",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tacmedsolutions.com/blogs/news/tacmed-solutions%E2%84%A2-gains-airworthiness-certification-for-us-army-navy-airframes"
-    },
-    {
-      "id": "733f5b9d5ed7",
-      "title": "TacMed Solutions™ Awarded Sourcewell Cooperative Contract",
-      "source": "TacMed Solutions",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tacmedsolutions.com/blogs/news/tacmed-solutions%E2%84%A2-awarded-sourcewell-cooperative-contract"
-    },
-    {
-      "id": "7140e81abb74",
-      "title": "TacMed Solutions Acquires RINI Technologies, Strengthening Innovation in Pre-Hospital Trauma Care",
-      "source": "TacMed Solutions",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tacmedsolutions.com/blogs/news/tacmed-solutions-acquires-rini-technologies-strengthening-innovation-in-pre-hospital-trauma-care"
-    },
-    {
-      "id": "575caf80d4be",
-      "title": "Hurricane Helene Relief: A Community United in Recovery Efforts",
-      "source": "TacMed Solutions",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tacmedsolutions.com/blogs/news/hurricane-helene-relief-a-community-united-in-recovery-efforts"
-    },
-    {
-      "id": "0a90da888cc2",
-      "title": "MATTi™: The New Female Trauma Patient Simulator",
-      "source": "TacMed Solutions",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
     },
     {
       "id": "bf8f132c31a9",
