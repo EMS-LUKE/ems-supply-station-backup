@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-17T00:19:26.910031+00:00",
-  "count": 214,
-  "course_count": 96,
-  "news_count": 118,
+  "updated": "2026-07-17T09:35:12.613843+00:00",
+  "count": 229,
+  "course_count": 101,
+  "news_count": 128,
   "items": [
     {
       "id": "452b7eab7397",
@@ -395,6 +395,16 @@
       "url": "https://www.sem.org.tw/News/11/Details/1621"
     },
     {
+      "id": "1923f6f766a9",
+      "title": "【ATLS課表公告】115年度第5梯次ATLS課程（淡水馬偕醫院）...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/75.html"
+    },
+    {
       "id": "1cfee8fade00",
       "title": "誠徵醫學會秘書...",
       "source": "台灣外傷醫學會",
@@ -433,16 +443,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/70.html"
-    },
-    {
-      "id": "68522910f9e2",
-      "title": "【ATLS課表公告】115年度第9+10梯次ATLS再認證課程（三軍總醫院）...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/69.html"
     },
     {
       "id": "86005a8326cc",
@@ -1425,6 +1425,16 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
+      "id": "98860142062c",
+      "title": "Headlines",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/"
+    },
+    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -1435,14 +1445,54 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
-      "id": "98860142062c",
-      "title": "Headlines",
-      "source": "JEMS",
+      "id": "cc05242f9202",
+      "title": "Event & Expedition Medic Provision",
+      "source": "World Extreme Medicine",
       "cat": "國際期刊/組織",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/"
+      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
+    },
+    {
+      "id": "36dc95e80ac8",
+      "title": "Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
+    },
+    {
+      "id": "cdc892f17af7",
+      "title": "Expedition & Wilderness Medicine",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
+    },
+    {
+      "id": "55342de8b5f8",
+      "title": "WEMFund Prolonged Field Care Course",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
+    },
+    {
+      "id": "17f164e2e04b",
+      "title": "All Extreme Medicine Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
     },
     {
       "id": "b8d5eb07b1d3",
@@ -2053,6 +2103,106 @@
       "date": null,
       "deadline": null,
       "url": "https://safeguardmedical.com/blogs/news/the-evolution-of-combat-medicine"
+    },
+    {
+      "id": "4110ccb750ce",
+      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard"
+    },
+    {
+      "id": "c7e010eeb627",
+      "title": "The HEMGUARD® Targeted Pressure Bandage",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/thehemguard-r-targeted-pressure-bandage"
+    },
+    {
+      "id": "59b9bcaf3a5b",
+      "title": "Elite Bags PARAMED Backpack",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/elite-bags-paramed-backpack"
+    },
+    {
+      "id": "0694954ed379",
+      "title": "MED-TAC ALS Oxygen Trauma Backpack w/Modular Pouch System",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/med-tac-als-oxygen-trauma-backpack-w-modular-pouch-system"
+    },
+    {
+      "id": "7f27b5999ba6",
+      "title": "Tasmanian Tiger Modular Medic Combat Pack 18",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-modular-medic-combat-pack-18"
+    },
+    {
+      "id": "715383a36e2a",
+      "title": "TacMed Solutions™ Gains Airworthiness Certification for US Army & Navy Airframes",
+      "source": "TacMed Solutions",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tacmedsolutions.com/blogs/news/tacmed-solutions%E2%84%A2-gains-airworthiness-certification-for-us-army-navy-airframes"
+    },
+    {
+      "id": "733f5b9d5ed7",
+      "title": "TacMed Solutions™ Awarded Sourcewell Cooperative Contract",
+      "source": "TacMed Solutions",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tacmedsolutions.com/blogs/news/tacmed-solutions%E2%84%A2-awarded-sourcewell-cooperative-contract"
+    },
+    {
+      "id": "7140e81abb74",
+      "title": "TacMed Solutions Acquires RINI Technologies, Strengthening Innovation in Pre-Hospital Trauma Care",
+      "source": "TacMed Solutions",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tacmedsolutions.com/blogs/news/tacmed-solutions-acquires-rini-technologies-strengthening-innovation-in-pre-hospital-trauma-care"
+    },
+    {
+      "id": "575caf80d4be",
+      "title": "Hurricane Helene Relief: A Community United in Recovery Efforts",
+      "source": "TacMed Solutions",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tacmedsolutions.com/blogs/news/hurricane-helene-relief-a-community-united-in-recovery-efforts"
+    },
+    {
+      "id": "0a90da888cc2",
+      "title": "MATTi™: The New Female Trauma Patient Simulator",
+      "source": "TacMed Solutions",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
     },
     {
       "id": "bf8f132c31a9",
