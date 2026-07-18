@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-17T23:42:32.715108+00:00",
-  "count": 225,
-  "course_count": 97,
-  "news_count": 128,
+  "updated": "2026-07-18T07:15:15.710315+00:00",
+  "count": 218,
+  "course_count": 89,
+  "news_count": 129,
   "items": [
     {
       "id": "452b7eab7397",
@@ -13,16 +13,6 @@
       "date": "2026-07-18",
       "deadline": null,
       "url": "http://course.tsccm.org.tw/df_info.asp?/967.html"
-    },
-    {
-      "id": "fa41141f901d",
-      "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【北區】 衛生福利部、急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-19",
-      "deadline": "2026-07-19",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33135"
     },
     {
       "id": "6581b870efd0",
@@ -43,26 +33,6 @@
       "date": "2026-07-22",
       "deadline": "2026-07-22",
       "url": "https://www.sem.org.tw/Activity/A/Details/33136"
-    },
-    {
-      "id": "adf23d0371a6",
-      "title": "2026/07/25(六) Ai實證簡報力工作坊2026-03-21",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "f224c9d93e14",
-      "title": "2026/07/25(六) Ai實證簡報力工作坊",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
     },
     {
       "id": "44140ae5ad0b",
@@ -115,26 +85,6 @@
       "url": "http://course.tsccm.org.tw/df_info.asp?/906.html"
     },
     {
-      "id": "ce4831580b27",
-      "title": "2026/09/19-20(六、日)系統性文獻回顧與統合分析工作坊(秋季班)2026-03-21",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "e2cea50802ce",
-      "title": "2026/09/19-20系統性文獻回顧與統合分析工作坊(秋季班)",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
       "id": "df5070bf548e",
       "title": "高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院",
       "source": "台灣急診醫學會",
@@ -155,26 +105,6 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33127"
     },
     {
-      "id": "b17460e903a3",
-      "title": "2026/10/03-04(六、日)台灣實證醫學學會種子師資培訓工作坊2026-03-22",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-03",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "38e10c16027c",
-      "title": "2026/10/03-04台灣實證醫學學會種子師資培訓工作坊",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-03",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
       "id": "3685f7be079e",
       "title": "115年度輻傷事件醫療應變訓練通識課程 衛生福利部北區緊急醫療應變中心",
       "source": "台灣急診醫學會",
@@ -183,26 +113,6 @@
       "date": "2026-10-28",
       "deadline": "2026-10-28",
       "url": "https://www.sem.org.tw/Activity/B/Details/32907"
-    },
-    {
-      "id": "a5b6f0731389",
-      "title": "2026/11/14(六) 台灣實證醫學學會學術年會2026-06-08",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "d31ff383b8c0",
-      "title": "2026/11/14 台灣實證醫學學會學術年會",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
     },
     {
       "id": "62570103abc2",
@@ -335,6 +245,16 @@
       "url": "https://www.sem.org.tw/News/11/Details/1612"
     },
     {
+      "id": "de9ff590421c",
+      "title": "兒童急重症醫療照顧品質提升研討會 臺中榮民總醫院、台灣兒童急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-04",
+      "deadline": "2026-07-04",
+      "url": "https://www.sem.org.tw/Activity/B/Details/32990"
+    },
+    {
       "id": "ecf66c0125b7",
       "title": "公告115年度急診醫學科專科醫師甄審合格人員名單",
       "source": "台灣急診醫學會",
@@ -353,6 +273,16 @@
       "date": "2026-07-09",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1621"
+    },
+    {
+      "id": "535915b17247",
+      "title": "【徵求推薦】ASEM Education & Research Champion 候選人",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-09",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1622"
     },
     {
       "id": "1923f6f766a9",
