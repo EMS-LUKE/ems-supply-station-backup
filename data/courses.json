@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-20T00:20:38.188712+00:00",
-  "count": 215,
-  "course_count": 89,
-  "news_count": 126,
+  "updated": "2026-07-20T12:06:39.032206+00:00",
+  "count": 224,
+  "course_count": 94,
+  "news_count": 130,
   "items": [
     {
       "id": "6581b870efd0",
@@ -23,6 +23,36 @@
       "date": "2026-07-22",
       "deadline": "2026-07-22",
       "url": "https://www.sem.org.tw/Activity/A/Details/33136"
+    },
+    {
+      "id": "5bd23fc6becf",
+      "title": "2026 Ai實證簡報力工作坊",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/4cb9057694d6a3a1b49e6cf5da5743e2"
+    },
+    {
+      "id": "adf23d0371a6",
+      "title": "2026/07/25(六) Ai實證簡報力工作坊2026-03-21",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "f224c9d93e14",
+      "title": "2026/07/25(六) Ai實證簡報力工作坊",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
     },
     {
       "id": "44140ae5ad0b",
@@ -75,6 +105,36 @@
       "url": "http://course.tsccm.org.tw/df_info.asp?/906.html"
     },
     {
+      "id": "ce4831580b27",
+      "title": "2026/09/19-20(六、日)系統性文獻回顧與統合分析工作坊(秋季班)2026-03-21",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "e2cea50802ce",
+      "title": "2026/09/19-20系統性文獻回顧與統合分析工作坊(秋季班)",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "6c12a2120576",
+      "title": "2026系統性文獻回顧與統合分析工作坊(秋季班)",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-20",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/11642ac2dab56a383c16166183e39187"
+    },
+    {
       "id": "df5070bf548e",
       "title": "高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院",
       "source": "台灣急診醫學會",
@@ -95,6 +155,36 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33127"
     },
     {
+      "id": "b17460e903a3",
+      "title": "2026/10/03-04(六、日)台灣實證醫學學會種子師資培訓工作坊2026-03-22",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-03",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "38e10c16027c",
+      "title": "2026/10/03-04台灣實證醫學學會種子師資培訓工作坊",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-03",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "009c255ace66",
+      "title": "2026台灣實證醫學學會種子師資培訓工作坊",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-04",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
+    },
+    {
       "id": "3685f7be079e",
       "title": "115年度輻傷事件醫療應變訓練通識課程 衛生福利部北區緊急醫療應變中心",
       "source": "台灣急診醫學會",
@@ -103,6 +193,36 @@
       "date": "2026-10-28",
       "deadline": "2026-10-28",
       "url": "https://www.sem.org.tw/Activity/B/Details/32907"
+    },
+    {
+      "id": "c1772c700f8e",
+      "title": "2026 台灣實證醫學學會學術年會",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/2c1a39f064c4a01a76c81be6669b0392"
+    },
+    {
+      "id": "a5b6f0731389",
+      "title": "2026/11/14(六) 台灣實證醫學學會學術年會2026-06-08",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "d31ff383b8c0",
+      "title": "2026/11/14 台灣實證醫學學會學術年會",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
     },
     {
       "id": "62570103abc2",
@@ -615,14 +735,14 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "17196c2d9cd2",
-      "title": "第18屆理監事選舉推薦公告.pdf",
+      "id": "ec9baebc8c4d",
+      "title": "實踐韌性深耕再生｜【報名中】2026年會暨國際學術研討會",
       "source": "臺灣燒傷暨傷口照護學會",
       "cat": "台灣學會",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.burn.org.tw/attachments/article/302/第18屆理監事選舉推薦公告.pdf"
+      "url": "https://www.burn.org.tw/index.php/news/25-the-project/302-2026"
     },
     {
       "id": "2ebdb1828f3d",
@@ -1345,64 +1465,14 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
-      "id": "98860142062c",
-      "title": "Headlines",
+      "id": "c43042ee02ee",
+      "title": "MO Temple Donates Ambulance to Israel in Remembrance of Shooting Victims",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "cc05242f9202",
-      "title": "Event & Expedition Medic Provision",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
-    },
-    {
-      "id": "36dc95e80ac8",
-      "title": "Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
-    },
-    {
-      "id": "cdc892f17af7",
-      "title": "Expedition & Wilderness Medicine",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
-    },
-    {
-      "id": "55342de8b5f8",
-      "title": "WEMFund Prolonged Field Care Course",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
-    },
-    {
-      "id": "17f164e2e04b",
-      "title": "All Extreme Medicine Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
+      "url": "https://www.jems.com/news/mo-temple-donates-ambulance-to-israel-in-remembrance-of-shooting-victims/"
     },
     {
       "id": "b8d5eb07b1d3",
@@ -1493,36 +1563,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.erc.edu/education/for-professionals/course-types/epals/"
-    },
-    {
-      "id": "f54a091f6a36",
-      "title": "2026 WMS Summer Conference In-Person",
-      "source": "Wilderness Medical Society",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://wms.org/WMS/WMS/Attend/Conferences/SC26/Master_Summer_2026.aspx"
-    },
-    {
-      "id": "2bf887ec0347",
-      "title": "2026 WMS Summer Conference Virtual",
-      "source": "Wilderness Medical Society",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://wms.org/WMS/Attend/Conferences/SC26/25-Virtual-Summer/Master_Virtual_Summer_2026.aspx"
-    },
-    {
-      "id": "4a6c51faaed4",
-      "title": "2026 Partner Rescue at Looking Glass Rock Pre-Conference",
-      "source": "Wilderness Medical Society",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://wms.org"
     },
     {
       "id": "2df98071b351",
@@ -1833,6 +1873,56 @@
       "date": null,
       "deadline": null,
       "url": "https://ctoms.ca/collections/tactical-clothing"
+    },
+    {
+      "id": "3f6989d40c6b",
+      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/"
+    },
+    {
+      "id": "df37b5e4d0b7",
+      "title": "Defense Committees on Trauma",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/committees/dcot"
+    },
+    {
+      "id": "2456a0f7da29",
+      "title": "Joint Trauma Education and Training (JTET) Branch",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/education/jtet_branch"
+    },
+    {
+      "id": "a461b6dfd9fe",
+      "title": "Trauma Care Resources",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/education/resources"
+    },
+    {
+      "id": "c60c443544a6",
+      "title": "Clinical Practice Guidelines (CPGs)",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
     },
     {
       "id": "1d5a35aee639",
