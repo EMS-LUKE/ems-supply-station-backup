@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-19T18:13:30.555431+00:00",
-  "count": 213,
-  "course_count": 84,
-  "news_count": 129,
+  "updated": "2026-07-20T00:20:38.188712+00:00",
+  "count": 215,
+  "course_count": 89,
+  "news_count": 126,
   "items": [
     {
       "id": "6581b870efd0",
@@ -115,6 +115,16 @@
       "url": "https://jcmit2026.medinfo.org.tw/"
     },
     {
+      "id": "d480ed6083eb",
+      "title": "轉知衛生福利部疾病管制署來函-有關「抗生素管理手冊」及「侵入性醫療處置組合式照護工作手冊」",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-04-22",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1569"
+    },
+    {
       "id": "2847c76d4063",
       "title": "2026.4.22-23 6th World Sepsis Congress 各專題錄影, 歡迎觀看分享",
       "source": "中華民國重症醫學會",
@@ -143,6 +153,16 @@
       "date": "2026-05-15",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1582"
+    },
+    {
+      "id": "d15a8ee5a5b1",
+      "title": "轉知「第一屆亞太在宅急症照護國際研討會 APHaH 2026」舉辦訊息",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-05-18",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1585"
     },
     {
       "id": "73bf0633f23b",
@@ -1335,6 +1355,56 @@
       "url": "https://www.jems.com/news/"
     },
     {
+      "id": "cc05242f9202",
+      "title": "Event & Expedition Medic Provision",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
+    },
+    {
+      "id": "36dc95e80ac8",
+      "title": "Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
+    },
+    {
+      "id": "cdc892f17af7",
+      "title": "Expedition & Wilderness Medicine",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
+    },
+    {
+      "id": "55342de8b5f8",
+      "title": "WEMFund Prolonged Field Care Course",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
+    },
+    {
+      "id": "17f164e2e04b",
+      "title": "All Extreme Medicine Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
+    },
+    {
       "id": "b8d5eb07b1d3",
       "title": "Course Curriculum",
       "source": "ERC",
@@ -1763,56 +1833,6 @@
       "date": null,
       "deadline": null,
       "url": "https://ctoms.ca/collections/tactical-clothing"
-    },
-    {
-      "id": "3f6989d40c6b",
-      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/"
-    },
-    {
-      "id": "df37b5e4d0b7",
-      "title": "Defense Committees on Trauma",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/committees/dcot"
-    },
-    {
-      "id": "2456a0f7da29",
-      "title": "Joint Trauma Education and Training (JTET) Branch",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/education/jtet_branch"
-    },
-    {
-      "id": "a461b6dfd9fe",
-      "title": "Trauma Care Resources",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/education/resources"
-    },
-    {
-      "id": "c60c443544a6",
-      "title": "Clinical Practice Guidelines (CPGs)",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
     },
     {
       "id": "1d5a35aee639",
