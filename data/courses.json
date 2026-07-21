@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-21T17:03:36.827011+00:00",
-  "count": 233,
-  "course_count": 99,
+  "updated": "2026-07-21T21:49:32.475708+00:00",
+  "count": 231,
+  "course_count": 97,
   "news_count": 134,
   "items": [
     {
@@ -1383,26 +1383,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/emson-advocacy/workplace-ohca-aed/"
-    },
-    {
-      "id": "c302a6b91021",
-      "title": "Learn CPR",
-      "source": "AHA — American Heart Association",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://cpr.heart.org/en/"
-    },
-    {
-      "id": "e73de285a210",
-      "title": "CPR & ECC",
-      "source": "AHA — American Heart Association",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://cpr.heart.org/en/"
     },
     {
       "id": "b22c2e9061fd",
