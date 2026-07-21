@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-21T00:18:06.961057+00:00",
-  "count": 230,
-  "course_count": 99,
-  "news_count": 131,
+  "updated": "2026-07-21T10:56:05.357165+00:00",
+  "count": 226,
+  "course_count": 97,
+  "news_count": 129,
   "items": [
     {
       "id": "6eaabf54559d",
@@ -465,14 +465,14 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/71.html"
     },
     {
-      "id": "2858ff163761",
-      "title": "第9梯次及第10次ATLS再認證課程如期辦理...",
+      "id": "e03d91dc067f",
+      "title": "【ATLS報名】115年度「一般」課程報名資訊（含報名表）115.07.02更新...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/70.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/68.html"
     },
     {
       "id": "86005a8326cc",
@@ -663,26 +663,6 @@
       "date": null,
       "deadline": null,
       "url": "https://tamis.org.tw/activity/44/1257"
-    },
-    {
-      "id": "32dbb30467e3",
-      "title": "★★★ 學會醫事課程開課一覽表 ★★★",
-      "source": "臺灣醫事繼續教育學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=3"
-    },
-    {
-      "id": "9e13e8fac463",
-      "title": "★★★ 高雄中山、鳯山、路竹、台中教室長照課程開課一覽表 ★★★",
-      "source": "臺灣醫事繼續教育學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106"
     },
     {
       "id": "3a5e55368bd3",
@@ -1382,7 +1362,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/emson-advocacy/__trashed/"
+      "url": "https://www.hear-aed.com.tw/news/emson-advocacy/workplace-ohca-aed/"
     },
     {
       "id": "c302a6b91021",
@@ -1473,16 +1453,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "c43042ee02ee",
-      "title": "MO Temple Donates Ambulance to Israel in Remembrance of Shooting Victims",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/mo-temple-donates-ambulance-to-israel-in-remembrance-of-shooting-victims/"
     },
     {
       "id": "cc05242f9202",
@@ -1935,56 +1905,6 @@
       "url": "https://ctoms.ca/collections/tactical-clothing"
     },
     {
-      "id": "3f6989d40c6b",
-      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/"
-    },
-    {
-      "id": "df37b5e4d0b7",
-      "title": "Defense Committees on Trauma",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/committees/dcot"
-    },
-    {
-      "id": "2456a0f7da29",
-      "title": "Joint Trauma Education and Training (JTET) Branch",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/education/jtet_branch"
-    },
-    {
-      "id": "a461b6dfd9fe",
-      "title": "Trauma Care Resources",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/education/resources"
-    },
-    {
-      "id": "c60c443544a6",
-      "title": "Clinical Practice Guidelines (CPGs)",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
-    },
-    {
       "id": "1d5a35aee639",
       "title": "Future Training and Education Events",
       "source": "SOMA",
@@ -2303,6 +2223,46 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-225542v1?rss=1"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/Suppl_2"
     }
   ]
 }
