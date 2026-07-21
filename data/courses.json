@@ -1,28 +1,18 @@
 {
-  "updated": "2026-07-20T20:17:34.657811+00:00",
-  "count": 225,
-  "course_count": 94,
+  "updated": "2026-07-21T00:18:06.961057+00:00",
+  "count": 230,
+  "course_count": 99,
   "news_count": 131,
   "items": [
     {
-      "id": "6581b870efd0",
-      "title": "115年度中毒個案討論會–中區 社團法人台灣急診醫學會、秀傳紀念醫院",
+      "id": "6eaabf54559d",
+      "title": "急診外傷訓練(ETTC)課程 國立臺北護理健康大學",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-07-20",
-      "deadline": "2026-07-20",
-      "url": "https://www.sem.org.tw/Activity/A/Details/32964"
-    },
-    {
-      "id": "8aa4ac76bb62",
-      "title": "「115年度醫療整備計畫」(非外科系)醫事人員外傷照護訓練課程【高屏區】 衛生福利部、急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-22",
-      "deadline": "2026-07-22",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33136"
+      "date": "2026-07-25",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33057"
     },
     {
       "id": "5bd23fc6becf",
@@ -73,6 +63,16 @@
       "date": "2026-07-31",
       "deadline": "2026-07-31",
       "url": "https://www.sem.org.tw/Activity/A/Details/33137"
+    },
+    {
+      "id": "75a5f3c487e9",
+      "title": "外傷繼續教育訓練課程 國防醫學大學三軍總醫院澎湖分院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-31",
+      "deadline": "2026-07-31",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33115"
     },
     {
       "id": "fa10de726c18",
@@ -1483,6 +1483,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/mo-temple-donates-ambulance-to-israel-in-remembrance-of-shooting-victims/"
+    },
+    {
+      "id": "cc05242f9202",
+      "title": "Event & Expedition Medic Provision",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
+    },
+    {
+      "id": "36dc95e80ac8",
+      "title": "Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
+    },
+    {
+      "id": "cdc892f17af7",
+      "title": "Expedition & Wilderness Medicine",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
+    },
+    {
+      "id": "55342de8b5f8",
+      "title": "WEMFund Prolonged Field Care Course",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
+    },
+    {
+      "id": "17f164e2e04b",
+      "title": "All Extreme Medicine Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
     },
     {
       "id": "b8d5eb07b1d3",
