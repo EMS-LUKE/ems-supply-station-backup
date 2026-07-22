@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-21T21:49:32.475708+00:00",
-  "count": 231,
-  "course_count": 97,
-  "news_count": 134,
+  "updated": "2026-07-22T09:21:37.407595+00:00",
+  "count": 230,
+  "course_count": 99,
+  "news_count": 131,
   "items": [
     {
       "id": "6eaabf54559d",
@@ -235,26 +235,6 @@
       "url": "https://jcmit2026.medinfo.org.tw/"
     },
     {
-      "id": "d480ed6083eb",
-      "title": "轉知衛生福利部疾病管制署來函-有關「抗生素管理手冊」及「侵入性醫療處置組合式照護工作手冊」",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-04-22",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1569"
-    },
-    {
-      "id": "2847c76d4063",
-      "title": "2026.4.22-23 6th World Sepsis Congress 各專題錄影, 歡迎觀看分享",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-04-22",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/931.html"
-    },
-    {
       "id": "2ac09c278563",
       "title": "公告「2026年EMS傑出成就獎」獲獎人員。",
       "source": "台灣急診醫學會",
@@ -425,6 +405,16 @@
       "url": "http://course.tsccm.org.tw/df_info.asp?/967.html"
     },
     {
+      "id": "2312ed696d10",
+      "title": "115年秋季學術研會，歡迎踴躍報名...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/77.html"
+    },
+    {
       "id": "1923f6f766a9",
       "title": "【ATLS課表公告】115年度第5梯次ATLS課程（淡水馬偕醫院）...",
       "source": "台灣外傷醫學會",
@@ -463,16 +453,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/71.html"
-    },
-    {
-      "id": "e03d91dc067f",
-      "title": "【ATLS報名】115年度「一般」課程報名資訊（含報名表）115.07.02更新...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/68.html"
     },
     {
       "id": "86005a8326cc",
@@ -885,6 +865,16 @@
       "url": "https://www.tana.org.tw/news/news_info.asp?/1084.html"
     },
     {
+      "id": "41a38fc41bcd",
+      "title": "代登~ 2026 臺灣心臟胸腔暨血管麻醉醫學會 年會暨國際學術研討會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/797.html"
+    },
+    {
       "id": "787fcef26734",
       "title": "代登~~115 年 診所病人安全年度目標推廣課程（美醫視訊場）",
       "source": "台灣麻醉專科護理學會",
@@ -893,16 +883,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/795.html"
-    },
-    {
-      "id": "c6c9241645a1",
-      "title": "115年麻醉實證研究與專一逆轉劑照護工作坊-嘉義場",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/794.html"
     },
     {
       "id": "7f4077aab8c4",
@@ -943,16 +923,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
-    },
-    {
-      "id": "7932017bfcfc",
-      "title": "實證轉譯與病人安全於麻醉護理之應用：CRNA/DNP教育論壇~~全英文授課",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/792.html"
     },
     {
       "id": "5bfcff8d3c72",
@@ -1383,6 +1353,26 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/emson-advocacy/workplace-ohca-aed/"
+    },
+    {
+      "id": "c302a6b91021",
+      "title": "Learn CPR",
+      "source": "AHA — American Heart Association",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://cpr.heart.org/en/"
+    },
+    {
+      "id": "e73de285a210",
+      "title": "CPR & ECC",
+      "source": "AHA — American Heart Association",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://cpr.heart.org/en/"
     },
     {
       "id": "b22c2e9061fd",
@@ -2282,7 +2272,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-225542v1?rss=1"
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/7/e109259?rss=1"
     },
     {
       "id": "8d656ad77115",
