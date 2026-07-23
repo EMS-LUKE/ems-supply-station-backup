@@ -1,19 +1,9 @@
 {
-  "updated": "2026-07-22T21:46:58.214221+00:00",
+  "updated": "2026-07-23T09:18:40.556556+00:00",
   "count": 230,
   "course_count": 99,
   "news_count": 131,
   "items": [
-    {
-      "id": "6eaabf54559d",
-      "title": "急診外傷訓練(ETTC)課程 國立臺北護理健康大學",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33057"
-    },
     {
       "id": "5bd23fc6becf",
       "title": "2026 Ai實證簡報力工作坊",
@@ -73,6 +63,16 @@
       "date": "2026-07-31",
       "deadline": "2026-07-31",
       "url": "https://www.sem.org.tw/Activity/B/Details/33115"
+    },
+    {
+      "id": "60cd9568bd1a",
+      "title": "115年度化學物質緊急事件醫療應變訓練 衛生福利部東區緊急醫療應變中心、佛教慈濟醫療財團法人花蓮慈濟醫院、台東馬偕紀念醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-31",
+      "deadline": "2026-07-31",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33107"
     },
     {
       "id": "fa10de726c18",
@@ -865,6 +865,16 @@
       "url": "https://www.tana.org.tw/news/news_info.asp?/1084.html"
     },
     {
+      "id": "10a585ef7f40",
+      "title": "115年麻醉專科護理師甄審口試模擬教學課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
+    },
+    {
       "id": "41a38fc41bcd",
       "title": "代登~ 2026 臺灣心臟胸腔暨血管麻醉醫學會 年會暨國際學術研討會",
       "source": "台灣麻醉專科護理學會",
@@ -873,16 +883,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/797.html"
-    },
-    {
-      "id": "787fcef26734",
-      "title": "代登~~115 年 診所病人安全年度目標推廣課程（美醫視訊場）",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/795.html"
     },
     {
       "id": "7f4077aab8c4",
@@ -2272,7 +2272,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/7/e109259?rss=1"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100374.short?rss=1"
     },
     {
       "id": "8d656ad77115",
