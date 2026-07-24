@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-24T09:15:27.436759+00:00",
-  "count": 225,
-  "course_count": 98,
+  "updated": "2026-07-24T17:18:26.350661+00:00",
+  "count": 215,
+  "course_count": 88,
   "news_count": 127,
   "items": [
     {
@@ -1065,56 +1065,6 @@
       "url": "https://taiwanwma.org/activities?activity=3"
     },
     {
-      "id": "91790bdbec7d",
-      "title": "CPR+AED完整版3小時課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://sfast.innosoft.com.tw/iplm/pages/b.aspx?page=in_Meeting_list_A.html&method=In_MeetingUserResponse&in_meetingid=297C8E0AF68B4B609134923DF1F22659"
-    },
-    {
-      "id": "bf3f0e1ba292",
-      "title": "AED管理員4小時教育訓練",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/qKa2WE"
-    },
-    {
-      "id": "e0f77ddf7472",
-      "title": "基本救命術指導員BLS-I課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/eVQggR"
-    },
-    {
-      "id": "5bc9921519e2",
-      "title": "基本救命術BLS4小時課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/4bYO9v"
-    },
-    {
-      "id": "a2470c9c35e4",
-      "title": "基本救命術BLS8小時課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/aMEgWl"
-    },
-    {
       "id": "a8949ae88118",
       "title": "2023年活動花絮集",
       "source": "復甦照護小學堂",
@@ -1445,64 +1395,14 @@
       "url": "https://www.jems.com/news/"
     },
     {
-      "id": "d46db9198342",
-      "title": "Venezuela Confirms Three People Have Died of Hantavirus Infections, Two More Deaths Suspected",
+      "id": "e64c409b4f03",
+      "title": "Girl, 16, Suffers Serious Injuries After Striking Beam Subway Surfing in NYC",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/venezuela-confirms-three-people-have-died-of-hantavirus-infections-two-more-deaths-suspected/"
-    },
-    {
-      "id": "cc05242f9202",
-      "title": "Event & Expedition Medic Provision",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
-    },
-    {
-      "id": "36dc95e80ac8",
-      "title": "Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
-    },
-    {
-      "id": "cdc892f17af7",
-      "title": "Expedition & Wilderness Medicine",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
-    },
-    {
-      "id": "55342de8b5f8",
-      "title": "WEMFund Prolonged Field Care Course",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
-    },
-    {
-      "id": "17f164e2e04b",
-      "title": "All Extreme Medicine Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
+      "url": "https://www.jems.com/news/girl-16-suffers-serious-injuries-after-striking-beam-subway-surfing-in-nyc/"
     },
     {
       "id": "b8d5eb07b1d3",
