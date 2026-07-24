@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-24T19:17:37.936710+00:00",
-  "count": 230,
-  "course_count": 98,
-  "news_count": 132,
+  "updated": "2026-07-24T22:01:27.783094+00:00",
+  "count": 216,
+  "course_count": 89,
+  "news_count": 127,
   "items": [
     {
       "id": "5bd23fc6becf",
@@ -1375,56 +1375,6 @@
       "url": "https://cpr.heart.org/en/"
     },
     {
-      "id": "b22c2e9061fd",
-      "title": "Contact ITLS",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/leadership/staff/"
-    },
-    {
-      "id": "3a4af6f5d51b",
-      "title": "About ITLS",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/itls/about-itls/"
-    },
-    {
-      "id": "4b1e41b3315a",
-      "title": "ITLS Approach",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/itls-approach/"
-    },
-    {
-      "id": "a420ea5ad93b",
-      "title": "ITLS Strategic Plan",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/itls/itls-strategic-plan/"
-    },
-    {
-      "id": "179ef925b4dd",
-      "title": "Why ITLS",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/compare-itls/"
-    },
-    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -1895,56 +1845,6 @@
       "url": "https://ctoms.ca/collections/tactical-clothing"
     },
     {
-      "id": "3f6989d40c6b",
-      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/"
-    },
-    {
-      "id": "df37b5e4d0b7",
-      "title": "Defense Committees on Trauma",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/committees/dcot"
-    },
-    {
-      "id": "2456a0f7da29",
-      "title": "Joint Trauma Education and Training (JTET) Branch",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/education/jtet_branch"
-    },
-    {
-      "id": "a461b6dfd9fe",
-      "title": "Trauma Care Resources",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/education/resources"
-    },
-    {
-      "id": "c60c443544a6",
-      "title": "Clinical Practice Guidelines (CPGs)",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
-    },
-    {
       "id": "1d5a35aee639",
       "title": "Future Training and Education Events",
       "source": "SOMA",
@@ -2173,46 +2073,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
-    },
-    {
-      "id": "bf8f132c31a9",
-      "title": "Dive Medicine Training",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "javascript:;"
-    },
-    {
-      "id": "a7aa4fef7df2",
-      "title": "Diver's Alert Network Courses",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://trilogyems.com/dan"
-    },
-    {
-      "id": "91ee2fa9a53a",
-      "title": "Hyperbaric Chamber Training",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://trilogyems.com/about"
-    },
-    {
-      "id": "3e7601b7e759",
-      "title": "TECC Instructor Course",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://trilogyems.com/courses/teccinstructor"
     },
     {
       "id": "67b694b172c8",
