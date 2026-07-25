@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-25T10:24:35.607059+00:00",
-  "count": 229,
-  "course_count": 95,
+  "updated": "2026-07-25T13:07:32.581393+00:00",
+  "count": 225,
+  "course_count": 91,
   "news_count": 134,
   "items": [
     {
@@ -2163,46 +2163,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
-    },
-    {
-      "id": "bf8f132c31a9",
-      "title": "Dive Medicine Training",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "javascript:;"
-    },
-    {
-      "id": "a7aa4fef7df2",
-      "title": "Diver's Alert Network Courses",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://trilogyems.com/dan"
-    },
-    {
-      "id": "91ee2fa9a53a",
-      "title": "Hyperbaric Chamber Training",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://trilogyems.com/about"
-    },
-    {
-      "id": "3e7601b7e759",
-      "title": "TECC Instructor Course",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://trilogyems.com/courses/teccinstructor"
     },
     {
       "id": "67b694b172c8",
