@@ -1,39 +1,9 @@
 {
-  "updated": "2026-07-25T07:55:22.076548+00:00",
-  "count": 232,
-  "course_count": 98,
+  "updated": "2026-07-25T10:24:35.607059+00:00",
+  "count": 229,
+  "course_count": 95,
   "news_count": 134,
   "items": [
-    {
-      "id": "5bd23fc6becf",
-      "title": "2026 Ai實證簡報力工作坊",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list/view/4cb9057694d6a3a1b49e6cf5da5743e2"
-    },
-    {
-      "id": "adf23d0371a6",
-      "title": "2026/07/25(六) Ai實證簡報力工作坊2026-03-21",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "f224c9d93e14",
-      "title": "2026/07/25(六) Ai實證簡報力工作坊",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-25",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
     {
       "id": "44140ae5ad0b",
       "title": "115年師資培育工作坊 (中區) 社團法人台灣急診醫學會、中山醫學大學附設醫院",
