@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-26T05:55:12.316324+00:00",
-  "count": 226,
-  "course_count": 95,
-  "news_count": 131,
+  "updated": "2026-07-26T08:13:35.360197+00:00",
+  "count": 220,
+  "course_count": 90,
+  "news_count": 130,
   "items": [
     {
       "id": "e8a2cd2fe293",
@@ -1895,56 +1895,6 @@
       "url": "https://ctoms.ca/collections/tactical-clothing"
     },
     {
-      "id": "3f6989d40c6b",
-      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/"
-    },
-    {
-      "id": "df37b5e4d0b7",
-      "title": "Defense Committees on Trauma",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/committees/dcot"
-    },
-    {
-      "id": "2456a0f7da29",
-      "title": "Joint Trauma Education and Training (JTET) Branch",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/education/jtet_branch"
-    },
-    {
-      "id": "a461b6dfd9fe",
-      "title": "Trauma Care Resources",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/education/resources"
-    },
-    {
-      "id": "c60c443544a6",
-      "title": "Clinical Practice Guidelines (CPGs)",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
-    },
-    {
       "id": "1d5a35aee639",
       "title": "Future Training and Education Events",
       "source": "SOMA",
@@ -2215,54 +2165,44 @@
       "url": "https://trilogyems.com/courses/teccinstructor"
     },
     {
-      "id": "67b694b172c8",
-      "title": "americanemtacademy@gmail.com",
-      "source": "American EMT Academy",
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
       "cat": "國際期刊/組織",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
-      "url": "mailto:americanemtacademy@gmail.com"
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/7/e119564?rss=1"
     },
     {
-      "id": "37f7c8e3654e",
-      "title": "(EMT) Emergency Medical Technician – Basic",
-      "source": "American EMT Academy",
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://americanemtacademy.com/emt-program-emergency-medical-technician-basic/"
+      "url": "https://emj.bmj.com/content/early/recent"
     },
     {
-      "id": "7d03b842c725",
-      "title": "Sign Up For A Class",
-      "source": "American EMT Academy",
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://americanemtacademy.com/emt-classes/"
+      "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "7e1e1383bef2",
-      "title": "EMT Prep Course",
-      "source": "American EMT Academy",
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://americanemtacademy.com/emt-prep-course/"
-    },
-    {
-      "id": "1577cb4e5b37",
-      "title": "Hybrid Online EMT course",
-      "source": "American EMT Academy",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
+      "url": "https://emj.bmj.com/content/43/7"
     }
   ]
 }
