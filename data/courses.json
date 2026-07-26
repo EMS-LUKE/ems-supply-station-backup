@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-26T08:13:35.360197+00:00",
-  "count": 220,
-  "course_count": 90,
+  "updated": "2026-07-26T10:33:58.664416+00:00",
+  "count": 225,
+  "course_count": 95,
   "news_count": 130,
   "items": [
     {
@@ -2163,6 +2163,56 @@
       "date": null,
       "deadline": null,
       "url": "https://trilogyems.com/courses/teccinstructor"
+    },
+    {
+      "id": "67b694b172c8",
+      "title": "americanemtacademy@gmail.com",
+      "source": "American EMT Academy",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "mailto:americanemtacademy@gmail.com"
+    },
+    {
+      "id": "37f7c8e3654e",
+      "title": "(EMT) Emergency Medical Technician – Basic",
+      "source": "American EMT Academy",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://americanemtacademy.com/emt-program-emergency-medical-technician-basic/"
+    },
+    {
+      "id": "7d03b842c725",
+      "title": "Sign Up For A Class",
+      "source": "American EMT Academy",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://americanemtacademy.com/emt-classes/"
+    },
+    {
+      "id": "7e1e1383bef2",
+      "title": "EMT Prep Course",
+      "source": "American EMT Academy",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://americanemtacademy.com/emt-prep-course/"
+    },
+    {
+      "id": "1577cb4e5b37",
+      "title": "Hybrid Online EMT course",
+      "source": "American EMT Academy",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
     },
     {
       "id": "42f64ad0e369",
