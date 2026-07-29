@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-29T19:03:13.946732+00:00",
-  "count": 224,
-  "course_count": 93,
-  "news_count": 131,
+  "updated": "2026-07-29T21:54:53.168454+00:00",
+  "count": 220,
+  "course_count": 88,
+  "news_count": 132,
   "items": [
     {
       "id": "b6b63f9de79d",
@@ -1205,6 +1205,16 @@
       "url": "https://www.anne.education/campus.html"
     },
     {
+      "id": "c9bc7d463306",
+      "title": "翻轉CPR",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/flippedcpr.html"
+    },
+    {
       "id": "1a7323e30be9",
       "title": "2026母親節節慶關懷系列活動",
       "source": "臺大兒童醫院",
@@ -1433,56 +1443,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "cc05242f9202",
-      "title": "Event & Expedition Medic Provision",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
-    },
-    {
-      "id": "36dc95e80ac8",
-      "title": "Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
-    },
-    {
-      "id": "cdc892f17af7",
-      "title": "Expedition & Wilderness Medicine",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
-    },
-    {
-      "id": "55342de8b5f8",
-      "title": "WEMFund Prolonged Field Care Course",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
-    },
-    {
-      "id": "17f164e2e04b",
-      "title": "All Extreme Medicine Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
     },
     {
       "id": "b8d5eb07b1d3",
