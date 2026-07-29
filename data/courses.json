@@ -1,19 +1,9 @@
 {
-  "updated": "2026-07-28T22:01:02.093617+00:00",
-  "count": 204,
-  "course_count": 80,
-  "news_count": 124,
+  "updated": "2026-07-29T01:51:20.289871+00:00",
+  "count": 218,
+  "course_count": 92,
+  "news_count": 126,
   "items": [
-    {
-      "id": "44140ae5ad0b",
-      "title": "115年師資培育工作坊 (中區) 社團法人台灣急診醫學會、中山醫學大學附設醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-28",
-      "deadline": "2026-07-13",
-      "url": "https://www.sem.org.tw/Activity/A/Details/32647"
-    },
     {
       "id": "b6b63f9de79d",
       "title": "化學災害醫療應變醫護人員進階教育訓練 臺灣大學醫學院附設醫院新竹臺大分院新竹醫院、臺灣大學醫學院附設醫院",
@@ -1165,64 +1155,124 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
-      "id": "9a9995a5da7d",
-      "title": "安妮怎麼了？－急救教育設計服務",
+      "id": "96aeeb9948f7",
+      "title": "CPR+AED",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/"
+      "url": "https://school.anne.education/course-category/cpi-aed/?tutor-course-filter-category=110"
     },
     {
-      "id": "ed3caa0dfe34",
-      "title": "全民學急救",
+      "id": "72feeda9299f",
+      "title": "[第一階段線上] CPR+AED知識課程",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/firstaid.html"
+      "url": "https://school.anne.education/courses/cpraed/"
     },
     {
-      "id": "74618323376f",
-      "title": "無意識且沒有正常呼吸(CPR+AED)",
+      "id": "ae1bfe2ab10d",
+      "title": "http://saveanne.tw/CPRAnneTaipei12024",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/f1ohca.html"
+      "url": "http://saveanne.tw/CPRAnneTaipei12024"
     },
     {
-      "id": "17dbb796794e",
-      "title": "翻轉急救｜CPR+AED",
+      "id": "00a1a278ed65",
+      "title": "http://saveanne.tw/CPRVisionTaichung1",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
+      "url": "http://saveanne.tw/CPRVisionTaichung1"
     },
     {
-      "id": "77986d080e7b",
-      "title": "校園急救教育支持計畫",
-      "source": "安妮怎麼了",
+      "id": "1a7323e30be9",
+      "title": "2026母親節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/campus.html"
+      "url": "https://www.ntuh.gov.tw"
     },
     {
-      "id": "c9bc7d463306",
-      "title": "翻轉CPR",
-      "source": "安妮怎麼了",
+      "id": "9fdb080fb678",
+      "title": "2026兒童節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "79f4d8162d0b",
+      "title": "2025兒童醫院聖誕節慶活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "a5c9190b67c3",
+      "title": "臺大醫院131週年院慶舉辦數位與智慧醫療國際研討會 聚焦機器人與AI創新應用 攜手國際專家共創智慧醫療新未來",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/News.action?q_type=-1&q_itemCode=19059"
+    },
+    {
+      "id": "ed2ee3e5b76a",
+      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
+    },
+    {
+      "id": "ed1866c01f90",
+      "title": "【家庭資源中心閉館公告】",
+      "source": "臺大兒童醫院",
       "cat": "台灣急救社群",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
+    },
+    {
+      "id": "9b54876f3cd3",
+      "title": "115年農曆春節本院服務公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
+    },
+    {
+      "id": "c32df82d097f",
+      "title": "115年農曆春節假期特設「傳染病特別診」公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
       "id": "f3c454cbadc0",
@@ -2043,6 +2093,96 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
+    },
+    {
+      "id": "bf8f132c31a9",
+      "title": "Dive Medicine Training",
+      "source": "Trilogy EMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "javascript:;"
+    },
+    {
+      "id": "a7aa4fef7df2",
+      "title": "Diver's Alert Network Courses",
+      "source": "Trilogy EMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://trilogyems.com/dan"
+    },
+    {
+      "id": "91ee2fa9a53a",
+      "title": "Hyperbaric Chamber Training",
+      "source": "Trilogy EMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://trilogyems.com/about"
+    },
+    {
+      "id": "3e7601b7e759",
+      "title": "TECC Instructor Course",
+      "source": "Trilogy EMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://trilogyems.com/courses/teccinstructor"
+    },
+    {
+      "id": "67b694b172c8",
+      "title": "americanemtacademy@gmail.com",
+      "source": "American EMT Academy",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "mailto:americanemtacademy@gmail.com"
+    },
+    {
+      "id": "37f7c8e3654e",
+      "title": "(EMT) Emergency Medical Technician – Basic",
+      "source": "American EMT Academy",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://americanemtacademy.com/emt-program-emergency-medical-technician-basic/"
+    },
+    {
+      "id": "7d03b842c725",
+      "title": "Sign Up For A Class",
+      "source": "American EMT Academy",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://americanemtacademy.com/emt-classes/"
+    },
+    {
+      "id": "7e1e1383bef2",
+      "title": "EMT Prep Course",
+      "source": "American EMT Academy",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://americanemtacademy.com/emt-prep-course/"
+    },
+    {
+      "id": "1577cb4e5b37",
+      "title": "Hybrid Online EMT course",
+      "source": "American EMT Academy",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
     }
   ]
 }
