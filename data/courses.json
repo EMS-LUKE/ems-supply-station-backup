@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-29T08:26:18.592399+00:00",
-  "count": 225,
+  "updated": "2026-07-29T11:18:38.665340+00:00",
+  "count": 226,
   "course_count": 93,
-  "news_count": 132,
+  "news_count": 133,
   "items": [
     {
       "id": "b6b63f9de79d",
@@ -1415,6 +1415,16 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
+      "id": "7094982f514e",
+      "title": "Federal Survey Shows Promising Trends for Youth Mental Health and Drug Use",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/federal-survey-shows-promising-trends-for-youth-mental-health-and-drug-use/"
+    },
+    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -1423,16 +1433,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/news-feed/"
-    },
-    {
-      "id": "3d837bd78c51",
-      "title": "LifeSaver Upgrades AL Air Medical Fleet with Three New Bell 407 Helicopters",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/lifesaver-upgrades-al-air-medical-fleet-with-three-new-bell-407-helicopters/"
     },
     {
       "id": "98860142062c",
@@ -2253,6 +2253,16 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-339715v1?rss=1"
     }
   ]
 }
