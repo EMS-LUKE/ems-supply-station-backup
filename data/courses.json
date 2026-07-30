@@ -1,9 +1,19 @@
 {
-  "updated": "2026-07-30T01:33:25.725528+00:00",
-  "count": 220,
-  "course_count": 88,
+  "updated": "2026-07-30T05:35:32.813884+00:00",
+  "count": 225,
+  "course_count": 93,
   "news_count": 132,
   "items": [
+    {
+      "id": "ff430ef38337",
+      "title": "115年十大優秀急診護理師推薦辦法",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-30",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1454"
+    },
     {
       "id": "fa10de726c18",
       "title": "急性中毒救命課程（AILS Training Course）-115年第3場 社團法人台灣急診醫學會、中國醫藥大學附設醫院",
@@ -353,16 +363,6 @@
       "date": "2026-07-29",
       "deadline": "2026-07-29",
       "url": "https://www.sem.org.tw/Activity/B/Details/33019"
-    },
-    {
-      "id": "36a3bf466827",
-      "title": "115年臨床毒藥物專科醫師訓練計畫招生公告",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1633"
     },
     {
       "id": "57654c31c3ba",
@@ -1205,6 +1205,16 @@
       "url": "https://www.anne.education/campus.html"
     },
     {
+      "id": "c9bc7d463306",
+      "title": "翻轉CPR",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/flippedcpr.html"
+    },
+    {
       "id": "1a7323e30be9",
       "title": "2026母親節節慶關懷系列活動",
       "source": "臺大兒童醫院",
@@ -1433,6 +1443,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "cc05242f9202",
+      "title": "Event & Expedition Medic Provision",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
+    },
+    {
+      "id": "36dc95e80ac8",
+      "title": "Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
+    },
+    {
+      "id": "cdc892f17af7",
+      "title": "Expedition & Wilderness Medicine",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
+    },
+    {
+      "id": "55342de8b5f8",
+      "title": "WEMFund Prolonged Field Care Course",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
+    },
+    {
+      "id": "17f164e2e04b",
+      "title": "All Extreme Medicine Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
     },
     {
       "id": "b8d5eb07b1d3",
@@ -2193,16 +2253,6 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2026-339391v1?rss=1"
     }
   ]
 }
