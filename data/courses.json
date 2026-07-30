@@ -1,29 +1,9 @@
 {
-  "updated": "2026-07-29T21:54:53.168454+00:00",
+  "updated": "2026-07-30T01:33:25.725528+00:00",
   "count": 220,
   "course_count": 88,
   "news_count": 132,
   "items": [
-    {
-      "id": "b6b63f9de79d",
-      "title": "化學災害醫療應變醫護人員進階教育訓練 臺灣大學醫學院附設醫院新竹臺大分院新竹醫院、臺灣大學醫學院附設醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-07-29",
-      "deadline": "2026-07-29",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33019"
-    },
-    {
-      "id": "36a3bf466827",
-      "title": "115年臨床毒藥物專科醫師訓練計畫招生公告",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1633"
-    },
     {
       "id": "fa10de726c18",
       "title": "急性中毒救命課程（AILS Training Course）-115年第3場 社團法人台灣急診醫學會、中國醫藥大學附設醫院",
@@ -363,6 +343,26 @@
       "date": "2026-07-27",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1631"
+    },
+    {
+      "id": "b6b63f9de79d",
+      "title": "化學災害醫療應變醫護人員進階教育訓練 臺灣大學醫學院附設醫院新竹臺大分院新竹醫院、臺灣大學醫學院附設醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-07-29",
+      "deadline": "2026-07-29",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33019"
+    },
+    {
+      "id": "36a3bf466827",
+      "title": "115年臨床毒藥物專科醫師訓練計畫招生公告",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1633"
     },
     {
       "id": "57654c31c3ba",
@@ -1203,16 +1203,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/campus.html"
-    },
-    {
-      "id": "c9bc7d463306",
-      "title": "翻轉CPR",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
     },
     {
       "id": "1a7323e30be9",
@@ -2203,6 +2193,16 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2026-339391v1?rss=1"
     }
   ]
 }
