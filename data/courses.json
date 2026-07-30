@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-30T08:13:31.396964+00:00",
-  "count": 223,
+  "updated": "2026-07-30T11:03:31.041240+00:00",
+  "count": 224,
   "course_count": 93,
-  "news_count": 130,
+  "news_count": 131,
   "items": [
     {
       "id": "ff430ef38337",
@@ -895,6 +895,26 @@
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
     },
     {
+      "id": "b098da9f2e27",
+      "title": "理事長的話",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.sma.org.tw/index.html"
+    },
+    {
+      "id": "b262c448b308",
+      "title": "本屆理監事",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.sma.org.tw/about3.html"
+    },
+    {
       "id": "5bfcff8d3c72",
       "title": "理監事名單",
       "source": "台灣運動醫學醫學會",
@@ -1403,16 +1423,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/news-feed/"
-    },
-    {
-      "id": "7094982f514e",
-      "title": "Federal Survey Shows Promising Trends for Youth Mental Health and Drug Use",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/federal-survey-shows-promising-trends-for-youth-mental-health-and-drug-use/"
     },
     {
       "id": "98860142062c",
