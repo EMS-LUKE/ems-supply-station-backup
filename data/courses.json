@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-31T08:46:21.132451+00:00",
-  "count": 221,
-  "course_count": 93,
+  "updated": "2026-07-31T11:25:47.550067+00:00",
+  "count": 216,
+  "course_count": 88,
   "news_count": 128,
   "items": [
     {
@@ -825,6 +825,16 @@
       "url": "https://www.tana.org.tw/news/news_info.asp?/1084.html"
     },
     {
+      "id": "4a249f5358dd",
+      "title": "115年冬季麻醉專科護理師學術研討會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/799.html"
+    },
+    {
       "id": "10a585ef7f40",
       "title": "115年麻醉專科護理師甄審口試模擬教學課程",
       "source": "台灣麻醉專科護理學會",
@@ -833,16 +843,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
-    },
-    {
-      "id": "41a38fc41bcd",
-      "title": "代登~ 2026 臺灣心臟胸腔暨血管麻醉醫學會 年會暨國際學術研討會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/797.html"
     },
     {
       "id": "7f4077aab8c4",
@@ -1333,56 +1333,6 @@
       "date": null,
       "deadline": null,
       "url": "https://cpr.heart.org/en/"
-    },
-    {
-      "id": "b22c2e9061fd",
-      "title": "Contact ITLS",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/leadership/staff/"
-    },
-    {
-      "id": "3a4af6f5d51b",
-      "title": "About ITLS",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/itls/about-itls/"
-    },
-    {
-      "id": "4b1e41b3315a",
-      "title": "ITLS Approach",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/itls-approach/"
-    },
-    {
-      "id": "a420ea5ad93b",
-      "title": "ITLS Strategic Plan",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/itls/itls-strategic-plan/"
-    },
-    {
-      "id": "179ef925b4dd",
-      "title": "Why ITLS",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
       "id": "a39f65225f1e",
