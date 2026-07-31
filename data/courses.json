@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-31T06:00:52.764320+00:00",
-  "count": 223,
+  "updated": "2026-07-31T08:46:21.132451+00:00",
+  "count": 221,
   "course_count": 93,
-  "news_count": 130,
+  "news_count": 128,
   "items": [
     {
       "id": "fa10de726c18",
@@ -885,26 +885,6 @@
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
     },
     {
-      "id": "b098da9f2e27",
-      "title": "理事長的話",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.sma.org.tw/index.html"
-    },
-    {
-      "id": "b262c448b308",
-      "title": "本屆理監事",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.sma.org.tw/about3.html"
-    },
-    {
       "id": "5bfcff8d3c72",
       "title": "理監事名單",
       "source": "台灣運動醫學醫學會",
@@ -995,6 +975,16 @@
       "url": "https://www.mgems.org/2026-taipei-highway-marathron/"
     },
     {
+      "id": "6a4c234af395",
+      "title": "2026年太平山蹦蹦車緊急救護演練",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/260623_tai-ping-shan-rehersal/"
+    },
+    {
       "id": "b45db06310b7",
       "title": "山海共生原遊會",
       "source": "中華民國大型活動緊急救護協會",
@@ -1003,16 +993,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.mgems.org/260608_taloan/"
-    },
-    {
-      "id": "cb82e9f03a2b",
-      "title": "2026年舒跑杯路跑賽",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.mgems.org/260510_sports-run/"
     },
     {
       "id": "e45a5f6063e9",
