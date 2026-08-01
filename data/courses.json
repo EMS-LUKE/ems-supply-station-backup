@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-01T18:59:23.382616+00:00",
-  "count": 222,
+  "updated": "2026-08-01T21:48:24.870051+00:00",
+  "count": 220,
   "course_count": 92,
-  "news_count": 130,
+  "news_count": 128,
   "items": [
     {
       "id": "fa10de726c18",
@@ -873,26 +873,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
-    },
-    {
-      "id": "b098da9f2e27",
-      "title": "理事長的話",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.sma.org.tw/index.html"
-    },
-    {
-      "id": "b262c448b308",
-      "title": "本屆理監事",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.sma.org.tw/about3.html"
     },
     {
       "id": "5bfcff8d3c72",
