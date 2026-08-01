@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-01T10:31:42.964216+00:00",
-  "count": 225,
+  "updated": "2026-08-01T13:02:35.360845+00:00",
+  "count": 222,
   "course_count": 92,
-  "news_count": 133,
+  "news_count": 130,
   "items": [
     {
       "id": "fa10de726c18",
@@ -1395,16 +1395,6 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
-      "id": "a39f65225f1e",
-      "title": "News Feed",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/news-feed/"
-    },
-    {
       "id": "98860142062c",
       "title": "Headlines",
       "source": "JEMS",
@@ -1413,6 +1403,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "a39f65225f1e",
+      "title": "News Feed",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/news-feed/"
     },
     {
       "id": "cc05242f9202",
@@ -2223,36 +2223,6 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/7"
     }
   ]
 }
