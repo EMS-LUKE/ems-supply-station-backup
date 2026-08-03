@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-03T06:15:12.983076+00:00",
-  "count": 228,
-  "course_count": 95,
-  "news_count": 133,
+  "updated": "2026-08-03T12:21:28.435016+00:00",
+  "count": 202,
+  "course_count": 90,
+  "news_count": 112,
   "items": [
     {
       "id": "667ae76795f7",
@@ -53,26 +53,6 @@
       "date": "2026-08-23",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/A/Details/33112"
-    },
-    {
-      "id": "289ecb43dfc6",
-      "title": "重症會員早鳥報名優惠-2026.9.18~20 【第七屆亞太急性腎損傷與連續性腎替代療法大會】",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/968.html"
-    },
-    {
-      "id": "83ad24e5b303",
-      "title": "徵稿中~~2026.9.18-20 International Conference on Digital Health and Medical Analytics（DHA 2026）",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/906.html"
     },
     {
       "id": "ce4831580b27",
@@ -345,16 +325,6 @@
       "url": "https://www.sem.org.tw/News/11/Details/1621"
     },
     {
-      "id": "452b7eab7397",
-      "title": "2026.7.18 台灣復甦照護學會Holistic and Patient-Centered Critical Care研討會及工作坊開放報名",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-18",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/967.html"
-    },
-    {
       "id": "e8a2cd2fe293",
       "title": "轉知「SECC Congress 2026 Taipei 暨2026急重症聯合學術年會 ＆ 第十屆亞太早期重症復健國際會議(APEM 2026)」",
       "source": "台灣急診醫學會",
@@ -383,56 +353,6 @@
       "date": "2026-07-30",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1454"
-    },
-    {
-      "id": "ab8c8c791a79",
-      "title": "【ATLS報名】115年度「再認證」課程報名資訊（含報名表）115.07.31更新...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
-    },
-    {
-      "id": "d22a43d969c1",
-      "title": "公告2026年『ATLS課程』活動計劃表【含一般課程及再認證課程】_115.07.31更新...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/80.html"
-    },
-    {
-      "id": "03b973dd810d",
-      "title": "【ATLS課表公告】115年度第11梯次ATLS再認證課程（大林慈濟醫院）...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/79.html"
-    },
-    {
-      "id": "57654c31c3ba",
-      "title": "【甄審資訊】115年專科醫師甄審公告...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/78.html"
-    },
-    {
-      "id": "2312ed696d10",
-      "title": "115年秋季學術研會，歡迎踴躍報名...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/77.html"
     },
     {
       "id": "86005a8326cc",
@@ -503,56 +423,6 @@
       "date": null,
       "deadline": null,
       "url": "https://forms.gle/RxQobu2FoVewH6Qs5"
-    },
-    {
-      "id": "5ddae5a72419",
-      "title": "ACLS 2007新課程規範",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/Academic/acls01.asp"
-    },
-    {
-      "id": "a12cd0974482",
-      "title": "ACLS 課程推薦書籍",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/Academic/acls02.asp"
-    },
-    {
-      "id": "effdca75c4e6",
-      "title": "重症課程(重症學分)",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tsccm.org.tw/od/Academic/index.asp?act_kindid=1"
-    },
-    {
-      "id": "a5ab109f670c",
-      "title": "聯甄課程(聯甄學分)",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tsccm.org.tw/od/Academic/index.asp?act_kindid=2"
-    },
-    {
-      "id": "3b881f2cc9c2",
-      "title": "申請學分(重症學分)",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/Academic/index_other.asp"
     },
     {
       "id": "47f965572631",
@@ -923,56 +793,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.sma.org.tw/about3.html"
-    },
-    {
-      "id": "5bfcff8d3c72",
-      "title": "理監事名單",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/about/index_03_a.asp"
-    },
-    {
-      "id": "52aeba42ceae",
-      "title": "委員會名單",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/about/index_03_b.asp"
-    },
-    {
-      "id": "7c813915b5bc",
-      "title": "理事長的話",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/about/index_04.asp"
-    },
-    {
-      "id": "97e6c65f194c",
-      "title": "訓練課程專區",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/EL/train_list.asp"
-    },
-    {
-      "id": "31969e1f295e",
-      "title": "研討會專區",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/EL/seminar.asp"
     },
     {
       "id": "c882249c61ba",
@@ -1443,56 +1263,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "cc05242f9202",
-      "title": "Event & Expedition Medic Provision",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
-    },
-    {
-      "id": "36dc95e80ac8",
-      "title": "Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
-    },
-    {
-      "id": "cdc892f17af7",
-      "title": "Expedition & Wilderness Medicine",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
-    },
-    {
-      "id": "55342de8b5f8",
-      "title": "WEMFund Prolonged Field Care Course",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
-    },
-    {
-      "id": "17f164e2e04b",
-      "title": "All Extreme Medicine Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
     },
     {
       "id": "b8d5eb07b1d3",
@@ -2253,36 +2023,6 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/7"
     }
   ]
 }
