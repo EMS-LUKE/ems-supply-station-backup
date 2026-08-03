@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-03T12:21:28.435016+00:00",
-  "count": 202,
+  "updated": "2026-08-03T17:11:40.696717+00:00",
+  "count": 207,
   "course_count": 90,
-  "news_count": 112,
+  "news_count": 117,
   "items": [
     {
       "id": "667ae76795f7",
@@ -685,96 +685,6 @@
       "url": "https://www.tsamairway.org.tw/2026rigistatinformation"
     },
     {
-      "id": "c471c32f474a",
-      "title": "雜誌通訊課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/ecu/ecu_ccH.asp"
-    },
-    {
-      "id": "bbf59a0ee0ad",
-      "title": "線上影像學習課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
-    },
-    {
-      "id": "90c9bbf3fb6d",
-      "title": "溫馨小提醒：有關115年麻醉實證研究與專一逆轉劑照護工作坊-嘉義場舉行與否",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1084.html"
-    },
-    {
-      "id": "4a249f5358dd",
-      "title": "115年冬季麻醉專科護理師學術研討會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/799.html"
-    },
-    {
-      "id": "10a585ef7f40",
-      "title": "115年麻醉專科護理師甄審口試模擬教學課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
-    },
-    {
-      "id": "7f4077aab8c4",
-      "title": "國際麻醉護士協會IFNA標準規範",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
-    },
-    {
-      "id": "e0909b9c6b4d",
-      "title": "代登~〔2026第二屆心安優護獎 - 臺灣優良心胸麻醉照護團隊〕",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1085.html"
-    },
-    {
-      "id": "edc0d9a86ef8",
-      "title": "恭賀~~~~本會第11屆行政委員會委員、衛生福利部臺中醫院開刀房副護理長暨麻醉專科護理師許芷寧委員，榮獲今年「臨床護理價值典範100」殊榮",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1083.html"
-    },
-    {
-      "id": "b7d3ba88a411",
-      "title": "代登~台灣麻醉醫學會雲嘉地區聯合討論會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
-    },
-    {
       "id": "b098da9f2e27",
       "title": "理事長的話",
       "source": "台灣運動醫學學會",
@@ -793,6 +703,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.sma.org.tw/about3.html"
+    },
+    {
+      "id": "5bfcff8d3c72",
+      "title": "理監事名單",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/about/index_03_a.asp"
+    },
+    {
+      "id": "52aeba42ceae",
+      "title": "委員會名單",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/about/index_03_b.asp"
+    },
+    {
+      "id": "7c813915b5bc",
+      "title": "理事長的話",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/about/index_04.asp"
+    },
+    {
+      "id": "97e6c65f194c",
+      "title": "訓練課程專區",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/EL/train_list.asp"
+    },
+    {
+      "id": "31969e1f295e",
+      "title": "研討會專區",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/EL/seminar.asp"
     },
     {
       "id": "c882249c61ba",
@@ -1263,6 +1223,66 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "9fe482a84e37",
+      "title": "GA Health System Plans Freestanding ER",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/ga-health-system-plans-freestanding-er/"
+    },
+    {
+      "id": "cc05242f9202",
+      "title": "Event & Expedition Medic Provision",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
+    },
+    {
+      "id": "36dc95e80ac8",
+      "title": "Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
+    },
+    {
+      "id": "cdc892f17af7",
+      "title": "Expedition & Wilderness Medicine",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
+    },
+    {
+      "id": "55342de8b5f8",
+      "title": "WEMFund Prolonged Field Care Course",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
+    },
+    {
+      "id": "17f164e2e04b",
+      "title": "All Extreme Medicine Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
     },
     {
       "id": "b8d5eb07b1d3",
@@ -2023,6 +2043,36 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
     }
   ]
 }
