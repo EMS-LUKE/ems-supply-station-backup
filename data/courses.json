@@ -1,9 +1,49 @@
 {
-  "updated": "2026-08-03T02:01:26.239524+00:00",
-  "count": 210,
-  "course_count": 87,
-  "news_count": 123,
+  "updated": "2026-08-03T06:15:12.983076+00:00",
+  "count": 228,
+  "course_count": 95,
+  "news_count": 133,
   "items": [
+    {
+      "id": "667ae76795f7",
+      "title": "8/8-9 ACLS急救課程 台北慈濟醫院教學部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-08",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33080"
+    },
+    {
+      "id": "29283c450fb1",
+      "title": "115 年度災難醫療救護隊訓練（第二類） 通識課程 衛生福利部南區緊急醫療應變中心",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-11",
+      "deadline": "2026-08-11",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33138"
+    },
+    {
+      "id": "87938b331fee",
+      "title": "115年度災難醫療救護隊訓練（第二類）通識課程 台大醫院、台北區ＲＥMOＣ",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-13",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33168"
+    },
+    {
+      "id": "2bb1f7cd1f43",
+      "title": "AHA ACLS provider hybrid 高雄長庚急診醫學部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-14",
+      "deadline": "2026-08-14",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33167"
+    },
     {
       "id": "fa10de726c18",
       "title": "急性中毒救命課程（AILS Training Course）-115年第3場 社團法人台灣急診醫學會、中國醫藥大學附設醫院",
@@ -535,16 +575,6 @@
       "url": "https://tamis.org.tw/activity/44/1266"
     },
     {
-      "id": "82fe82c9615f",
-      "title": "| 心臟超音波實戰課！💪 2026 POCUS Workshop 帶你打開「影像透視眼」👀 公告日期：2026 / 2 / 11",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1242"
-    },
-    {
       "id": "9510b518bf05",
       "title": "TAMIS Academy",
       "source": "台灣心肌梗塞學會",
@@ -565,6 +595,16 @@
       "url": "https://tamis.org.tw/activity/42"
     },
     {
+      "id": "d61ee024f4d1",
+      "title": "| 📣【TAMIS 超級心光大道－24首金曲】巡迴開唱：第七首《孤勇者》📣 公告日期：2026 / 8 / 3",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1270"
+    },
+    {
       "id": "4b88b52f6af4",
       "title": "| 🏆 2026 TAMIS 心肌梗塞知識王挑戰賽 熱烈報名中！ 公告日期：2026 / 7 / 27",
       "source": "台灣心肌梗塞學會",
@@ -583,16 +623,6 @@
       "date": null,
       "deadline": null,
       "url": "https://tamis.org.tw/activity/44/1261"
-    },
-    {
-      "id": "290b0969901a",
-      "title": "| 「到院前心肌梗塞救護大作戰 TAMIS Got Talent!」趣味競賽報名開跑！ 公告日期：2026 / 6 / 5",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1258"
     },
     {
       "id": "32dbb30467e3",
@@ -873,6 +903,26 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
+    },
+    {
+      "id": "b098da9f2e27",
+      "title": "理事長的話",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.sma.org.tw/index.html"
+    },
+    {
+      "id": "b262c448b308",
+      "title": "本屆理監事",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.sma.org.tw/about3.html"
     },
     {
       "id": "5bfcff8d3c72",
@@ -1395,6 +1445,56 @@
       "url": "https://www.jems.com/news/"
     },
     {
+      "id": "cc05242f9202",
+      "title": "Event & Expedition Medic Provision",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
+    },
+    {
+      "id": "36dc95e80ac8",
+      "title": "Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
+    },
+    {
+      "id": "cdc892f17af7",
+      "title": "Expedition & Wilderness Medicine",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
+    },
+    {
+      "id": "55342de8b5f8",
+      "title": "WEMFund Prolonged Field Care Course",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course"
+    },
+    {
+      "id": "17f164e2e04b",
+      "title": "All Extreme Medicine Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
+    },
+    {
       "id": "b8d5eb07b1d3",
       "title": "Course Curriculum",
       "source": "ERC",
@@ -1785,6 +1885,56 @@
       "url": "https://ctoms.ca/collections/tactical-clothing"
     },
     {
+      "id": "3f6989d40c6b",
+      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/"
+    },
+    {
+      "id": "df37b5e4d0b7",
+      "title": "Defense Committees on Trauma",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/committees/dcot"
+    },
+    {
+      "id": "2456a0f7da29",
+      "title": "Joint Trauma Education and Training (JTET) Branch",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/education/jtet_branch"
+    },
+    {
+      "id": "a461b6dfd9fe",
+      "title": "Trauma Care Resources",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/education/resources"
+    },
+    {
+      "id": "c60c443544a6",
+      "title": "Clinical Practice Guidelines (CPGs)",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
+    },
+    {
       "id": "1d5a35aee639",
       "title": "Future Training and Education Events",
       "source": "SOMA",
@@ -2103,6 +2253,36 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/7"
     }
   ]
 }
