@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-04T13:52:55.430887+00:00",
-  "count": 226,
-  "course_count": 95,
+  "updated": "2026-08-04T16:50:09.444669+00:00",
+  "count": 221,
+  "course_count": 90,
   "news_count": 131,
   "items": [
     {
@@ -1383,56 +1383,6 @@
       "date": null,
       "deadline": null,
       "url": "https://cpr.heart.org/en/"
-    },
-    {
-      "id": "b22c2e9061fd",
-      "title": "Contact ITLS",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/leadership/staff/"
-    },
-    {
-      "id": "3a4af6f5d51b",
-      "title": "About ITLS",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/itls/about-itls/"
-    },
-    {
-      "id": "4b1e41b3315a",
-      "title": "ITLS Approach",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/itls-approach/"
-    },
-    {
-      "id": "a420ea5ad93b",
-      "title": "ITLS Strategic Plan",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/itls/itls-strategic-plan/"
-    },
-    {
-      "id": "179ef925b4dd",
-      "title": "Why ITLS",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
       "id": "a39f65225f1e",
