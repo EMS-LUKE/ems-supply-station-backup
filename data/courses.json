@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-04T08:30:17.072923+00:00",
-  "count": 215,
-  "course_count": 95,
-  "news_count": 120,
+  "updated": "2026-08-04T11:19:51.587523+00:00",
+  "count": 221,
+  "course_count": 92,
+  "news_count": 129,
   "items": [
     {
       "id": "667ae76795f7",
@@ -53,6 +53,26 @@
       "date": "2026-08-23",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/A/Details/33112"
+    },
+    {
+      "id": "289ecb43dfc6",
+      "title": "重症會員早鳥報名優惠-2026.9.18~20 【第七屆亞太急性腎損傷與連續性腎替代療法大會】",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-18",
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/df_info.asp?/968.html"
+    },
+    {
+      "id": "83ad24e5b303",
+      "title": "徵稿中~~2026.9.18-20 International Conference on Digital Health and Medical Analytics（DHA 2026）",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-18",
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/df_info.asp?/906.html"
     },
     {
       "id": "ce4831580b27",
@@ -325,6 +345,16 @@
       "url": "https://www.sem.org.tw/News/11/Details/1621"
     },
     {
+      "id": "452b7eab7397",
+      "title": "2026.7.18 台灣復甦照護學會Holistic and Patient-Centered Critical Care研討會及工作坊開放報名",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-18",
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/df_info.asp?/967.html"
+    },
+    {
       "id": "e8a2cd2fe293",
       "title": "轉知「SECC Congress 2026 Taipei 暨2026急重症聯合學術年會 ＆ 第十屆亞太早期重症復健國際會議(APEM 2026)」",
       "source": "台灣急診醫學會",
@@ -475,6 +505,56 @@
       "url": "https://forms.gle/RxQobu2FoVewH6Qs5"
     },
     {
+      "id": "5ddae5a72419",
+      "title": "ACLS 2007新課程規範",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/Academic/acls01.asp"
+    },
+    {
+      "id": "a12cd0974482",
+      "title": "ACLS 課程推薦書籍",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/Academic/acls02.asp"
+    },
+    {
+      "id": "effdca75c4e6",
+      "title": "重症課程(重症學分)",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tsccm.org.tw/od/Academic/index.asp?act_kindid=1"
+    },
+    {
+      "id": "a5ab109f670c",
+      "title": "聯甄課程(聯甄學分)",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tsccm.org.tw/od/Academic/index.asp?act_kindid=2"
+    },
+    {
+      "id": "3b881f2cc9c2",
+      "title": "申請學分(重症學分)",
+      "source": "中華民國重症醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://course.tsccm.org.tw/Academic/index_other.asp"
+    },
+    {
       "id": "47f965572631",
       "title": "國際學術研討會",
       "source": "台灣心肌梗塞學會",
@@ -563,56 +643,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106"
-    },
-    {
-      "id": "c9bef9500467",
-      "title": "【代轉】2026年8月「2026年亞太健康促進與非傳染病防治教育訓練工作坊」",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "3a5e55368bd3",
-      "title": "【代轉】社團法人亞洲華人醫務管理交流學會8/14-/15辦理「2026高齡健康處方設計師跨領域高階創新人才培訓系列活動」歡迎報名。",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "d45d9fa81b2e",
-      "title": "【代轉】大語言模型與串接醫療 AI 應用系列課程即將推出",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "fbce3e42c088",
-      "title": "訂購《醫療資訊雜誌》價格調漲公告！",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "6455c13c8abc",
-      "title": "【代轉】11月20日至22日舉辦「2026 第七屆全球生物醫學工程年會（GCBME 2026）」，歡迎參與及踴躍投稿！",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
     },
     {
       "id": "ec9baebc8c4d",
@@ -795,6 +825,16 @@
       "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
     },
     {
+      "id": "c2c71a5bc917",
+      "title": "「專科護理師分科及甄審辦法」第四條、第五條、第二十二條修正草案公告",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1086.html"
+    },
+    {
       "id": "e0909b9c6b4d",
       "title": "代登~〔2026第二屆心安優護獎 - 臺灣優良心胸麻醉照護團隊〕",
       "source": "台灣麻醉專科護理學會",
@@ -823,6 +863,76 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
+    },
+    {
+      "id": "b098da9f2e27",
+      "title": "理事長的話",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.sma.org.tw/index.html"
+    },
+    {
+      "id": "b262c448b308",
+      "title": "本屆理監事",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.sma.org.tw/about3.html"
+    },
+    {
+      "id": "5bfcff8d3c72",
+      "title": "理監事名單",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/about/index_03_a.asp"
+    },
+    {
+      "id": "52aeba42ceae",
+      "title": "委員會名單",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/about/index_03_b.asp"
+    },
+    {
+      "id": "7c813915b5bc",
+      "title": "理事長的話",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/about/index_04.asp"
+    },
+    {
+      "id": "97e6c65f194c",
+      "title": "訓練課程專區",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/EL/train_list.asp"
+    },
+    {
+      "id": "31969e1f295e",
+      "title": "研討會專區",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/EL/seminar.asp"
     },
     {
       "id": "c882249c61ba",
@@ -1293,16 +1403,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "9fe482a84e37",
-      "title": "GA Health System Plans Freestanding ER",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/ga-health-system-plans-freestanding-er/"
     },
     {
       "id": "cc05242f9202",
@@ -2113,46 +2213,6 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-340132v1?rss=1"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/7"
     }
   ]
 }
