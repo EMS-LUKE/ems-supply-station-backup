@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-05T01:49:24.828399+00:00",
-  "count": 226,
+  "updated": "2026-08-05T05:41:39.823700+00:00",
+  "count": 224,
   "course_count": 95,
-  "news_count": 131,
+  "news_count": 129,
   "items": [
     {
       "id": "667ae76795f7",
@@ -385,8 +385,18 @@
       "url": "https://www.sem.org.tw/News/11/Details/1454"
     },
     {
-      "id": "ab8c8c791a79",
-      "title": "【ATLS報名】115年度「再認證」課程報名資訊（含報名表）115.07.31更新...",
+      "id": "3b7a9db31d43",
+      "title": "【論文邀稿資訊】116年年會暨學術演講會邀稿，敬請全體會員踴躍投稿...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/82.html"
+    },
+    {
+      "id": "db91393dfea7",
+      "title": "【ATLS報名】115年「再認證」課程報名資訊（含報名表）115.07.31更新...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -405,8 +415,8 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/80.html"
     },
     {
-      "id": "03b973dd810d",
-      "title": "【ATLS課表公告】115年度第11梯次ATLS再認證課程（大林慈濟醫院）...",
+      "id": "4fa3b6922b3f",
+      "title": "【ATLS課表公告】115年第11梯次ATLS再認證課程（大林慈濟醫院）...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -423,16 +433,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/78.html"
-    },
-    {
-      "id": "2312ed696d10",
-      "title": "115年秋季學術研會，歡迎踴躍報名...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/77.html"
     },
     {
       "id": "86005a8326cc",
@@ -913,26 +913,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
-    },
-    {
-      "id": "b098da9f2e27",
-      "title": "理事長的話",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.sma.org.tw/index.html"
-    },
-    {
-      "id": "b262c448b308",
-      "title": "本屆理監事",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.sma.org.tw/about3.html"
     },
     {
       "id": "5bfcff8d3c72",
