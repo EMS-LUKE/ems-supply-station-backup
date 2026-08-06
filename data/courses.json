@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-06T08:21:17.185908+00:00",
-  "count": 214,
-  "course_count": 85,
+  "updated": "2026-08-06T11:16:45.983843+00:00",
+  "count": 219,
+  "course_count": 90,
   "news_count": 129,
   "items": [
     {
@@ -825,6 +825,126 @@
       "url": "https://www.tsamairway.org.tw/2026rigistatinformation"
     },
     {
+      "id": "c471c32f474a",
+      "title": "雜誌通訊課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/ecu/ecu_ccH.asp"
+    },
+    {
+      "id": "bbf59a0ee0ad",
+      "title": "線上影像學習課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
+    },
+    {
+      "id": "90c9bbf3fb6d",
+      "title": "溫馨小提醒：有關115年麻醉實證研究與專一逆轉劑照護工作坊-嘉義場舉行與否",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1084.html"
+    },
+    {
+      "id": "4a249f5358dd",
+      "title": "115年冬季麻醉專科護理師學術研討會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/799.html"
+    },
+    {
+      "id": "10a585ef7f40",
+      "title": "115年麻醉專科護理師甄審口試模擬教學課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
+    },
+    {
+      "id": "7f4077aab8c4",
+      "title": "國際麻醉護士協會IFNA標準規範",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
+    },
+    {
+      "id": "c2c71a5bc917",
+      "title": "「專科護理師分科及甄審辦法」第四條、第五條、第二十二條修正草案公告",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1086.html"
+    },
+    {
+      "id": "e0909b9c6b4d",
+      "title": "代登~〔2026第二屆心安優護獎 - 臺灣優良心胸麻醉照護團隊〕",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1085.html"
+    },
+    {
+      "id": "edc0d9a86ef8",
+      "title": "恭賀~~~~本會第11屆行政委員會委員、衛生福利部臺中醫院開刀房副護理長暨麻醉專科護理師許芷寧委員，榮獲今年「臨床護理價值典範100」殊榮",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1083.html"
+    },
+    {
+      "id": "b7d3ba88a411",
+      "title": "代登~台灣麻醉醫學會雲嘉地區聯合討論會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
+    },
+    {
+      "id": "b098da9f2e27",
+      "title": "理事長的話",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.sma.org.tw/index.html"
+    },
+    {
+      "id": "b262c448b308",
+      "title": "本屆理監事",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.sma.org.tw/about3.html"
+    },
+    {
       "id": "5bfcff8d3c72",
       "title": "理監事名單",
       "source": "台灣運動醫學醫學會",
@@ -965,6 +1085,56 @@
       "url": "https://taiwanwma.org/activities?activity=3"
     },
     {
+      "id": "91790bdbec7d",
+      "title": "CPR+AED完整版3小時課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://sfast.innosoft.com.tw/iplm/pages/b.aspx?page=in_Meeting_list_A.html&method=In_MeetingUserResponse&in_meetingid=297C8E0AF68B4B609134923DF1F22659"
+    },
+    {
+      "id": "bf3f0e1ba292",
+      "title": "AED管理員4小時教育訓練",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/qKa2WE"
+    },
+    {
+      "id": "e0f77ddf7472",
+      "title": "基本救命術指導員BLS-I課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/eVQggR"
+    },
+    {
+      "id": "5bc9921519e2",
+      "title": "基本救命術BLS4小時課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/4bYO9v"
+    },
+    {
+      "id": "a2470c9c35e4",
+      "title": "基本救命術BLS8小時課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/aMEgWl"
+    },
+    {
       "id": "a8949ae88118",
       "title": "2023年活動花絮集",
       "source": "復甦照護小學堂",
@@ -1073,86 +1243,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/flippedcpr.html"
-    },
-    {
-      "id": "1a7323e30be9",
-      "title": "2026母親節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "9fdb080fb678",
-      "title": "2026兒童節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "79f4d8162d0b",
-      "title": "2025兒童醫院聖誕節慶活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "a5c9190b67c3",
-      "title": "臺大醫院131週年院慶舉辦數位與智慧醫療國際研討會 聚焦機器人與AI創新應用 攜手國際專家共創智慧醫療新未來",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/News.action?q_type=-1&q_itemCode=19059"
-    },
-    {
-      "id": "ed2ee3e5b76a",
-      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
-    },
-    {
-      "id": "ed1866c01f90",
-      "title": "【家庭資源中心閉館公告】",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
-    },
-    {
-      "id": "9b54876f3cd3",
-      "title": "115年農曆春節本院服務公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
-    },
-    {
-      "id": "c32df82d097f",
-      "title": "115年農曆春節假期特設「傳染病特別診」公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
       "id": "f3c454cbadc0",
@@ -2103,46 +2193,6 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-340132v1?rss=1"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/7"
     }
   ]
 }
