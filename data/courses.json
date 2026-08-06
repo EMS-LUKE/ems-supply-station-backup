@@ -1,19 +1,9 @@
 {
-  "updated": "2026-08-05T22:10:00.379515+00:00",
+  "updated": "2026-08-06T01:49:09.067225+00:00",
   "count": 227,
   "course_count": 95,
   "news_count": 132,
   "items": [
-    {
-      "id": "479e3f547f89",
-      "title": "專科醫師證書更新複審結果公告-王O人等38位醫師(到期日如內文)",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-05",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1636"
-    },
     {
       "id": "667ae76795f7",
       "title": "8/8-9 ACLS急救課程 台北慈濟醫院教學部",
@@ -393,6 +383,16 @@
       "date": "2026-07-30",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1454"
+    },
+    {
+      "id": "479e3f547f89",
+      "title": "專科醫師證書更新複審結果公告-王O人等38位醫師(到期日如內文)",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-05",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1636"
     },
     {
       "id": "3b7a9db31d43",
