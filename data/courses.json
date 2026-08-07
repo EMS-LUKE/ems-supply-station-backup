@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-07T07:05:35.578916+00:00",
-  "count": 225,
-  "course_count": 93,
-  "news_count": 132,
+  "updated": "2026-08-07T09:56:06.033613+00:00",
+  "count": 228,
+  "course_count": 95,
+  "news_count": 133,
   "items": [
     {
       "id": "667ae76795f7",
@@ -1375,6 +1375,26 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/thanks-diageo-keepwalking-2026/"
     },
     {
+      "id": "c302a6b91021",
+      "title": "Learn CPR",
+      "source": "AHA — American Heart Association",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://cpr.heart.org/en/"
+    },
+    {
+      "id": "e73de285a210",
+      "title": "CPR & ECC",
+      "source": "AHA — American Heart Association",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://cpr.heart.org/en/"
+    },
+    {
       "id": "b22c2e9061fd",
       "title": "Contact ITLS",
       "source": "ITLS",
@@ -1423,6 +1443,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.itrauma.org/education/compare-itls/"
+    },
+    {
+      "id": "70794a43e8bd",
+      "title": "CT Teenager Dies After Being Hit by Commuter Train",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/ct-teenager-dies-after-being-hit-by-commuter-train/"
     },
     {
       "id": "a39f65225f1e",
