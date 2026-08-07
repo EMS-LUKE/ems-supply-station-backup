@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-07T04:52:50.960748+00:00",
-  "count": 227,
-  "course_count": 95,
+  "updated": "2026-08-07T07:05:35.578916+00:00",
+  "count": 225,
+  "course_count": 93,
   "news_count": 132,
   "items": [
     {
@@ -1325,6 +1325,16 @@
       "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
+      "id": "2e2ebb642549",
+      "title": "三分鐘計劃｜讓地圖上的每一台 AED，真的拿得到、用得了、救得到人",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/emson-advocacy/3min-plan/"
+    },
+    {
       "id": "6f7ad46ec969",
       "title": "【聽見AED】LINE@救援通知系統2026年7月成果報告",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1363,36 +1373,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/event-news/thanks-diageo-keepwalking-2026/"
-    },
-    {
-      "id": "db4c9598885b",
-      "title": "生命之鏈是什麼？16歲少年OHCA奇蹟生還，看CPR+AED怎麼救回一條命",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/faq/popular-science/%e7%94%9f%e5%91%bd%e4%b9%8b%e9%8f%88%e6%98%af%e4%bb%80%e9%ba%bc%ef%bc%9f16%e6%ad%b2%e5%b0%91%e5%b9%b4ohca%e5%a5%87%e8%b9%9f%e7%94%9f%e9%82%84%ef%bc%8c%e7%9c%8bcpraed%e6%80%8e%e9%ba%bc%e6%95%91/"
-    },
-    {
-      "id": "c302a6b91021",
-      "title": "Learn CPR",
-      "source": "AHA — American Heart Association",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://cpr.heart.org/en/"
-    },
-    {
-      "id": "e73de285a210",
-      "title": "CPR & ECC",
-      "source": "AHA — American Heart Association",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://cpr.heart.org/en/"
     },
     {
       "id": "b22c2e9061fd",
