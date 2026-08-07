@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-07T09:56:06.033613+00:00",
-  "count": 228,
+  "updated": "2026-08-07T12:45:49.139515+00:00",
+  "count": 227,
   "course_count": 95,
-  "news_count": 133,
+  "news_count": 132,
   "items": [
     {
       "id": "667ae76795f7",
@@ -1443,16 +1443,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.itrauma.org/education/compare-itls/"
-    },
-    {
-      "id": "70794a43e8bd",
-      "title": "CT Teenager Dies After Being Hit by Commuter Train",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/ct-teenager-dies-after-being-hit-by-commuter-train/"
     },
     {
       "id": "a39f65225f1e",
