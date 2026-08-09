@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T21:25:01.255367+00:00",
+  "updated": "2026-08-09T01:04:29.078011+00:00",
   "count": 225,
   "course_count": 93,
   "news_count": 132,
@@ -315,16 +315,6 @@
       "url": "https://www.sem.org.tw/News/7/Details/1619"
     },
     {
-      "id": "82bfd7c732c8",
-      "title": "第十七屆理事長、常務理事、常務監事當選名單公告",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-09",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1621"
-    },
-    {
       "id": "452b7eab7397",
       "title": "2026.7.18 台灣復甦照護學會Holistic and Patient-Centered Critical Care研討會及工作坊開放報名",
       "source": "中華民國重症醫學會",
@@ -343,6 +333,16 @@
       "date": "2026-07-26",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/5/Details/1629"
+    },
+    {
+      "id": "e5cb7301a812",
+      "title": "誠徵2026年10月「急診住院醫師交流論壇」報告人",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-27",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1631"
     },
     {
       "id": "36a3bf466827",
@@ -1885,16 +1885,6 @@
       "url": "https://ctoms.ca/collections/tactical-clothing"
     },
     {
-      "id": "3f6989d40c6b",
-      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/"
-    },
-    {
       "id": "df37b5e4d0b7",
       "title": "Defense Committees on Trauma",
       "source": "JTS — Joint Trauma System",
@@ -1933,6 +1923,16 @@
       "date": null,
       "deadline": null,
       "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
+    },
+    {
+      "id": "3f6989d40c6b",
+      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/"
     },
     {
       "id": "1d5a35aee639",
