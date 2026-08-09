@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-09T15:25:42.315298+00:00",
-  "count": 225,
-  "course_count": 93,
-  "news_count": 132,
+  "updated": "2026-08-09T18:29:44.155680+00:00",
+  "count": 224,
+  "course_count": 94,
+  "news_count": 130,
   "items": [
     {
       "id": "29283c450fb1",
@@ -23,6 +23,16 @@
       "date": "2026-08-14",
       "deadline": "2026-08-14",
       "url": "https://www.sem.org.tw/Activity/B/Details/33167"
+    },
+    {
+      "id": "30372d979165",
+      "title": "APLS & PALS Provider Course高級小兒救命術 大千綜合醫院 醫務部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-22",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33201"
     },
     {
       "id": "fa10de726c18",
@@ -903,26 +913,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
-    },
-    {
-      "id": "b098da9f2e27",
-      "title": "理事長的話",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.sma.org.tw/index.html"
-    },
-    {
-      "id": "b262c448b308",
-      "title": "本屆理監事",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.sma.org.tw/about3.html"
     },
     {
       "id": "5bfcff8d3c72",
