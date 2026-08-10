@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-10T07:16:38.173216+00:00",
-  "count": 226,
+  "updated": "2026-08-10T10:13:11.332380+00:00",
+  "count": 227,
   "course_count": 94,
-  "news_count": 132,
+  "news_count": 133,
   "items": [
     {
       "id": "29283c450fb1",
@@ -2263,6 +2263,16 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://jnnp.bmj.com/cgi/content/short/jnnp-2025-338211v2?rss=1"
     }
   ]
 }
