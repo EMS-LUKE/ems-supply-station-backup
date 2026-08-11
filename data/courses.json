@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-11T06:54:46.863645+00:00",
-  "count": 222,
+  "updated": "2026-08-11T09:55:48.041188+00:00",
+  "count": 221,
   "course_count": 93,
-  "news_count": 129,
+  "news_count": 128,
   "items": [
     {
       "id": "f4711a021d95",
@@ -835,6 +835,16 @@
       "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
     },
     {
+      "id": "9d0e4f7fa7c4",
+      "title": "代登~~~2026 台灣呼吸道處理醫 學會年會暨國際學術研討會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1087.html"
+    },
+    {
       "id": "90c9bbf3fb6d",
       "title": "溫馨小提醒：有關115年麻醉實證研究與專一逆轉劑照護工作坊-嘉義場舉行與否",
       "source": "台灣麻醉專科護理學會",
@@ -853,16 +863,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/799.html"
-    },
-    {
-      "id": "10a585ef7f40",
-      "title": "115年麻醉專科護理師甄審口試模擬教學課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
     },
     {
       "id": "7f4077aab8c4",
@@ -893,16 +893,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/news_info.asp?/1085.html"
-    },
-    {
-      "id": "edc0d9a86ef8",
-      "title": "恭賀~~~~本會第11屆行政委員會委員、衛生福利部臺中醫院開刀房副護理長暨麻醉專科護理師許芷寧委員，榮獲今年「臨床護理價值典範100」殊榮",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1083.html"
     },
     {
       "id": "b7d3ba88a411",
@@ -1445,6 +1435,16 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
+      "id": "d39b20076f5b",
+      "title": "Yosemite (CA) Speed Climber Dies in Accident in Sequoia National Park",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/yosemite-ca-speed-climber-dies-in-accident-in-sequoia-national-park/"
+    },
+    {
       "id": "98860142062c",
       "title": "Headlines",
       "source": "JEMS",
@@ -1453,16 +1453,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "273bb9291b88",
-      "title": "Flood Death Toll in India’s Assam Reaches 100",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/news-feed/flood-death-toll-in-indias-assam-reaches-100/"
     },
     {
       "id": "cc05242f9202",
