@@ -1,19 +1,9 @@
 {
-  "updated": "2026-08-11T21:40:26.010323+00:00",
+  "updated": "2026-08-12T01:12:58.430636+00:00",
   "count": 221,
   "course_count": 93,
   "news_count": 128,
   "items": [
-    {
-      "id": "f4711a021d95",
-      "title": "2026冬季學術討論會暨1119台灣急診日",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-11",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/12/Details/1638"
-    },
     {
       "id": "2bb1f7cd1f43",
       "title": "AHA ACLS provider hybrid 高雄長庚急診醫學部",
@@ -393,6 +383,16 @@
       "date": "2026-08-05",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/10/Details/1636"
+    },
+    {
+      "id": "f4711a021d95",
+      "title": "2026冬季學術討論會暨1119台灣急診日",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-11",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/12/Details/1638"
     },
     {
       "id": "e85ef2684575",
