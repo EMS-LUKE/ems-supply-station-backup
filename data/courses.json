@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T18:53:18.936291+00:00",
+  "updated": "2026-08-12T21:39:36.415066+00:00",
   "count": 218,
   "course_count": 93,
   "news_count": 125,
@@ -1415,16 +1415,6 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
-      "id": "a39f65225f1e",
-      "title": "News Feed",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/news-feed/"
-    },
-    {
       "id": "98860142062c",
       "title": "Headlines",
       "source": "JEMS",
@@ -1433,6 +1423,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "a39f65225f1e",
+      "title": "News Feed",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/news-feed/"
     },
     {
       "id": "cc05242f9202",
