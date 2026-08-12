@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-12T15:55:37.392450+00:00",
-  "count": 216,
-  "course_count": 91,
+  "updated": "2026-08-12T18:53:18.936291+00:00",
+  "count": 218,
+  "course_count": 93,
   "news_count": 125,
   "items": [
     {
@@ -1343,6 +1343,26 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/event-news/thanks-diageo-keepwalking-2026/"
+    },
+    {
+      "id": "c302a6b91021",
+      "title": "Learn CPR",
+      "source": "AHA — American Heart Association",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://cpr.heart.org/en/"
+    },
+    {
+      "id": "e73de285a210",
+      "title": "CPR & ECC",
+      "source": "AHA — American Heart Association",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://cpr.heart.org/en/"
     },
     {
       "id": "b22c2e9061fd",
