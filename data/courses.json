@@ -1,19 +1,9 @@
 {
-  "updated": "2026-08-13T21:39:41.687966+00:00",
-  "count": 219,
-  "course_count": 92,
-  "news_count": 127,
+  "updated": "2026-08-14T01:12:54.579328+00:00",
+  "count": 216,
+  "course_count": 91,
+  "news_count": 125,
   "items": [
-    {
-      "id": "2bb1f7cd1f43",
-      "title": "AHA ACLS provider hybrid 高雄長庚急診醫學部",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-14",
-      "deadline": "2026-08-14",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33167"
-    },
     {
       "id": "30372d979165",
       "title": "APLS & PALS Provider Course高級小兒救命術 大千綜合醫院 醫務部",
@@ -195,26 +185,6 @@
       "url": "https://jcmit2026.medinfo.org.tw/"
     },
     {
-      "id": "d889c682922f",
-      "title": "тЁгтЉісђї2026т╣┤EMSтѓЉтЄ║Тѕљт░▒уЇјсђЇуЇ▓уЇјС║║тЊАсђѓ",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-05-15",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1583"
-    },
-    {
-      "id": "cf14be239d5b",
-      "title": "тЁгтЉісђї2026т╣┤тЇЂтцДтѓЉтЄ║ТЋЉУГиТіђУАЊтЊАсђЇуЇ▓жЂИтљЇтќ«сђѓ",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-05-15",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1582"
-    },
-    {
       "id": "d15a8ee5a5b1",
       "title": "轉知「第一屆亞太在宅急症照護國際研討會 APHaH 2026」舉辦訊息",
       "source": "台灣急診醫學會",
@@ -225,8 +195,8 @@
       "url": "https://www.sem.org.tw/News/10/Details/1585"
     },
     {
-      "id": "8c1e1db5ab54",
-      "title": "тЈ░уЂБEMSуЏИжЌюуџёСИГУІ▒т░ЇуЁДУЕътйЎУАе",
+      "id": "73bf0633f23b",
+      "title": "台灣EMS相關的中英對照詞彙表",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -265,8 +235,8 @@
       "url": "https://www.sem.org.tw/Activity/B/Details/32940"
     },
     {
-      "id": "e792bb4728bc",
-      "title": "тЁгтЉіуггтЇЂСИЃт▒єуљєсђЂуЏБС║ІтђЎжЂИС║║тљЇтќ«тЈіТћ┐УдІ",
+      "id": "1484c306a4b9",
+      "title": "公告第十七屆理、監事候選人名單及政見",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -275,8 +245,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1600"
     },
     {
-      "id": "a4edfe06d6fd",
-      "title": "сђітюет«ЁТђЦуЌЄуЁДУГиТЅІтєісђІ",
+      "id": "cdd928a87676",
+      "title": "《在宅急症照護手冊》",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -285,8 +255,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1611"
     },
     {
-      "id": "1c86bf962b22",
-      "title": "2026УХЁжЪ│Т│буФХУ│йтЙЌуЇјтљЇтќ«",
+      "id": "ff76fb8193f9",
+      "title": "2026超音波競賽得獎名單",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -295,8 +265,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1625"
     },
     {
-      "id": "3e71dde6e8b4",
-      "title": "тЁгтЉіAILS Training CourseжђџжЂјтљЇтќ« (115.06.23~115.06.24)",
+      "id": "7619e60cf6d3",
+      "title": "公告AILS Training Course通過名單 (115.06.23~115.06.24)",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -305,8 +275,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1613"
     },
     {
-      "id": "a1b7a961586a",
-      "title": "уггтЇЂСИЃт▒єуљєсђЂуЏБС║ІуЋХжЂИтљЇтќ«",
+      "id": "79731aad3bdd",
+      "title": "第十七屆理、監事當選名單",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -315,8 +285,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1612"
     },
     {
-      "id": "32d79f0ae981",
-      "title": "тЁгтЉі115т╣┤т║дТђЦУе║жєФтГИуДЉт░ѕуДЉжєФтИФућёт»ЕтљѕТа╝С║║тЊАтљЇтќ«",
+      "id": "ecf66c0125b7",
+      "title": "公告115年度急診醫學科專科醫師甄審合格人員名單",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -335,8 +305,8 @@
       "url": "http://course.tsccm.org.tw/df_info.asp?/967.html"
     },
     {
-      "id": "2f5071f56ab3",
-      "title": "УйЅуЪЦсђїSECC Congress 2026 Taipei Тџе2026ТђЦжЄЇуЌЄУЂ»тљѕтГИУАЊт╣┤ТюЃ №╝є уггтЇЂт▒єС║ътцфТЌЕТюЪжЄЇуЌЄтЙЕтЂЦтюІжџЏТюЃУГ░(APEM 2026)сђЇ",
+      "id": "e8a2cd2fe293",
+      "title": "轉知「SECC Congress 2026 Taipei 暨2026急重症聯合學術年會 ＆ 第十屆亞太早期重症復健國際會議(APEM 2026)」",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -345,8 +315,8 @@
       "url": "https://www.sem.org.tw/News/5/Details/1629"
     },
     {
-      "id": "bb7481b975d5",
-      "title": "УфатЙх2026т╣┤10ТюѕсђїТђЦУе║СйЈжЎбжєФтИФС║цТхЂУФќтБЄсђЇта▒тЉіС║║",
+      "id": "e5cb7301a812",
+      "title": "誠徵2026年10月「急診住院醫師交流論壇」報告人",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -355,8 +325,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1631"
     },
     {
-      "id": "261405f70510",
-      "title": "115т╣┤УЄет║іТ»њУЌЦуЅЕт░ѕуДЉжєФтИФУеЊуи┤УеѕуЋФТІЏућЪтЁгтЉі",
+      "id": "36a3bf466827",
+      "title": "115年臨床毒藥物專科醫師訓練計畫招生公告",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -365,8 +335,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1633"
     },
     {
-      "id": "d1dadd528e02",
-      "title": "115т╣┤тЇЂтцДтёфуДђТђЦУе║УГи№ДцтИФТјеУќдУЙдТ│Ћ",
+      "id": "ff430ef38337",
+      "title": "115年十大優秀急診護理師推薦辦法",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -383,16 +353,6 @@
       "date": "2026-08-05",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/10/Details/1636"
-    },
-    {
-      "id": "84c4ab3646eb",
-      "title": "2026тєгтГБтГИУАЊУејУФќТюЃТџе1119тЈ░уЂБТђЦУе║ТЌЦ",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-11",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/12/Details/1638"
     },
     {
       "id": "f4711a021d95",
@@ -2193,6 +2153,16 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.bmj.com/content/394/bmj-2026-100556.short?rss=1"
     }
   ]
 }
