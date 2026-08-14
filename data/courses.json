@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-14T07:14:25.402673+00:00",
-  "count": 209,
-  "course_count": 86,
-  "news_count": 123,
+  "updated": "2026-08-14T09:55:48.206437+00:00",
+  "count": 217,
+  "course_count": 91,
+  "news_count": 126,
   "items": [
     {
       "id": "6a4bc6726989",
@@ -595,6 +595,16 @@
       "url": "https://tamis.org.tw/activity/42"
     },
     {
+      "id": "3500c5b33f25",
+      "title": "| 📣【TAMIS 超級心光大道】第八首《如果可以》線上開唱！📣 公告日期：2026 / 8 / 14",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1273"
+    },
+    {
       "id": "d61ee024f4d1",
       "title": "| 📣【TAMIS 超級心光大道－24首金曲】巡迴開唱：第七首《孤勇者》📣 公告日期：2026 / 8 / 3",
       "source": "台灣心肌梗塞學會",
@@ -613,16 +623,6 @@
       "date": null,
       "deadline": null,
       "url": "https://tamis.org.tw/activity/44/1267"
-    },
-    {
-      "id": "238335db9cc8",
-      "title": "| 🔥 2026 TAMIS 超級心光大道｜第四場巡迴《領悟》 公告日期：2026 / 6 / 23",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1261"
     },
     {
       "id": "32dbb30467e3",
@@ -1203,6 +1203,86 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/flippedcpr.html"
+    },
+    {
+      "id": "1a7323e30be9",
+      "title": "2026母親節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "9fdb080fb678",
+      "title": "2026兒童節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "79f4d8162d0b",
+      "title": "2025兒童醫院聖誕節慶活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "e685e4ff3394",
+      "title": "臺北市政府衛生局115年8月1日至115年9月30日辦理臺北健康養成記「命運精靈召喚所．健康運氣在你手」獎勵活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19200&agroup=a"
+    },
+    {
+      "id": "ed2ee3e5b76a",
+      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
+    },
+    {
+      "id": "ed1866c01f90",
+      "title": "【家庭資源中心閉館公告】",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
+    },
+    {
+      "id": "9b54876f3cd3",
+      "title": "115年農曆春節本院服務公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
+    },
+    {
+      "id": "c32df82d097f",
+      "title": "115年農曆春節假期特設「傳染病特別診」公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
       "id": "2e2ebb642549",
