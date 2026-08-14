@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-14T15:46:12.776627+00:00",
-  "count": 215,
-  "course_count": 89,
-  "news_count": 126,
+  "updated": "2026-08-14T18:45:33.364436+00:00",
+  "count": 214,
+  "course_count": 91,
+  "news_count": 123,
   "items": [
     {
       "id": "6a4bc6726989",
@@ -1335,6 +1335,26 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/thanks-diageo-keepwalking-2026/"
     },
     {
+      "id": "c302a6b91021",
+      "title": "Learn CPR",
+      "source": "AHA — American Heart Association",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://cpr.heart.org/en/"
+    },
+    {
+      "id": "e73de285a210",
+      "title": "CPR & ECC",
+      "source": "AHA — American Heart Association",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://cpr.heart.org/en/"
+    },
+    {
       "id": "b22c2e9061fd",
       "title": "Contact ITLS",
       "source": "ITLS",
@@ -1383,36 +1403,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.itrauma.org/education/compare-itls/"
-    },
-    {
-      "id": "a39f65225f1e",
-      "title": "News Feed",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/news-feed/"
-    },
-    {
-      "id": "3ff8094eec13",
-      "title": "Sixteen Hospitalized After Mass Casualty Incident at MA Industrial Facility",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/sixteen-hospitalized-after-mass-casualty-incident-at-ma-industrial-facility/"
-    },
-    {
-      "id": "98860142062c",
-      "title": "Headlines",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/"
     },
     {
       "id": "cc05242f9202",
