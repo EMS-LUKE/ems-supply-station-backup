@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-14T18:45:33.364436+00:00",
-  "count": 214,
+  "updated": "2026-08-14T21:20:54.654583+00:00",
+  "count": 221,
   "course_count": 91,
-  "news_count": 123,
+  "news_count": 130,
   "items": [
     {
       "id": "6a4bc6726989",
@@ -1405,6 +1405,36 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
+      "id": "a39f65225f1e",
+      "title": "News Feed",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/news-feed/"
+    },
+    {
+      "id": "3ff8094eec13",
+      "title": "Sixteen Hospitalized After Mass Casualty Incident at MA Industrial Facility",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/sixteen-hospitalized-after-mass-casualty-incident-at-ma-industrial-facility/"
+    },
+    {
+      "id": "98860142062c",
+      "title": "Headlines",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/"
+    },
+    {
       "id": "cc05242f9202",
       "title": "Event & Expedition Medic Provision",
       "source": "World Extreme Medicine",
@@ -2143,6 +2173,46 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.bmj.com/content/394/bmj-2026-100570.short?rss=1"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/7"
     }
   ]
 }
