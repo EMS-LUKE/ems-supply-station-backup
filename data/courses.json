@@ -1,19 +1,9 @@
 {
-  "updated": "2026-08-14T21:20:54.654583+00:00",
-  "count": 221,
-  "course_count": 91,
-  "news_count": 130,
+  "updated": "2026-08-15T00:46:23.739524+00:00",
+  "count": 209,
+  "course_count": 86,
+  "news_count": 123,
   "items": [
-    {
-      "id": "6a4bc6726989",
-      "title": "е…¬е‘ҠгҖҺ2026е№ҙ10жңҲжҖҘиЁәдҪҸйҷўйҶ«её«дәӨжөҒи«–еЈҮгҖҸе ұе‘ҠдәәзҚІйҒёеҗҚе–®",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-14",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1639"
-    },
     {
       "id": "30372d979165",
       "title": "APLS & PALS Provider Course高級小兒救命術 大千綜合醫院 醫務部",
@@ -383,6 +373,16 @@
       "date": "2026-08-11",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/12/Details/1638"
+    },
+    {
+      "id": "6a4bc6726989",
+      "title": "е…¬е‘ҠгҖҺ2026е№ҙ10жңҲжҖҘиЁәдҪҸйҷўйҶ«её«дәӨжөҒи«–еЈҮгҖҸе ұе‘ҠдәәзҚІйҒёеҗҚе–®",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-14",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1639"
     },
     {
       "id": "309f6bccc52a",
@@ -1203,86 +1203,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/flippedcpr.html"
-    },
-    {
-      "id": "1a7323e30be9",
-      "title": "2026母親節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "9fdb080fb678",
-      "title": "2026兒童節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "79f4d8162d0b",
-      "title": "2025兒童醫院聖誕節慶活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "e685e4ff3394",
-      "title": "臺北市政府衛生局115年8月1日至115年9月30日辦理臺北健康養成記「命運精靈召喚所．健康運氣在你手」獎勵活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19200&agroup=a"
-    },
-    {
-      "id": "ed2ee3e5b76a",
-      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
-    },
-    {
-      "id": "ed1866c01f90",
-      "title": "【家庭資源中心閉館公告】",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
-    },
-    {
-      "id": "9b54876f3cd3",
-      "title": "115年農曆春節本院服務公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
-    },
-    {
-      "id": "c32df82d097f",
-      "title": "115年農曆春節假期特設「傳染病特別診」公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
       "id": "2e2ebb642549",
@@ -2173,46 +2093,6 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100570.short?rss=1"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/7"
     }
   ]
 }
