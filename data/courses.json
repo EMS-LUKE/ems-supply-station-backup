@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-15T21:16:21.944084+00:00",
-  "count": 214,
-  "course_count": 92,
-  "news_count": 122,
+  "updated": "2026-08-16T00:48:41.646697+00:00",
+  "count": 216,
+  "course_count": 91,
+  "news_count": 125,
   "items": [
     {
       "id": "30372d979165",
@@ -1155,64 +1155,44 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
-      "id": "9a9995a5da7d",
-      "title": "安妮怎麼了？－急救教育設計服務",
+      "id": "96aeeb9948f7",
+      "title": "CPR+AED",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/"
+      "url": "https://school.anne.education/course-category/cpi-aed/?tutor-course-filter-category=110"
     },
     {
-      "id": "ed3caa0dfe34",
-      "title": "全民學急救",
+      "id": "72feeda9299f",
+      "title": "[第一階段線上] CPR+AED知識課程",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/firstaid.html"
+      "url": "https://school.anne.education/courses/cpraed/"
     },
     {
-      "id": "74618323376f",
-      "title": "無意識且沒有正常呼吸(CPR+AED)",
+      "id": "ae1bfe2ab10d",
+      "title": "http://saveanne.tw/CPRAnneTaipei12024",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/f1ohca.html"
+      "url": "http://saveanne.tw/CPRAnneTaipei12024"
     },
     {
-      "id": "17dbb796794e",
-      "title": "翻轉急救｜CPR+AED",
+      "id": "00a1a278ed65",
+      "title": "http://saveanne.tw/CPRVisionTaichung1",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
-    },
-    {
-      "id": "77986d080e7b",
-      "title": "校園急救教育支持計畫",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/campus.html"
-    },
-    {
-      "id": "c9bc7d463306",
-      "title": "翻轉CPR",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
+      "url": "http://saveanne.tw/CPRVisionTaichung1"
     },
     {
       "id": "1a7323e30be9",
@@ -1753,6 +1733,46 @@
       "date": null,
       "deadline": null,
       "url": "https://www.c-tecc.org/index.php/news/save-the-date-dec-2026-meeting"
+    },
+    {
+      "id": "fe9e49751244",
+      "title": "info@cbrnprofessionals.com",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "mailto:info@cbrnprofessionals.com"
+    },
+    {
+      "id": "88a83b47cbaa",
+      "title": "CBRN Corner",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-corner/"
+    },
+    {
+      "id": "4fa62a7cd115",
+      "title": "CBRN Reference Material",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-references/"
+    },
+    {
+      "id": "e9b634e786cc",
+      "title": "CBRN Resource Links",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-resource-links/"
     },
     {
       "id": "48c630a34218",
