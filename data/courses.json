@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-16T06:27:39.915015+00:00",
-  "count": 221,
-  "course_count": 92,
-  "news_count": 129,
+  "updated": "2026-08-16T09:22:43.617255+00:00",
+  "count": 211,
+  "course_count": 87,
+  "news_count": 124,
   "items": [
     {
       "id": "30372d979165",
@@ -1055,56 +1055,6 @@
       "url": "https://taiwanwma.org/activities?activity=3"
     },
     {
-      "id": "91790bdbec7d",
-      "title": "CPR+AED完整版3小時課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://sfast.innosoft.com.tw/iplm/pages/b.aspx?page=in_Meeting_list_A.html&method=In_MeetingUserResponse&in_meetingid=297C8E0AF68B4B609134923DF1F22659"
-    },
-    {
-      "id": "bf3f0e1ba292",
-      "title": "AED管理員4小時教育訓練",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/qKa2WE"
-    },
-    {
-      "id": "e0f77ddf7472",
-      "title": "基本救命術指導員BLS-I課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/eVQggR"
-    },
-    {
-      "id": "5bc9921519e2",
-      "title": "基本救命術BLS4小時課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/4bYO9v"
-    },
-    {
-      "id": "a2470c9c35e4",
-      "title": "基本救命術BLS8小時課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/aMEgWl"
-    },
-    {
       "id": "a8949ae88118",
       "title": "2023年活動花絮集",
       "source": "復甦照護小學堂",
@@ -1203,6 +1153,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/campus.html"
+    },
+    {
+      "id": "c9bc7d463306",
+      "title": "翻轉CPR",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/flippedcpr.html"
     },
     {
       "id": "1a7323e30be9",
@@ -1403,36 +1363,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.itrauma.org/education/compare-itls/"
-    },
-    {
-      "id": "a39f65225f1e",
-      "title": "News Feed",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/news-feed/"
-    },
-    {
-      "id": "98860142062c",
-      "title": "Headlines",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "3ff8094eec13",
-      "title": "Sixteen Hospitalized After Mass Casualty Incident at MA Industrial Facility",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/sixteen-hospitalized-after-mass-casualty-incident-at-ma-industrial-facility/"
     },
     {
       "id": "cc05242f9202",
@@ -2183,36 +2113,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.bmj.com/content/394/bmj-2026-100570.short?rss=1"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/7"
     }
   ]
 }
