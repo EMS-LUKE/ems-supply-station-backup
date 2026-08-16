@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-16T12:23:50.431711+00:00",
-  "count": 218,
-  "course_count": 92,
+  "updated": "2026-08-16T15:16:31.155112+00:00",
+  "count": 216,
+  "course_count": 90,
   "news_count": 126,
   "items": [
     {
@@ -135,16 +135,6 @@
       "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
     },
     {
-      "id": "14dbcff89140",
-      "title": "2026年長榮航空觀光馬拉松醫護志工線上報名",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-10-25",
-      "deadline": null,
-      "url": "https://www.mgems.org/261025_eva_checkin/"
-    },
-    {
       "id": "3685f7be079e",
       "title": "115年度輻傷事件醫療應變訓練通識課程 衛生福利部北區緊急醫療應變中心",
       "source": "台灣急診醫學會",
@@ -213,26 +203,6 @@
       "date": "2026-05-20",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1586"
-    },
-    {
-      "id": "24c8f9118e81",
-      "title": "2026年台北初級救護技術員繼續教育訓練",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-05-26",
-      "deadline": null,
-      "url": "https://www.mgems.org/260424_t1_course/"
-    },
-    {
-      "id": "26eb3bb8e0c5",
-      "title": "2026年玉山管理處初級救護技術員繼續教育訓練",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-06-02",
-      "deadline": null,
-      "url": "https://www.mgems.org/260514_yushan_t1f/"
     },
     {
       "id": "6938acf9f093",
@@ -963,6 +933,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tasm.org.tw/EL/seminar.asp"
+    },
+    {
+      "id": "26eb3bb8e0c5",
+      "title": "2026年玉山管理處初級救護技術員繼續教育訓練",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/260514_yushan_t1f/"
     },
     {
       "id": "c882249c61ba",
