@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-17T09:35:54.323534+00:00",
-  "count": 216,
+  "updated": "2026-08-17T12:28:32.828797+00:00",
+  "count": 220,
   "course_count": 92,
-  "news_count": 124,
+  "news_count": 128,
   "items": [
     {
       "id": "30372d979165",
@@ -1415,14 +1415,14 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
-      "id": "98860142062c",
-      "title": "Headlines",
+      "id": "f325508f929b",
+      "title": "One Killed, Four Injured in Shooting at Park in KY",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/"
+      "url": "https://www.jems.com/news/one-killed-four-injured-in-shooting-at-park-in-ky/"
     },
     {
       "id": "cc05242f9202",
@@ -2163,6 +2163,46 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-225655v1?rss=1"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/7"
     }
   ]
 }
