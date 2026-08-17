@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-17T18:28:36.301017+00:00",
-  "count": 217,
-  "course_count": 89,
-  "news_count": 128,
+  "updated": "2026-08-17T21:21:42.015085+00:00",
+  "count": 215,
+  "course_count": 92,
+  "news_count": 123,
   "items": [
     {
       "id": "30372d979165",
@@ -1145,51 +1145,11 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
-      "id": "96aeeb9948f7",
-      "title": "CPR+AED",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://school.anne.education/course-category/cpi-aed/?tutor-course-filter-category=110"
-    },
-    {
-      "id": "72feeda9299f",
-      "title": "[第一階段線上] CPR+AED知識課程",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://school.anne.education/courses/cpraed/"
-    },
-    {
-      "id": "ae1bfe2ab10d",
-      "title": "http://saveanne.tw/CPRAnneTaipei12024",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://saveanne.tw/CPRAnneTaipei12024"
-    },
-    {
-      "id": "00a1a278ed65",
-      "title": "http://saveanne.tw/CPRVisionTaichung1",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "http://saveanne.tw/CPRVisionTaichung1"
-    },
-    {
       "id": "9a9995a5da7d",
       "title": "安妮怎麼了？－急救教育設計服務",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/"
@@ -1199,7 +1159,7 @@
       "title": "全民學急救",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/firstaid.html"
@@ -1209,7 +1169,7 @@
       "title": "無意識且沒有正常呼吸(CPR+AED)",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/f1ohca.html"
@@ -1219,7 +1179,7 @@
       "title": "翻轉急救｜CPR+AED",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/flippedcpr.html"
@@ -1229,7 +1189,7 @@
       "title": "校園急救教育支持計畫",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/campus.html"
@@ -1363,6 +1323,26 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/event-news/thanks-diageo-keepwalking-2026/"
+    },
+    {
+      "id": "c302a6b91021",
+      "title": "Learn CPR",
+      "source": "AHA — American Heart Association",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://cpr.heart.org/en/"
+    },
+    {
+      "id": "e73de285a210",
+      "title": "CPR & ECC",
+      "source": "AHA — American Heart Association",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://cpr.heart.org/en/"
     },
     {
       "id": "b22c2e9061fd",
@@ -1935,6 +1915,16 @@
       "url": "https://specialoperationsmedicine.org/jsom/"
     },
     {
+      "id": "be65025d0a69",
+      "title": "Training Teams for Prolonged Care and Beyond By Ragged Edge Solutions",
+      "source": "Next Generation Combat Medic",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://nextgencombatmedic.com/2026/08/17/training-teams-for-prolonged-care-and-beyond-by-ragged-edge-solutions/"
+    },
+    {
       "id": "513fda394753",
       "title": "How To Train Your Medics Every Week: Escaping the Motor Pool",
       "source": "Next Generation Combat Medic",
@@ -1973,16 +1963,6 @@
       "date": null,
       "deadline": null,
       "url": "https://nextgencombatmedic.com/2025/08/19/teaching-better-tccc/"
-    },
-    {
-      "id": "6f2c6f03441e",
-      "title": "Enabling Medics to manage Sick Call",
-      "source": "Next Generation Combat Medic",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://nextgencombatmedic.com/2025/07/20/enabling-medics-to-manage-sick-call/"
     },
     {
       "id": "a08848dafaae",
