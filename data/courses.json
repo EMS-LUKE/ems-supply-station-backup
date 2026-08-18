@@ -1,9 +1,19 @@
 {
-  "updated": "2026-08-18T09:27:27.634332+00:00",
-  "count": 213,
-  "course_count": 92,
-  "news_count": 121,
+  "updated": "2026-08-18T12:30:51.721548+00:00",
+  "count": 208,
+  "course_count": 88,
+  "news_count": 120,
   "items": [
+    {
+      "id": "66be4c6b6c71",
+      "title": "115年度醫院安全及緊急應變訓練課程 衛生福利部高屏區緊急醫療應變中心、高雄榮民總醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-20",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33074"
+    },
     {
       "id": "30372d979165",
       "title": "APLS & PALS Provider Course高級小兒救命術 大千綜合醫院 醫務部",
@@ -43,16 +53,6 @@
       "date": "2026-08-28",
       "deadline": "2026-08-28",
       "url": "https://www.sem.org.tw/Activity/B/Details/33158"
-    },
-    {
-      "id": "6b773fbf2df4",
-      "title": "2026 臺灣災難醫療國際研討會- 危機下的醫療協作 衛生福利部南區緊急醫療應變中心、 中華民國重症醫學會、國立成功大學醫 學院附設醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-30",
-      "deadline": "2026-08-30",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33172"
     },
     {
       "id": "5708dfe93f3d",
@@ -175,16 +175,6 @@
       "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
     },
     {
-      "id": "14dbcff89140",
-      "title": "2026年長榮航空觀光馬拉松醫護志工線上報名",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-10-25",
-      "deadline": null,
-      "url": "https://www.mgems.org/261025_eva_checkin/"
-    },
-    {
       "id": "3685f7be079e",
       "title": "115年度輻傷事件醫療應變訓練通識課程 衛生福利部北區緊急醫療應變中心",
       "source": "台灣急診醫學會",
@@ -243,26 +233,6 @@
       "date": "2026-05-20",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1586"
-    },
-    {
-      "id": "24c8f9118e81",
-      "title": "2026年台北初級救護技術員繼續教育訓練",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-05-26",
-      "deadline": null,
-      "url": "https://www.mgems.org/260424_t1_course/"
-    },
-    {
-      "id": "26eb3bb8e0c5",
-      "title": "2026年玉山管理處初級救護技術員繼續教育訓練",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": "2026-06-02",
-      "deadline": null,
-      "url": "https://www.mgems.org/260514_yushan_t1f/"
     },
     {
       "id": "6938acf9f093",
@@ -685,6 +655,56 @@
       "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106"
     },
     {
+      "id": "db8e9410e3d6",
+      "title": "【代轉】誠摯邀請蒞臨9/3數位產業署主辦「2026 ADI DEMO DAY：主權AI賦能-建構可信賴、可控管的AI智慧醫療」(此為免費活動，名額有限，敬請把握難得機會)",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
+      "id": "c9bef9500467",
+      "title": "【代轉】2026年8月「2026年亞太健康促進與非傳染病防治教育訓練工作坊」",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
+      "id": "3a5e55368bd3",
+      "title": "【代轉】社團法人亞洲華人醫務管理交流學會8/14-/15辦理「2026高齡健康處方設計師跨領域高階創新人才培訓系列活動」歡迎報名。",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
+      "id": "fbce3e42c088",
+      "title": "訂購《醫療資訊雜誌》價格調漲公告！",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
+      "id": "6455c13c8abc",
+      "title": "【代轉】11月20日至22日舉辦「2026 第七屆全球生物醫學工程年會（GCBME 2026）」，歡迎參與及踴躍投稿！",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
       "id": "ec9baebc8c4d",
       "title": "實踐韌性深耕再生｜【報名中】2026年會暨國際學術研討會",
       "source": "臺灣燒傷暨傷口照護學會",
@@ -943,66 +963,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tasm.org.tw/EL/seminar.asp"
-    },
-    {
-      "id": "c882249c61ba",
-      "title": "2025年青山宮繞境活動",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.mgems.org/251210_festival/"
-    },
-    {
-      "id": "140fdaafeed9",
-      "title": "2026年臺北101公益垂直馬拉松",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.mgems.org/260509_taipei-101/"
-    },
-    {
-      "id": "b68c7da13251",
-      "title": "2026年台新女生路跑",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.mgems.org/26-04-12-women-run/"
-    },
-    {
-      "id": "8d4b48f3d817",
-      "title": "2026 南山人壽臺北國道馬拉松",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.mgems.org/2026-taipei-highway-marathron/"
-    },
-    {
-      "id": "6a4c234af395",
-      "title": "2026年太平山蹦蹦車緊急救護演練",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.mgems.org/260623_tai-ping-shan-rehersal/"
-    },
-    {
-      "id": "b45db06310b7",
-      "title": "山海共生原遊會",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.mgems.org/260608_taloan/"
     },
     {
       "id": "e45a5f6063e9",
@@ -1373,26 +1333,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.itrauma.org/education/compare-itls/"
-    },
-    {
-      "id": "a39f65225f1e",
-      "title": "News Feed",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/news-feed/"
-    },
-    {
-      "id": "98860142062c",
-      "title": "Headlines",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/"
     },
     {
       "id": "cc05242f9202",
@@ -2055,36 +1995,6 @@
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
     },
     {
-      "id": "1a4c4b8a5a11",
-      "title": "Online Courses",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://lms.trilogyems.com/courses/"
-    },
-    {
-      "id": "23adf4e4ec24",
-      "title": "BUY COURSES",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://lms.trilogyems.com/buy-course/"
-    },
-    {
-      "id": "b8d2418a1352",
-      "title": "Explore Courses",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://lms.trilogyems.com/courses/"
-    },
-    {
       "id": "67b694b172c8",
       "title": "americanemtacademy@gmail.com",
       "source": "American EMT Academy",
@@ -2133,6 +2043,46 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.bmj.com/content/394/bmj-2026-100593.short?rss=1"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/7"
     }
   ]
 }
