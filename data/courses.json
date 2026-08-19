@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-18T21:18:02.439096+00:00",
-  "count": 220,
-  "course_count": 96,
-  "news_count": 124,
+  "updated": "2026-08-19T00:46:43.392018+00:00",
+  "count": 218,
+  "course_count": 97,
+  "news_count": 121,
   "items": [
     {
       "id": "66be4c6b6c71",
@@ -175,6 +175,16 @@
       "url": "https://www.tebma.org.tw/event/list/view/f456947948c27dbfad9369cf46e4452b"
     },
     {
+      "id": "4794f668f13d",
+      "title": "台灣野外救命術訓練課程(初階證照班) 社團法人台灣急診醫學會、羅東博愛醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-24",
+      "deadline": "2026-10-01",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33268"
+    },
+    {
       "id": "14dbcff89140",
       "title": "2026年長榮航空觀光馬拉松醫護志工線上報名",
       "source": "中華民國大型活動緊急救護協會",
@@ -233,16 +243,6 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://jcmit2026.medinfo.org.tw/"
-    },
-    {
-      "id": "dae21edb9612",
-      "title": "еҸ°зҒЈEMSзӣёй—ңзҡ„дёӯиӢұе°Қз…§и©һеҪҷиЎЁ",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-05-20",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1586"
     },
     {
       "id": "24c8f9118e81",
@@ -383,16 +383,6 @@
       "date": "2026-07-30",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1454"
-    },
-    {
-      "id": "479e3f547f89",
-      "title": "專科醫師證書更新複審結果公告-王O人等38位醫師(到期日如內文)",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-05",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1636"
     },
     {
       "id": "32daf37c2cde",
@@ -1233,16 +1223,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/campus.html"
-    },
-    {
-      "id": "c9bc7d463306",
-      "title": "翻轉CPR",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
     },
     {
       "id": "1a7323e30be9",
