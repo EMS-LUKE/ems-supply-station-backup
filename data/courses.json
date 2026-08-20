@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-20T06:33:47.898513+00:00",
-  "count": 225,
+  "updated": "2026-08-20T09:28:16.462197+00:00",
+  "count": 221,
   "course_count": 97,
-  "news_count": 128,
+  "news_count": 124,
   "items": [
     {
       "id": "66be4c6b6c71",
@@ -1435,26 +1435,6 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
-      "id": "448c9a870902",
-      "title": "Providence (RI) Fire Department Expands EMS Capacity, Adds Ambulance",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/providence-ri-fire-department-expands-ems-capacity-adds-ambulance/"
-    },
-    {
-      "id": "6cd2e72b70eb",
-      "title": "Lifeline for Rural Hospitals Faces Test Under ‘Big Beautiful’ Law",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/lifeline-for-rural-hospitals-faces-test-under-big-beautiful-law/"
-    },
-    {
       "id": "a39f65225f1e",
       "title": "News Feed",
       "source": "JEMS",
@@ -1465,14 +1445,34 @@
       "url": "https://www.jems.com/news/news-feed/"
     },
     {
-      "id": "7704764d3bb8",
-      "title": "Congo’s Ebola Outbreak Reaches 5,000 Cases as It Outpaces Response Efforts at Unprecedented Speed",
+      "id": "448c9a870902",
+      "title": "Providence (RI) Fire Department Expands EMS Capacity, Adds Ambulance",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/congos-ebola-outbreak-reaches-5000-cases-as-it-outpaces-response-efforts-at-unprecedented-speed/"
+      "url": "https://www.jems.com/news/providence-ri-fire-department-expands-ems-capacity-adds-ambulance/"
+    },
+    {
+      "id": "98860142062c",
+      "title": "Headlines",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "6cd2e72b70eb",
+      "title": "Lifeline for Rural Hospitals Faces Test Under ‘Big Beautiful’ Law",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/lifeline-for-rural-hospitals-faces-test-under-big-beautiful-law/"
     },
     {
       "id": "cc05242f9202",
@@ -2213,46 +2213,6 @@
       "date": null,
       "deadline": null,
       "url": "https://americanemtacademy.com/hybrid-online-emt-course/"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100614.short?rss=1"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/7"
     }
   ]
 }
