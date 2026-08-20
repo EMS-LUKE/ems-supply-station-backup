@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T00:45:57.378822+00:00",
+  "updated": "2026-08-20T03:42:54.921456+00:00",
   "count": 219,
   "course_count": 96,
   "news_count": 123,
@@ -415,6 +415,16 @@
       "url": "https://www.sem.org.tw/News/11/Details/1639"
     },
     {
+      "id": "1f1fe4d0032e",
+      "title": "【ATLS課表公告】115年度第6梯次ATLS課程（國軍高雄總醫院）...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/85.html"
+    },
+    {
       "id": "309f6bccc52a",
       "title": "115年精進外科系醫師醫療韌性訓練計畫，將辦理DSTC/DATC/DPNTC課程...",
       "source": "台灣外傷醫學會",
@@ -453,16 +463,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
-    },
-    {
-      "id": "d22a43d969c1",
-      "title": "公告2026年『ATLS課程』活動計劃表【含一般課程及再認證課程】_115.07.31更新...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/80.html"
     },
     {
       "id": "86005a8326cc",
