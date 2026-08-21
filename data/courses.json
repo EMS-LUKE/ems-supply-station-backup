@@ -1,19 +1,9 @@
 {
-  "updated": "2026-08-20T21:23:16.794285+00:00",
-  "count": 216,
-  "course_count": 92,
-  "news_count": 124,
+  "updated": "2026-08-21T00:49:18.733768+00:00",
+  "count": 218,
+  "course_count": 97,
+  "news_count": 121,
   "items": [
-    {
-      "id": "66be4c6b6c71",
-      "title": "115年度醫院安全及緊急應變訓練課程 衛生福利部高屏區緊急醫療應變中心、高雄榮民總醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-20",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33074"
-    },
     {
       "id": "30372d979165",
       "title": "APLS & PALS Provider Course高級小兒救命術 大千綜合醫院 醫務部",
@@ -53,6 +43,16 @@
       "date": "2026-08-28",
       "deadline": "2026-08-28",
       "url": "https://www.sem.org.tw/Activity/B/Details/33158"
+    },
+    {
+      "id": "6b773fbf2df4",
+      "title": "2026 臺灣災難醫療國際研討會- 危機下的醫療協作 衛生福利部南區緊急醫療應變中心、 中華民國重症醫學會、國立成功大學醫 學院附設醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-30",
+      "deadline": "2026-08-30",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33172"
     },
     {
       "id": "5708dfe93f3d",
@@ -275,8 +275,8 @@
       "url": "https://www.sem.org.tw/Activity/B/Details/32940"
     },
     {
-      "id": "1484c306a4b9",
-      "title": "公告第十七屆理、監事候選人名單及政見",
+      "id": "2dea52c8d37a",
+      "title": "е…¬е‘Ҡз¬¬еҚҒдёғеұҶзҗҶгҖҒзӣЈдәӢеҖҷйҒёдәәеҗҚе–®еҸҠж”ҝиҰӢ",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -285,8 +285,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1600"
     },
     {
-      "id": "cdd928a87676",
-      "title": "《在宅急症照護手冊》",
+      "id": "ca9371cc0e2d",
+      "title": "гҖҠеңЁе®…жҖҘз—Үз…§иӯ·жүӢеҶҠгҖӢ",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -295,8 +295,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1611"
     },
     {
-      "id": "ff76fb8193f9",
-      "title": "2026超音波競賽得獎名單",
+      "id": "3468e8de44e2",
+      "title": "2026и¶…йҹіжіўз«¶иіҪеҫ—зҚҺеҗҚе–®",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -305,8 +305,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1625"
     },
     {
-      "id": "7619e60cf6d3",
-      "title": "公告AILS Training Course通過名單 (115.06.23~115.06.24)",
+      "id": "1951de63c99d",
+      "title": "е…¬е‘ҠAILS Training CourseйҖҡйҒҺеҗҚе–® (115.06.23~115.06.24)",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -315,8 +315,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1613"
     },
     {
-      "id": "79731aad3bdd",
-      "title": "第十七屆理、監事當選名單",
+      "id": "f60a43b71d74",
+      "title": "з¬¬еҚҒдёғеұҶзҗҶгҖҒзӣЈдәӢз•¶йҒёеҗҚе–®",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -325,8 +325,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1612"
     },
     {
-      "id": "ecf66c0125b7",
-      "title": "公告115年度急診醫學科專科醫師甄審合格人員名單",
+      "id": "9c108a24bd30",
+      "title": "е…¬е‘Ҡ115е№ҙеәҰжҖҘиЁәйҶ«еӯёз§‘е°Ҳз§‘йҶ«её«з”„еҜ©еҗҲж јдәәе“ЎеҗҚе–®",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -345,8 +345,8 @@
       "url": "http://course.tsccm.org.tw/df_info.asp?/967.html"
     },
     {
-      "id": "e8a2cd2fe293",
-      "title": "轉知「SECC Congress 2026 Taipei 暨2026急重症聯合學術年會 ＆ 第十屆亞太早期重症復健國際會議(APEM 2026)」",
+      "id": "32ad96234ca5",
+      "title": "иҪүзҹҘгҖҢSECC Congress 2026 Taipei жҡЁ2026жҖҘйҮҚз—ҮиҒҜеҗҲеӯёиЎ“е№ҙжңғ пјҶ з¬¬еҚҒеұҶдәһеӨӘж—©жңҹйҮҚз—Үеҫ©еҒҘеңӢйҡӣжңғиӯ°(APEM 2026)гҖҚ",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -355,8 +355,8 @@
       "url": "https://www.sem.org.tw/News/5/Details/1629"
     },
     {
-      "id": "e5cb7301a812",
-      "title": "誠徵2026年10月「急診住院醫師交流論壇」報告人",
+      "id": "94d4cae45b52",
+      "title": "иӘ еҫө2026е№ҙ10жңҲгҖҢжҖҘиЁәдҪҸйҷўйҶ«её«дәӨжөҒи«–еЈҮгҖҚе ұе‘Ҡдәә",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -365,8 +365,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1631"
     },
     {
-      "id": "36a3bf466827",
-      "title": "115年臨床毒藥物專科醫師訓練計畫招生公告",
+      "id": "af3d5a4aad65",
+      "title": "115е№ҙиҮЁеәҠжҜ’и—Ҙзү©е°Ҳз§‘йҶ«её«иЁ“з·ҙиЁҲз•«жӢӣз”ҹе…¬е‘Ҡ",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -375,8 +375,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1633"
     },
     {
-      "id": "ff430ef38337",
-      "title": "115年十大優秀急診護理師推薦辦法",
+      "id": "65916232ca75",
+      "title": "115е№ҙеҚҒеӨ§е„Әз§ҖжҖҘиЁәиӯ·п§Өеё«жҺЁи–ҰиҫҰжі•",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -385,14 +385,14 @@
       "url": "https://www.sem.org.tw/News/11/Details/1454"
     },
     {
-      "id": "f4711a021d95",
-      "title": "2026冬季學術討論會暨1119台灣急診日",
+      "id": "479e3f547f89",
+      "title": "專科醫師證書更新複審結果公告-王O人等38位醫師(到期日如內文)",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
-      "date": "2026-08-11",
+      "date": "2026-08-05",
       "deadline": null,
-      "url": "https://www.sem.org.tw/News/12/Details/1638"
+      "url": "https://www.sem.org.tw/News/10/Details/1636"
     },
     {
       "id": "32daf37c2cde",
@@ -405,8 +405,18 @@
       "url": "https://www.sem.org.tw/News/12/Details/1638"
     },
     {
-      "id": "c343b40ec276",
-      "title": "公告『2026年10月急診住院醫師交流論壇』報告人獲選名單",
+      "id": "f4711a021d95",
+      "title": "2026冬季學術討論會暨1119台灣急診日",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-11",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/12/Details/1638"
+    },
+    {
+      "id": "6a4bc6726989",
+      "title": "е…¬е‘ҠгҖҺ2026е№ҙ10жңҲжҖҘиЁәдҪҸйҷўйҶ«её«дәӨжөҒи«–еЈҮгҖҸе ұе‘ҠдәәзҚІйҒёеҗҚе–®",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -1435,44 +1445,54 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
-      "id": "a39f65225f1e",
-      "title": "News Feed",
-      "source": "JEMS",
+      "id": "cc05242f9202",
+      "title": "Event & Expedition Medic Provision",
+      "source": "World Extreme Medicine",
       "cat": "國際期刊/組織",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/news-feed/"
+      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
     },
     {
-      "id": "98860142062c",
-      "title": "Headlines",
-      "source": "JEMS",
+      "id": "36dc95e80ac8",
+      "title": "Courses",
+      "source": "World Extreme Medicine",
       "cat": "國際期刊/組織",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/"
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
     },
     {
-      "id": "448c9a870902",
-      "title": "Providence (RI) Fire Department Expands EMS Capacity, Adds Ambulance",
-      "source": "JEMS",
+      "id": "cdc892f17af7",
+      "title": "Expedition & Wilderness Medicine",
+      "source": "World Extreme Medicine",
       "cat": "國際期刊/組織",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/providence-ri-fire-department-expands-ems-capacity-adds-ambulance/"
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
     },
     {
-      "id": "6cd2e72b70eb",
-      "title": "Lifeline for Rural Hospitals Faces Test Under ‘Big Beautiful’ Law",
-      "source": "JEMS",
+      "id": "55342de8b5f8",
+      "title": "WEMFund Prolonged Field Care Course",
+      "source": "World Extreme Medicine",
       "cat": "國際期刊/組織",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/lifeline-for-rural-hospitals-faces-test-under-big-beautiful-law/"
+      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course/"
+    },
+    {
+      "id": "17f164e2e04b",
+      "title": "All Extreme Medicine Courses",
+      "source": "World Extreme Medicine",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
     },
     {
       "id": "b8d5eb07b1d3",
