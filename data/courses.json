@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-21T15:27:35.058714+00:00",
-  "count": 215,
-  "course_count": 97,
-  "news_count": 118,
+  "updated": "2026-08-21T18:27:45.449739+00:00",
+  "count": 218,
+  "course_count": 96,
+  "news_count": 122,
   "items": [
     {
       "id": "30372d979165",
@@ -1185,64 +1185,44 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
-      "id": "9a9995a5da7d",
-      "title": "安妮怎麼了？－急救教育設計服務",
+      "id": "96aeeb9948f7",
+      "title": "CPR+AED",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/"
+      "url": "https://school.anne.education/course-category/cpi-aed/?tutor-course-filter-category=110"
     },
     {
-      "id": "ed3caa0dfe34",
-      "title": "全民學急救",
+      "id": "72feeda9299f",
+      "title": "[第一階段線上] CPR+AED知識課程",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/firstaid.html"
+      "url": "https://school.anne.education/courses/cpraed/"
     },
     {
-      "id": "74618323376f",
-      "title": "無意識且沒有正常呼吸(CPR+AED)",
+      "id": "ae1bfe2ab10d",
+      "title": "http://saveanne.tw/CPRAnneTaipei12024",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/f1ohca.html"
+      "url": "http://saveanne.tw/CPRAnneTaipei12024"
     },
     {
-      "id": "17dbb796794e",
-      "title": "翻轉急救｜CPR+AED",
+      "id": "00a1a278ed65",
+      "title": "http://saveanne.tw/CPRVisionTaichung1",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
-    },
-    {
-      "id": "77986d080e7b",
-      "title": "校園急救教育支持計畫",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/campus.html"
-    },
-    {
-      "id": "c9bc7d463306",
-      "title": "翻轉CPR",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
+      "url": "http://saveanne.tw/CPRVisionTaichung1"
     },
     {
       "id": "1a7323e30be9",
@@ -2073,6 +2053,56 @@
       "date": null,
       "deadline": null,
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
+    },
+    {
+      "id": "715383a36e2a",
+      "title": "TacMed Solutions™ Gains Airworthiness Certification for US Army & Navy Airframes",
+      "source": "TacMed Solutions",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tacmedsolutions.com/blogs/news/tacmed-solutions%E2%84%A2-gains-airworthiness-certification-for-us-army-navy-airframes"
+    },
+    {
+      "id": "733f5b9d5ed7",
+      "title": "TacMed Solutions™ Awarded Sourcewell Cooperative Contract",
+      "source": "TacMed Solutions",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tacmedsolutions.com/blogs/news/tacmed-solutions%E2%84%A2-awarded-sourcewell-cooperative-contract"
+    },
+    {
+      "id": "7140e81abb74",
+      "title": "TacMed Solutions Acquires RINI Technologies, Strengthening Innovation in Pre-Hospital Trauma Care",
+      "source": "TacMed Solutions",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tacmedsolutions.com/blogs/news/tacmed-solutions-acquires-rini-technologies-strengthening-innovation-in-pre-hospital-trauma-care"
+    },
+    {
+      "id": "575caf80d4be",
+      "title": "Hurricane Helene Relief: A Community United in Recovery Efforts",
+      "source": "TacMed Solutions",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tacmedsolutions.com/blogs/news/hurricane-helene-relief-a-community-united-in-recovery-efforts"
+    },
+    {
+      "id": "0a90da888cc2",
+      "title": "MATTi™: The New Female Trauma Patient Simulator",
+      "source": "TacMed Solutions",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
     },
     {
       "id": "1a4c4b8a5a11",
