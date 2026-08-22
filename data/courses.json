@@ -1,19 +1,9 @@
 {
-  "updated": "2026-08-21T21:19:05.922937+00:00",
-  "count": 210,
-  "course_count": 92,
-  "news_count": 118,
+  "updated": "2026-08-22T00:45:53.462517+00:00",
+  "count": 220,
+  "course_count": 97,
+  "news_count": 123,
   "items": [
-    {
-      "id": "30372d979165",
-      "title": "APLS & PALS Provider Course高級小兒救命術 大千綜合醫院 醫務部",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-22",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33201"
-    },
     {
       "id": "fa10de726c18",
       "title": "急性中毒救命課程（AILS Training Course）-115年第3場 社團法人台灣急診醫學會、中國醫藥大學附設醫院",
@@ -53,6 +43,16 @@
       "date": "2026-08-30",
       "deadline": "2026-08-30",
       "url": "https://www.sem.org.tw/Activity/B/Details/33172"
+    },
+    {
+      "id": "d0c6b892e166",
+      "title": "115年度化學物質緊急事件醫療應變訓練通識課程 衛生福利部中區緊急醫療應變中心、中山醫學大學附設醫院、臺中榮民總醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-31",
+      "deadline": "2026-08-31",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33054"
     },
     {
       "id": "5708dfe93f3d",
@@ -855,6 +855,96 @@
       "url": "https://www.tsamairway.org.tw/2026rigistatinformation"
     },
     {
+      "id": "c471c32f474a",
+      "title": "雜誌通訊課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/ecu/ecu_ccH.asp"
+    },
+    {
+      "id": "bbf59a0ee0ad",
+      "title": "線上影像學習課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
+    },
+    {
+      "id": "9d0e4f7fa7c4",
+      "title": "代登~~~2026 台灣呼吸道處理醫 學會年會暨國際學術研討會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1087.html"
+    },
+    {
+      "id": "4a249f5358dd",
+      "title": "115年冬季麻醉專科護理師學術研討會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/799.html"
+    },
+    {
+      "id": "10a585ef7f40",
+      "title": "115年麻醉專科護理師甄審口試模擬教學課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
+    },
+    {
+      "id": "7f4077aab8c4",
+      "title": "國際麻醉護士協會IFNA標準規範",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
+    },
+    {
+      "id": "c2c71a5bc917",
+      "title": "「專科護理師分科及甄審辦法」第四條、第五條、第二十二條修正草案公告",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1086.html"
+    },
+    {
+      "id": "e0909b9c6b4d",
+      "title": "代登~〔2026第二屆心安優護獎 - 臺灣優良心胸麻醉照護團隊〕",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1085.html"
+    },
+    {
+      "id": "b7d3ba88a411",
+      "title": "代登~台灣麻醉醫學會雲嘉地區聯合討論會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
+    },
+    {
       "id": "5bfcff8d3c72",
       "title": "理監事名單",
       "source": "台灣運動醫學醫學會",
@@ -1143,6 +1233,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/campus.html"
+    },
+    {
+      "id": "c9bc7d463306",
+      "title": "翻轉CPR",
+      "source": "安妮怎麼了",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.anne.education/flippedcpr.html"
     },
     {
       "id": "1a7323e30be9",
