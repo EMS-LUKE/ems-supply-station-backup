@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-22T21:17:18.592140+00:00",
-  "count": 214,
-  "course_count": 96,
-  "news_count": 118,
+  "updated": "2026-08-23T00:49:43.557009+00:00",
+  "count": 219,
+  "course_count": 97,
+  "news_count": 122,
   "items": [
     {
       "id": "fa10de726c18",
@@ -995,6 +995,66 @@
       "url": "https://www.tasm.org.tw/EL/seminar.asp"
     },
     {
+      "id": "c882249c61ba",
+      "title": "2025年青山宮繞境活動",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/251210_festival/"
+    },
+    {
+      "id": "140fdaafeed9",
+      "title": "2026年臺北101公益垂直馬拉松",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/260509_taipei-101/"
+    },
+    {
+      "id": "b68c7da13251",
+      "title": "2026年台新女生路跑",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/26-04-12-women-run/"
+    },
+    {
+      "id": "8d4b48f3d817",
+      "title": "2026 南山人壽臺北國道馬拉松",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/2026-taipei-highway-marathron/"
+    },
+    {
+      "id": "6a4c234af395",
+      "title": "2026年太平山蹦蹦車緊急救護演練",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/260623_tai-ping-shan-rehersal/"
+    },
+    {
+      "id": "b45db06310b7",
+      "title": "山海共生原遊會",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/260608_taloan/"
+    },
+    {
       "id": "e45a5f6063e9",
       "title": "台灣野外緊急救護協會 Facebook 粉絲專頁公告",
       "source": "台灣野外緊急救護協會",
@@ -1173,16 +1233,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.education/campus.html"
-    },
-    {
-      "id": "c9bc7d463306",
-      "title": "翻轉CPR",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
     },
     {
       "id": "1a7323e30be9",
