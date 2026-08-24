@@ -1,19 +1,9 @@
 {
-  "updated": "2026-08-23T21:16:37.605275+00:00",
-  "count": 220,
-  "course_count": 97,
-  "news_count": 123,
+  "updated": "2026-08-24T00:47:51.734523+00:00",
+  "count": 218,
+  "course_count": 96,
+  "news_count": 122,
   "items": [
-    {
-      "id": "fa10de726c18",
-      "title": "急性中毒救命課程（AILS Training Course）-115年第3場 社團法人台灣急診醫學會、中國醫藥大學附設醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-23",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/A/Details/33112"
-    },
     {
       "id": "e997aaca28a2",
       "title": "115年急性毒性物質傷害模擬訓練課程(S.T.A.T.) 三軍總醫院急診醫學部",
@@ -423,6 +413,16 @@
       "date": "2026-08-14",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1639"
+    },
+    {
+      "id": "fa10de726c18",
+      "title": "急性中毒救命課程（AILS Training Course）-115年第3場 社團法人台灣急診醫學會、中國醫藥大學附設醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-08-23",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/A/Details/33112"
     },
     {
       "id": "1f1fe4d0032e",
@@ -1185,64 +1185,44 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
-      "id": "9a9995a5da7d",
-      "title": "安妮怎麼了？－急救教育設計服務",
+      "id": "96aeeb9948f7",
+      "title": "CPR+AED",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/"
+      "url": "https://school.anne.education/course-category/cpi-aed/?tutor-course-filter-category=110"
     },
     {
-      "id": "ed3caa0dfe34",
-      "title": "全民學急救",
+      "id": "72feeda9299f",
+      "title": "[第一階段線上] CPR+AED知識課程",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/firstaid.html"
+      "url": "https://school.anne.education/courses/cpraed/"
     },
     {
-      "id": "74618323376f",
-      "title": "無意識且沒有正常呼吸(CPR+AED)",
+      "id": "ae1bfe2ab10d",
+      "title": "http://saveanne.tw/CPRAnneTaipei12024",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/f1ohca.html"
+      "url": "http://saveanne.tw/CPRAnneTaipei12024"
     },
     {
-      "id": "17dbb796794e",
-      "title": "翻轉急救｜CPR+AED",
+      "id": "00a1a278ed65",
+      "title": "http://saveanne.tw/CPRVisionTaichung1",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
-    },
-    {
-      "id": "77986d080e7b",
-      "title": "校園急救教育支持計畫",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/campus.html"
-    },
-    {
-      "id": "c9bc7d463306",
-      "title": "翻轉CPR",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
+      "url": "http://saveanne.tw/CPRVisionTaichung1"
     },
     {
       "id": "1a7323e30be9",
