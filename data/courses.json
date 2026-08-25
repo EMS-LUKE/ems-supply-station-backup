@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-25T09:29:32.550112+00:00",
-  "count": 216,
-  "course_count": 92,
-  "news_count": 124,
+  "updated": "2026-08-25T12:33:31.562742+00:00",
+  "count": 207,
+  "course_count": 84,
+  "news_count": 123,
   "items": [
     {
       "id": "e997aaca28a2",
@@ -675,56 +675,6 @@
       "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106"
     },
     {
-      "id": "db8e9410e3d6",
-      "title": "【代轉】誠摯邀請蒞臨9/3數位產業署主辦「2026 ADI DEMO DAY：主權AI賦能-建構可信賴、可控管的AI智慧醫療」(此為免費活動，名額有限，敬請把握難得機會)",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "c9bef9500467",
-      "title": "【代轉】2026年8月「2026年亞太健康促進與非傳染病防治教育訓練工作坊」",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "3a5e55368bd3",
-      "title": "【代轉】社團法人亞洲華人醫務管理交流學會8/14-/15辦理「2026高齡健康處方設計師跨領域高階創新人才培訓系列活動」歡迎報名。",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "fbce3e42c088",
-      "title": "訂購《醫療資訊雜誌》價格調漲公告！",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "6455c13c8abc",
-      "title": "【代轉】11月20日至22日舉辦「2026 第七屆全球生物醫學工程年會（GCBME 2026）」，歡迎參與及踴躍投稿！",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
       "id": "223552563fec",
       "title": "與實務對話｜【報名中】2026秋季研討會：傷口衛生工作坊",
       "source": "臺灣燒傷暨傷口照護學會",
@@ -1095,56 +1045,6 @@
       "url": "https://taiwanwma.org/activities?activity=3"
     },
     {
-      "id": "91790bdbec7d",
-      "title": "CPR+AED完整版3小時課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://sfast.innosoft.com.tw/iplm/pages/b.aspx?page=in_Meeting_list_A.html&method=In_MeetingUserResponse&in_meetingid=297C8E0AF68B4B609134923DF1F22659"
-    },
-    {
-      "id": "bf3f0e1ba292",
-      "title": "AED管理員4小時教育訓練",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/qKa2WE"
-    },
-    {
-      "id": "e0f77ddf7472",
-      "title": "基本救命術指導員BLS-I課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/eVQggR"
-    },
-    {
-      "id": "5bc9921519e2",
-      "title": "基本救命術BLS4小時課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/4bYO9v"
-    },
-    {
-      "id": "a2470c9c35e4",
-      "title": "基本救命術BLS8小時課程",
-      "source": "台灣運動安全暨急救技能推廣協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://reurl.cc/aMEgWl"
-    },
-    {
       "id": "a8949ae88118",
       "title": "2023年活動花絮集",
       "source": "復甦照護小學堂",
@@ -1463,6 +1363,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/news-feed/"
+    },
+    {
+      "id": "c91e48d0abe7",
+      "title": "CA Rollover Crash Sends 10 People to the Hospital",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/ca-rollover-crash-sends-10-people-to-the-hospital/"
     },
     {
       "id": "98860142062c",
