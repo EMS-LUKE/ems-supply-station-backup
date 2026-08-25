@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-25T06:34:09.147622+00:00",
-  "count": 214,
-  "course_count": 91,
-  "news_count": 123,
+  "updated": "2026-08-25T09:29:32.550112+00:00",
+  "count": 216,
+  "course_count": 92,
+  "news_count": 124,
   "items": [
     {
       "id": "e997aaca28a2",
@@ -725,6 +725,16 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
+      "id": "223552563fec",
+      "title": "與實務對話｜【報名中】2026秋季研討會：傷口衛生工作坊",
+      "source": "臺灣燒傷暨傷口照護學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.burn.org.tw/index.php/news/25-the-project/303-2026"
+    },
+    {
       "id": "ec9baebc8c4d",
       "title": "實踐韌性深耕再生｜【報名中】2026年會暨國際學術研討會",
       "source": "臺灣燒傷暨傷口照護學會",
@@ -733,6 +743,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.burn.org.tw/index.php/news/25-the-project/302-2026"
+    },
+    {
+      "id": "c3ad57b84ebf",
+      "title": "2026傷口衛生競賽公告名單_0821.pdf",
+      "source": "臺灣燒傷暨傷口照護學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.burn.org.tw/attachments/article/304/2026傷口衛生競賽公告名單_0821.pdf"
     },
     {
       "id": "4b196016dc2b",
