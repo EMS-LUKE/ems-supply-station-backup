@@ -1,19 +1,9 @@
 {
-  "updated": "2026-08-25T21:23:00.293931+00:00",
-  "count": 212,
-  "course_count": 89,
+  "updated": "2026-08-26T00:48:33.180530+00:00",
+  "count": 210,
+  "course_count": 87,
   "news_count": 123,
   "items": [
-    {
-      "id": "e997aaca28a2",
-      "title": "115年急性毒性物質傷害模擬訓練課程(S.T.A.T.) 三軍總醫院急診醫學部",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-25",
-      "deadline": "2026-08-25",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33187"
-    },
     {
       "id": "8e739a3cd417",
       "title": "核能災害緊急應變作業工作坊 臺北榮民總醫院急診部",
@@ -403,16 +393,6 @@
       "date": "2026-08-14",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1639"
-    },
-    {
-      "id": "fa10de726c18",
-      "title": "急性中毒救命課程（AILS Training Course）-115年第3場 社團法人台灣急診醫學會、中國醫藥大學附設醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-23",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/A/Details/33112"
     },
     {
       "id": "1f1fe4d0032e",
