@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-26T00:48:33.180530+00:00",
-  "count": 210,
-  "course_count": 87,
-  "news_count": 123,
+  "updated": "2026-08-26T03:50:17.769026+00:00",
+  "count": 185,
+  "course_count": 81,
+  "news_count": 104,
   "items": [
     {
       "id": "8e739a3cd417",
@@ -43,36 +43,6 @@
       "date": "2026-09-02",
       "deadline": "2026-09-02",
       "url": "https://www.sem.org.tw/Activity/B/Details/33215"
-    },
-    {
-      "id": "65d75f3289a0",
-      "title": "2026.9.6【2026台灣呼吸道處理醫學會年會暨國際學術研討會】歡迎報名參加",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-06",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/992.html"
-    },
-    {
-      "id": "289ecb43dfc6",
-      "title": "重症會員早鳥報名優惠-2026.9.18~20 【第七屆亞太急性腎損傷與連續性腎替代療法大會】",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/968.html"
-    },
-    {
-      "id": "83ad24e5b303",
-      "title": "徵稿中~~2026.9.18-20 International Conference on Digital Health and Medical Analytics（DHA 2026）",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/906.html"
     },
     {
       "id": "ce4831580b27",
@@ -305,16 +275,6 @@
       "url": "https://www.sem.org.tw/News/7/Details/1619"
     },
     {
-      "id": "452b7eab7397",
-      "title": "2026.7.18 台灣復甦照護學會Holistic and Patient-Centered Critical Care研討會及工作坊開放報名",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-18",
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/df_info.asp?/967.html"
-    },
-    {
       "id": "32ad96234ca5",
       "title": "иҪүзҹҘгҖҢSECC Congress 2026 Taipei жҡЁ2026жҖҘйҮҚз—ҮиҒҜеҗҲеӯёиЎ“е№ҙжңғ пјҶ з¬¬еҚҒеұҶдәһеӨӘж—©жңҹйҮҚз—Үеҫ©еҒҘеңӢйҡӣжңғиӯ°(APEM 2026)гҖҚ",
       "source": "台灣急診醫學會",
@@ -513,56 +473,6 @@
       "date": null,
       "deadline": null,
       "url": "https://forms.gle/RxQobu2FoVewH6Qs5"
-    },
-    {
-      "id": "5ddae5a72419",
-      "title": "ACLS 2007新課程規範",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/Academic/acls01.asp"
-    },
-    {
-      "id": "a12cd0974482",
-      "title": "ACLS 課程推薦書籍",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/Academic/acls02.asp"
-    },
-    {
-      "id": "effdca75c4e6",
-      "title": "重症課程(重症學分)",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tsccm.org.tw/od/Academic/index.asp?act_kindid=1"
-    },
-    {
-      "id": "a5ab109f670c",
-      "title": "聯甄課程(聯甄學分)",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tsccm.org.tw/od/Academic/index.asp?act_kindid=2"
-    },
-    {
-      "id": "3b881f2cc9c2",
-      "title": "申請學分(重症學分)",
-      "source": "中華民國重症醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://course.tsccm.org.tw/Academic/index_other.asp"
     },
     {
       "id": "47f965572631",
@@ -795,146 +705,6 @@
       "url": "https://www.tsamairway.org.tw/2026rigistatinformation"
     },
     {
-      "id": "c471c32f474a",
-      "title": "雜誌通訊課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/ecu/ecu_ccH.asp"
-    },
-    {
-      "id": "bbf59a0ee0ad",
-      "title": "線上影像學習課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
-    },
-    {
-      "id": "9d0e4f7fa7c4",
-      "title": "代登~~~2026 台灣呼吸道處理醫 學會年會暨國際學術研討會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1087.html"
-    },
-    {
-      "id": "4a249f5358dd",
-      "title": "115年冬季麻醉專科護理師學術研討會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/799.html"
-    },
-    {
-      "id": "10a585ef7f40",
-      "title": "115年麻醉專科護理師甄審口試模擬教學課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
-    },
-    {
-      "id": "7f4077aab8c4",
-      "title": "國際麻醉護士協會IFNA標準規範",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
-    },
-    {
-      "id": "c2c71a5bc917",
-      "title": "「專科護理師分科及甄審辦法」第四條、第五條、第二十二條修正草案公告",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1086.html"
-    },
-    {
-      "id": "e0909b9c6b4d",
-      "title": "代登~〔2026第二屆心安優護獎 - 臺灣優良心胸麻醉照護團隊〕",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1085.html"
-    },
-    {
-      "id": "b7d3ba88a411",
-      "title": "代登~台灣麻醉醫學會雲嘉地區聯合討論會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
-    },
-    {
-      "id": "5bfcff8d3c72",
-      "title": "理監事名單",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/about/index_03_a.asp"
-    },
-    {
-      "id": "52aeba42ceae",
-      "title": "委員會名單",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/about/index_03_b.asp"
-    },
-    {
-      "id": "7c813915b5bc",
-      "title": "理事長的話",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/about/index_04.asp"
-    },
-    {
-      "id": "97e6c65f194c",
-      "title": "訓練課程專區",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/EL/train_list.asp"
-    },
-    {
-      "id": "31969e1f295e",
-      "title": "研討會專區",
-      "source": "台灣運動醫學醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tasm.org.tw/EL/seminar.asp"
-    },
-    {
       "id": "c882249c61ba",
       "title": "2025年青山宮繞境活動",
       "source": "中華民國大型活動緊急救護協會",
@@ -1125,64 +895,44 @@
       "url": "https://www.tsorcc.org.tw/首頁"
     },
     {
-      "id": "9a9995a5da7d",
-      "title": "安妮怎麼了？－急救教育設計服務",
+      "id": "96aeeb9948f7",
+      "title": "CPR+AED",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/"
+      "url": "https://school.anne.education/?course-category=cpi-aed&tutor-course-filter-category=110"
     },
     {
-      "id": "ed3caa0dfe34",
-      "title": "全民學急救",
+      "id": "72feeda9299f",
+      "title": "[第一階段線上] CPR+AED知識課程",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/firstaid.html"
+      "url": "https://school.anne.education/?courses=cpraed"
     },
     {
-      "id": "74618323376f",
-      "title": "無意識且沒有正常呼吸(CPR+AED)",
+      "id": "ae1bfe2ab10d",
+      "title": "http://saveanne.tw/CPRAnneTaipei12024",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/f1ohca.html"
+      "url": "http://saveanne.tw/CPRAnneTaipei12024"
     },
     {
-      "id": "17dbb796794e",
-      "title": "翻轉急救｜CPR+AED",
+      "id": "00a1a278ed65",
+      "title": "http://saveanne.tw/CPRVisionTaichung1",
       "source": "安妮怎麼了",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
-    },
-    {
-      "id": "77986d080e7b",
-      "title": "校園急救教育支持計畫",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/campus.html"
-    },
-    {
-      "id": "c9bc7d463306",
-      "title": "翻轉CPR",
-      "source": "安妮怎麼了",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.anne.education/flippedcpr.html"
+      "url": "http://saveanne.tw/CPRVisionTaichung1"
     },
     {
       "id": "1a7323e30be9",
@@ -1225,14 +975,14 @@
       "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19200&agroup=a"
     },
     {
-      "id": "a5c9190b67c3",
-      "title": "臺大醫院131週年院慶舉辦數位與智慧醫療國際研討會 聚焦機器人與AI創新應用 攜手國際專家共創智慧醫療新未來",
+      "id": "ed2ee3e5b76a",
+      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
       "source": "臺大兒童醫院",
       "cat": "台灣急救社群",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.ntuh.gov.tw/News.action?q_type=-1&q_itemCode=19059"
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
     },
     {
       "id": "ed1866c01f90",
