@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-26T09:36:49.830280+00:00",
-  "count": 190,
-  "course_count": 82,
-  "news_count": 108,
+  "updated": "2026-08-26T12:36:54.196595+00:00",
+  "count": 201,
+  "course_count": 87,
+  "news_count": 114,
   "items": [
     {
       "id": "8e739a3cd417",
@@ -795,6 +795,56 @@
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
     },
     {
+      "id": "5bfcff8d3c72",
+      "title": "理監事名單",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/about/index_03_a.asp"
+    },
+    {
+      "id": "52aeba42ceae",
+      "title": "委員會名單",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/about/index_03_b.asp"
+    },
+    {
+      "id": "7c813915b5bc",
+      "title": "理事長的話",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/about/index_04.asp"
+    },
+    {
+      "id": "97e6c65f194c",
+      "title": "訓練課程專區",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/EL/train_list.asp"
+    },
+    {
+      "id": "31969e1f295e",
+      "title": "研討會專區",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/EL/seminar.asp"
+    },
+    {
       "id": "c882249c61ba",
       "title": "2025年青山宮繞境活動",
       "source": "中華民國大型活動緊急救護協會",
@@ -883,6 +933,56 @@
       "date": null,
       "deadline": null,
       "url": "https://taiwanwma.org/activities?activity=3"
+    },
+    {
+      "id": "91790bdbec7d",
+      "title": "CPR+AED完整版3小時課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://sfast.innosoft.com.tw/iplm/pages/b.aspx?page=in_Meeting_list_A.html&method=In_MeetingUserResponse&in_meetingid=297C8E0AF68B4B609134923DF1F22659"
+    },
+    {
+      "id": "bf3f0e1ba292",
+      "title": "AED管理員4小時教育訓練",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/qKa2WE"
+    },
+    {
+      "id": "e0f77ddf7472",
+      "title": "基本救命術指導員BLS-I課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/eVQggR"
+    },
+    {
+      "id": "5bc9921519e2",
+      "title": "基本救命術BLS4小時課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/4bYO9v"
+    },
+    {
+      "id": "a2470c9c35e4",
+      "title": "基本救命術BLS8小時課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/aMEgWl"
     },
     {
       "id": "a8949ae88118",
@@ -1193,6 +1293,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/"
+    },
+    {
+      "id": "1e76a97fd3a4",
+      "title": "Putnam (OH) Commissioners Eliminate Bonuses for EMS Runs",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/putnam-oh-commissioners-eliminate-bonuses-for-ems-runs/"
     },
     {
       "id": "cc05242f9202",
