@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-27T00:25:37.121776+00:00",
-  "count": 204,
-  "course_count": 86,
-  "news_count": 118,
+  "updated": "2026-08-27T13:26:44.147268+00:00",
+  "count": 196,
+  "course_count": 82,
+  "news_count": 114,
   "items": [
     {
       "id": "8e739a3cd417",
@@ -133,6 +133,16 @@
       "date": "2026-10-25",
       "deadline": null,
       "url": "https://www.mgems.org/261025_eva_checkin/"
+    },
+    {
+      "id": "d9371fb49f2a",
+      "title": "115年度中毒個案討論會–北區 社團法人台灣急診醫學會、三軍總醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-27",
+      "deadline": "2026-10-27",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33254"
     },
     {
       "id": "3685f7be079e",
@@ -695,96 +705,6 @@
       "url": "https://www.tsamairway.org.tw/2026rigistatinformation"
     },
     {
-      "id": "c471c32f474a",
-      "title": "雜誌通訊課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/ecu/ecu_ccH.asp"
-    },
-    {
-      "id": "bbf59a0ee0ad",
-      "title": "線上影像學習課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
-    },
-    {
-      "id": "9d0e4f7fa7c4",
-      "title": "代登~~~2026 台灣呼吸道處理醫 學會年會暨國際學術研討會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1087.html"
-    },
-    {
-      "id": "4a249f5358dd",
-      "title": "115年冬季麻醉專科護理師學術研討會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/799.html"
-    },
-    {
-      "id": "10a585ef7f40",
-      "title": "115年麻醉專科護理師甄審口試模擬教學課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
-    },
-    {
-      "id": "7f4077aab8c4",
-      "title": "國際麻醉護士協會IFNA標準規範",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
-    },
-    {
-      "id": "c2c71a5bc917",
-      "title": "「專科護理師分科及甄審辦法」第四條、第五條、第二十二條修正草案公告",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1086.html"
-    },
-    {
-      "id": "e0909b9c6b4d",
-      "title": "代登~〔2026第二屆心安優護獎 - 臺灣優良心胸麻醉照護團隊〕",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1085.html"
-    },
-    {
-      "id": "b7d3ba88a411",
-      "title": "代登~台灣麻醉醫學會雲嘉地區聯合討論會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
-    },
-    {
       "id": "5bfcff8d3c72",
       "title": "理監事名單",
       "source": "台灣運動醫學醫學會",
@@ -1285,14 +1205,14 @@
       "url": "https://www.jems.com/news/"
     },
     {
-      "id": "1e76a97fd3a4",
-      "title": "Putnam (OH) Commissioners Eliminate Bonuses for EMS Runs",
+      "id": "83b56302e4a2",
+      "title": "Ten Taken to Hospitals After VA Bus Crash",
       "source": "JEMS",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.jems.com/news/putnam-oh-commissioners-eliminate-bonuses-for-ems-runs/"
+      "url": "https://www.jems.com/news/ten-taken-to-hospitals-after-va-bus-crash/"
     },
     {
       "id": "cc05242f9202",
