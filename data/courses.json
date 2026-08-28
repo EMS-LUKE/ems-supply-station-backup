@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-27T13:26:44.147268+00:00",
-  "count": 196,
+  "updated": "2026-08-28T00:14:20.644729+00:00",
+  "count": 197,
   "course_count": 82,
-  "news_count": 114,
+  "news_count": 115,
   "items": [
     {
       "id": "8e739a3cd417",
@@ -1213,6 +1213,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.jems.com/news/ten-taken-to-hospitals-after-va-bus-crash/"
+    },
+    {
+      "id": "a5292176985f",
+      "title": "Heat Makes Emergency Rooms Busier. Study Shows Which Illness and Injuries Rise During Hot Spells",
+      "source": "JEMS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.jems.com/news/heat-makes-emergency-rooms-busier-study-shows-which-illness-and-injuries-rise-during-hot-spells/"
     },
     {
       "id": "cc05242f9202",
