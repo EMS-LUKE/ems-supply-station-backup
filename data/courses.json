@@ -1,29 +1,9 @@
 {
-  "updated": "2026-08-28T23:50:37.093605+00:00",
-  "count": 207,
-  "course_count": 90,
-  "news_count": 117,
+  "updated": "2026-08-29T04:56:49.786084+00:00",
+  "count": 210,
+  "course_count": 89,
+  "news_count": 121,
   "items": [
-    {
-      "id": "8e739a3cd417",
-      "title": "核能災害緊急應變作業工作坊 臺北榮民總醫院急診部",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-08-28",
-      "deadline": "2026-08-28",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33158"
-    },
-    {
-      "id": "3fc741357125",
-      "title": "е…¬е‘ҠAILS Training CourseйҖҡйҒҺеҗҚе–® (115.08.23~115.08.24)",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-28",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1645"
-    },
     {
       "id": "6b773fbf2df4",
       "title": "2026 臺灣災難醫療國際研討會- 危機下的醫療協作 衛生福利部南區緊急醫療應變中心、 中華民國重症醫學會、國立成功大學醫 學院附設醫院",
@@ -363,6 +343,16 @@
       "date": "2026-08-14",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1639"
+    },
+    {
+      "id": "3fc741357125",
+      "title": "е…¬е‘ҠAILS Training CourseйҖҡйҒҺеҗҚе–® (115.08.23~115.08.24)",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-28",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1645"
     },
     {
       "id": "1f1fe4d0032e",
@@ -2073,6 +2063,46 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/courses/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-339593v1?rss=1"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/8"
     }
   ]
 }
