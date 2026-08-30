@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Sun, 30 Aug 2026 02:39:27 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 30 Aug 2026 08:46:55 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】115年度醫院安全及緊急應變訓練通識課程 台大醫院、台北區ＲＥMOＣ</title>
@@ -14,6 +14,14 @@
     <pubDate>2026-09-02</pubDate>
     <category>台灣急診醫學會 - 台灣學會</category>
     <description>【課程】115年度醫院安全及緊急應變訓練通識課程 台大醫院、台北區ＲＥMOＣ（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】烏日林新醫院_2026.9.5-6「高級心臟救命術（ACLS）訓練課程」 烏日林新醫院</title>
+    <link>https://www.sem.org.tw/Activity/B/Details/33229</link>
+    <guid>https://www.sem.org.tw/Activity/B/Details/33229</guid>
+    <pubDate>2026-09-05</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【課程】烏日林新醫院_2026.9.5-6「高級心臟救命術（ACLS）訓練課程」 烏日林新醫院（來源：台灣急診醫學會）</description>
   </item>
   <item>
     <title>【課程】2026/09/19-20(六、日)系統性文獻回顧與統合分析工作坊(秋季班)2026-03-21</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>台灣醫學資訊學會 - 台灣學會</category>
     <description>【消息】訂購《醫療資訊雜誌》價格調漲公告！（來源：台灣醫學資訊學會）</description>
-  </item>
-  <item>
-    <title>【消息】【代轉】11月20日至22日舉辦「2026 第七屆全球生物醫學工程年會（GCBME 2026）」，歡迎參與及踴躍投稿！</title>
-    <link>https://www.medinfo.org.tw</link>
-    <guid>https://www.medinfo.org.tw</guid>
-    <pubDate>None</pubDate>
-    <category>台灣醫學資訊學會 - 台灣學會</category>
-    <description>【消息】【代轉】11月20日至22日舉辦「2026 第七屆全球生物醫學工程年會（GCBME 2026）」，歡迎參與及踴躍投稿！（來源：台灣醫學資訊學會）</description>
   </item>
 </channel>
 </rss>
