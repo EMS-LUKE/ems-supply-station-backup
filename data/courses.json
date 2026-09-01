@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-01T00:18:03.464701+00:00",
-  "count": 209,
-  "course_count": 89,
-  "news_count": 120,
+  "updated": "2026-09-01T08:11:44.855000+00:00",
+  "count": 201,
+  "course_count": 88,
+  "news_count": 113,
   "items": [
     {
       "id": "40d43964d268",
@@ -345,6 +345,16 @@
       "url": "https://www.sem.org.tw/News/11/Details/1645"
     },
     {
+      "id": "93ee6e20995a",
+      "title": "【ATLS課表公告】115年度第7梯次ATLS課程（三軍總醫院）...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/86.html"
+    },
+    {
       "id": "309f6bccc52a",
       "title": "115年精進外科系醫師醫療韌性訓練計畫，將辦理DSTC/DATC/DPNTC課程...",
       "source": "台灣外傷醫學會",
@@ -383,16 +393,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
-    },
-    {
-      "id": "57654c31c3ba",
-      "title": "【甄審資訊】115年專科醫師甄審公告...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/78.html"
     },
     {
       "id": "86005a8326cc",
@@ -885,16 +885,6 @@
       "url": "https://www.tasm.org.tw/EL/seminar.asp"
     },
     {
-      "id": "c882249c61ba",
-      "title": "2025年青山宮繞境活動",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.mgems.org/251210_festival/"
-    },
-    {
       "id": "140fdaafeed9",
       "title": "2026年臺北101公益垂直馬拉松",
       "source": "中華民國大型活動緊急救護協會",
@@ -925,6 +915,16 @@
       "url": "https://www.mgems.org/2026-taipei-highway-marathron/"
     },
     {
+      "id": "f55b01b522bb",
+      "title": "慶讚中元祭-2026",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/260826_ghost-festival/"
+    },
+    {
       "id": "6a4c234af395",
       "title": "2026年太平山蹦蹦車緊急救護演練",
       "source": "中華民國大型活動緊急救護協會",
@@ -933,16 +933,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.mgems.org/260623_tai-ping-shan-rehersal/"
-    },
-    {
-      "id": "b45db06310b7",
-      "title": "山海共生原遊會",
-      "source": "中華民國大型活動緊急救護協會",
-      "cat": "台灣協會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.mgems.org/260608_taloan/"
     },
     {
       "id": "e45a5f6063e9",
@@ -1313,36 +1303,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.itrauma.org/education/compare-itls/"
-    },
-    {
-      "id": "a39f65225f1e",
-      "title": "News Feed",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/news-feed/"
-    },
-    {
-      "id": "98860142062c",
-      "title": "Headlines",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/"
-    },
-    {
-      "id": "74cb2de05874",
-      "title": "One Dead, Three Others Injured in FL Stabbing",
-      "source": "JEMS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.jems.com/news/one-dead-three-others-injured-in-fl-stabbing/"
     },
     {
       "id": "cc05242f9202",
@@ -2053,46 +2013,6 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/courses/"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100715.short?rss=1"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/8"
     }
   ]
 }
