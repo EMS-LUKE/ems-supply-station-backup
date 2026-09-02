@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-01T22:58:21.817716+00:00",
-  "count": 202,
-  "course_count": 89,
+  "updated": "2026-09-02T02:09:02.426456+00:00",
+  "count": 201,
+  "course_count": 88,
   "news_count": 113,
   "items": [
     {
@@ -203,16 +203,6 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://jcmit2026.medinfo.org.tw/"
-    },
-    {
-      "id": "6938acf9f093",
-      "title": "115年度家庭暴力、性侵害防治與兒童保護案件實務教育訓練 衛生福利部桃園醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-06-03",
-      "deadline": "2026-06-03",
-      "url": "https://www.sem.org.tw/Activity/B/Details/32940"
     },
     {
       "id": "1484c306a4b9",
