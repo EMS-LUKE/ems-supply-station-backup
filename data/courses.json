@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-02T22:58:44.370904+00:00",
-  "count": 200,
+  "updated": "2026-09-03T02:14:32.576572+00:00",
+  "count": 199,
   "course_count": 89,
-  "news_count": 111,
+  "news_count": 110,
   "items": [
     {
       "id": "40d43964d268",
@@ -213,16 +213,6 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://jcmit2026.medinfo.org.tw/"
-    },
-    {
-      "id": "1484c306a4b9",
-      "title": "公告第十七屆理、監事候選人名單及政見",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-04",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1600"
     },
     {
       "id": "cdd928a87676",
