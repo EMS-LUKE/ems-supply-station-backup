@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-03T22:57:49.570786+00:00",
-  "count": 200,
-  "course_count": 89,
-  "news_count": 111,
+  "updated": "2026-09-04T02:11:15.913444+00:00",
+  "count": 197,
+  "course_count": 87,
+  "news_count": 110,
   "items": [
     {
       "id": "40d43964d268",
@@ -533,26 +533,6 @@
       "date": null,
       "deadline": null,
       "url": "https://tamis.org.tw/activity/44/1267"
-    },
-    {
-      "id": "32dbb30467e3",
-      "title": "★★★ 學會醫事課程開課一覽表 ★★★",
-      "source": "臺灣醫事繼續教育學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=3"
-    },
-    {
-      "id": "9e13e8fac463",
-      "title": "★★★ 高雄中山、鳯山、路竹、台中教室長照課程開課一覽表 ★★★",
-      "source": "臺灣醫事繼續教育學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106"
     },
     {
       "id": "db8e9410e3d6",
@@ -1993,16 +1973,6 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/courses/"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100744.short?rss=1"
     }
   ]
 }
