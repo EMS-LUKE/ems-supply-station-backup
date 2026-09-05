@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-05T07:18:01.377701+00:00",
-  "count": 198,
-  "course_count": 89,
-  "news_count": 109,
+  "updated": "2026-09-05T12:17:53.150892+00:00",
+  "count": 196,
+  "course_count": 90,
+  "news_count": 106,
   "items": [
     {
       "id": "40d43964d268",
@@ -1175,54 +1175,34 @@
       "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
-      "id": "2e2ebb642549",
-      "title": "三分鐘計劃｜讓地圖上的每一台 AED，真的拿得到、用得了、救得到人",
+      "id": "ceff0a7c937a",
+      "title": "聽見AED｜9月活動時程：救在當下，守護全開 】🚑✨",
       "source": "臺灣愛陌生安全推廣協會",
       "cat": "台灣急救社群",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/emson-advocacy/3min-plan/"
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e8%81%bd%e8%a6%8baed%ef%bd%9c9%e6%9c%88%e6%b4%bb%e5%8b%95%e6%99%82%e7%a8%8b%ef%bc%9a%e6%95%91%e5%9c%a8%e7%95%b6%e4%b8%8b%ef%bc%8c%e5%ae%88%e8%ad%b7%e5%85%a8%e9%96%8b-%e3%80%91%f0%9f%9a%91%e2%9c%a8/"
     },
     {
-      "id": "6f7ad46ec969",
-      "title": "【聽見AED】LINE@救援通知系統2026年7月成果報告",
+      "id": "77c5f8a9ced5",
+      "title": "救在當下・預熱短片8】遇到女性倒下，我可以做CPR嗎？AED該怎麼貼？🚨👩",
       "source": "臺灣愛陌生安全推廣協會",
       "cat": "台灣急救社群",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/event-news/%e3%80%90%e8%81%bd%e8%a6%8baed%e3%80%91line%e6%95%91%e6%8f%b4%e9%80%9a%e7%9f%a5%e7%b3%bb%e7%b5%b12026%e5%b9%b47%e6%9c%88%e6%88%90%e6%9e%9c%e5%a0%b1%e5%91%8a/"
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e6%95%91%e5%9c%a8%e7%95%b6%e4%b8%8b%e3%83%bb%e9%a0%90%e7%86%b1%e7%9f%ad%e7%89%878%e3%80%91%e9%81%87%e5%88%b0%e5%a5%b3%e6%80%a7%e5%80%92%e4%b8%8b%ef%bc%8c%e6%88%91%e5%8f%af%e4%bb%a5%e5%81%9acpr/"
     },
     {
-      "id": "f3c454cbadc0",
-      "title": "聽見AED 是什麼？急救守護系統完整介紹：LINE 通知＋IoT 警報器，讓救援早一步開始",
+      "id": "38c215d8bf19",
+      "title": "聽見AED 臉書動態",
       "source": "臺灣愛陌生安全推廣協會",
       "cat": "台灣急救社群",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/faq/popular-science/hearaed-system-intro/"
-    },
-    {
-      "id": "2e734f9698f9",
-      "title": "1395 是什麼？1 分鐘 CPR、3 分鐘 AED、95% 活著回家",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/faq/popular-science/what-is-1395/"
-    },
-    {
-      "id": "3134ca0758be",
-      "title": "【感謝帝亞吉歐】一年、30 台警報器、2,300 位體驗 CPR 的人",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/event-news/thanks-diageo-keepwalking-2026/"
+      "url": "https://www.hear-aed.com.tw/news/category/hearaed-updates/"
     },
     {
       "id": "b22c2e9061fd",
