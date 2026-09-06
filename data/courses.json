@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-06T07:30:25.980664+00:00",
-  "count": 193,
-  "course_count": 88,
-  "news_count": 105,
+  "updated": "2026-09-06T12:32:29.577082+00:00",
+  "count": 195,
+  "course_count": 89,
+  "news_count": 106,
   "items": [
     {
       "id": "ce4831580b27",
@@ -1743,6 +1743,26 @@
       "date": null,
       "deadline": null,
       "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
+    },
+    {
+      "id": "1d5a35aee639",
+      "title": "Future Training and Education Events",
+      "source": "SOMA",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://specialoperationsmedicine.org/future-training-and-education-events/"
+    },
+    {
+      "id": "6ae440c231a3",
+      "title": "Journal of Special Operations Medicine (JSOM)",
+      "source": "SOMA",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://specialoperationsmedicine.org/jsom/"
     },
     {
       "id": "be65025d0a69",
