@@ -1,29 +1,9 @@
 {
-  "updated": "2026-09-05T22:34:02.067080+00:00",
-  "count": 196,
-  "course_count": 90,
+  "updated": "2026-09-06T02:06:24.837848+00:00",
+  "count": 195,
+  "course_count": 89,
   "news_count": 106,
   "items": [
-    {
-      "id": "40d43964d268",
-      "title": "烏日林新醫院_2026.9.5-6「高級心臟救命術（ACLS）訓練課程」 烏日林新醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-05",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33229"
-    },
-    {
-      "id": "d01b088151b3",
-      "title": "2026年台灣呼吸處理醫學會年會暨國際學術研討會 台灣呼吸處理醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-06",
-      "deadline": "2026-09-06",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33244"
-    },
     {
       "id": "ce4831580b27",
       "title": "2026/09/19-20(六、日)系統性文獻回顧與統合分析工作坊(秋季班)2026-03-21",
@@ -343,6 +323,16 @@
       "date": "2026-08-28",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1645"
+    },
+    {
+      "id": "40d43964d268",
+      "title": "烏日林新醫院_2026.9.5-6「高級心臟救命術（ACLS）訓練課程」 烏日林新醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-05",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33229"
     },
     {
       "id": "93ee6e20995a",
