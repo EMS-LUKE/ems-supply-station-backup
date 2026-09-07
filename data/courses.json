@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-06T22:38:39.207256+00:00",
-  "count": 195,
-  "course_count": 89,
-  "news_count": 106,
+  "updated": "2026-09-07T02:03:58.237666+00:00",
+  "count": 198,
+  "course_count": 88,
+  "news_count": 110,
   "items": [
     {
       "id": "ce4831580b27",
@@ -323,16 +323,6 @@
       "date": "2026-08-28",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1645"
-    },
-    {
-      "id": "40d43964d268",
-      "title": "烏日林新醫院_2026.9.5-6「高級心臟救命術（ACLS）訓練課程」 烏日林新醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-05",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33229"
     },
     {
       "id": "93ee6e20995a",
@@ -1953,6 +1943,46 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.bmj.com/content/394/bmj-2026-100736.short?rss=1"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/8"
     }
   ]
 }
