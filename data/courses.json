@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-07T07:46:33.081293+00:00",
-  "count": 188,
-  "course_count": 84,
-  "news_count": 104,
+  "updated": "2026-09-07T14:41:00.016018+00:00",
+  "count": 198,
+  "course_count": 91,
+  "news_count": 107,
   "items": [
     {
       "id": "ce4831580b27",
@@ -193,6 +193,16 @@
       "date": "2026-11-25",
       "deadline": "2026-11-06",
       "url": "https://www.sem.org.tw/Activity/A/Details/33319"
+    },
+    {
+      "id": "a2814db719a3",
+      "title": "115年住院醫師初階災難訓練課程(北區)【線上+實體】 社團法人台灣急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-01",
+      "deadline": "2026-11-13",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33322"
     },
     {
       "id": "62570103abc2",
@@ -465,6 +475,16 @@
       "url": "https://tamis.org.tw/activity/60"
     },
     {
+      "id": "f1dbb68b7d0c",
+      "title": "| 🫀 【2026 台灣心肌梗塞學會秋季學術研討會】 公告日期：2026 / 9 / 7",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1274"
+    },
+    {
       "id": "df8d5479b72d",
       "title": "| 🔥 2026 TAMIS 秋季學術研討會－急性心肌梗塞案例競賽 熱烈徵稿中！ 🔥 公告日期：2026 / 7 / 27",
       "source": "台灣心肌梗塞學會",
@@ -605,8 +625,8 @@
       "url": "https://www.burn.org.tw/index.php/news/25-the-project/303-2026"
     },
     {
-      "id": "ec9baebc8c4d",
-      "title": "實踐韌性深耕再生｜【報名中】2026年會暨國際學術研討會",
+      "id": "df0c647597b6",
+      "title": "實踐韌性深耕再生｜【延長報名】2026年會暨國際學術研討會",
       "source": "臺灣燒傷暨傷口照護學會",
       "cat": "台灣學會",
       "type": "course",
@@ -1083,6 +1103,86 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.educationcampus.html"
+    },
+    {
+      "id": "1a7323e30be9",
+      "title": "2026母親節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "9fdb080fb678",
+      "title": "2026兒童節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "79f4d8162d0b",
+      "title": "2025兒童醫院聖誕節慶活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "e685e4ff3394",
+      "title": "臺北市政府衛生局115年8月1日至115年9月30日辦理臺北健康養成記「命運精靈召喚所．健康運氣在你手」獎勵活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19200&agroup=a"
+    },
+    {
+      "id": "ed2ee3e5b76a",
+      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
+    },
+    {
+      "id": "ed1866c01f90",
+      "title": "【家庭資源中心閉館公告】",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
+    },
+    {
+      "id": "9b54876f3cd3",
+      "title": "115年農曆春節本院服務公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
+    },
+    {
+      "id": "c32df82d097f",
+      "title": "115年農曆春節假期特設「傳染病特別診」公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
       "id": "ceff0a7c937a",
