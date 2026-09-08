@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-08T02:15:36.060107+00:00",
-  "count": 194,
-  "course_count": 87,
-  "news_count": 107,
+  "updated": "2026-09-08T07:39:07.434371+00:00",
+  "count": 201,
+  "course_count": 91,
+  "news_count": 110,
   "items": [
     {
       "id": "5c699a656357",
@@ -655,18 +655,8 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "223552563fec",
-      "title": "與實務對話｜【報名中】2026秋季研討會：傷口衛生工作坊",
-      "source": "臺灣燒傷暨傷口照護學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.burn.org.tw/index.php/news/25-the-project/303-2026"
-    },
-    {
-      "id": "df0c647597b6",
-      "title": "實踐韌性深耕再生｜【延長報名】2026年會暨國際學術研討會",
+      "id": "84fb617b4961",
+      "title": "【大會議程公告｜延長報名】2026年會暨國際學術研討會",
       "source": "臺灣燒傷暨傷口照護學會",
       "cat": "台灣學會",
       "type": "course",
@@ -675,14 +665,14 @@
       "url": "https://www.burn.org.tw/index.php/news/25-the-project/302-2026"
     },
     {
-      "id": "4b196016dc2b",
-      "title": "深耕學術與臨床｜【延長徵稿至8/10】2026年會論文發表",
+      "id": "c3ad57b84ebf",
+      "title": "2026傷口衛生競賽公告名單_0821.pdf",
       "source": "臺灣燒傷暨傷口照護學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.burn.org.tw/index.php/news/25-the-project/301-2026"
+      "url": "https://www.burn.org.tw/attachments/article/304/2026傷口衛生競賽公告名單_0821.pdf"
     },
     {
       "id": "2074c2677272",
@@ -783,6 +773,86 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tsamairway.org.tw/2026rigistatinformation"
+    },
+    {
+      "id": "c471c32f474a",
+      "title": "雜誌通訊課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/ecu/ecu_ccH.asp"
+    },
+    {
+      "id": "bbf59a0ee0ad",
+      "title": "線上影像學習課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
+    },
+    {
+      "id": "9d0e4f7fa7c4",
+      "title": "代登~~~2026 台灣呼吸道處理醫 學會年會暨國際學術研討會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1087.html"
+    },
+    {
+      "id": "4a249f5358dd",
+      "title": "115年冬季麻醉專科護理師學術研討會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/799.html"
+    },
+    {
+      "id": "10a585ef7f40",
+      "title": "115年麻醉專科護理師甄審口試模擬教學課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
+    },
+    {
+      "id": "7f4077aab8c4",
+      "title": "國際麻醉護士協會IFNA標準規範",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
+    },
+    {
+      "id": "c2c71a5bc917",
+      "title": "「專科護理師分科及甄審辦法」第四條、第五條、第二十二條修正草案公告",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1086.html"
+    },
+    {
+      "id": "b7d3ba88a411",
+      "title": "代登~台灣麻醉醫學會雲嘉地區聯合討論會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
     },
     {
       "id": "5bfcff8d3c72",
