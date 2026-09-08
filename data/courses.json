@@ -1,12 +1,22 @@
 {
-  "updated": "2026-09-08T18:16:23.455791+00:00",
-  "count": 200,
-  "course_count": 91,
-  "news_count": 109,
+  "updated": "2026-09-08T23:08:22.975479+00:00",
+  "count": 198,
+  "course_count": 88,
+  "news_count": 110,
   "items": [
     {
       "id": "5c699a656357",
       "title": "【ED Transforming！急診智慧轉型研討會】—台灣急診管理學會第六屆第一次會員大會暨學術研討會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-08",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1646"
+    },
+    {
+      "id": "f17b66c5c320",
+      "title": "гҖҗED TransformingпјҒжҖҘиЁәжҷәж…§иҪүеһӢз ”иЁҺжңғгҖ‘вҖ”еҸ°зҒЈжҖҘиЁәз®ЎзҗҶеӯёжңғз¬¬е…ӯеұҶз¬¬дёҖж¬Ўжңғе“ЎеӨ§жңғжҡЁеӯёиЎ“з ”иЁҺжңғ",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -285,8 +295,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1621"
     },
     {
-      "id": "535915b17247",
-      "title": "【徵求推薦】ASEM Education & Research Champion 候選人",
+      "id": "90b825a262f1",
+      "title": "гҖҗеҫөжұӮжҺЁи–ҰгҖ‘ASEM Education & Research Champion еҖҷйҒёдәә",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -325,8 +335,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1454"
     },
     {
-      "id": "479e3f547f89",
-      "title": "專科醫師證書更新複審結果公告-王O人等38位醫師(到期日如內文)",
+      "id": "4be77fdc392c",
+      "title": "е°Ҳз§‘йҶ«её«иӯүжӣёжӣҙж–°иӨҮеҜ©зөҗжһңе…¬е‘Ҡ-зҺӢOдәәзӯү38дҪҚйҶ«её«(еҲ°жңҹж—ҘеҰӮе…§ж–Ү)",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -337,6 +347,16 @@
     {
       "id": "f4711a021d95",
       "title": "2026冬季學術討論會暨1119台灣急診日",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-08-11",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/12/Details/1638"
+    },
+    {
+      "id": "32daf37c2cde",
+      "title": "2026еҶ¬еӯЈеӯёиЎ“иЁҺи«–жңғжҡЁ1119еҸ°зҒЈжҖҘиЁәж—Ҙ",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -1963,46 +1983,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
-    },
-    {
-      "id": "1a4c4b8a5a11",
-      "title": "Online Courses",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://lms.trilogyems.com/courses/"
-    },
-    {
-      "id": "23adf4e4ec24",
-      "title": "BUY COURSES",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://lms.trilogyems.com/buy-course/"
-    },
-    {
-      "id": "2eec27c4207b",
-      "title": "Browse Courses",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://lms.trilogyems.com/buy-course/"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100780.short?rss=1"
     }
   ]
 }
