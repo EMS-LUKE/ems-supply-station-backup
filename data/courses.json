@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-09T13:19:45.914705+00:00",
-  "count": 201,
-  "course_count": 91,
-  "news_count": 110,
+  "updated": "2026-09-09T18:16:13.841853+00:00",
+  "count": 202,
+  "course_count": 88,
+  "news_count": 114,
   "items": [
     {
       "id": "ce4831580b27",
@@ -1985,34 +1985,44 @@
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
     },
     {
-      "id": "1a4c4b8a5a11",
-      "title": "Online Courses",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://lms.trilogyems.com/courses/"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100793.short?rss=1"
     },
     {
-      "id": "23adf4e4ec24",
-      "title": "BUY COURSES",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://lms.trilogyems.com/buy-course/"
+      "url": "https://emj.bmj.com/content/early/recent"
     },
     {
-      "id": "2eec27c4207b",
-      "title": "Browse Courses",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://lms.trilogyems.com/buy-course/"
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/8"
     }
   ]
 }
