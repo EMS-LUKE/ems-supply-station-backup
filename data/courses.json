@@ -1,29 +1,9 @@
 {
-  "updated": "2026-09-08T23:08:22.975479+00:00",
-  "count": 198,
-  "course_count": 88,
-  "news_count": 110,
+  "updated": "2026-09-09T02:19:30.424379+00:00",
+  "count": 210,
+  "course_count": 91,
+  "news_count": 119,
   "items": [
-    {
-      "id": "5c699a656357",
-      "title": "【ED Transforming！急診智慧轉型研討會】—台灣急診管理學會第六屆第一次會員大會暨學術研討會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-08",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1646"
-    },
-    {
-      "id": "f17b66c5c320",
-      "title": "гҖҗED TransformingпјҒжҖҘиЁәжҷәж…§иҪүеһӢз ”иЁҺжңғгҖ‘вҖ”еҸ°зҒЈжҖҘиЁәз®ЎзҗҶеӯёжңғз¬¬е…ӯеұҶз¬¬дёҖж¬Ўжңғе“ЎеӨ§жңғжҡЁеӯёиЎ“з ”иЁҺжңғ",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-08",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1646"
-    },
     {
       "id": "ce4831580b27",
       "title": "2026/09/19-20(六、日)系統性文獻回顧與統合分析工作坊(秋季班)2026-03-21",
@@ -383,6 +363,26 @@
       "date": "2026-08-28",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1645"
+    },
+    {
+      "id": "5c699a656357",
+      "title": "【ED Transforming！急診智慧轉型研討會】—台灣急診管理學會第六屆第一次會員大會暨學術研討會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-08",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1646"
+    },
+    {
+      "id": "f17b66c5c320",
+      "title": "гҖҗED TransformingпјҒжҖҘиЁәжҷәж…§иҪүеһӢз ”иЁҺжңғгҖ‘вҖ”еҸ°зҒЈжҖҘиЁәз®ЎзҗҶеӯёжңғз¬¬е…ӯеұҶз¬¬дёҖж¬Ўжңғе“ЎеӨ§жңғжҡЁеӯёиЎ“з ”иЁҺжңғ",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-08",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1646"
     },
     {
       "id": "93ee6e20995a",
@@ -853,6 +853,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
+    },
+    {
+      "id": "90d9f7c22f7f",
+      "title": "йҰ–й Ғ",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.sma.org.tw/index.html"
+    },
+    {
+      "id": "567241e8846f",
+      "title": "й—ңж–јеӯёжңғ",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.sma.org.tw"
+    },
+    {
+      "id": "cd1e13730124",
+      "title": "жҲҗз«Ӣе®—ж—Ё",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.sma.org.tw/about1.html"
+    },
+    {
+      "id": "81430406a9bb",
+      "title": "зө„з№”з« зЁӢ",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.sma.org.tw/about2.html"
+    },
+    {
+      "id": "5bb428b6393f",
+      "title": "зҗҶдәӢй•·зҡ„и©ұ",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.sma.org.tw/index.html"
     },
     {
       "id": "5bfcff8d3c72",
@@ -1983,6 +2033,76 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
+    },
+    {
+      "id": "1a4c4b8a5a11",
+      "title": "Online Courses",
+      "source": "Trilogy EMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://lms.trilogyems.com/courses/"
+    },
+    {
+      "id": "23adf4e4ec24",
+      "title": "BUY COURSES",
+      "source": "Trilogy EMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://lms.trilogyems.com/buy-course/"
+    },
+    {
+      "id": "2eec27c4207b",
+      "title": "Browse Courses",
+      "source": "Trilogy EMS",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://lms.trilogyems.com/buy-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.bmj.com/content/394/bmj-2026-100793.short?rss=1"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/8"
     }
   ]
 }
