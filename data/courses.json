@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-10T13:19:14.187685+00:00",
-  "count": 200,
-  "course_count": 86,
-  "news_count": 114,
+  "updated": "2026-09-10T18:02:15.681662+00:00",
+  "count": 201,
+  "course_count": 91,
+  "news_count": 110,
   "items": [
     {
       "id": "ce4831580b27",
@@ -985,6 +985,56 @@
       "url": "https://taiwanwma.org/activities?activity=3"
     },
     {
+      "id": "91790bdbec7d",
+      "title": "CPR+AED完整版3小時課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://sfast.innosoft.com.tw/iplm/pages/b.aspx?page=in_Meeting_list_A.html&method=In_MeetingUserResponse&in_meetingid=297C8E0AF68B4B609134923DF1F22659"
+    },
+    {
+      "id": "bf3f0e1ba292",
+      "title": "AED管理員4小時教育訓練",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/qKa2WE"
+    },
+    {
+      "id": "e0f77ddf7472",
+      "title": "基本救命術指導員BLS-I課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/eVQggR"
+    },
+    {
+      "id": "5bc9921519e2",
+      "title": "基本救命術BLS4小時課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/4bYO9v"
+    },
+    {
+      "id": "a2470c9c35e4",
+      "title": "基本救命術BLS8小時課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/aMEgWl"
+    },
+    {
       "id": "a8949ae88118",
       "title": "2023年活動花絮集",
       "source": "復甦照護小學堂",
@@ -1963,46 +2013,6 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100810.short?rss=1"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/8"
     }
   ]
 }
