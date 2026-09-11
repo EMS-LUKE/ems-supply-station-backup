@@ -1,9 +1,49 @@
 {
-  "updated": "2026-09-10T22:55:45.337914+00:00",
+  "updated": "2026-09-11T02:13:40.203561+00:00",
   "count": 201,
-  "course_count": 91,
-  "news_count": 110,
+  "course_count": 95,
+  "news_count": 106,
   "items": [
+    {
+      "id": "dfb92c6c61ce",
+      "title": "2026台灣兒童急診醫學會年會暨學術演講會 台灣兒童急診醫學會、台中榮民總醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-13",
+      "deadline": "2026-09-13",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33260"
+    },
+    {
+      "id": "822b5297a678",
+      "title": "115年度基本救命術BLS 8小時訓練課程 那秋設計工作室",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-18",
+      "deadline": "2026-09-18",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33280"
+    },
+    {
+      "id": "6eaabf54559d",
+      "title": "急診外傷訓練(ETTC)課程 國立臺北護理健康大學",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33282"
+    },
+    {
+      "id": "a4f62993004c",
+      "title": "Provider Manual & CD 衛生福利部嘉義醫院 急診室.極簡顧問有限公司",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": "2026-08-18",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33281"
+    },
     {
       "id": "ce4831580b27",
       "title": "2026/09/19-20(六、日)系統性文獻回顧與統合分析工作坊(秋季班)2026-03-21",
@@ -45,14 +85,14 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33173"
     },
     {
-      "id": "25803e0146cc",
-      "title": "AHA BLS+PALS Provider Course-林口長庚 台灣急診醫學會國際培訓中心 長庚醫療財團法人林口長庚紀念醫院 急診醫學科",
+      "id": "0456abb457a6",
+      "title": "115年度臨床毒藥物專科醫師訓練 社團法人台灣急診醫學會",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-09-22",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/AHA/Details/33325"
+      "date": "2026-10-01",
+      "deadline": "2026-10-01",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33349"
     },
     {
       "id": "5ea18ba7e4da",
@@ -275,16 +315,6 @@
       "url": "https://www.sem.org.tw/News/11/Details/1621"
     },
     {
-      "id": "90b825a262f1",
-      "title": "гҖҗеҫөжұӮжҺЁи–ҰгҖ‘ASEM Education & Research Champion еҖҷйҒёдәә",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-09",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1622"
-    },
-    {
       "id": "e5cb7301a812",
       "title": "誠徵2026年10月「急診住院醫師交流論壇」報告人",
       "source": "台灣急診醫學會",
@@ -315,28 +345,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1454"
     },
     {
-      "id": "4be77fdc392c",
-      "title": "е°Ҳз§‘йҶ«её«иӯүжӣёжӣҙж–°иӨҮеҜ©зөҗжһңе…¬е‘Ҡ-зҺӢOдәәзӯү38дҪҚйҶ«её«(еҲ°жңҹж—ҘеҰӮе…§ж–Ү)",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-05",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1636"
-    },
-    {
       "id": "f4711a021d95",
       "title": "2026冬季學術討論會暨1119台灣急診日",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-11",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/12/Details/1638"
-    },
-    {
-      "id": "32daf37c2cde",
-      "title": "2026еҶ¬еӯЈеӯёиЎ“иЁҺи«–жңғжҡЁ1119еҸ°зҒЈжҖҘиЁәж—Ҙ",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -367,16 +377,6 @@
     {
       "id": "5c699a656357",
       "title": "【ED Transforming！急診智慧轉型研討會】—台灣急診管理學會第六屆第一次會員大會暨學術研討會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-08",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1646"
-    },
-    {
-      "id": "f17b66c5c320",
-      "title": "гҖҗED TransformingпјҒжҖҘиЁәжҷәж…§иҪүеһӢз ”иЁҺжңғгҖ‘вҖ”еҸ°зҒЈжҖҘиЁәз®ЎзҗҶеӯёжңғз¬¬е…ӯеұҶз¬¬дёҖж¬Ўжңғе“ЎеӨ§жңғжҡЁеӯёиЎ“з ”иЁҺжңғ",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
