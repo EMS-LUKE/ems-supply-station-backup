@@ -1,9 +1,19 @@
 {
-  "updated": "2026-09-11T02:13:40.203561+00:00",
-  "count": 201,
+  "updated": "2026-09-11T07:40:58.372831+00:00",
+  "count": 203,
   "course_count": 95,
-  "news_count": 106,
+  "news_count": 108,
   "items": [
+    {
+      "id": "ac6ac8b858dd",
+      "title": "EMS news letter - 雙月刊",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-11",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/967"
+    },
     {
       "id": "dfb92c6c61ce",
       "title": "2026台灣兒童急診醫學會年會暨學術演講會 台灣兒童急診醫學會、台中榮民總醫院",
@@ -25,6 +35,16 @@
       "url": "https://www.sem.org.tw/Activity/B/Details/33280"
     },
     {
+      "id": "99c47cfaa7f6",
+      "title": "戰傷醫學訓練工作坊 臺北榮民總醫院急診部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-18",
+      "deadline": "2026-09-18",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33235"
+    },
+    {
       "id": "6eaabf54559d",
       "title": "急診外傷訓練(ETTC)課程 國立臺北護理健康大學",
       "source": "台灣急診醫學會",
@@ -33,16 +53,6 @@
       "date": "2026-09-19",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/B/Details/33282"
-    },
-    {
-      "id": "a4f62993004c",
-      "title": "Provider Manual & CD 衛生福利部嘉義醫院 急診室.極簡顧問有限公司",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": "2026-08-18",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33281"
     },
     {
       "id": "ce4831580b27",
@@ -385,14 +395,14 @@
       "url": "https://www.sem.org.tw/News/10/Details/1646"
     },
     {
-      "id": "93ee6e20995a",
-      "title": "【ATLS課表公告】115年度第7梯次ATLS課程（三軍總醫院）...",
+      "id": "49447b7ef989",
+      "title": "【ATLS課表公告】115年度第8梯次ATLS課程（中國醫藥大學附設醫院）...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/86.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/87.html"
     },
     {
       "id": "309f6bccc52a",
@@ -2013,6 +2023,16 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-225321v1?rss=1"
     }
   ]
 }

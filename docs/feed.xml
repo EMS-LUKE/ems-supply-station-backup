@@ -5,8 +5,16 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Fri, 11 Sep 2026 02:13:40 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 11 Sep 2026 07:40:58 +0000</lastBuildDate>
   <ttl>180</ttl>
+  <item>
+    <title>【消息】EMS news letter - 雙月刊</title>
+    <link>https://www.sem.org.tw/News/11/Details/967</link>
+    <guid>https://www.sem.org.tw/News/11/Details/967</guid>
+    <pubDate>2026-09-11</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【消息】EMS news letter - 雙月刊（來源：台灣急診醫學會）</description>
+  </item>
   <item>
     <title>【課程】2026台灣兒童急診醫學會年會暨學術演講會 台灣兒童急診醫學會、台中榮民總醫院</title>
     <link>https://www.sem.org.tw/Activity/B/Details/33260</link>
@@ -24,20 +32,20 @@
     <description>【課程】115年度基本救命術BLS 8小時訓練課程 那秋設計工作室（來源：台灣急診醫學會）</description>
   </item>
   <item>
+    <title>【課程】戰傷醫學訓練工作坊 臺北榮民總醫院急診部</title>
+    <link>https://www.sem.org.tw/Activity/B/Details/33235</link>
+    <guid>https://www.sem.org.tw/Activity/B/Details/33235</guid>
+    <pubDate>2026-09-18</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【課程】戰傷醫學訓練工作坊 臺北榮民總醫院急診部（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
     <title>【課程】急診外傷訓練(ETTC)課程 國立臺北護理健康大學</title>
     <link>https://www.sem.org.tw/Activity/B/Details/33282</link>
     <guid>https://www.sem.org.tw/Activity/B/Details/33282</guid>
     <pubDate>2026-09-19</pubDate>
     <category>台灣急診醫學會 - 台灣學會</category>
     <description>【課程】急診外傷訓練(ETTC)課程 國立臺北護理健康大學（來源：台灣急診醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】Provider Manual &amp; CD 衛生福利部嘉義醫院 急診室.極簡顧問有限公司</title>
-    <link>https://www.sem.org.tw/Activity/B/Details/33281</link>
-    <guid>https://www.sem.org.tw/Activity/B/Details/33281</guid>
-    <pubDate>2026-09-19</pubDate>
-    <category>台灣急診醫學會 - 台灣學會</category>
-    <description>【課程】Provider Manual &amp; CD 衛生福利部嘉義醫院 急診室.極簡顧問有限公司（來源：台灣急診醫學會）</description>
   </item>
   <item>
     <title>【課程】2026/09/19-20(六、日)系統性文獻回顧與統合分析工作坊(秋季班)2026-03-21</title>
@@ -312,12 +320,12 @@
     <description>【消息】【ED Transforming！急診智慧轉型研討會】—台灣急診管理學會第六屆第一次會員大會暨學術研討會（來源：台灣急診醫學會）</description>
   </item>
   <item>
-    <title>【消息】【ATLS課表公告】115年度第7梯次ATLS課程（三軍總醫院）...</title>
-    <link>http://www.trauma.org.tw/news/index.asp?/86.html</link>
-    <guid>http://www.trauma.org.tw/news/index.asp?/86.html</guid>
+    <title>【消息】【ATLS課表公告】115年度第8梯次ATLS課程（中國醫藥大學附設醫院）...</title>
+    <link>http://www.trauma.org.tw/news/index.asp?/87.html</link>
+    <guid>http://www.trauma.org.tw/news/index.asp?/87.html</guid>
     <pubDate>None</pubDate>
     <category>台灣外傷醫學會 - 台灣學會</category>
-    <description>【消息】【ATLS課表公告】115年度第7梯次ATLS課程（三軍總醫院）...（來源：台灣外傷醫學會）</description>
+    <description>【消息】【ATLS課表公告】115年度第8梯次ATLS課程（中國醫藥大學附設醫院）...（來源：台灣外傷醫學會）</description>
   </item>
   <item>
     <title>【消息】115年精進外科系醫師醫療韌性訓練計畫，將辦理DSTC/DATC/DPNTC課程...</title>
@@ -478,14 +486,6 @@
     <pubDate>None</pubDate>
     <category>臺灣醫事繼續教育學會 - 台灣學會</category>
     <description>【課程】★★★ 學會醫事課程開課一覽表 ★★★（來源：臺灣醫事繼續教育學會）</description>
-  </item>
-  <item>
-    <title>【課程】★★★ 高雄中山、鳯山、路竹、台中教室長照課程開課一覽表 ★★★</title>
-    <link>https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106</link>
-    <guid>https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106</guid>
-    <pubDate>None</pubDate>
-    <category>臺灣醫事繼續教育學會 - 台灣學會</category>
-    <description>【課程】★★★ 高雄中山、鳯山、路竹、台中教室長照課程開課一覽表 ★★★（來源：臺灣醫事繼續教育學會）</description>
   </item>
 </channel>
 </rss>
