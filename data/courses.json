@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-11T07:40:58.372831+00:00",
-  "count": 203,
+  "updated": "2026-09-11T13:11:43.640739+00:00",
+  "count": 202,
   "course_count": 95,
-  "news_count": 108,
+  "news_count": 107,
   "items": [
     {
       "id": "ac6ac8b858dd",
@@ -2023,16 +2023,6 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-225321v1?rss=1"
     }
   ]
 }
