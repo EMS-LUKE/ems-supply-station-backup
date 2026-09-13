@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-12T22:47:19.800058+00:00",
-  "count": 197,
+  "updated": "2026-09-13T02:16:57.813170+00:00",
+  "count": 198,
   "course_count": 95,
-  "news_count": 102,
+  "news_count": 103,
   "items": [
     {
       "id": "dfb92c6c61ce",
@@ -13,16 +13,6 @@
       "date": "2026-09-13",
       "deadline": "2026-09-13",
       "url": "https://www.sem.org.tw/Activity/B/Details/33260"
-    },
-    {
-      "id": "822b5297a678",
-      "title": "115年度基本救命術BLS 8小時訓練課程 那秋設計工作室",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-18",
-      "deadline": "2026-09-18",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33280"
     },
     {
       "id": "99c47cfaa7f6",
@@ -43,6 +33,16 @@
       "date": "2026-09-19",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/B/Details/33282"
+    },
+    {
+      "id": "a4f62993004c",
+      "title": "Provider Manual & CD 衛生福利部嘉義醫院 急診室.極簡顧問有限公司",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-19",
+      "deadline": "2026-08-18",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33281"
     },
     {
       "id": "ce4831580b27",
@@ -1973,6 +1973,16 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://thorax.bmj.com/cgi/content/short/thorax-2026-225321v1?rss=1"
     }
   ]
 }
