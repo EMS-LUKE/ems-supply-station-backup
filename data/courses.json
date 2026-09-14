@@ -1,19 +1,9 @@
 {
-  "updated": "2026-09-13T22:48:07.687873+00:00",
-  "count": 197,
+  "updated": "2026-09-14T02:34:58.347789+00:00",
+  "count": 202,
   "course_count": 95,
-  "news_count": 102,
+  "news_count": 107,
   "items": [
-    {
-      "id": "dfb92c6c61ce",
-      "title": "2026台灣兒童急診醫學會年會暨學術演講會 台灣兒童急診醫學會、台中榮民總醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-13",
-      "deadline": "2026-09-13",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33260"
-    },
     {
       "id": "99c47cfaa7f6",
       "title": "戰傷醫學訓練工作坊 臺北榮民總醫院急診部",
@@ -141,7 +131,7 @@
       "cat": "台灣學會",
       "type": "course",
       "date": "2026-10-13",
-      "deadline": "2026-10-13",
+      "deadline": null,
       "url": "https://www.sem.org.tw/Activity/A/Details/33306"
     },
     {
@@ -393,6 +383,16 @@
       "date": "2026-09-11",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/967"
+    },
+    {
+      "id": "dfb92c6c61ce",
+      "title": "2026台灣兒童急診醫學會年會暨學術演講會 台灣兒童急診醫學會、台中榮民總醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-09-13",
+      "deadline": "2026-09-13",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33260"
     },
     {
       "id": "49447b7ef989",
@@ -843,6 +843,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
+    },
+    {
+      "id": "058d7913052c",
+      "title": "麻醉專科護理師證書換證需求調查",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1091.html"
     },
     {
       "id": "c2c71a5bc917",
@@ -1973,6 +1983,46 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.bmj.com/content/394/bmj-2026-100844.short?rss=1"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/8"
     }
   ]
 }
