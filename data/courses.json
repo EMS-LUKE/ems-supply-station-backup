@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-15T02:38:55.623684+00:00",
-  "count": 207,
-  "course_count": 95,
-  "news_count": 112,
+  "updated": "2026-09-15T08:16:04.318526+00:00",
+  "count": 204,
+  "course_count": 96,
+  "news_count": 108,
   "items": [
     {
       "id": "99c47cfaa7f6",
@@ -145,6 +145,16 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33306"
     },
     {
+      "id": "31731e3015c5",
+      "title": "中級空中醫療救護專業人員訓練課程 社團法人台灣急診醫學會、衛生福利部空中轉診審核中心",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-23",
+      "deadline": "2026-09-24",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33360"
+    },
+    {
       "id": "4794f668f13d",
       "title": "台灣野外救命術訓練課程(初階證照班) 社團法人台灣急診醫學會、羅東博愛醫院",
       "source": "台灣急診醫學會",
@@ -265,8 +275,8 @@
       "url": "https://jcmit2026.medinfo.org.tw/"
     },
     {
-      "id": "ca9371cc0e2d",
-      "title": "гҖҠеңЁе®…жҖҘз—Үз…§иӯ·жүӢеҶҠгҖӢ",
+      "id": "cdd928a87676",
+      "title": "《在宅急症照護手冊》",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -275,8 +285,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1611"
     },
     {
-      "id": "3468e8de44e2",
-      "title": "2026и¶…йҹіжіўз«¶иіҪеҫ—зҚҺеҗҚе–®",
+      "id": "ff76fb8193f9",
+      "title": "2026超音波競賽得獎名單",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -285,8 +295,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1625"
     },
     {
-      "id": "1951de63c99d",
-      "title": "е…¬е‘ҠAILS Training CourseйҖҡйҒҺеҗҚе–® (115.06.23~115.06.24)",
+      "id": "7619e60cf6d3",
+      "title": "公告AILS Training Course通過名單 (115.06.23~115.06.24)",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -295,8 +305,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1613"
     },
     {
-      "id": "f60a43b71d74",
-      "title": "з¬¬еҚҒдёғеұҶзҗҶгҖҒзӣЈдәӢз•¶йҒёеҗҚе–®",
+      "id": "79731aad3bdd",
+      "title": "第十七屆理、監事當選名單",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -305,8 +315,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1612"
     },
     {
-      "id": "bce8fbe36dd4",
-      "title": "з¬¬еҚҒдёғеұҶзҗҶдәӢй•·гҖҒеёёеӢҷзҗҶдәӢгҖҒеёёеӢҷзӣЈдәӢз•¶йҒёеҗҚе–®е…¬е‘Ҡ",
+      "id": "82bfd7c732c8",
+      "title": "第十七屆理事長、常務理事、常務監事當選名單公告",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -315,8 +325,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1621"
     },
     {
-      "id": "94d4cae45b52",
-      "title": "иӘ еҫө2026е№ҙ10жңҲгҖҢжҖҘиЁәдҪҸйҷўйҶ«её«дәӨжөҒи«–еЈҮгҖҚе ұе‘Ҡдәә",
+      "id": "e5cb7301a812",
+      "title": "誠徵2026年10月「急診住院醫師交流論壇」報告人",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -325,8 +335,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1631"
     },
     {
-      "id": "af3d5a4aad65",
-      "title": "115е№ҙиҮЁеәҠжҜ’и—Ҙзү©е°Ҳз§‘йҶ«её«иЁ“з·ҙиЁҲз•«жӢӣз”ҹе…¬е‘Ҡ",
+      "id": "36a3bf466827",
+      "title": "115年臨床毒藥物專科醫師訓練計畫招生公告",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -335,8 +345,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1633"
     },
     {
-      "id": "65916232ca75",
-      "title": "115е№ҙеҚҒеӨ§е„Әз§ҖжҖҘиЁәиӯ·п§Өеё«жҺЁи–ҰиҫҰжі•",
+      "id": "ff430ef38337",
+      "title": "115年十大優秀急診護理師推薦辦法",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -345,8 +355,8 @@
       "url": "https://www.sem.org.tw/News/11/Details/1454"
     },
     {
-      "id": "32daf37c2cde",
-      "title": "2026еҶ¬еӯЈеӯёиЎ“иЁҺи«–жңғжҡЁ1119еҸ°зҒЈжҖҘиЁәж—Ҙ",
+      "id": "f4711a021d95",
+      "title": "2026冬季學術討論會暨1119台灣急診日",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -355,8 +365,8 @@
       "url": "https://www.sem.org.tw/News/12/Details/1638"
     },
     {
-      "id": "6a4bc6726989",
-      "title": "е…¬е‘ҠгҖҺ2026е№ҙ10жңҲжҖҘиЁәдҪҸйҷўйҶ«её«дәӨжөҒи«–еЈҮгҖҸе ұе‘ҠдәәзҚІйҒёеҗҚе–®",
+      "id": "c343b40ec276",
+      "title": "公告『2026年10月急診住院醫師交流論壇』報告人獲選名單",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -365,24 +375,14 @@
       "url": "https://www.sem.org.tw/News/11/Details/1639"
     },
     {
-      "id": "3fc741357125",
-      "title": "е…¬е‘ҠAILS Training CourseйҖҡйҒҺеҗҚе–® (115.08.23~115.08.24)",
+      "id": "3317ef8df1a3",
+      "title": "公告AILS Training Course通過名單 (115.08.23~115.08.24)",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": "2026-08-28",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1645"
-    },
-    {
-      "id": "f17b66c5c320",
-      "title": "гҖҗED TransformingпјҒжҖҘиЁәжҷәж…§иҪүеһӢз ”иЁҺжңғгҖ‘вҖ”еҸ°зҒЈжҖҘиЁәз®ЎзҗҶеӯёжңғз¬¬е…ӯеұҶз¬¬дёҖж¬Ўжңғе“ЎеӨ§жңғжҡЁеӯёиЎ“з ”иЁҺжңғ",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-08",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1646"
     },
     {
       "id": "5c699a656357",
@@ -395,8 +395,8 @@
       "url": "https://www.sem.org.tw/News/10/Details/1646"
     },
     {
-      "id": "c7494e0c5795",
-      "title": "EMS news letter - йӣҷжңҲеҲҠ",
+      "id": "ac6ac8b858dd",
+      "title": "EMS news letter - 雙月刊",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -1195,16 +1195,6 @@
       "url": "https://www.ntuh.gov.tw"
     },
     {
-      "id": "e685e4ff3394",
-      "title": "臺北市政府衛生局115年8月1日至115年9月30日辦理臺北健康養成記「命運精靈召喚所．健康運氣在你手」獎勵活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19200&agroup=a"
-    },
-    {
       "id": "ed2ee3e5b76a",
       "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
       "source": "臺大兒童醫院",
@@ -1213,6 +1203,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
+    },
+    {
+      "id": "5bb633d2fb9b",
+      "title": "臺大醫院115年度母親節節慶關懷活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1050"
     },
     {
       "id": "ed1866c01f90",
@@ -2043,36 +2043,6 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "3375be28d9d1",
-      "title": "Current Issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
     }
   ]
 }
