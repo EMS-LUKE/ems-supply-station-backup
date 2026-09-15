@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-15T08:16:04.318526+00:00",
-  "count": 204,
+  "updated": "2026-09-15T14:04:51.635898+00:00",
+  "count": 205,
   "course_count": 96,
-  "news_count": 108,
+  "news_count": 109,
   "items": [
     {
       "id": "99c47cfaa7f6",
@@ -2043,6 +2043,16 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.bmj.com/content/394/bmj-2026-100857.short?rss=1"
     }
   ]
 }
