@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-16T23:29:27.264454+00:00",
-  "count": 209,
-  "course_count": 96,
+  "updated": "2026-09-17T02:37:39.601274+00:00",
+  "count": 204,
+  "course_count": 91,
   "news_count": 113,
   "items": [
     {
@@ -1285,56 +1285,6 @@
       "url": "https://www.hear-aed.com.tw/news/category/hearaed-updates/"
     },
     {
-      "id": "b22c2e9061fd",
-      "title": "Contact ITLS",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/leadership/staff/"
-    },
-    {
-      "id": "3a4af6f5d51b",
-      "title": "About ITLS",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/itls/about-itls/"
-    },
-    {
-      "id": "4b1e41b3315a",
-      "title": "ITLS Approach",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/itls-approach/"
-    },
-    {
-      "id": "a420ea5ad93b",
-      "title": "ITLS Strategic Plan",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/itls/itls-strategic-plan/"
-    },
-    {
-      "id": "179ef925b4dd",
-      "title": "Why ITLS",
-      "source": "ITLS",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.itrauma.org/education/compare-itls/"
-    },
-    {
       "id": "cc05242f9202",
       "title": "Event & Expedition Medic Provision",
       "source": "World Extreme Medicine",
@@ -1972,7 +1922,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=688258e71&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=f4203e841&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -1982,7 +1932,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=2&_sid=688258e71&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=2&_sid=f4203e841&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -1992,7 +1942,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=3&_sid=688258e71&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=3&_sid=f4203e841&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -2002,7 +1952,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=688258e71&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=f4203e841&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -2012,7 +1962,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=5&_sid=688258e71&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=5&_sid=f4203e841&_ss=r"
     },
     {
       "id": "715383a36e2a",
