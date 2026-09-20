@@ -1,19 +1,9 @@
 {
-  "updated": "2026-09-20T08:10:11.520020+00:00",
-  "count": 211,
-  "course_count": 96,
-  "news_count": 115,
+  "updated": "2026-09-20T13:24:53.817536+00:00",
+  "count": 208,
+  "course_count": 94,
+  "news_count": 114,
   "items": [
-    {
-      "id": "6c12a2120576",
-      "title": "2026系統性文獻回顧與統合分析工作坊(秋季班)",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-20",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list/view/11642ac2dab56a383c16166183e39187"
-    },
     {
       "id": "df5070bf548e",
       "title": "高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院",
@@ -397,16 +387,6 @@
     {
       "id": "ce4831580b27",
       "title": "2026/09/19-20(六、日)系統性文獻回顧與統合分析工作坊(秋季班)2026-03-21",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-09-19",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "e2cea50802ce",
-      "title": "2026/09/19-20系統性文獻回顧與統合分析工作坊(秋季班)",
       "source": "台灣實證醫學學會",
       "cat": "台灣學會",
       "type": "course",
@@ -1982,7 +1962,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=48723187c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=bab533f65&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -1992,7 +1972,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=48723187c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=bab533f65&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -2002,7 +1982,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=48723187c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=bab533f65&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -2012,7 +1992,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=48723187c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=bab533f65&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -2022,7 +2002,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=48723187c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=bab533f65&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2103,16 +2083,6 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://bjsm.bmj.com/cgi/content/short/bjsports-2026-111894v1?rss=1"
     }
   ]
 }
