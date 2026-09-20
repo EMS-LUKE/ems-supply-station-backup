@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-20T20:04:50.902516+00:00",
-  "count": 207,
-  "course_count": 93,
-  "news_count": 114,
+  "updated": "2026-09-20T22:52:32.210837+00:00",
+  "count": 199,
+  "course_count": 88,
+  "news_count": 111,
   "items": [
     {
       "id": "df5070bf548e",
@@ -1145,86 +1145,6 @@
       "url": "https://www.anne.educationcampus.html"
     },
     {
-      "id": "1a7323e30be9",
-      "title": "2026母親節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "9fdb080fb678",
-      "title": "2026兒童節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "79f4d8162d0b",
-      "title": "2025兒童醫院聖誕節慶活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "10b170f9e6d5",
-      "title": "健康線上影音課程-115/9/15孩子發燒要不要看醫生？",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1075"
-    },
-    {
-      "id": "ed2ee3e5b76a",
-      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
-    },
-    {
-      "id": "ed1866c01f90",
-      "title": "【家庭資源中心閉館公告】",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
-    },
-    {
-      "id": "9b54876f3cd3",
-      "title": "115年農曆春節本院服務公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
-    },
-    {
-      "id": "c32df82d097f",
-      "title": "115年農曆春節假期特設「傳染病特別診」公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
-    },
-    {
       "id": "ceff0a7c937a",
       "title": "聽見AED｜9月活動時程：救在當下，守護全開 】🚑✨",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1952,7 +1872,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=296bc98fb&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=2b6e9241a&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -1962,7 +1882,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=296bc98fb&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=2b6e9241a&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -1972,7 +1892,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=296bc98fb&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=2b6e9241a&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -1982,7 +1902,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=296bc98fb&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=2b6e9241a&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -1992,7 +1912,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=296bc98fb&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=2b6e9241a&_ss=r"
     },
     {
       "id": "715383a36e2a",
