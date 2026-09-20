@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-20T02:34:38.772570+00:00",
-  "count": 210,
+  "updated": "2026-09-20T08:10:11.520020+00:00",
+  "count": 211,
   "course_count": 96,
-  "news_count": 114,
+  "news_count": 115,
   "items": [
     {
       "id": "6c12a2120576",
@@ -1982,7 +1982,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=67c5ca041&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=48723187c&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -1992,7 +1992,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=67c5ca041&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=48723187c&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -2002,7 +2002,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=67c5ca041&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=48723187c&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -2012,7 +2012,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=67c5ca041&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=48723187c&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -2022,7 +2022,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=67c5ca041&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=48723187c&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2103,6 +2103,16 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://bjsm.bmj.com/cgi/content/short/bjsports-2026-111894v1?rss=1"
     }
   ]
 }
