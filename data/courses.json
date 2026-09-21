@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-21T08:26:59.280605+00:00",
-  "count": 207,
-  "course_count": 91,
-  "news_count": 116,
+  "updated": "2026-09-21T15:34:13.348215+00:00",
+  "count": 202,
+  "course_count": 89,
+  "news_count": 113,
   "items": [
     {
       "id": "df5070bf548e",
@@ -515,26 +515,6 @@
       "url": "https://tamis.org.tw/activity/60"
     },
     {
-      "id": "f1dbb68b7d0c",
-      "title": "| 🫀 【2026 台灣心肌梗塞學會秋季學術研討會】 公告日期：2026 / 9 / 7",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1274"
-    },
-    {
-      "id": "df8d5479b72d",
-      "title": "| 🔥 2026 TAMIS 秋季學術研討會－急性心肌梗塞案例競賽 熱烈徵稿中！ 🔥 公告日期：2026 / 7 / 27",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1266"
-    },
-    {
       "id": "9510b518bf05",
       "title": "TAMIS Academy",
       "source": "台灣心肌梗塞學會",
@@ -553,36 +533,6 @@
       "date": null,
       "deadline": null,
       "url": "https://tamis.org.tw/activity/42"
-    },
-    {
-      "id": "f1f303ad451a",
-      "title": "| 📣 【TAMIS 超級心光大道－24首金曲】第十首重磅登場：《依靠》 📣 公告日期：2026 / 9 / 18",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1281"
-    },
-    {
-      "id": "18245bd315b9",
-      "title": "| 【TAMIS 超級心光大道－24首金曲】第九首熱血開唱：《逆光》 公告日期：2026 / 9 / 16",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1278"
-    },
-    {
-      "id": "3500c5b33f25",
-      "title": "| 📣【TAMIS 超級心光大道】第八首《如果可以》線上開唱！📣 公告日期：2026 / 8 / 14",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1273"
     },
     {
       "id": "32dbb30467e3",
@@ -1245,16 +1195,6 @@
       "url": "https://www.hear-aed.com.tw/news/event-news/tqfarm-midautumn-2026/"
     },
     {
-      "id": "d397dbfefcee",
-      "title": "聽見AED｜2026年8月到場成果出爐】",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e8%81%bd%e8%a6%8baed%ef%bd%9c2026%e5%b9%b48%e6%9c%88%e5%88%b0%e5%a0%b4%e6%88%90%e6%9e%9c%e5%87%ba%e7%88%90%e3%80%91/"
-    },
-    {
       "id": "a9e25c3d5076",
       "title": "無人機空投 AED：如果附近沒有 AED，我們讓它飛過來｜總統盃黑客松 #214 需要你的 9 票",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1263,6 +1203,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/emson-advocacy/drone-aed-hackathon-214/"
+    },
+    {
+      "id": "38c215d8bf19",
+      "title": "聽見AED 臉書動態",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/category/hearaed-updates/"
     },
     {
       "id": "b22c2e9061fd",
@@ -1952,7 +1902,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9f9288579&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=2b4a4656b&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -1962,7 +1912,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=9f9288579&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=2b4a4656b&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -1972,7 +1922,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=9f9288579&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=2b4a4656b&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -1982,7 +1932,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=9f9288579&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=2b4a4656b&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -1992,7 +1942,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=9f9288579&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=2b4a4656b&_ss=r"
     },
     {
       "id": "715383a36e2a",
