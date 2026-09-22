@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-22T02:35:46.738193+00:00",
-  "count": 205,
+  "updated": "2026-09-22T08:09:06.040098+00:00",
+  "count": 209,
   "course_count": 88,
-  "news_count": 117,
+  "news_count": 121,
   "items": [
     {
       "id": "0456abb457a6",
@@ -385,16 +385,6 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33173"
     },
     {
-      "id": "49447b7ef989",
-      "title": "【ATLS課表公告】115年度第8梯次ATLS課程（中國醫藥大學附設醫院）...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/87.html"
-    },
-    {
       "id": "309f6bccc52a",
       "title": "115年精進外科系醫師醫療韌性訓練計畫，將辦理DSTC/DATC/DPNTC課程...",
       "source": "台灣外傷醫學會",
@@ -433,6 +423,16 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/81.html"
+    },
+    {
+      "id": "57654c31c3ba",
+      "title": "【甄審資訊】115年專科醫師甄審公告...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/78.html"
     },
     {
       "id": "86005a8326cc",
@@ -653,26 +653,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "96c29d1bd3e6",
-      "title": "【大會議程更新｜延長報名】2026年會暨國際學術研討會",
-      "source": "臺灣燒傷暨傷口照護學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.burn.org.tw/index.php/news/25-the-project/302-2026"
-    },
-    {
-      "id": "c3ad57b84ebf",
-      "title": "2026傷口衛生競賽公告名單_0821.pdf",
-      "source": "臺灣燒傷暨傷口照護學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.burn.org.tw/attachments/article/304/2026傷口衛生競賽公告名單_0821.pdf"
     },
     {
       "id": "2074c2677272",
@@ -1815,6 +1795,26 @@
       "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
     },
     {
+      "id": "1d5a35aee639",
+      "title": "Future Training and Education Events",
+      "source": "SOMA",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://specialoperationsmedicine.org/future-training-and-education-events/"
+    },
+    {
+      "id": "6ae440c231a3",
+      "title": "Journal of Special Operations Medicine (JSOM)",
+      "source": "SOMA",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://specialoperationsmedicine.org/jsom/"
+    },
+    {
       "id": "be65025d0a69",
       "title": "Training Teams for Prolonged Care and Beyond By Ragged Edge Solutions",
       "source": "Next Generation Combat Medic",
@@ -1932,7 +1932,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a451ae775&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=f9c301d73&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -1942,7 +1942,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=a451ae775&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=f9c301d73&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -1952,7 +1952,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=a451ae775&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=f9c301d73&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -1962,7 +1962,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=a451ae775&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=f9c301d73&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -1972,7 +1972,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=a451ae775&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=f9c301d73&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2053,6 +2053,46 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.bmj.com/content/394/bmj-2026-100838.short?rss=1"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/9"
     }
   ]
 }
