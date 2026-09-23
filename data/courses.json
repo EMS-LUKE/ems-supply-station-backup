@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T23:27:18.651885+00:00",
+  "updated": "2026-09-23T02:35:20.688061+00:00",
   "count": 207,
   "course_count": 89,
   "news_count": 118,
@@ -205,16 +205,6 @@
       "url": "https://jcmit2026.medinfo.org.tw/"
     },
     {
-      "id": "cdd928a87676",
-      "title": "《在宅急症照護手冊》",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-24",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1611"
-    },
-    {
       "id": "ff76fb8193f9",
       "title": "2026超音波競賽得獎名單",
       "source": "台灣急診醫學會",
@@ -255,6 +245,16 @@
       "url": "https://www.sem.org.tw/News/11/Details/1621"
     },
     {
+      "id": "535915b17247",
+      "title": "【徵求推薦】ASEM Education & Research Champion 候選人",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-07-09",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1622"
+    },
+    {
       "id": "e5cb7301a812",
       "title": "誠徵2026年10月「急診住院醫師交流論壇」報告人",
       "source": "台灣急診醫學會",
@@ -285,18 +285,18 @@
       "url": "https://www.sem.org.tw/News/11/Details/1454"
     },
     {
-      "id": "f4711a021d95",
-      "title": "2026冬季學術討論會暨1119台灣急診日",
+      "id": "479e3f547f89",
+      "title": "專科醫師證書更新複審結果公告-王O人等38位醫師(到期日如內文)",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
-      "date": "2026-08-11",
+      "date": "2026-08-05",
       "deadline": null,
-      "url": "https://www.sem.org.tw/News/12/Details/1638"
+      "url": "https://www.sem.org.tw/News/10/Details/1636"
     },
     {
-      "id": "32daf37c2cde",
-      "title": "2026еҶ¬еӯЈеӯёиЎ“иЁҺи«–жңғжҡЁ1119еҸ°зҒЈжҖҘиЁәж—Ҙ",
+      "id": "f4711a021d95",
+      "title": "2026冬季學術討論會暨1119台灣急診日",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -335,16 +335,6 @@
       "url": "https://www.sem.org.tw/News/10/Details/1646"
     },
     {
-      "id": "f17b66c5c320",
-      "title": "гҖҗED TransformingпјҒжҖҘиЁәжҷәж…§иҪүеһӢз ”иЁҺжңғгҖ‘вҖ”еҸ°зҒЈжҖҘиЁәз®ЎзҗҶеӯёжңғз¬¬е…ӯеұҶз¬¬дёҖж¬Ўжңғе“ЎеӨ§жңғжҡЁеӯёиЎ“з ”иЁҺжңғ",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-08",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1646"
-    },
-    {
       "id": "ac6ac8b858dd",
       "title": "EMS news letter - 雙月刊",
       "source": "台灣急診醫學會",
@@ -355,34 +345,14 @@
       "url": "https://www.sem.org.tw/News/11/Details/967"
     },
     {
-      "id": "a3739a0bc728",
-      "title": "函轉聯新國際醫療創新教育中心舉辦「健康產業會員大數據經營」沙龍論壇",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/5/Details/1655"
-    },
-    {
-      "id": "24acd38817e7",
-      "title": "еҮҪиҪүиҒҜж–°еңӢйҡӣйҶ«зҷӮеүөж–°ж•ҷиӮІдёӯеҝғиҲүиҫҰгҖҢеҒҘеә·з”ўжҘӯжңғе“ЎеӨ§ж•ёж“ҡз¶“зҮҹгҖҚжІҷйҫҚи«–еЈҮ",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-18",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/5/Details/1655"
-    },
-    {
-      "id": "df5070bf548e",
-      "title": "高擬真中毒症候群訓練課程（TSTC） 社團法人台灣急診醫學會、林口長庚紀念醫院",
+      "id": "b873ce16f4e7",
+      "title": "115年醫院安全及緊急應變訓練通識課程 衛生福利部中區緊急醫療應變中心、光田醫療社團法人光田綜合醫院、臺中榮民總醫院",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-09-21",
-      "deadline": "2026-09-21",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33173"
+      "date": "2026-09-22",
+      "deadline": "2026-09-22",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33185"
     },
     {
       "id": "309f6bccc52a",
@@ -1942,7 +1912,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=5382f0de0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=6950399bf&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -1952,7 +1922,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=5382f0de0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=6950399bf&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -1962,7 +1932,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=5382f0de0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=6950399bf&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -1972,7 +1942,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=5382f0de0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=6950399bf&_ss=r"
     },
     {
       "id": "1a9c336e65db",
@@ -1982,7 +1952,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=5382f0de0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=6950399bf&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2072,7 +2042,37 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100838.short?rss=1"
+      "url": "http://www.bmj.com/content/394/bmj-2026-100937.short?rss=1"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/9"
     }
   ]
 }
