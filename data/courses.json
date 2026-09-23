@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-23T02:35:20.688061+00:00",
-  "count": 207,
+  "updated": "2026-09-23T08:11:33.723512+00:00",
+  "count": 203,
   "course_count": 89,
-  "news_count": 118,
+  "news_count": 114,
   "items": [
     {
       "id": "0456abb457a6",
@@ -115,8 +115,8 @@
       "url": "https://www.sem.org.tw/Activity/B/Details/32907"
     },
     {
-      "id": "e3c3aafbcaeb",
-      "title": "2026年臺灣國家公園馬拉松-陽明山",
+      "id": "c1bc229e2527",
+      "title": "2026年臺灣國家公園馬拉松『陽明山』-線上報名",
       "source": "中華民國大型活動緊急救護協會",
       "cat": "台灣協會",
       "type": "course",
@@ -1905,6 +1905,16 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "efccb4766388",
+      "title": "6\" Israeli Emergency Bandage® from Safeguard Medical",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=1&_sid=5e5143af6&_ss=r"
+    },
+    {
       "id": "34d97b943ff2",
       "title": "Public Access Bleeding Control Kit - Nylon",
       "source": "Tactical Medicine Training & Equipment",
@@ -1912,7 +1922,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=6950399bf&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=5e5143af6&_ss=r"
     },
     {
       "id": "10b151ad3422",
@@ -1922,7 +1932,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=2&_sid=6950399bf&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=3&_sid=5e5143af6&_ss=r"
+    },
+    {
+      "id": "40b63028b17c",
+      "title": "TacMed™ Field Blood Transfusion Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=4&_sid=5e5143af6&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -1932,27 +1952,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=6950399bf&_ss=r"
-    },
-    {
-      "id": "7f0bd426cd0d",
-      "title": "B-CON Bleeding Control Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=6950399bf&_ss=r"
-    },
-    {
-      "id": "1a9c336e65db",
-      "title": "RED - Ready Every Day - Personal Aid Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/red-ready-every-day-personal-aid-kit?_pos=5&_sid=6950399bf&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=5e5143af6&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2033,46 +2033,6 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100937.short?rss=1"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/9"
     }
   ]
 }
