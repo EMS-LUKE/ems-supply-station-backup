@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-24T02:25:05.735247+00:00",
-  "count": 197,
-  "course_count": 83,
+  "updated": "2026-09-24T08:03:38.818767+00:00",
+  "count": 202,
+  "course_count": 88,
   "news_count": 114,
   "items": [
     {
@@ -1205,6 +1205,56 @@
       "url": "https://www.hear-aed.com.tw/news/category/hearaed-updates/"
     },
     {
+      "id": "b22c2e9061fd",
+      "title": "Contact ITLS",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/leadership/staff/"
+    },
+    {
+      "id": "3a4af6f5d51b",
+      "title": "About ITLS",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls/about-itls/"
+    },
+    {
+      "id": "4b1e41b3315a",
+      "title": "ITLS Approach",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls-approach/"
+    },
+    {
+      "id": "a420ea5ad93b",
+      "title": "ITLS Strategic Plan",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/itls/itls-strategic-plan/"
+    },
+    {
+      "id": "179ef925b4dd",
+      "title": "Why ITLS",
+      "source": "ITLS",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.itrauma.org/education/compare-itls/"
+    },
+    {
       "id": "cc05242f9202",
       "title": "Event & Expedition Medic Provision",
       "source": "World Extreme Medicine",
@@ -1845,6 +1895,16 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "ac7abee6e285",
+      "title": "4\" Israeli Emergency Bandage® from Safeguard Medical",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=13f467f01&_ss=r"
+    },
+    {
       "id": "efccb4766388",
       "title": "6\" Israeli Emergency Bandage® from Safeguard Medical",
       "source": "Tactical Medicine Training & Equipment",
@@ -1852,7 +1912,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=1&_sid=fbece86ca&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=13f467f01&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -1862,7 +1922,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=fbece86ca&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=3&_sid=13f467f01&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -1872,27 +1932,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=3&_sid=fbece86ca&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=4&_sid=13f467f01&_ss=r"
     },
     {
-      "id": "10b151ad3422",
-      "title": "Curaplex Stop The Bleed Multi-Pack Kit - Basic",
+      "id": "4110ccb750ce",
+      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-multi-pack-kit-basic?_pos=4&_sid=fbece86ca&_ss=r"
-    },
-    {
-      "id": "40b63028b17c",
-      "title": "TacMed™ Field Blood Transfusion Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=fbece86ca&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=13f467f01&_ss=r"
     },
     {
       "id": "715383a36e2a",
