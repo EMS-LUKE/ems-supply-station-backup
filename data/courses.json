@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-25T14:24:25.629168+00:00",
-  "count": 203,
+  "updated": "2026-09-25T19:06:23.799780+00:00",
+  "count": 202,
   "course_count": 87,
-  "news_count": 116,
+  "news_count": 115,
   "items": [
     {
       "id": "0456abb457a6",
@@ -1902,7 +1902,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=fd8d04a8b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=e78c6bf5e&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -1912,17 +1912,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=fd8d04a8b&_ss=r"
-    },
-    {
-      "id": "9bc553af2970",
-      "title": "Israeli T3 Bandage",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=3&_sid=fd8d04a8b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=e78c6bf5e&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -1932,7 +1922,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=4&_sid=fd8d04a8b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=3&_sid=e78c6bf5e&_ss=r"
+    },
+    {
+      "id": "9bc553af2970",
+      "title": "Israeli T3 Bandage",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=4&_sid=e78c6bf5e&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1942,7 +1942,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=5&_sid=fd8d04a8b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=5&_sid=e78c6bf5e&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2023,16 +2023,6 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-339505v1?rss=1"
     }
   ]
 }
