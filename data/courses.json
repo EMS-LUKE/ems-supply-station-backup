@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-26T18:14:29.645711+00:00",
-  "count": 205,
-  "course_count": 87,
-  "news_count": 118,
+  "updated": "2026-09-26T23:19:42.663786+00:00",
+  "count": 203,
+  "course_count": 84,
+  "news_count": 119,
   "items": [
     {
       "id": "0456abb457a6",
@@ -1395,36 +1395,6 @@
       "url": "https://www.erc.edu/education/for-professionals/course-types/epals/"
     },
     {
-      "id": "265996580141",
-      "title": "2027 WMS Winter Conference In-Person",
-      "source": "Wilderness Medical Society",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://wms.org/wms.org/winter27"
-    },
-    {
-      "id": "155c5c25135c",
-      "title": "2027 WMS Winter Conference Virtual",
-      "source": "Wilderness Medical Society",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://wms.org/wms.org/winter27"
-    },
-    {
-      "id": "a48a802d78f5",
-      "title": "Events",
-      "source": "Wilderness Medical Society",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://wms.org/Shared_Content/Events/Events_List.aspx"
-    },
-    {
       "id": "d7c182893afb",
       "title": "Course Administration",
       "source": "NAEMT",
@@ -1895,16 +1865,6 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
-      "id": "34d97b943ff2",
-      "title": "Public Access Bleeding Control Kit - Nylon",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=127499614&_ss=r"
-    },
-    {
       "id": "ac7abee6e285",
       "title": "4\" Israeli Emergency Bandage® from Safeguard Medical",
       "source": "Tactical Medicine Training & Equipment",
@@ -1912,7 +1872,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=2&_sid=127499614&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=76a0368a1&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -1922,7 +1882,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=127499614&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=76a0368a1&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -1932,17 +1892,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=4&_sid=127499614&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=3&_sid=76a0368a1&_ss=r"
     },
     {
-      "id": "ba12c7838487",
-      "title": "Mojo® Public Access Trauma Station",
+      "id": "34d97b943ff2",
+      "title": "Public Access Bleeding Control Kit - Nylon",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/mojo-public-access-trauma-station?_pos=5&_sid=127499614&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=4&_sid=76a0368a1&_ss=r"
+    },
+    {
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=5&_sid=76a0368a1&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2023,6 +1993,16 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-339505v1?rss=1"
     },
     {
       "id": "8d656ad77115",
