@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-27T02:43:04.184372+00:00",
-  "count": 204,
-  "course_count": 84,
-  "news_count": 120,
+  "updated": "2026-09-27T08:48:17.700929+00:00",
+  "count": 202,
+  "course_count": 87,
+  "news_count": 115,
   "items": [
     {
       "id": "0456abb457a6",
@@ -805,56 +805,6 @@
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
     },
     {
-      "id": "90d9f7c22f7f",
-      "title": "йҰ–й Ғ",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.sma.org.tw/index.html"
-    },
-    {
-      "id": "567241e8846f",
-      "title": "й—ңж–јеӯёжңғ",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.sma.org.tw"
-    },
-    {
-      "id": "cd1e13730124",
-      "title": "жҲҗз«Ӣе®—ж—Ё",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.sma.org.tw/about1.html"
-    },
-    {
-      "id": "81430406a9bb",
-      "title": "зө„з№”з« зЁӢ",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.sma.org.tw/about2.html"
-    },
-    {
-      "id": "5bb428b6393f",
-      "title": "зҗҶдәӢй•·зҡ„и©ұ",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.sma.org.tw/index.html"
-    },
-    {
       "id": "5bfcff8d3c72",
       "title": "理監事名單",
       "source": "台灣運動醫學醫學會",
@@ -1445,6 +1395,36 @@
       "url": "https://www.erc.edu/education/for-professionals/course-types/epals/"
     },
     {
+      "id": "265996580141",
+      "title": "2027 WMS Winter Conference In-Person",
+      "source": "Wilderness Medical Society",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://wms.org/wms.org/winter27"
+    },
+    {
+      "id": "155c5c25135c",
+      "title": "2027 WMS Winter Conference Virtual",
+      "source": "Wilderness Medical Society",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://wms.org/wms.org/winter27"
+    },
+    {
+      "id": "a48a802d78f5",
+      "title": "Events",
+      "source": "Wilderness Medical Society",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://wms.org/Shared_Content/Events/Events_List.aspx"
+    },
+    {
       "id": "d7c182893afb",
       "title": "Course Administration",
       "source": "NAEMT",
@@ -1922,7 +1902,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=6ea5a2d65&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=dcb30fdba&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -1932,7 +1912,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=6ea5a2d65&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=dcb30fdba&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -1942,7 +1922,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=3&_sid=6ea5a2d65&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=3&_sid=dcb30fdba&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -1952,7 +1932,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=4&_sid=6ea5a2d65&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=4&_sid=dcb30fdba&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1962,7 +1942,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=5&_sid=6ea5a2d65&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=5&_sid=dcb30fdba&_ss=r"
     },
     {
       "id": "715383a36e2a",
