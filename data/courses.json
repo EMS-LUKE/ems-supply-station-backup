@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-27T23:34:41.143575+00:00",
-  "count": 206,
+  "updated": "2026-09-28T02:46:00.689396+00:00",
+  "count": 199,
   "course_count": 87,
-  "news_count": 119,
+  "news_count": 112,
   "items": [
     {
       "id": "0456abb457a6",
@@ -193,36 +193,6 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://jcmit2026.medinfo.org.tw/"
-    },
-    {
-      "id": "ff76fb8193f9",
-      "title": "2026超音波競賽得獎名單",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1625"
-    },
-    {
-      "id": "7619e60cf6d3",
-      "title": "公告AILS Training Course通過名單 (115.06.23~115.06.24)",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1613"
-    },
-    {
-      "id": "79731aad3bdd",
-      "title": "第十七屆理、監事當選名單",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-06-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1612"
     },
     {
       "id": "82bfd7c732c8",
@@ -1902,7 +1872,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=c7f33a1f6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=8a57d1e9a&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -1912,7 +1882,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=c7f33a1f6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=2&_sid=8a57d1e9a&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -1922,7 +1892,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=3&_sid=c7f33a1f6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=3&_sid=8a57d1e9a&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -1932,7 +1902,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=4&_sid=c7f33a1f6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=4&_sid=8a57d1e9a&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1942,7 +1912,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=5&_sid=c7f33a1f6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=5&_sid=8a57d1e9a&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2023,46 +1993,6 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-339505v1?rss=1"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/9"
     }
   ]
 }
