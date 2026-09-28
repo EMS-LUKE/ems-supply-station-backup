@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-28T09:13:05.503754+00:00",
-  "count": 200,
+  "updated": "2026-09-28T19:02:59.523503+00:00",
+  "count": 199,
   "course_count": 87,
-  "news_count": 113,
+  "news_count": 112,
   "items": [
     {
       "id": "0456abb457a6",
@@ -1865,16 +1865,6 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
-      "id": "34d97b943ff2",
-      "title": "Public Access Bleeding Control Kit - Nylon",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=6dcc02e0c&_ss=r"
-    },
-    {
       "id": "9bc553af2970",
       "title": "Israeli T3 Bandage",
       "source": "Tactical Medicine Training & Equipment",
@@ -1882,7 +1872,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=6dcc02e0c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=c753f97a1&_ss=r"
+    },
+    {
+      "id": "34d97b943ff2",
+      "title": "Public Access Bleeding Control Kit - Nylon",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=c753f97a1&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1892,7 +1892,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=6dcc02e0c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=c753f97a1&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -1902,7 +1902,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=4&_sid=6dcc02e0c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=4&_sid=c753f97a1&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -1912,7 +1912,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=5&_sid=6dcc02e0c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=5&_sid=c753f97a1&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1993,16 +1993,6 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.bmj.com/content/394/bmj-2026-100961.short?rss=1"
     }
   ]
 }
