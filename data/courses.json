@@ -1,9 +1,19 @@
 {
-  "updated": "2026-09-29T00:49:03.563904+00:00",
-  "count": 199,
-  "course_count": 87,
+  "updated": "2026-09-29T09:22:58.105989+00:00",
+  "count": 200,
+  "course_count": 88,
   "news_count": 112,
   "items": [
+    {
+      "id": "e3ff6fa1a47f",
+      "title": "公告「2026年EMS金梧桐獎」獲獎人員/團體",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1659"
+    },
     {
       "id": "0456abb457a6",
       "title": "115年度臨床毒藥物專科醫師訓練 社團法人台灣急診醫學會",
@@ -575,14 +585,14 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "6455c13c8abc",
-      "title": "【代轉】11月20日至22日舉辦「2026 第七屆全球生物醫學工程年會（GCBME 2026）」，歡迎參與及踴躍投稿！",
-      "source": "台灣醫學資訊學會",
+      "id": "249cfc761773",
+      "title": "Woundexpert ICW 國際傷口師認證課程 台中場(中山醫)招生簡章_修.pdf",
+      "source": "臺灣燒傷暨傷口照護學會",
       "cat": "台灣學會",
-      "type": "news",
+      "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.medinfo.org.tw"
+      "url": "https://www.burn.org.tw/attachments/article/306/Woundexpert ICW 國際傷口師認證課程 台中場(中山醫)招生簡章_修.pdf"
     },
     {
       "id": "2074c2677272",
@@ -1865,16 +1875,6 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
-      "id": "9bc553af2970",
-      "title": "Israeli T3 Bandage",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=3817ce6d3&_ss=r"
-    },
-    {
       "id": "34d97b943ff2",
       "title": "Public Access Bleeding Control Kit - Nylon",
       "source": "Tactical Medicine Training & Equipment",
@@ -1882,7 +1882,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=3817ce6d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=5c8ba2796&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1892,7 +1892,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=3817ce6d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=5c8ba2796&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -1902,7 +1902,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=4&_sid=3817ce6d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=5c8ba2796&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -1912,7 +1912,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=5&_sid=3817ce6d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=5c8ba2796&_ss=r"
+    },
+    {
+      "id": "4c7353f6cea7",
+      "title": "Curaplex Stop the Bleed Kit - Individual - Intermediate",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=5c8ba2796&_ss=r"
     },
     {
       "id": "715383a36e2a",
