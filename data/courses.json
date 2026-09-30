@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-30T17:21:09.230031+00:00",
-  "count": 200,
-  "course_count": 88,
+  "updated": "2026-09-30T21:45:40.262848+00:00",
+  "count": 195,
+  "course_count": 83,
   "news_count": 112,
   "items": [
     {
@@ -1065,86 +1065,6 @@
       "url": "https://www.anne.educationcampus.html"
     },
     {
-      "id": "1a7323e30be9",
-      "title": "2026母親節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "9fdb080fb678",
-      "title": "2026兒童節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "79f4d8162d0b",
-      "title": "2025兒童醫院聖誕節慶活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "ed2ee3e5b76a",
-      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
-    },
-    {
-      "id": "10b170f9e6d5",
-      "title": "健康線上影音課程-115/9/15孩子發燒要不要看醫生？",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1075"
-    },
-    {
-      "id": "ed1866c01f90",
-      "title": "【家庭資源中心閉館公告】",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
-    },
-    {
-      "id": "9b54876f3cd3",
-      "title": "115年農曆春節本院服務公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
-    },
-    {
-      "id": "c32df82d097f",
-      "title": "115年農曆春節假期特設「傳染病特別診」公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
-    },
-    {
       "id": "12681d8d321d",
       "title": "我去了一趟雲林麥寮，為了確認一件事｜台全牧場 × 聽見AED 中秋公益聯名",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1882,7 +1802,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=7261f7f5a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=eb4f19f6b&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -1892,7 +1812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=2&_sid=7261f7f5a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=2&_sid=eb4f19f6b&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -1902,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=7261f7f5a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=eb4f19f6b&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -1912,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=7261f7f5a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=eb4f19f6b&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1922,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=7261f7f5a&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=eb4f19f6b&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -2003,6 +1923,36 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/buy-course/"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
     }
   ]
 }
