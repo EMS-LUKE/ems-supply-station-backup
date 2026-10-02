@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-02T00:25:46.506125+00:00",
-  "count": 194,
+  "updated": "2026-10-02T09:14:54.210096+00:00",
+  "count": 201,
   "course_count": 87,
-  "news_count": 107,
+  "news_count": 114,
   "items": [
     {
       "id": "b17460e903a3",
@@ -55,6 +55,16 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33360"
     },
     {
+      "id": "8c140633bf76",
+      "title": "【課程取消】台灣野外救命術訓練課程(初階證照班) 社團法人台灣急診醫學會、羅東博愛醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-24",
+      "deadline": "2026-10-01",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33268"
+    },
+    {
       "id": "14dbcff89140",
       "title": "2026年長榮航空觀光馬拉松醫護志工線上報名",
       "source": "中華民國大型活動緊急救護協會",
@@ -73,16 +83,6 @@
       "date": "2026-10-27",
       "deadline": "2026-10-27",
       "url": "https://www.sem.org.tw/Activity/A/Details/33254"
-    },
-    {
-      "id": "3685f7be079e",
-      "title": "115年度輻傷事件醫療應變訓練通識課程 衛生福利部北區緊急醫療應變中心",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-28",
-      "deadline": "2026-10-28",
-      "url": "https://www.sem.org.tw/Activity/B/Details/32907"
     },
     {
       "id": "c1bc229e2527",
@@ -185,16 +185,6 @@
       "url": "https://www.sem.org.tw/News/11/Details/1621"
     },
     {
-      "id": "535915b17247",
-      "title": "【徵求推薦】ASEM Education & Research Champion 候選人",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-09",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1622"
-    },
-    {
       "id": "e5cb7301a812",
       "title": "誠徵2026年10月「急診住院醫師交流論壇」報告人",
       "source": "台灣急診醫學會",
@@ -223,16 +213,6 @@
       "date": "2026-07-30",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1454"
-    },
-    {
-      "id": "479e3f547f89",
-      "title": "專科醫師證書更新複審結果公告-王O人等38位醫師(到期日如內文)",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-05",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1636"
     },
     {
       "id": "f4711a021d95",
@@ -705,16 +685,6 @@
       "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
     },
     {
-      "id": "9d0e4f7fa7c4",
-      "title": "代登~~~2026 台灣呼吸道處理醫 學會年會暨國際學術研討會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1087.html"
-    },
-    {
       "id": "4a249f5358dd",
       "title": "115年冬季麻醉專科護理師學術研討會",
       "source": "台灣麻醉專科護理學會",
@@ -733,6 +703,16 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
+    },
+    {
+      "id": "41a38fc41bcd",
+      "title": "代登~ 2026 臺灣心臟胸腔暨血管麻醉醫學會 年會暨國際學術研討會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/797.html"
     },
     {
       "id": "7f4077aab8c4",
@@ -773,6 +753,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
+    },
+    {
+      "id": "5bfcff8d3c72",
+      "title": "理監事名單",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/about/index_03_a.asp"
+    },
+    {
+      "id": "52aeba42ceae",
+      "title": "委員會名單",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/about/index_03_b.asp"
+    },
+    {
+      "id": "7c813915b5bc",
+      "title": "理事長的話",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/about/index_04.asp"
+    },
+    {
+      "id": "97e6c65f194c",
+      "title": "訓練課程專區",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/EL/train_list.asp"
+    },
+    {
+      "id": "31969e1f295e",
+      "title": "研討會專區",
+      "source": "台灣運動醫學醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tasm.org.tw/EL/seminar.asp"
     },
     {
       "id": "140fdaafeed9",
@@ -1035,6 +1065,16 @@
       "url": "https://www.ntuh.gov.tw"
     },
     {
+      "id": "047989c0a523",
+      "title": "臺北市政府衛生局自115年10月1日至115年11月30日辦理「左流右新健康抽好禮」抽獎活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19408"
+    },
+    {
       "id": "ed2ee3e5b76a",
       "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
       "source": "臺大兒童醫院",
@@ -1043,16 +1083,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
-    },
-    {
-      "id": "10b170f9e6d5",
-      "title": "健康線上影音課程-115/9/15孩子發燒要不要看醫生？",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1075"
     },
     {
       "id": "ed1866c01f90",
@@ -1822,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=2cbd75618&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=ecc46ea0e&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -1832,7 +1862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=2cbd75618&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=ecc46ea0e&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -1842,7 +1872,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=2cbd75618&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=ecc46ea0e&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -1852,7 +1882,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=2cbd75618&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=ecc46ea0e&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -1862,7 +1892,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=2cbd75618&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=ecc46ea0e&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1943,6 +1973,46 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/unified-dmt-cht-course/"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.bmj.com/content/395/bmj-2026-101017.short?rss=1"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
     }
   ]
 }
