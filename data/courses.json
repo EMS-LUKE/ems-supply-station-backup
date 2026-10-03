@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-02T21:40:57.699602+00:00",
-  "count": 198,
-  "course_count": 84,
-  "news_count": 114,
+  "updated": "2026-10-03T03:05:05.127820+00:00",
+  "count": 186,
+  "course_count": 81,
+  "news_count": 105,
   "items": [
     {
       "id": "b17460e903a3",
@@ -413,86 +413,6 @@
       "date": null,
       "deadline": null,
       "url": "https://forms.gle/RxQobu2FoVewH6Qs5"
-    },
-    {
-      "id": "47f965572631",
-      "title": "國際學術研討會",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/60"
-    },
-    {
-      "id": "f1dbb68b7d0c",
-      "title": "| 🫀 【2026 台灣心肌梗塞學會秋季學術研討會】 公告日期：2026 / 9 / 7",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1274"
-    },
-    {
-      "id": "df8d5479b72d",
-      "title": "| 🔥 2026 TAMIS 秋季學術研討會－急性心肌梗塞案例競賽 熱烈徵稿中！ 🔥 公告日期：2026 / 7 / 27",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1266"
-    },
-    {
-      "id": "9510b518bf05",
-      "title": "TAMIS Academy",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/41"
-    },
-    {
-      "id": "0a85c8dd90b9",
-      "title": "特選環球會議",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/42"
-    },
-    {
-      "id": "f1f303ad451a",
-      "title": "| 📣 【TAMIS 超級心光大道－24首金曲】第十首重磅登場：《依靠》 📣 公告日期：2026 / 9 / 18",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1281"
-    },
-    {
-      "id": "18245bd315b9",
-      "title": "| 【TAMIS 超級心光大道－24首金曲】第九首熱血開唱：《逆光》 公告日期：2026 / 9 / 16",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1278"
-    },
-    {
-      "id": "3500c5b33f25",
-      "title": "| 📣【TAMIS 超級心光大道】第八首《如果可以》線上開唱！📣 公告日期：2026 / 8 / 14",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1273"
     },
     {
       "id": "32dbb30467e3",
@@ -1822,7 +1742,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=533415c43&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=98b832e92&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -1832,7 +1752,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=533415c43&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=98b832e92&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -1842,7 +1762,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=533415c43&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=98b832e92&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -1852,7 +1772,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=533415c43&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=98b832e92&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -1862,7 +1782,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=533415c43&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=98b832e92&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1943,46 +1863,6 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/smic"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.bmj.com/content/395/bmj-2026-101017.short?rss=1"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/9"
     }
   ]
 }
