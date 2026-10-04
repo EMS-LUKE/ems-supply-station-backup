@@ -1,29 +1,9 @@
 {
-  "updated": "2026-10-03T23:30:54.232784+00:00",
-  "count": 189,
-  "course_count": 84,
-  "news_count": 105,
+  "updated": "2026-10-04T03:33:58.942857+00:00",
+  "count": 179,
+  "course_count": 79,
+  "news_count": 100,
   "items": [
-    {
-      "id": "b17460e903a3",
-      "title": "2026/10/03-04(六、日)台灣實證醫學學會種子師資培訓工作坊2026-03-22",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-03",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "38e10c16027c",
-      "title": "2026/10/03-04台灣實證醫學學會種子師資培訓工作坊",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-03",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
     {
       "id": "009c255ace66",
       "title": "2026台灣實證醫學學會種子師資培訓工作坊",
@@ -293,6 +273,26 @@
       "date": "2026-10-01",
       "deadline": "2026-10-01",
       "url": "https://www.sem.org.tw/Activity/A/Details/33349"
+    },
+    {
+      "id": "b17460e903a3",
+      "title": "2026/10/03-04(六、日)台灣實證醫學學會種子師資培訓工作坊2026-03-22",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-03",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "38e10c16027c",
+      "title": "2026/10/03-04台灣實證醫學學會種子師資培訓工作坊",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-03",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
     },
     {
       "id": "309f6bccc52a",
@@ -583,96 +583,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tsamairway.org.tw/2026rigistatinformation"
-    },
-    {
-      "id": "c471c32f474a",
-      "title": "雜誌通訊課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/ecu/ecu_ccH.asp"
-    },
-    {
-      "id": "bbf59a0ee0ad",
-      "title": "線上影像學習課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
-    },
-    {
-      "id": "4a249f5358dd",
-      "title": "115年冬季麻醉專科護理師學術研討會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/799.html"
-    },
-    {
-      "id": "10a585ef7f40",
-      "title": "115年麻醉專科護理師甄審口試模擬教學課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
-    },
-    {
-      "id": "41a38fc41bcd",
-      "title": "代登~ 2026 臺灣心臟胸腔暨血管麻醉醫學會 年會暨國際學術研討會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/797.html"
-    },
-    {
-      "id": "7f4077aab8c4",
-      "title": "國際麻醉護士協會IFNA標準規範",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
-    },
-    {
-      "id": "1091d4943f3b",
-      "title": "【115年上半年度】麻醉專科護理師進階制度認證申請通過名單",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1092.html"
-    },
-    {
-      "id": "058d7913052c",
-      "title": "麻醉專科護理師證書換證需求調查",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1091.html"
-    },
-    {
-      "id": "b7d3ba88a411",
-      "title": "代登~台灣麻醉醫學會雲嘉地區聯合討論會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
     },
     {
       "id": "5bfcff8d3c72",
@@ -1762,7 +1672,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=238ae395b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=a3ba02a2e&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -1772,7 +1682,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=238ae395b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=a3ba02a2e&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -1782,7 +1692,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=238ae395b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=a3ba02a2e&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -1792,7 +1702,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=238ae395b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=4&_sid=a3ba02a2e&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -1802,7 +1712,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=238ae395b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=5&_sid=a3ba02a2e&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1883,16 +1793,6 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/smic"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.bmj.com/content/395/bmj-2026-101017.short?rss=1"
     }
   ]
 }
