@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-06T04:01:56.495933+00:00",
-  "count": 188,
+  "updated": "2026-10-06T12:32:02.974316+00:00",
+  "count": 185,
   "course_count": 80,
-  "news_count": 108,
+  "news_count": 105,
   "items": [
     {
       "id": "fc008de83eae",
@@ -1732,7 +1732,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=1ac10ed63&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=1&_sid=bffa8b389&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -1742,7 +1742,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=1ac10ed63&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=bffa8b389&_ss=r"
+    },
+    {
+      "id": "efccb4766388",
+      "title": "6\" Israeli Emergency Bandage® from Safeguard Medical",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=bffa8b389&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1752,27 +1762,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=1ac10ed63&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=bffa8b389&_ss=r"
     },
     {
-      "id": "b6870e0f11c8",
-      "title": "Tasmanian Tiger FIRST RESPONDER MOVE-ON MK II Pack",
+      "id": "4110ccb750ce",
+      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-first-responder-move-on-m-kii-pack?_pos=4&_sid=1ac10ed63&_ss=r"
-    },
-    {
-      "id": "7f0bd426cd0d",
-      "title": "B-CON Bleeding Control Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=5&_sid=1ac10ed63&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=bffa8b389&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1853,36 +1853,6 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/smic"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "3375be28d9d1",
-      "title": "Current Issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
     }
   ]
 }
