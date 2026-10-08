@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-07T18:14:02.201994+00:00",
-  "count": 185,
+  "updated": "2026-10-08T00:40:41.615203+00:00",
+  "count": 184,
   "course_count": 81,
-  "news_count": 104,
+  "news_count": 103,
   "items": [
     {
       "id": "fc008de83eae",
@@ -153,16 +153,6 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://jcmit2026.medinfo.org.tw/"
-    },
-    {
-      "id": "82bfd7c732c8",
-      "title": "第十七屆理事長、常務理事、常務監事當選名單公告",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-07-09",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1621"
     },
     {
       "id": "e5cb7301a812",
@@ -1732,7 +1722,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=aa97b4bba&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=1&_sid=46f440384&_ss=r"
     },
     {
       "id": "34d97b943ff2",
@@ -1742,7 +1732,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=aa97b4bba&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=2&_sid=46f440384&_ss=r"
     },
     {
       "id": "ac7abee6e285",
@@ -1752,7 +1742,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=aa97b4bba&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=46f440384&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -1762,17 +1752,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=aa97b4bba&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=46f440384&_ss=r"
     },
     {
-      "id": "40b63028b17c",
-      "title": "TacMed™ Field Blood Transfusion Kit",
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=aa97b4bba&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=46f440384&_ss=r"
     },
     {
       "id": "715383a36e2a",
