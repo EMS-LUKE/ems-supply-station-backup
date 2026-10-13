@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-13T04:43:46.251947+00:00",
-  "count": 186,
-  "course_count": 82,
-  "news_count": 104,
+  "updated": "2026-10-13T13:17:21.911966+00:00",
+  "count": 194,
+  "course_count": 85,
+  "news_count": 109,
   "items": [
     {
       "id": "fc008de83eae",
@@ -383,6 +383,86 @@
       "date": null,
       "deadline": null,
       "url": "https://forms.gle/RxQobu2FoVewH6Qs5"
+    },
+    {
+      "id": "47f965572631",
+      "title": "國際學術研討會",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/60"
+    },
+    {
+      "id": "f1dbb68b7d0c",
+      "title": "| 🫀 【2026 台灣心肌梗塞學會秋季學術研討會】 公告日期：2026 / 9 / 7",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1274"
+    },
+    {
+      "id": "df8d5479b72d",
+      "title": "| 🔥 2026 TAMIS 秋季學術研討會－急性心肌梗塞案例競賽 熱烈徵稿中！ 🔥 公告日期：2026 / 7 / 27",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1266"
+    },
+    {
+      "id": "9510b518bf05",
+      "title": "TAMIS Academy",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/41"
+    },
+    {
+      "id": "0a85c8dd90b9",
+      "title": "特選環球會議",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/42"
+    },
+    {
+      "id": "3c8d70bf7496",
+      "title": "| 📣【TAMIS 超級心光大道－24首金曲】巡迴開唱：第十一首《另眼相看》📣 公告日期：2026 / 10 / 13",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1284"
+    },
+    {
+      "id": "f1f303ad451a",
+      "title": "| 📣 【TAMIS 超級心光大道－24首金曲】第十首重磅登場：《依靠》 📣 公告日期：2026 / 9 / 18",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1281"
+    },
+    {
+      "id": "18245bd315b9",
+      "title": "| 【TAMIS 超級心光大道－24首金曲】第九首熱血開唱：《逆光》 公告日期：2026 / 9 / 16",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1278"
     },
     {
       "id": "32dbb30467e3",
@@ -1015,34 +1095,34 @@
       "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
-      "id": "0e0f222b7821",
-      "title": "許晉福：「會急救沒有比較厲害，肯急救也沒有比較厲害」",
+      "id": "7a87387bfb90",
+      "title": "聽見AED｜2026年9月到場成果出爐】",
       "source": "臺灣愛陌生安全推廣協會",
       "cat": "台灣急救社群",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/guardian-faces/guardian-xu-jinfu/"
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e8%81%bd%e8%a6%8baed%ef%bd%9c2026%e5%b9%b49%e6%9c%88%e5%88%b0%e5%a0%b4%e6%88%90%e6%9e%9c%e5%87%ba%e7%88%90%e3%80%91/"
     },
     {
-      "id": "96a7fcb09995",
-      "title": "【同一台 AED，警報器讓它快了將近 2 分鐘到場】",
+      "id": "bb8fd7f9a518",
+      "title": "2026守護者專訪5】張宥安：急救不是一個人的事，是一群人的信念",
       "source": "臺灣愛陌生安全推廣協會",
       "cat": "台灣急救社群",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e3%80%90%e5%90%8c%e4%b8%80%e5%8f%b0-aed%ef%bc%8c%e8%ad%a6%e5%a0%b1%e5%99%a8%e8%ae%93%e5%ae%83%e5%bf%ab%e4%ba%86%e5%b0%87%e8%bf%91-2-%e5%88%86%e9%90%98%e5%88%b0%e5%a0%b4%e3%80%91/"
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/2026%e5%ae%88%e8%ad%b7%e8%80%85%e5%b0%88%e8%a8%aa5%e3%80%91%e5%bc%b5%e5%ae%a5%e5%ae%89%ef%bc%9a%e6%80%a5%e6%95%91%e4%b8%8d%e6%98%af%e4%b8%80%e5%80%8b%e4%ba%ba%e7%9a%84%e4%ba%8b%ef%bc%8c%e6%98%af/"
     },
     {
-      "id": "f1d72e818ace",
-      "title": "【只有 6.4% 的 AED，從建築物外面看得到指標】",
+      "id": "38c215d8bf19",
+      "title": "聽見AED 臉書動態",
       "source": "臺灣愛陌生安全推廣協會",
       "cat": "台灣急救社群",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e3%80%90%e5%8f%aa%e6%9c%89-6-4-%e7%9a%84-aed%ef%bc%8c%e5%be%9e%e5%bb%ba%e7%af%89%e7%89%a9%e5%a4%96%e9%9d%a2%e7%9c%8b%e5%be%97%e5%88%b0%e6%8c%87%e6%a8%99%e3%80%91/"
+      "url": "https://www.hear-aed.com.tw/news/category/hearaed-updates/"
     },
     {
       "id": "b22c2e9061fd",
@@ -1742,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=b46b2dbe6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=f3726e118&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -1752,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=b46b2dbe6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=f3726e118&_ss=r"
     },
     {
       "id": "ac7abee6e285",
@@ -1762,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=b46b2dbe6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=f3726e118&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -1772,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=b46b2dbe6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=f3726e118&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -1782,7 +1862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=b46b2dbe6&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=f3726e118&_ss=r"
     },
     {
       "id": "715383a36e2a",
