@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-13T13:17:21.911966+00:00",
-  "count": 194,
-  "course_count": 85,
+  "updated": "2026-10-13T20:32:33.394854+00:00",
+  "count": 193,
+  "course_count": 84,
   "news_count": 109,
   "items": [
     {
@@ -1095,36 +1095,6 @@
       "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
-      "id": "7a87387bfb90",
-      "title": "聽見AED｜2026年9月到場成果出爐】",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e8%81%bd%e8%a6%8baed%ef%bd%9c2026%e5%b9%b49%e6%9c%88%e5%88%b0%e5%a0%b4%e6%88%90%e6%9e%9c%e5%87%ba%e7%88%90%e3%80%91/"
-    },
-    {
-      "id": "bb8fd7f9a518",
-      "title": "2026守護者專訪5】張宥安：急救不是一個人的事，是一群人的信念",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/2026%e5%ae%88%e8%ad%b7%e8%80%85%e5%b0%88%e8%a8%aa5%e3%80%91%e5%bc%b5%e5%ae%a5%e5%ae%89%ef%bc%9a%e6%80%a5%e6%95%91%e4%b8%8d%e6%98%af%e4%b8%80%e5%80%8b%e4%ba%ba%e7%9a%84%e4%ba%8b%ef%bc%8c%e6%98%af/"
-    },
-    {
-      "id": "38c215d8bf19",
-      "title": "聽見AED 臉書動態",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/category/hearaed-updates/"
-    },
-    {
       "id": "b22c2e9061fd",
       "title": "Contact ITLS",
       "source": "ITLS",
@@ -1685,26 +1655,6 @@
       "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
     },
     {
-      "id": "1d5a35aee639",
-      "title": "Future Training and Education Events",
-      "source": "SOMA",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://specialoperationsmedicine.org/future-training-and-education-events/"
-    },
-    {
-      "id": "6ae440c231a3",
-      "title": "Journal of Special Operations Medicine (JSOM)",
-      "source": "SOMA",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://specialoperationsmedicine.org/jsom/"
-    },
-    {
       "id": "be65025d0a69",
       "title": "Training Teams for Prolonged Care and Beyond By Ragged Edge Solutions",
       "source": "Next Generation Combat Medic",
@@ -1822,7 +1772,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=f3726e118&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=4806a0768&_ss=r"
     },
     {
       "id": "9bc553af2970",
@@ -1832,7 +1782,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=f3726e118&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=4806a0768&_ss=r"
     },
     {
       "id": "ac7abee6e285",
@@ -1842,7 +1792,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=f3726e118&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=3&_sid=4806a0768&_ss=r"
     },
     {
       "id": "efccb4766388",
@@ -1852,7 +1802,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=f3726e118&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=4&_sid=4806a0768&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -1862,7 +1812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=f3726e118&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=5&_sid=4806a0768&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1943,6 +1893,46 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/smic"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/10/e124947?rss=1"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/9"
     }
   ]
 }
