@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-15T02:31:59.928081+00:00",
-  "count": 197,
+  "updated": "2026-10-15T07:55:13.905813+00:00",
+  "count": 198,
   "course_count": 85,
-  "news_count": 112,
+  "news_count": 113,
   "items": [
     {
       "id": "7201d6fe54db",
@@ -15,14 +15,14 @@
       "url": "https://www.sem.org.tw/Activity/B/Details/33326"
     },
     {
-      "id": "5d3f308c0193",
-      "title": "臺中榮民總醫院國際醫學研討會-急診醫學部智慧急診與韌性醫療的未來 臺中榮民總醫院急診部",
+      "id": "31a53adb4813",
+      "title": "PALS&APLS 訓練課程 亞東紀念醫院小兒部",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
       "date": "2026-10-17",
-      "deadline": "2026-10-17",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33224"
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33270"
     },
     {
       "id": "31731e3015c5",
@@ -163,6 +163,16 @@
       "date": "2026-12-19",
       "deadline": null,
       "url": "https://jcmit2026.medinfo.org.tw/"
+    },
+    {
+      "id": "6db925e8affe",
+      "title": "116年住院醫師緊急醫療系統訓練課程(北榮場)【線上+實體】 社團法人台灣急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2027-01-04",
+      "deadline": "2026-10-15",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33459"
     },
     {
       "id": "e5cb7301a812",
@@ -495,18 +505,18 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "3a5e55368bd3",
-      "title": "【代轉】社團法人亞洲華人醫務管理交流學會8/14-/15辦理「2026高齡健康處方設計師跨領域高階創新人才培訓系列活動」歡迎報名。",
+      "id": "fbce3e42c088",
+      "title": "訂購《醫療資訊雜誌》價格調漲公告！",
       "source": "台灣醫學資訊學會",
       "cat": "台灣學會",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "fbce3e42c088",
-      "title": "訂購《醫療資訊雜誌》價格調漲公告！",
+      "id": "a6f354046363",
+      "title": "【代轉】誠摯邀請參加10/16(五)2026台灣健康大數據整合服務平台年會 - 推動可信任研究環境：從原則走向可落實的信任機制，歡迎踴躍報名參加！",
       "source": "台灣醫學資訊學會",
       "cat": "台灣學會",
       "type": "news",
@@ -1812,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=dd3688d07&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=8b0fb1552&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -1822,7 +1832,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=dd3688d07&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=8b0fb1552&_ss=r"
+    },
+    {
+      "id": "ad37ec9e265d",
+      "title": "Low Titer O Whole Blood Kit - LTOWB",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=3&_sid=8b0fb1552&_ss=r"
     },
     {
       "id": "4c7353f6cea7",
@@ -1832,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=3&_sid=dd3688d07&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=8b0fb1552&_ss=r"
     },
     {
       "id": "b19e6d367f80",
@@ -1842,17 +1862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=4&_sid=dd3688d07&_ss=r"
-    },
-    {
-      "id": "49625ee4817d",
-      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=dd3688d07&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=8b0fb1552&_ss=r"
     },
     {
       "id": "715383a36e2a",
