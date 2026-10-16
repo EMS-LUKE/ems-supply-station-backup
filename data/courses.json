@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-16T07:46:29.490965+00:00",
-  "count": 196,
+  "updated": "2026-10-16T13:42:46.299889+00:00",
+  "count": 197,
   "course_count": 85,
-  "news_count": 111,
+  "news_count": 112,
   "items": [
     {
       "id": "7201d6fe54db",
@@ -705,8 +705,8 @@
       "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
     },
     {
-      "id": "f1da05645193",
-      "title": "115上半年度進階相關報告及證書寄發公告",
+      "id": "5a11f655bacc",
+      "title": "115上半年度進階相關報告及證書發送公告",
       "source": "台灣麻醉專科護理學會",
       "cat": "台灣學會",
       "type": "news",
@@ -743,6 +743,26 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
+    },
+    {
+      "id": "b098da9f2e27",
+      "title": "理事長的話",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.sma.org.tw/index.html"
+    },
+    {
+      "id": "b262c448b308",
+      "title": "本屆理監事",
+      "source": "台灣運動醫學學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.sma.org.tw/about3.html"
     },
     {
       "id": "5bfcff8d3c72",
@@ -1825,54 +1845,54 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
-      "id": "34d97b943ff2",
-      "title": "Public Access Bleeding Control Kit - Nylon",
+      "id": "ba12c7838487",
+      "title": "Mojo® Public Access Trauma Station",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=5d6bd09d0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/mojo-public-access-trauma-station?_pos=1&_sid=346d8e42c&_ss=r"
     },
     {
-      "id": "fe95ff73d75a",
-      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
+      "id": "780879151377",
+      "title": "Mobilize Public Access Trauma Kit by ZOLL",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=5d6bd09d0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/mobilize-public-access-trauma-kit-by-zoll?_pos=2&_sid=346d8e42c&_ss=r"
     },
     {
-      "id": "49625ee4817d",
-      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
+      "id": "d99462985b15",
+      "title": "Mojo® Public Access Trauma Station - Advanced",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=5d6bd09d0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/mojo%C2%AE-public-access-trauma-station-advanced?_pos=3&_sid=346d8e42c&_ss=r"
     },
     {
-      "id": "0d89877fc319",
-      "title": "Public Access Bleeding Control (PABC) Twin Pack",
+      "id": "4c7353f6cea7",
+      "title": "Curaplex Stop the Bleed Kit - Individual - Intermediate",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=5d6bd09d0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/curaplex-stop-the-bleed-kit-individual-intermediate?_pos=4&_sid=346d8e42c&_ss=r"
     },
     {
-      "id": "f7190bdfadbb",
-      "title": "Public Access Bleeding Control 5 Pack",
+      "id": "977f5923c9a8",
+      "title": "MOJO Bleeding Control Station",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=5d6bd09d0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/mojo-bleeding-control-station?_pos=5&_sid=346d8e42c&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1953,16 +1973,6 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/smic"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2025-337109v2?rss=1"
     }
   ]
 }
