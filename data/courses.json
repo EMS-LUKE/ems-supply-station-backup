@@ -1,19 +1,9 @@
 {
-  "updated": "2026-10-16T23:13:36.709044+00:00",
-  "count": 196,
-  "course_count": 85,
+  "updated": "2026-10-17T02:18:16.394590+00:00",
+  "count": 193,
+  "course_count": 82,
   "news_count": 111,
   "items": [
-    {
-      "id": "7201d6fe54db",
-      "title": "急診創傷訓練課程(ETTC) 衛生福利部旗山醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33326"
-    },
     {
       "id": "31a53adb4813",
       "title": "PALS&APLS 訓練課程 亞東紀念醫院小兒部",
@@ -23,6 +13,16 @@
       "date": "2026-10-17",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/B/Details/33270"
+    },
+    {
+      "id": "5d3f308c0193",
+      "title": "臺中榮民總醫院國際醫學研討會-急診醫學部智慧急診與韌性醫療的未來 臺中榮民總醫院急診部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": "2026-10-17",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33224"
     },
     {
       "id": "31731e3015c5",
@@ -73,36 +73,6 @@
       "date": "2026-11-07",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/AHA/Details/33368"
-    },
-    {
-      "id": "c1772c700f8e",
-      "title": "2026 台灣實證醫學學會學術年會",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list/view/2c1a39f064c4a01a76c81be6669b0392"
-    },
-    {
-      "id": "a5b6f0731389",
-      "title": "2026/11/14(六) 台灣實證醫學學會學術年會2026-06-08",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "d31ff383b8c0",
-      "title": "2026/11/14 台灣實證醫學學會學術年會",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
     },
     {
       "id": "7293478584df",
@@ -1842,7 +1812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=704c1790c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=85d414c40&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1852,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=704c1790c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=85d414c40&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1862,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=704c1790c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=85d414c40&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -1872,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=704c1790c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=85d414c40&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -1882,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=704c1790c&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=85d414c40&_ss=r"
     },
     {
       "id": "715383a36e2a",
