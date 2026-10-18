@@ -1,28 +1,18 @@
 {
-  "updated": "2026-10-17T22:51:07.194786+00:00",
+  "updated": "2026-10-18T02:18:37.605070+00:00",
   "count": 197,
   "course_count": 82,
   "news_count": 115,
   "items": [
     {
-      "id": "31a53adb4813",
-      "title": "PALS&APLS 訓練課程 亞東紀念醫院小兒部",
+      "id": "c1de4193abe4",
+      "title": "精準與永續：智慧急重症鏈-從數據預警到社區永續照護的實踐與挑戰 社團法人台灣老人急重症醫學會",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33270"
-    },
-    {
-      "id": "5d3f308c0193",
-      "title": "臺中榮民總醫院國際醫學研討會-急診醫學部智慧急診與韌性醫療的未來 臺中榮民總醫院急診部",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-17",
-      "deadline": "2026-10-17",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33224"
+      "date": "2026-10-18",
+      "deadline": "2026-10-18",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33330"
     },
     {
       "id": "31731e3015c5",
@@ -243,6 +233,16 @@
       "date": "2026-10-15",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1668"
+    },
+    {
+      "id": "31a53adb4813",
+      "title": "PALS&APLS 訓練課程 亞東紀念醫院小兒部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-17",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33270"
     },
     {
       "id": "5132f2172238",
@@ -1812,7 +1812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9300d87a3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=46706071d&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1822,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=9300d87a3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=46706071d&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1832,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=9300d87a3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=46706071d&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -1842,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=9300d87a3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=46706071d&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -1852,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=9300d87a3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=46706071d&_ss=r"
     },
     {
       "id": "715383a36e2a",
