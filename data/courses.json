@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-19T02:34:47.222802+00:00",
-  "count": 189,
-  "course_count": 77,
-  "news_count": 112,
+  "updated": "2026-10-19T08:21:39.534523+00:00",
+  "count": 200,
+  "course_count": 85,
+  "news_count": 115,
   "items": [
     {
       "id": "31731e3015c5",
@@ -63,6 +63,36 @@
       "date": "2026-11-07",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/AHA/Details/33368"
+    },
+    {
+      "id": "c1772c700f8e",
+      "title": "2026 台灣實證醫學學會學術年會",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list/view/2c1a39f064c4a01a76c81be6669b0392"
+    },
+    {
+      "id": "a5b6f0731389",
+      "title": "2026/11/14(六) 台灣實證醫學學會學術年會2026-06-08",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "d31ff383b8c0",
+      "title": "2026/11/14 台灣實證醫學學會學術年會",
+      "source": "台灣實證醫學學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-14",
+      "deadline": null,
+      "url": "https://www.tebma.org.tw/event/list"
     },
     {
       "id": "7293478584df",
@@ -275,8 +305,8 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/83.html"
     },
     {
-      "id": "3b7a9db31d43",
-      "title": "【論文邀稿資訊】116年年會暨學術演講會邀稿，敬請全體會員踴躍投稿...",
+      "id": "ec8bf62e3318",
+      "title": "【論文邀稿資訊】116年年會暨學術演講會邀稿，敬請全體會員踴躍投稿（投稿截止時間延至115年10月30日23:59:59截止）...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "news",
@@ -993,6 +1023,86 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.educationcampus.html"
+    },
+    {
+      "id": "1a7323e30be9",
+      "title": "2026母親節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "9fdb080fb678",
+      "title": "2026兒童節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "79f4d8162d0b",
+      "title": "2025兒童醫院聖誕節慶活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "047989c0a523",
+      "title": "臺北市政府衛生局自115年10月1日至115年11月30日辦理「左流右新健康抽好禮」抽獎活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19408"
+    },
+    {
+      "id": "ed2ee3e5b76a",
+      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
+    },
+    {
+      "id": "ed1866c01f90",
+      "title": "【家庭資源中心閉館公告】",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
+    },
+    {
+      "id": "9b54876f3cd3",
+      "title": "115年農曆春節本院服務公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
+    },
+    {
+      "id": "c32df82d097f",
+      "title": "115年農曆春節假期特設「傳染病特別診」公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
     },
     {
       "id": "7a87387bfb90",
@@ -1732,17 +1842,37 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=d21f47fda&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9e1634560&_ss=r"
     },
     {
-      "id": "fe95ff73d75a",
-      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
+      "id": "09ea6a5c0c26",
+      "title": "Bleeder Pouch – Blue Tide Innovations",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=d21f47fda&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bleeder-pouch-blue-tide-innovations?_pos=2&_sid=9e1634560&_ss=r"
+    },
+    {
+      "id": "7f0bd426cd0d",
+      "title": "B-CON Bleeding Control Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=9e1634560&_ss=r"
+    },
+    {
+      "id": "b19e6d367f80",
+      "title": "Saline Lock Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=4&_sid=9e1634560&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1752,27 +1882,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=d21f47fda&_ss=r"
-    },
-    {
-      "id": "0d89877fc319",
-      "title": "Public Access Bleeding Control (PABC) Twin Pack",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=d21f47fda&_ss=r"
-    },
-    {
-      "id": "f7190bdfadbb",
-      "title": "Public Access Bleeding Control 5 Pack",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=d21f47fda&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=9e1634560&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1862,7 +1972,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.bmj.com/content/395/bmj-2026-101166.short?rss=1"
+      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-339334v1?rss=1"
     },
     {
       "id": "8d656ad77115",
