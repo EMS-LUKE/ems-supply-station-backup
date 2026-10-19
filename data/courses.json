@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-19T16:07:43.336871+00:00",
-  "count": 200,
+  "updated": "2026-10-19T21:56:29.209928+00:00",
+  "count": 196,
   "course_count": 85,
-  "news_count": 115,
+  "news_count": 111,
   "items": [
     {
       "id": "31731e3015c5",
@@ -1535,46 +1535,6 @@
       "url": "https://www.c-tecc.org/index.php/news/save-the-date-dec-2026-meeting"
     },
     {
-      "id": "fe9e49751244",
-      "title": "info@cbrnprofessionals.com",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "mailto:info@cbrnprofessionals.com"
-    },
-    {
-      "id": "88a83b47cbaa",
-      "title": "CBRN Corner",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://cbrnprofessionals.com/cbrn-corner/"
-    },
-    {
-      "id": "4fa62a7cd115",
-      "title": "CBRN Reference Material",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://cbrnprofessionals.com/cbrn-references/"
-    },
-    {
-      "id": "e9b634e786cc",
-      "title": "CBRN Resource Links",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://cbrnprofessionals.com/cbrn-resource-links/"
-    },
-    {
       "id": "48c630a34218",
       "title": "CTOMS Academy Online Training Online Training",
       "source": "CTOMS",
@@ -1842,7 +1802,37 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=b5b0c6b9d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=7f5e021ea&_ss=r"
+    },
+    {
+      "id": "09ea6a5c0c26",
+      "title": "Bleeder Pouch – Blue Tide Innovations",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/bleeder-pouch-blue-tide-innovations?_pos=2&_sid=7f5e021ea&_ss=r"
+    },
+    {
+      "id": "7f0bd426cd0d",
+      "title": "B-CON Bleeding Control Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=7f5e021ea&_ss=r"
+    },
+    {
+      "id": "b19e6d367f80",
+      "title": "Saline Lock Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=4&_sid=7f5e021ea&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1852,37 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=b5b0c6b9d&_ss=r"
-    },
-    {
-      "id": "fe95ff73d75a",
-      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=b5b0c6b9d&_ss=r"
-    },
-    {
-      "id": "f7190bdfadbb",
-      "title": "Public Access Bleeding Control 5 Pack",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=b5b0c6b9d&_ss=r"
-    },
-    {
-      "id": "0d89877fc319",
-      "title": "Public Access Bleeding Control (PABC) Twin Pack",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=5&_sid=b5b0c6b9d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=7f5e021ea&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1995,14 +1955,14 @@
       "url": "https://emj.bmj.com/content/current"
     },
     {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
+      "id": "3375be28d9d1",
+      "title": "Current Issue",
       "source": "Emergency Medicine Journal",
       "cat": "國際期刊/組織",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://emj.bmj.com/content/43/9"
+      "url": "https://emj.bmj.com/content/current"
     }
   ]
 }
