@@ -1,19 +1,9 @@
 {
-  "updated": "2026-10-18T22:44:42.807456+00:00",
-  "count": 193,
-  "course_count": 82,
-  "news_count": 111,
+  "updated": "2026-10-19T02:34:47.222802+00:00",
+  "count": 189,
+  "course_count": 77,
+  "news_count": 112,
   "items": [
-    {
-      "id": "c1de4193abe4",
-      "title": "精準與永續：智慧急重症鏈-從數據預警到社區永續照護的實踐與挑戰 社團法人台灣老人急重症醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-18",
-      "deadline": "2026-10-18",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33330"
-    },
     {
       "id": "31731e3015c5",
       "title": "中級空中醫療救護專業人員訓練課程 社團法人台灣急診醫學會、衛生福利部空中轉診審核中心",
@@ -33,6 +23,16 @@
       "date": "2026-10-24",
       "deadline": "2026-10-01",
       "url": "https://www.sem.org.tw/Activity/A/Details/33268"
+    },
+    {
+      "id": "4e6ab4f842cb",
+      "title": "高級心臟救命術（ACLS）初訓Provider Course 員榮醫療社團法人員榮醫院員生院區",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-24",
+      "deadline": "2026-09-01",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33335"
     },
     {
       "id": "d9371fb49f2a",
@@ -235,14 +235,14 @@
       "url": "https://www.sem.org.tw/News/11/Details/1668"
     },
     {
-      "id": "31a53adb4813",
-      "title": "PALS&APLS 訓練課程 亞東紀念醫院小兒部",
+      "id": "c1de4193abe4",
+      "title": "精準與永續：智慧急重症鏈-從數據預警到社區永續照護的實踐與挑戰 社團法人台灣老人急重症醫學會",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-10-17",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33270"
+      "date": "2026-10-18",
+      "deadline": "2026-10-18",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33330"
     },
     {
       "id": "5132f2172238",
@@ -995,86 +995,6 @@
       "url": "https://www.anne.educationcampus.html"
     },
     {
-      "id": "1a7323e30be9",
-      "title": "2026母親節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "9fdb080fb678",
-      "title": "2026兒童節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "79f4d8162d0b",
-      "title": "2025兒童醫院聖誕節慶活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "047989c0a523",
-      "title": "臺北市政府衛生局自115年10月1日至115年11月30日辦理「左流右新健康抽好禮」抽獎活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19408"
-    },
-    {
-      "id": "ed2ee3e5b76a",
-      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
-    },
-    {
-      "id": "ed1866c01f90",
-      "title": "【家庭資源中心閉館公告】",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
-    },
-    {
-      "id": "9b54876f3cd3",
-      "title": "115年農曆春節本院服務公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
-    },
-    {
-      "id": "c32df82d097f",
-      "title": "115年農曆春節假期特設「傳染病特別診」公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18245"
-    },
-    {
       "id": "7a87387bfb90",
       "title": "聽見AED｜2026年9月到場成果出爐】",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1812,7 +1732,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=f5371f0be&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=d21f47fda&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1822,7 +1742,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=f5371f0be&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=d21f47fda&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1832,7 +1752,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=f5371f0be&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=d21f47fda&_ss=r"
     },
     {
       "id": "0d89877fc319",
@@ -1842,7 +1762,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=f5371f0be&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=4&_sid=d21f47fda&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -1852,7 +1772,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=f5371f0be&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=d21f47fda&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1933,6 +1853,46 @@
       "date": null,
       "deadline": null,
       "url": "https://lms.trilogyems.com/smic"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.bmj.com/content/395/bmj-2026-101166.short?rss=1"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/9"
     }
   ]
 }
