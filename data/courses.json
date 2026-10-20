@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-20T18:54:25.042240+00:00",
-  "count": 192,
-  "course_count": 81,
-  "news_count": 111,
+  "updated": "2026-10-20T23:36:39.483257+00:00",
+  "count": 191,
+  "course_count": 76,
+  "news_count": 115,
   "items": [
     {
       "id": "31731e3015c5",
@@ -1175,56 +1175,6 @@
       "url": "https://www.itrauma.org/education/compare-itls/"
     },
     {
-      "id": "cc05242f9202",
-      "title": "Event & Expedition Medic Provision",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/event-expedition-medic-provision/"
-    },
-    {
-      "id": "36dc95e80ac8",
-      "title": "Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/"
-    },
-    {
-      "id": "cdc892f17af7",
-      "title": "Expedition & Wilderness Medicine",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/expedition-wilderness-medicine/"
-    },
-    {
-      "id": "55342de8b5f8",
-      "title": "WEMFund Prolonged Field Care Course",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/extreme-medicine-courses/wemf-prolonged-field-care-course/"
-    },
-    {
-      "id": "17f164e2e04b",
-      "title": "All Extreme Medicine Courses",
-      "source": "World Extreme Medicine",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://worldextrememedicine.com/product-category/extreme-medicine-courses/all-courses/"
-    },
-    {
       "id": "b8d5eb07b1d3",
       "title": "Course Curriculum",
       "source": "ERC",
@@ -1832,47 +1782,47 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=48b79eed0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=cedeb1236&_ss=r"
     },
     {
-      "id": "09ea6a5c0c26",
-      "title": "Bleeder Pouch – Blue Tide Innovations",
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bleeder-pouch-blue-tide-innovations?_pos=2&_sid=48b79eed0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=cedeb1236&_ss=r"
     },
     {
-      "id": "7f0bd426cd0d",
-      "title": "B-CON Bleeding Control Kit",
+      "id": "49625ee4817d",
+      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=48b79eed0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=cedeb1236&_ss=r"
     },
     {
-      "id": "40b63028b17c",
-      "title": "TacMed™ Field Blood Transfusion Kit",
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=4&_sid=48b79eed0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=cedeb1236&_ss=r"
     },
     {
-      "id": "b19e6d367f80",
-      "title": "Saline Lock Kit",
+      "id": "0d89877fc319",
+      "title": "Public Access Bleeding Control (PABC) Twin Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=48b79eed0&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=5&_sid=cedeb1236&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1923,6 +1873,46 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/10/e116242?rss=1"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/9"
     }
   ]
 }
