@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-20T14:02:56.107654+00:00",
-  "count": 195,
-  "course_count": 84,
+  "updated": "2026-10-20T18:54:25.042240+00:00",
+  "count": 192,
+  "course_count": 81,
   "news_count": 111,
   "items": [
     {
@@ -1832,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=4c735d73d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=48b79eed0&_ss=r"
     },
     {
       "id": "09ea6a5c0c26",
@@ -1842,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bleeder-pouch-blue-tide-innovations?_pos=2&_sid=4c735d73d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bleeder-pouch-blue-tide-innovations?_pos=2&_sid=48b79eed0&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -1852,7 +1852,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=4c735d73d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=48b79eed0&_ss=r"
+    },
+    {
+      "id": "40b63028b17c",
+      "title": "TacMed™ Field Blood Transfusion Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=4&_sid=48b79eed0&_ss=r"
     },
     {
       "id": "b19e6d367f80",
@@ -1862,17 +1872,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=4&_sid=4c735d73d&_ss=r"
-    },
-    {
-      "id": "49625ee4817d",
-      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=4c735d73d&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=48b79eed0&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1923,36 +1923,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
-    },
-    {
-      "id": "1a4c4b8a5a11",
-      "title": "Online Courses",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://lms.trilogyems.com/courses/"
-    },
-    {
-      "id": "2eec27c4207b",
-      "title": "Browse Courses",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://lms.trilogyems.com/buy-course/"
-    },
-    {
-      "id": "01fb4a59fa83",
-      "title": "Explore this Course",
-      "source": "Trilogy EMS",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://lms.trilogyems.com/smic"
     }
   ]
 }
