@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-21T02:40:33.171593+00:00",
-  "count": 196,
-  "course_count": 81,
-  "news_count": 115,
+  "updated": "2026-10-21T08:12:15.681747+00:00",
+  "count": 188,
+  "course_count": 77,
+  "news_count": 111,
   "items": [
     {
       "id": "31731e3015c5",
@@ -487,16 +487,6 @@
     {
       "id": "db8e9410e3d6",
       "title": "【代轉】誠摯邀請蒞臨9/3數位產業署主辦「2026 ADI DEMO DAY：主權AI賦能-建構可信賴、可控管的AI智慧醫療」(此為免費活動，名額有限，敬請把握難得機會)",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "c9bef9500467",
-      "title": "【代轉】2026年8月「2026年亞太健康促進與非傳染病防治教育訓練工作坊」",
       "source": "台灣醫學資訊學會",
       "cat": "台灣學會",
       "type": "course",
@@ -1315,36 +1305,6 @@
       "url": "https://www.erc.edu/education/for-professionals/course-types/epals/"
     },
     {
-      "id": "265996580141",
-      "title": "2027 WMS Winter Conference In-Person",
-      "source": "Wilderness Medical Society",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://wms.org/wms.org/winter27"
-    },
-    {
-      "id": "155c5c25135c",
-      "title": "2027 WMS Winter Conference Virtual",
-      "source": "Wilderness Medical Society",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://wms.org/wms.org/winter27"
-    },
-    {
-      "id": "a48a802d78f5",
-      "title": "Events",
-      "source": "Wilderness Medical Society",
-      "cat": "國際期刊/組織",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://wms.org/Shared_Content/Events/Events_List.aspx"
-    },
-    {
       "id": "d7c182893afb",
       "title": "Course Administration",
       "source": "NAEMT",
@@ -1832,47 +1792,47 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=dab20d7d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=6574cf60c&_ss=r"
     },
     {
-      "id": "09ea6a5c0c26",
-      "title": "Bleeder Pouch – Blue Tide Innovations",
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bleeder-pouch-blue-tide-innovations?_pos=2&_sid=dab20d7d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=6574cf60c&_ss=r"
     },
     {
-      "id": "7f0bd426cd0d",
-      "title": "B-CON Bleeding Control Kit",
+      "id": "49625ee4817d",
+      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=3&_sid=dab20d7d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=6574cf60c&_ss=r"
     },
     {
-      "id": "40b63028b17c",
-      "title": "TacMed™ Field Blood Transfusion Kit",
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=4&_sid=dab20d7d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=6574cf60c&_ss=r"
     },
     {
-      "id": "b19e6d367f80",
-      "title": "Saline Lock Kit",
+      "id": "0d89877fc319",
+      "title": "Public Access Bleeding Control (PABC) Twin Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=dab20d7d3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=5&_sid=6574cf60c&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1923,46 +1883,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.bmj.com/content/395/bmj-2026-101201.short?rss=1"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/9"
     }
   ]
 }
