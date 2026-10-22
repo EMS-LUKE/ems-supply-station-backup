@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-22T14:19:00.013267+00:00",
-  "count": 186,
-  "course_count": 75,
-  "news_count": 111,
+  "updated": "2026-10-22T19:02:18.476595+00:00",
+  "count": 179,
+  "course_count": 70,
+  "news_count": 109,
   "items": [
     {
       "id": "24c1f53121d8",
@@ -965,76 +965,6 @@
       "url": "https://www.anne.educationcampus.html"
     },
     {
-      "id": "1a7323e30be9",
-      "title": "2026母親節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "9fdb080fb678",
-      "title": "2026兒童節節慶關懷系列活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "79f4d8162d0b",
-      "title": "2025兒童醫院聖誕節慶活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw"
-    },
-    {
-      "id": "047989c0a523",
-      "title": "臺北市政府衛生局自115年10月1日至115年11月30日辦理「左流右新健康抽好禮」抽獎活動",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19408"
-    },
-    {
-      "id": "ed2ee3e5b76a",
-      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
-    },
-    {
-      "id": "ed1866c01f90",
-      "title": "【家庭資源中心閉館公告】",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
-    },
-    {
-      "id": "9b54876f3cd3",
-      "title": "115年農曆春節本院服務公告",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
-    },
-    {
       "id": "7a87387bfb90",
       "title": "聽見AED｜2026年9月到場成果出爐】",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1465,6 +1395,46 @@
       "url": "https://www.c-tecc.org/index.php/news/save-the-date-dec-2026-meeting"
     },
     {
+      "id": "fe9e49751244",
+      "title": "info@cbrnprofessionals.com",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "mailto:info@cbrnprofessionals.com"
+    },
+    {
+      "id": "88a83b47cbaa",
+      "title": "CBRN Corner",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-corner/"
+    },
+    {
+      "id": "4fa62a7cd115",
+      "title": "CBRN Reference Material",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-references/"
+    },
+    {
+      "id": "e9b634e786cc",
+      "title": "CBRN Resource Links",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-resource-links/"
+    },
+    {
       "id": "48c630a34218",
       "title": "CTOMS Academy Online Training Online Training",
       "source": "CTOMS",
@@ -1732,7 +1702,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=344a84fcb&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=2e85d974f&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -1742,7 +1712,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=344a84fcb&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=2e85d974f&_ss=r"
+    },
+    {
+      "id": "49625ee4817d",
+      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=2e85d974f&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -1752,7 +1732,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=3&_sid=344a84fcb&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=4&_sid=2e85d974f&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -1762,17 +1742,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=4&_sid=344a84fcb&_ss=r"
-    },
-    {
-      "id": "b19e6d367f80",
-      "title": "Saline Lock Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=344a84fcb&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=5&_sid=2e85d974f&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1823,46 +1793,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-340844v1?rss=1"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/Suppl_3"
     }
   ]
 }
