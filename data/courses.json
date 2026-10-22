@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-21T23:53:41.188477+00:00",
-  "count": 195,
+  "updated": "2026-10-22T02:38:36.023952+00:00",
+  "count": 191,
   "course_count": 80,
-  "news_count": 115,
+  "news_count": 111,
   "items": [
     {
       "id": "31731e3015c5",
@@ -685,6 +685,16 @@
       "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
     },
     {
+      "id": "0f74c6051b5c",
+      "title": "未確認款項認領公告",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1095.html"
+    },
+    {
       "id": "5a11f655bacc",
       "title": "115上半年度進階相關報告及證書發送公告",
       "source": "台灣麻醉專科護理學會",
@@ -713,16 +723,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/news_info.asp?/1091.html"
-    },
-    {
-      "id": "b7d3ba88a411",
-      "title": "代登~台灣麻醉醫學會雲嘉地區聯合討論會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
     },
     {
       "id": "5bfcff8d3c72",
@@ -1822,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=b1ec6a9c8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=de6c29e53&_ss=r"
     },
     {
       "id": "7f0bd426cd0d",
@@ -1832,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=b1ec6a9c8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/b-con-bleeding-control-kit?_pos=2&_sid=de6c29e53&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -1842,17 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=3&_sid=b1ec6a9c8&_ss=r"
-    },
-    {
-      "id": "b19e6d367f80",
-      "title": "Saline Lock Kit",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=4&_sid=b1ec6a9c8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=3&_sid=de6c29e53&_ss=r"
     },
     {
       "id": "ad37ec9e265d",
@@ -1862,7 +1852,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=5&_sid=b1ec6a9c8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/low-titer-o-whole-blood-kit-ltowb?_pos=4&_sid=de6c29e53&_ss=r"
+    },
+    {
+      "id": "b19e6d367f80",
+      "title": "Saline Lock Kit",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=5&_sid=de6c29e53&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1913,46 +1913,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.bmj.com/content/395/bmj-2026-101201.short?rss=1"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/Suppl_3"
     }
   ]
 }
