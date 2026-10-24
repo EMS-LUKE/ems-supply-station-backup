@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-24T07:50:36.758421+00:00",
-  "count": 183,
+  "updated": "2026-10-24T13:05:18.698096+00:00",
+  "count": 180,
   "course_count": 70,
-  "news_count": 113,
+  "news_count": 110,
   "items": [
     {
       "id": "8c140633bf76",
@@ -23,6 +23,16 @@
       "date": "2026-10-24",
       "deadline": "2026-10-24",
       "url": "https://www.sem.org.tw/Activity/B/Details/33252"
+    },
+    {
+      "id": "907f397df2c4",
+      "title": "恭賀 鄭宏熙醫師 榮獲 第36屆醫療奉獻獎之「個人奉獻獎」",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-24",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1674"
     },
     {
       "id": "95161b69f144",
@@ -1702,7 +1712,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=b97a1f149&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=2e485d0be&_ss=r"
     },
     {
       "id": "f3b27fdbdee6",
@@ -1712,7 +1722,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=b97a1f149&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=2e485d0be&_ss=r"
     },
     {
       "id": "bc020bdc5218",
@@ -1722,7 +1732,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=b97a1f149&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=2e485d0be&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1732,17 +1742,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=b97a1f149&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=2e485d0be&_ss=r"
     },
     {
-      "id": "8cc2252d45c1",
-      "title": "The Emergency Bandage® 4 in. (Israeli Bandage)",
+      "id": "49625ee4817d",
+      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=5&_sid=b97a1f149&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=2e485d0be&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1793,46 +1803,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://bmjopen.bmj.com/cgi/content/short/16/10/e111050?rss=1"
-    },
-    {
-      "id": "8d656ad77115",
-      "title": "Latest content",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/early/recent"
-    },
-    {
-      "id": "d700ad2a5902",
-      "title": "Current issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/current"
-    },
-    {
-      "id": "1c1df425b317",
-      "title": "Prev issue",
-      "source": "Emergency Medicine Journal",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://emj.bmj.com/content/43/Suppl_3"
     }
   ]
 }
