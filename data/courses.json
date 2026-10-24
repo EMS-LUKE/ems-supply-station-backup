@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-24T13:05:18.698096+00:00",
-  "count": 180,
-  "course_count": 70,
-  "news_count": 110,
+  "updated": "2026-10-24T17:48:21.939716+00:00",
+  "count": 189,
+  "course_count": 75,
+  "news_count": 114,
   "items": [
     {
       "id": "8c140633bf76",
@@ -875,6 +875,56 @@
       "url": "https://taiwanwma.org/activities?activity=3"
     },
     {
+      "id": "91790bdbec7d",
+      "title": "CPR+AED完整版3小時課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://sfast.innosoft.com.tw/iplm/pages/b.aspx?page=in_Meeting_list_A.html&method=In_MeetingUserResponse&in_meetingid=297C8E0AF68B4B609134923DF1F22659"
+    },
+    {
+      "id": "bf3f0e1ba292",
+      "title": "AED管理員4小時教育訓練",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/qKa2WE"
+    },
+    {
+      "id": "e0f77ddf7472",
+      "title": "基本救命術指導員BLS-I課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/eVQggR"
+    },
+    {
+      "id": "5bc9921519e2",
+      "title": "基本救命術BLS4小時課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/4bYO9v"
+    },
+    {
+      "id": "a2470c9c35e4",
+      "title": "基本救命術BLS8小時課程",
+      "source": "台灣運動安全暨急救技能推廣協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://reurl.cc/aMEgWl"
+    },
+    {
       "id": "a8949ae88118",
       "title": "2023年活動花絮集",
       "source": "復甦照護小學堂",
@@ -1712,7 +1762,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=2e485d0be&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=e9a34ee69&_ss=r"
     },
     {
       "id": "f3b27fdbdee6",
@@ -1722,7 +1772,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=2e485d0be&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=e9a34ee69&_ss=r"
     },
     {
       "id": "bc020bdc5218",
@@ -1732,7 +1782,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=2e485d0be&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=e9a34ee69&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1742,17 +1792,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=2e485d0be&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=e9a34ee69&_ss=r"
     },
     {
-      "id": "49625ee4817d",
-      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
+      "id": "8cc2252d45c1",
+      "title": "The Emergency Bandage® 4 in. (Israeli Bandage)",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=2e485d0be&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-4?_pos=5&_sid=e9a34ee69&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1803,6 +1853,46 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
+    },
+    {
+      "id": "42f64ad0e369",
+      "title": "Read more",
+      "source": "BMJ Journals",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/10/e111050?rss=1"
+    },
+    {
+      "id": "8d656ad77115",
+      "title": "Latest content",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/early/recent"
+    },
+    {
+      "id": "d700ad2a5902",
+      "title": "Current issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/current"
+    },
+    {
+      "id": "1c1df425b317",
+      "title": "Prev issue",
+      "source": "Emergency Medicine Journal",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://emj.bmj.com/content/43/Suppl_3"
     }
   ]
 }
