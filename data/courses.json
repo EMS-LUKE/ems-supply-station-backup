@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-25T13:32:11.902275+00:00",
-  "count": 185,
-  "course_count": 75,
+  "updated": "2026-10-25T18:03:56.891063+00:00",
+  "count": 186,
+  "course_count": 76,
   "news_count": 110,
   "items": [
     {
@@ -1265,6 +1265,16 @@
       "url": "https://wms.org/wms.org/winter27"
     },
     {
+      "id": "e8616fc19915",
+      "title": "2027 Medicine at Sea Pre-Conference (DiDMM Candidate",
+      "source": "Wilderness Medical Society",
+      "cat": "國際期刊/組織",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://wms.org/27medatsea"
+    },
+    {
       "id": "a48a802d78f5",
       "title": "Events",
       "source": "Wilderness Medical Society",
@@ -1762,7 +1772,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=f3f17dd68&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=631d7fe7f&_ss=r"
     },
     {
       "id": "f3b27fdbdee6",
@@ -1772,7 +1782,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=f3f17dd68&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-t3-bandage?_pos=2&_sid=631d7fe7f&_ss=r"
     },
     {
       "id": "bc020bdc5218",
@@ -1782,7 +1792,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=f3f17dd68&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=631d7fe7f&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1792,7 +1802,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=f3f17dd68&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=4&_sid=631d7fe7f&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1802,7 +1812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=f3f17dd68&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=5&_sid=631d7fe7f&_ss=r"
     },
     {
       "id": "715383a36e2a",
