@@ -5,16 +5,8 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Sun, 25 Oct 2026 23:01:07 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 02:28:51 +0000</lastBuildDate>
   <ttl>180</ttl>
-  <item>
-    <title>【課程】化災事件緊急醫療應變人員教育訓練 臺北榮民總醫院職業醫學及臨床毒物部、 衛生福利部暨臺北榮總毒藥物防治諮詢中 心、 衛生福利部南區緊急醫療應變中心</title>
-    <link>https://www.sem.org.tw/Activity/B/Details/33364</link>
-    <guid>https://www.sem.org.tw/Activity/B/Details/33364</guid>
-    <pubDate>2026-10-26</pubDate>
-    <category>台灣急診醫學會 - 台灣學會</category>
-    <description>【課程】化災事件緊急醫療應變人員教育訓練 臺北榮民總醫院職業醫學及臨床毒物部、 衛生福利部暨臺北榮總毒藥物防治諮詢中 心、 衛生福利部南區緊急醫療應變中心（來源：台灣急診醫學會）</description>
-  </item>
   <item>
     <title>【課程】115年度中毒個案討論會–北區 社團法人台灣急診醫學會、三軍總醫院</title>
     <link>https://www.sem.org.tw/Activity/A/Details/33254</link>
@@ -38,6 +30,22 @@
     <pubDate>2026-10-28</pubDate>
     <category>台灣急診醫學會 - 台灣學會</category>
     <description>【課程】115年度輻傷事件醫療應變訓練通識課程 衛生福利部北區緊急醫療應變中心（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】急重症跨領域研討會 嘉義長庚紀念醫院</title>
+    <link>https://www.sem.org.tw/Activity/B/Details/33328</link>
+    <guid>https://www.sem.org.tw/Activity/B/Details/33328</guid>
+    <pubDate>2026-10-31</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【課程】急重症跨領域研討會 嘉義長庚紀念醫院（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】2026年高級心臟救命術(ACLS)訓練課程 新竹國泰綜合醫院急診科</title>
+    <link>https://www.sem.org.tw/Activity/B/Details/33255</link>
+    <guid>https://www.sem.org.tw/Activity/B/Details/33255</guid>
+    <pubDate>2026-10-31</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【課程】2026年高級心臟救命術(ACLS)訓練課程 新竹國泰綜合醫院急診科（來源：台灣急診醫學會）</description>
   </item>
   <item>
     <title>【課程】AHA BLS &amp; ACLS Instructor Course【奇美】 台灣急診醫學會</title>
@@ -128,14 +136,6 @@
     <description>【課程】116年住院醫師緊急醫療系統訓練課程(北榮場)【線上+實體】 社團法人台灣急診醫學會（來源：台灣急診醫學會）</description>
   </item>
   <item>
-    <title>【消息】誠徵2026年10月「急診住院醫師交流論壇」報告人</title>
-    <link>https://www.sem.org.tw/News/11/Details/1631</link>
-    <guid>https://www.sem.org.tw/News/11/Details/1631</guid>
-    <pubDate>2026-07-27</pubDate>
-    <category>台灣急診醫學會 - 台灣學會</category>
-    <description>【消息】誠徵2026年10月「急診住院醫師交流論壇」報告人（來源：台灣急診醫學會）</description>
-  </item>
-  <item>
     <title>【消息】115年臨床毒藥物專科醫師訓練計畫招生公告</title>
     <link>https://www.sem.org.tw/News/11/Details/1633</link>
     <guid>https://www.sem.org.tw/News/11/Details/1633</guid>
@@ -200,6 +200,14 @@
     <description>【消息】申請「特定美容醫學處置曁（一般）美容醫學手術之訓練課程時數」抵免（來源：台灣急診醫學會）</description>
   </item>
   <item>
+    <title>【消息】轉知「第44屆台灣微整形美容醫學會研討會 (預計核發特管時數)」活動訊息</title>
+    <link>https://www.sem.org.tw/News/10/Details/1667</link>
+    <guid>https://www.sem.org.tw/News/10/Details/1667</guid>
+    <pubDate>2026-10-13</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【消息】轉知「第44屆台灣微整形美容醫學會研討會 (預計核發特管時數)」活動訊息（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
     <title>【消息】公告「115年十大優秀急診護理師獲選名單」</title>
     <link>https://www.sem.org.tw/News/11/Details/1668</link>
     <guid>https://www.sem.org.tw/News/11/Details/1668</guid>
@@ -214,14 +222,6 @@
     <pubDate>2026-10-22</pubDate>
     <category>台灣急診醫學會 - 台灣學會</category>
     <description>【消息】🚑1119台灣急診日｜急診韌性接力（來源：台灣急診醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】打造韌性災難醫療後勤體系 新光醫院急診醫學科</title>
-    <link>https://www.sem.org.tw/Activity/B/Details/33252</link>
-    <guid>https://www.sem.org.tw/Activity/B/Details/33252</guid>
-    <pubDate>2026-10-24</pubDate>
-    <category>台灣急診醫學會 - 台灣學會</category>
-    <description>【課程】打造韌性災難醫療後勤體系 新光醫院急診醫學科（來源：台灣急診醫學會）</description>
   </item>
   <item>
     <title>【消息】恭賀 鄭宏熙醫師 榮獲 第36屆醫療奉獻獎之「個人奉獻獎」</title>
