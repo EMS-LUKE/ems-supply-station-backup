@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-28T03:14:26.506219+00:00",
-  "count": 194,
-  "course_count": 81,
-  "news_count": 113,
+  "updated": "2026-10-28T11:55:53.619159+00:00",
+  "count": 193,
+  "course_count": 82,
+  "news_count": 111,
   "items": [
     {
       "id": "3685f7be079e",
@@ -13,6 +13,16 @@
       "date": "2026-10-28",
       "deadline": "2026-10-28",
       "url": "https://www.sem.org.tw/Activity/B/Details/32907"
+    },
+    {
+      "id": "c0d23ac685f1",
+      "title": "急診外傷訓練(ETTC)課程 長庚科技大學",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-10-31",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33346"
     },
     {
       "id": "625c98829660",
@@ -223,16 +233,6 @@
       "date": "2026-09-24",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/5/Details/1658"
-    },
-    {
-      "id": "e3ff6fa1a47f",
-      "title": "公告「2026年EMS金梧桐獎」獲獎人員/團體",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-09-29",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/10/Details/1659"
     },
     {
       "id": "a85fd5c0e747",
@@ -1842,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=eb8826ed9&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=cfb7fb09d&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1852,17 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=eb8826ed9&_ss=r"
-    },
-    {
-      "id": "bc020bdc5218",
-      "title": "The Emergency Bandage® 6 in. (Israeli Bandage)",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/israeli-bandage-6?_pos=3&_sid=eb8826ed9&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=cfb7fb09d&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1872,7 +1862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=4&_sid=eb8826ed9&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=cfb7fb09d&_ss=r"
     },
     {
       "id": "4110ccb750ce",
@@ -1882,7 +1872,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=eb8826ed9&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=cfb7fb09d&_ss=r"
+    },
+    {
+      "id": "e3d1f06c9a38",
+      "title": "SWAT-T™ Stretch, Wrap and Tuck Tourniquet",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=cfb7fb09d&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1933,16 +1933,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
-    },
-    {
-      "id": "42f64ad0e369",
-      "title": "Read more",
-      "source": "BMJ Journals",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://gut.bmj.com/cgi/content/short/gutjnl-2026-338795v1?rss=1"
     }
   ]
 }
