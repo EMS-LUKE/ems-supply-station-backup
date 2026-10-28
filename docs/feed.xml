@@ -5,16 +5,8 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Tue, 27 Oct 2026 21:41:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 03:14:26 +0000</lastBuildDate>
   <ttl>180</ttl>
-  <item>
-    <title>【課程】115年度中毒個案討論會–北區 社團法人台灣急診醫學會、三軍總醫院</title>
-    <link>https://www.sem.org.tw/Activity/A/Details/33254</link>
-    <guid>https://www.sem.org.tw/Activity/A/Details/33254</guid>
-    <pubDate>2026-10-27</pubDate>
-    <category>台灣急診醫學會 - 台灣學會</category>
-    <description>【課程】115年度中毒個案討論會–北區 社團法人台灣急診醫學會、三軍總醫院（來源：台灣急診醫學會）</description>
-  </item>
   <item>
     <title>【課程】115年度輻傷事件醫療應變訓練通識課程 衛生福利部北區緊急醫療應變中心</title>
     <link>https://www.sem.org.tw/Activity/B/Details/32907</link>
@@ -136,14 +128,6 @@
     <description>【課程】116年住院醫師緊急醫療系統訓練課程(北榮場)【線上+實體】 社團法人台灣急診醫學會（來源：台灣急診醫學會）</description>
   </item>
   <item>
-    <title>【消息】115年臨床毒藥物專科醫師訓練計畫招生公告</title>
-    <link>https://www.sem.org.tw/News/11/Details/1633</link>
-    <guid>https://www.sem.org.tw/News/11/Details/1633</guid>
-    <pubDate>2026-07-29</pubDate>
-    <category>台灣急診醫學會 - 台灣學會</category>
-    <description>【消息】115年臨床毒藥物專科醫師訓練計畫招生公告（來源：台灣急診醫學會）</description>
-  </item>
-  <item>
     <title>【消息】115年十大優秀急診護理師推薦辦法</title>
     <link>https://www.sem.org.tw/News/11/Details/1454</link>
     <guid>https://www.sem.org.tw/News/11/Details/1454</guid>
@@ -238,6 +222,14 @@
     <pubDate>2026-10-24</pubDate>
     <category>台灣急診醫學會 - 台灣學會</category>
     <description>【消息】恭賀 鄭宏熙醫師 榮獲 第36屆醫療奉獻獎之「個人奉獻獎」（來源：台灣急診醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】115年度中毒個案討論會–北區 社團法人台灣急診醫學會、三軍總醫院</title>
+    <link>https://www.sem.org.tw/Activity/A/Details/33254</link>
+    <guid>https://www.sem.org.tw/Activity/A/Details/33254</guid>
+    <pubDate>2026-10-27</pubDate>
+    <category>台灣急診醫學會 - 台灣學會</category>
+    <description>【課程】115年度中毒個案討論會–北區 社團法人台灣急診醫學會、三軍總醫院（來源：台灣急診醫學會）</description>
   </item>
   <item>
     <title>【消息】【ATLS課表公告】115年第12及13梯次ATLS再認證課程（亞東紀念醫院）...</title>
@@ -486,6 +478,14 @@
     <pubDate>None</pubDate>
     <category>台灣呼吸道處理醫學會 - 台灣學會</category>
     <description>【課程】2023年年會活動（來源：台灣呼吸道處理醫學會）</description>
+  </item>
+  <item>
+    <title>【消息】台灣呼吸道處理醫學會</title>
+    <link>https://www.tsamairway.org.tw</link>
+    <guid>https://www.tsamairway.org.tw</guid>
+    <pubDate>None</pubDate>
+    <category>台灣呼吸道處理醫學會 - 台灣學會</category>
+    <description>【消息】台灣呼吸道處理醫學會（來源：台灣呼吸道處理醫學會）</description>
   </item>
 </channel>
 </rss>
