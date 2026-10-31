@@ -1,49 +1,9 @@
 {
-  "updated": "2026-10-30T21:53:11.968604+00:00",
-  "count": 195,
-  "course_count": 79,
+  "updated": "2026-10-31T03:27:28.194755+00:00",
+  "count": 192,
+  "course_count": 76,
   "news_count": 116,
   "items": [
-    {
-      "id": "370e3418d83a",
-      "title": "本會聲明：丙泊酚是鎮靜麻醉藥，不是失眠療程；支持衛福部從嚴把關，守護病人安全",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-10-30",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1675"
-    },
-    {
-      "id": "625c98829660",
-      "title": "急重症跨領域研討會 嘉義長庚紀念醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-31",
-      "deadline": "2026-10-31",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33328"
-    },
-    {
-      "id": "0565e2af75cb",
-      "title": "2026年高級心臟救命術(ACLS)訓練課程 新竹國泰綜合醫院急診科",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-10-31",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33255"
-    },
-    {
-      "id": "febb26d2b9cd",
-      "title": "AHA BLS & ACLS Instructor Course【奇美】 台灣急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-07",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/AHA/Details/33368"
-    },
     {
       "id": "c1772c700f8e",
       "title": "2026 台灣實證醫學學會學術年會",
@@ -263,6 +223,16 @@
       "date": "2026-10-24",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1674"
+    },
+    {
+      "id": "370e3418d83a",
+      "title": "本會聲明：丙泊酚是鎮靜麻醉藥，不是失眠療程；支持衛福部從嚴把關，守護病人安全",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-30",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1675"
     },
     {
       "id": "9f506846d138",
@@ -1815,6 +1785,36 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "34d97b943ff2",
+      "title": "Public Access Bleeding Control Kit - Nylon",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=ef05ccc68&_ss=r"
+    },
+    {
+      "id": "fe95ff73d75a",
+      "title": "Combat Application Tourniquet® (C-A-T®) Gen 7 - Genuine North American Rescue",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=ef05ccc68&_ss=r"
+    },
+    {
+      "id": "8d0ac32fa89d",
+      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=3&_sid=ef05ccc68&_ss=r"
+    },
+    {
       "id": "4110ccb750ce",
       "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
       "source": "Tactical Medicine Training & Equipment",
@@ -1822,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/en-ca/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=1&_sid=f6ba14595&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=ef05ccc68&_ss=r"
     },
     {
       "id": "e3d1f06c9a38",
@@ -1832,37 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/en-ca/products/swat-t-tourniquet?_pos=2&_sid=f6ba14595&_ss=r"
-    },
-    {
-      "id": "cfd2aa6fced7",
-      "title": "TacMed™ SOF® Tourniquet (Gen 5)",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/en-ca/products/sof-t-tourniquet-from-tacmed-solutions?_pos=3&_sid=f6ba14595&_ss=r"
-    },
-    {
-      "id": "24f058143cdf",
-      "title": "Altama OTB Maritime Assault Boot - Mid Height",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/en-ca/products/altama-otb-maritime-assault-boot-mid-height?_pos=4&_sid=f6ba14595&_ss=r"
-    },
-    {
-      "id": "fca9fb2167db",
-      "title": "Compact First Responder Stocked Trauma Bag w/Fill Kit B",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/en-ca/products/compact-first-responder-stocked-trauma-bag-w-fill-kit-b?_pos=5&_sid=f6ba14595&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=ef05ccc68&_ss=r"
     },
     {
       "id": "715383a36e2a",
