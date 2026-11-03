@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-03T13:22:39.836925+00:00",
-  "count": 180,
+  "updated": "2026-11-03T20:46:55.021316+00:00",
+  "count": 176,
   "course_count": 74,
-  "news_count": 106,
+  "news_count": 102,
   "items": [
     {
       "id": "050c372a367e",
@@ -1192,7 +1192,7 @@
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://wms.org/wms.org/winter27"
+      "url": "https://wms.org/WMS/Attend/Conferences/27-Winter-Conference/Master_Winter_2027.aspx"
     },
     {
       "id": "155c5c25135c",
@@ -1202,7 +1202,7 @@
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://wms.org/wms.org/winter27"
+      "url": "https://wms.org/winter27"
     },
     {
       "id": "e8616fc19915",
@@ -1403,46 +1403,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.c-tecc.org/index.php/news/save-the-date-dec-2026-meeting"
-    },
-    {
-      "id": "fe9e49751244",
-      "title": "info@cbrnprofessionals.com",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "mailto:info@cbrnprofessionals.com"
-    },
-    {
-      "id": "88a83b47cbaa",
-      "title": "CBRN Corner",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://cbrnprofessionals.com/cbrn-corner/"
-    },
-    {
-      "id": "4fa62a7cd115",
-      "title": "CBRN Reference Material",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://cbrnprofessionals.com/cbrn-references/"
-    },
-    {
-      "id": "e9b634e786cc",
-      "title": "CBRN Resource Links",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://cbrnprofessionals.com/cbrn-resource-links/"
     },
     {
       "id": "48c630a34218",
@@ -1712,7 +1672,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=73527f59e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=10e436037&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1722,17 +1682,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=73527f59e&_ss=r"
-    },
-    {
-      "id": "0d89877fc319",
-      "title": "Public Access Bleeding Control (PABC) Twin Pack",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-pabc-twin-pack?_pos=3&_sid=73527f59e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=10e436037&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1742,17 +1692,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=4&_sid=73527f59e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=10e436037&_ss=r"
     },
     {
-      "id": "f7190bdfadbb",
-      "title": "Public Access Bleeding Control 5 Pack",
+      "id": "8d0ac32fa89d",
+      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=73527f59e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=4&_sid=10e436037&_ss=r"
+    },
+    {
+      "id": "4110ccb750ce",
+      "title": "Tasmanian Tiger Medic Assault Pack - MK II (Standard)",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=10e436037&_ss=r"
     },
     {
       "id": "715383a36e2a",
