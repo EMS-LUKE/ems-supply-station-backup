@@ -1,29 +1,9 @@
 {
-  "updated": "2026-11-03T20:46:55.021316+00:00",
-  "count": 176,
+  "updated": "2026-11-04T01:02:44.149194+00:00",
+  "count": 180,
   "course_count": 74,
-  "news_count": 102,
+  "news_count": 106,
   "items": [
-    {
-      "id": "050c372a367e",
-      "title": "醫療韌性與災難醫療教育訓練 臺北市立聯合醫院 中興院區 急診科",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-03",
-      "deadline": "2026-11-03",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33404"
-    },
-    {
-      "id": "101e3e341349",
-      "title": "116年度急診醫學科專科醫師甄審初審簡章公告",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-11-03",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/7/Details/1677"
-    },
     {
       "id": "6c4de394815d",
       "title": "2026 精進外科系醫師醫療韌性賦能工作坊Beyond Damage Control to Resilient Trauma Systems 台灣外科醫學會、台灣外傷醫學會、亞東醫院",
@@ -33,6 +13,16 @@
       "date": "2026-11-07",
       "deadline": "2026-11-07",
       "url": "https://www.sem.org.tw/Activity/B/Details/33434"
+    },
+    {
+      "id": "c163111d80ef",
+      "title": "2026 精進外科系醫師醫療韌性國際研討會Beyond Damage Control to Resilient Trauma Systems 台灣外科醫學會、台灣外傷醫學會、亞東醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-07",
+      "deadline": "2026-11-07",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33433"
     },
     {
       "id": "c1772c700f8e",
@@ -233,6 +223,16 @@
       "date": "2026-10-30",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1675"
+    },
+    {
+      "id": "101e3e341349",
+      "title": "116年度急診醫學科專科醫師甄審初審簡章公告",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-03",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/7/Details/1677"
     },
     {
       "id": "ac1f06148f8a",
@@ -1405,6 +1405,46 @@
       "url": "https://www.c-tecc.org/index.php/news/save-the-date-dec-2026-meeting"
     },
     {
+      "id": "fe9e49751244",
+      "title": "info@cbrnprofessionals.com",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "mailto:info@cbrnprofessionals.com"
+    },
+    {
+      "id": "88a83b47cbaa",
+      "title": "CBRN Corner",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-corner/"
+    },
+    {
+      "id": "4fa62a7cd115",
+      "title": "CBRN Reference Material",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-references/"
+    },
+    {
+      "id": "e9b634e786cc",
+      "title": "CBRN Resource Links",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-resource-links/"
+    },
+    {
       "id": "48c630a34218",
       "title": "CTOMS Academy Online Training Online Training",
       "source": "CTOMS",
@@ -1485,16 +1525,6 @@
       "url": "https://ctoms.ca/collections/tactical-clothing"
     },
     {
-      "id": "3f6989d40c6b",
-      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/"
-    },
-    {
       "id": "df37b5e4d0b7",
       "title": "Defense Committees on Trauma",
       "source": "JTS — Joint Trauma System",
@@ -1533,6 +1563,16 @@
       "date": null,
       "deadline": null,
       "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
+    },
+    {
+      "id": "3f6989d40c6b",
+      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/"
     },
     {
       "id": "1d5a35aee639",
@@ -1672,7 +1712,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=10e436037&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=e6ace7b77&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1682,17 +1722,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=10e436037&_ss=r"
-    },
-    {
-      "id": "49625ee4817d",
-      "title": "Public Access INDIVIDUAL Bleeding Control Kit - Vacuum Sealed",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=10e436037&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=e6ace7b77&_ss=r"
     },
     {
       "id": "8d0ac32fa89d",
@@ -1702,7 +1732,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=4&_sid=10e436037&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=3&_sid=e6ace7b77&_ss=r"
     },
     {
       "id": "4110ccb750ce",
@@ -1712,7 +1742,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=5&_sid=10e436037&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-medic-assault-pack-mk-ii-standard?_pos=4&_sid=e6ace7b77&_ss=r"
+    },
+    {
+      "id": "b0a726b27ffa",
+      "title": "Medic/Leg Rig Kit Bag",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/medic-leg-rig-kit-bag?_pos=5&_sid=e6ace7b77&_ss=r"
     },
     {
       "id": "715383a36e2a",
