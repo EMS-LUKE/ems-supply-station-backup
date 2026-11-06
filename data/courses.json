@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-06T01:20:31.279884+00:00",
-  "count": 187,
-  "course_count": 76,
-  "news_count": 111,
+  "updated": "2026-11-06T10:12:50.805517+00:00",
+  "count": 196,
+  "course_count": 79,
+  "news_count": 117,
   "items": [
     {
       "id": "6c4de394815d",
@@ -255,6 +255,16 @@
       "url": "https://www.sem.org.tw/News/5/Details/1679"
     },
     {
+      "id": "779cfcbc6967",
+      "title": "2026 精進外科系醫師醫療韌性系列活動（11月7日實體/線上同步登場）...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/91.html"
+    },
+    {
       "id": "ac1f06148f8a",
       "title": "【ATLS課表公告】115年度第9梯次ATLS課程（林口長庚醫院）...",
       "source": "台灣外傷醫學會",
@@ -293,16 +303,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/83.html"
-    },
-    {
-      "id": "ec8bf62e3318",
-      "title": "【論文邀稿資訊】116年年會暨學術演講會邀稿，敬請全體會員踴躍投稿（投稿截止時間延至115年10月30日23:59:59截止）...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/82.html"
     },
     {
       "id": "86005a8326cc",
@@ -373,6 +373,86 @@
       "date": null,
       "deadline": null,
       "url": "https://forms.gle/RxQobu2FoVewH6Qs5"
+    },
+    {
+      "id": "47f965572631",
+      "title": "國際學術研討會",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/60"
+    },
+    {
+      "id": "f1dbb68b7d0c",
+      "title": "| 🫀 【2026 台灣心肌梗塞學會秋季學術研討會】 公告日期：2026 / 9 / 7",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1274"
+    },
+    {
+      "id": "df8d5479b72d",
+      "title": "| 🔥 2026 TAMIS 秋季學術研討會－急性心肌梗塞案例競賽 熱烈徵稿中！ 🔥 公告日期：2026 / 7 / 27",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1266"
+    },
+    {
+      "id": "9510b518bf05",
+      "title": "TAMIS Academy",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/41"
+    },
+    {
+      "id": "0a85c8dd90b9",
+      "title": "特選環球會議",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/42"
+    },
+    {
+      "id": "97cf3fd9afe8",
+      "title": "| 【悼 仁醫遠行】深切懷念本會傑出夥伴 朱志生醫師 公告日期：2026 / 10 / 18",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1285"
+    },
+    {
+      "id": "3c8d70bf7496",
+      "title": "| 📣【TAMIS 超級心光大道－24首金曲】巡迴開唱：第十一首《另眼相看》📣 公告日期：2026 / 10 / 13",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1284"
+    },
+    {
+      "id": "f1f303ad451a",
+      "title": "| 📣 【TAMIS 超級心光大道－24首金曲】第十首重磅登場：《依靠》 📣 公告日期：2026 / 9 / 18",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1281"
     },
     {
       "id": "32dbb30467e3",
@@ -975,6 +1055,16 @@
       "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
     },
     {
+      "id": "5fe5f71089fa",
+      "title": "【家庭資源中心開館公告】",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1080"
+    },
+    {
       "id": "ed1866c01f90",
       "title": "【家庭資源中心閉館公告】",
       "source": "臺大兒童醫院",
@@ -995,24 +1085,24 @@
       "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
     },
     {
-      "id": "db9a1fd754eb",
-      "title": "聽見 AED，不再是孤零零的了。",
+      "id": "fcd778a08898",
+      "title": "黃泰霖醫師：「對的人、對的時間、對的急救措施」",
       "source": "臺灣愛陌生安全推廣協會",
       "cat": "台灣急救社群",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e8%81%bd%e8%a6%8b-aed%ef%bc%8c%e4%b8%8d%e5%86%8d%e6%98%af%e5%ad%a4%e9%9b%b6%e9%9b%b6%e7%9a%84%e4%ba%86%e3%80%82/"
+      "url": "https://www.hear-aed.com.tw/news/guardian-faces/guardian-huang-tailin/"
     },
     {
-      "id": "7a87387bfb90",
-      "title": "聽見AED｜2026年9月到場成果出爐】",
+      "id": "3667f3eb5683",
+      "title": "張宥安：「急救不是一個人的事，是一群人的信念」",
       "source": "臺灣愛陌生安全推廣協會",
       "cat": "台灣急救社群",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e8%81%bd%e8%a6%8baed%ef%bd%9c2026%e5%b9%b49%e6%9c%88%e5%88%b0%e5%a0%b4%e6%88%90%e6%9e%9c%e5%87%ba%e7%88%90%e3%80%91/"
+      "url": "https://www.hear-aed.com.tw/news/guardian-faces/guardian-zhang-youan/"
     },
     {
       "id": "38c215d8bf19",
@@ -1742,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=3b9fe20dd&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=ef228a9f1&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1752,17 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=3b9fe20dd&_ss=r"
-    },
-    {
-      "id": "e3d1f06c9a38",
-      "title": "SWAT-T™ Stretch, Wrap and Tuck Tourniquet",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=3&_sid=3b9fe20dd&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=ef228a9f1&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1772,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=4&_sid=3b9fe20dd&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=ef228a9f1&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -1782,7 +1862,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=3b9fe20dd&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=ef228a9f1&_ss=r"
+    },
+    {
+      "id": "8d0ac32fa89d",
+      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=5&_sid=ef228a9f1&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1842,7 +1932,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://bjsm.bmj.com/cgi/content/short/bjsports-2026-112206v1?rss=1"
+      "url": "http://bmjopen.bmj.com/cgi/content/short/16/11/e118265?rss=1"
     },
     {
       "id": "8d656ad77115",
