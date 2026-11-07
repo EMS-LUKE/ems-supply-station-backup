@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-07T09:30:15.704893+00:00",
-  "count": 185,
+  "updated": "2026-11-07T17:15:32.080504+00:00",
+  "count": 195,
   "course_count": 79,
-  "news_count": 106,
+  "news_count": 116,
   "items": [
     {
       "id": "6c4de394815d",
@@ -753,6 +753,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tasm.org.tw/EL/seminar.asp"
+    },
+    {
+      "id": "140fdaafeed9",
+      "title": "2026年臺北101公益垂直馬拉松",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/260509_taipei-101/"
+    },
+    {
+      "id": "b68c7da13251",
+      "title": "2026年台新女生路跑",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/26-04-12-women-run/"
+    },
+    {
+      "id": "8d4b48f3d817",
+      "title": "2026 南山人壽臺北國道馬拉松",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/2026-taipei-highway-marathron/"
+    },
+    {
+      "id": "f55b01b522bb",
+      "title": "慶讚中元祭-2026",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/260826_ghost-festival/"
+    },
+    {
+      "id": "6a4c234af395",
+      "title": "2026年太平山蹦蹦車緊急救護演練",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.mgems.org/260623_tai-ping-shan-rehersal/"
     },
     {
       "id": "e45a5f6063e9",
@@ -1762,7 +1812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=04069c9ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=c7178ad30&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1772,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=04069c9ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=c7178ad30&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1782,17 +1832,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=04069c9ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=c7178ad30&_ss=r"
     },
     {
-      "id": "8d0ac32fa89d",
-      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
+      "id": "f7190bdfadbb",
+      "title": "Public Access Bleeding Control 5 Pack",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=4&_sid=04069c9ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=c7178ad30&_ss=r"
     },
     {
       "id": "e3d1f06c9a38",
@@ -1802,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=04069c9ea&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=c7178ad30&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1853,6 +1903,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
+    },
+    {
+      "id": "44c61c5c5785",
+      "title": "Prolonged tourniquet use in extremity trauma: What you need to know",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005108~prolonged-tourniquet-use-in-extremity-trauma-what-you-need"
+    },
+    {
+      "id": "9b211a9c729f",
+      "title": "Management of carotid artery injuries: What you need to know",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005122~management-of-carotid-artery-injuries-what-you-need-to-know"
+    },
+    {
+      "id": "c952c3038fc5",
+      "title": "American Association for the Surgery of Trauma/American College of Surgeons Committee on Trauma clinical protocol for nutrition support in adult trauma",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005160~american-association-for-the-surgery-of-traumaamerican"
+    },
+    {
+      "id": "7a0a1673df0c",
+      "title": "The provision of palliative care: A Western Trauma Association critical decisions algorithm",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005112~the-provision-of-palliative-care-a-western-trauma"
+    },
+    {
+      "id": "e3e8e9a587eb",
+      "title": "Western Trauma Association critical decisions in trauma: Lung injury",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005127~western-trauma-association-critical-decisions-in-trauma-lung"
     }
   ]
 }
