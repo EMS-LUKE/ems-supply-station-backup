@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-06T18:45:45.240681+00:00",
-  "count": 196,
-  "course_count": 79,
-  "news_count": 117,
+  "updated": "2026-11-07T00:34:57.023014+00:00",
+  "count": 185,
+  "course_count": 74,
+  "news_count": 111,
   "items": [
     {
       "id": "6c4de394815d",
@@ -613,116 +613,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tsamairway.org.tw/2026rigistatinformation"
-    },
-    {
-      "id": "c471c32f474a",
-      "title": "雜誌通訊課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/ecu/ecu_ccH.asp"
-    },
-    {
-      "id": "bbf59a0ee0ad",
-      "title": "線上影像學習課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
-    },
-    {
-      "id": "c0ae0ce79635",
-      "title": "11/8 冬季研討會報到須知與時間提醒",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1097.html"
-    },
-    {
-      "id": "4a249f5358dd",
-      "title": "115年冬季麻醉專科護理師學術研討會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/799.html"
-    },
-    {
-      "id": "10a585ef7f40",
-      "title": "115年麻醉專科護理師甄審口試模擬教學課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
-    },
-    {
-      "id": "7f4077aab8c4",
-      "title": "國際麻醉護士協會IFNA標準規範",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
-    },
-    {
-      "id": "0f74c6051b5c",
-      "title": "未確認款項認領公告",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1095.html"
-    },
-    {
-      "id": "5a11f655bacc",
-      "title": "115上半年度進階相關報告及證書發送公告",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1094.html"
-    },
-    {
-      "id": "b7d3ba88a411",
-      "title": "代登~台灣麻醉醫學會雲嘉地區聯合討論會",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
-    },
-    {
-      "id": "b098da9f2e27",
-      "title": "理事長的話",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.sma.org.tw/index.html"
-    },
-    {
-      "id": "b262c448b308",
-      "title": "本屆理監事",
-      "source": "台灣運動醫學學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.sma.org.tw/about3.html"
     },
     {
       "id": "5bfcff8d3c72",
@@ -1832,7 +1722,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=513747db9&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=0bd633811&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1842,7 +1732,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=513747db9&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=0bd633811&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1852,17 +1742,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=513747db9&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=0bd633811&_ss=r"
     },
     {
-      "id": "f7190bdfadbb",
-      "title": "Public Access Bleeding Control 5 Pack",
+      "id": "8d0ac32fa89d",
+      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=513747db9&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=4&_sid=0bd633811&_ss=r"
     },
     {
       "id": "e3d1f06c9a38",
@@ -1872,7 +1762,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=513747db9&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=0bd633811&_ss=r"
     },
     {
       "id": "715383a36e2a",
