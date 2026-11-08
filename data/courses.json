@@ -1,28 +1,18 @@
 {
-  "updated": "2026-11-07T21:18:43.946246+00:00",
+  "updated": "2026-11-08T03:34:33.356486+00:00",
   "count": 195,
   "course_count": 79,
   "news_count": 116,
   "items": [
     {
-      "id": "6c4de394815d",
-      "title": "2026 精進外科系醫師醫療韌性賦能工作坊Beyond Damage Control to Resilient Trauma Systems 台灣外科醫學會、台灣外傷醫學會、亞東醫院",
+      "id": "3ecafedc2376",
+      "title": "泌尿系統外傷處置 埔基醫療財團法人埔里基督教醫院",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-11-07",
-      "deadline": "2026-11-07",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33434"
-    },
-    {
-      "id": "c163111d80ef",
-      "title": "2026 精進外科系醫師醫療韌性國際研討會Beyond Damage Control to Resilient Trauma Systems 台灣外科醫學會、台灣外傷醫學會、亞東醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-07",
-      "deadline": "2026-11-07",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33433"
+      "date": "2026-11-13",
+      "deadline": "2026-11-13",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33440"
     },
     {
       "id": "c1772c700f8e",
@@ -253,6 +243,16 @@
       "date": "2026-11-05",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/5/Details/1679"
+    },
+    {
+      "id": "255a98410056",
+      "title": "高級心臟救命術（ACLS）初訓Provider Course 彰化基督教醫院急診醫學部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-07",
+      "deadline": "2026-10-05",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33416"
     },
     {
       "id": "779cfcbc6967",
@@ -1812,7 +1812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=323a0cf41&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=e72135178&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1822,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=323a0cf41&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=e72135178&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1832,27 +1832,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=323a0cf41&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=e72135178&_ss=r"
     },
     {
-      "id": "f7190bdfadbb",
-      "title": "Public Access Bleeding Control 5 Pack",
+      "id": "2acb86d87652",
+      "title": "Individual Aid Kit",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=323a0cf41&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=e72135178&_ss=r"
     },
     {
-      "id": "e3d1f06c9a38",
-      "title": "SWAT-T™ Stretch, Wrap and Tuck Tourniquet",
+      "id": "a27c87f97314",
+      "title": "Individual Patrol Officer Kit (IPOK)",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/swat-t-tourniquet?_pos=5&_sid=323a0cf41&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/nar-individual-patrol-officer-kit-ipok?_pos=5&_sid=e72135178&_ss=r"
     },
     {
       "id": "715383a36e2a",
