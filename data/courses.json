@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-08T12:32:53.558561+00:00",
-  "count": 195,
-  "course_count": 79,
-  "news_count": 116,
+  "updated": "2026-11-08T19:18:19.471861+00:00",
+  "count": 190,
+  "course_count": 78,
+  "news_count": 112,
   "items": [
     {
       "id": "3ecafedc2376",
@@ -475,18 +475,18 @@
       "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106"
     },
     {
-      "id": "db8e9410e3d6",
-      "title": "【代轉】誠摯邀請蒞臨9/3數位產業署主辦「2026 ADI DEMO DAY：主權AI賦能-建構可信賴、可控管的AI智慧醫療」(此為免費活動，名額有限，敬請把握難得機會)",
+      "id": "fbce3e42c088",
+      "title": "訂購《醫療資訊雜誌》價格調漲公告！",
       "source": "台灣醫學資訊學會",
       "cat": "台灣學會",
-      "type": "course",
+      "type": "news",
       "date": null,
       "deadline": null,
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "fbce3e42c088",
-      "title": "訂購《醫療資訊雜誌》價格調漲公告！",
+      "id": "9c1b6c4691ec",
+      "title": "2026下半年醫資管理師/分析師檢定考場公告，請見附件。",
       "source": "台灣醫學資訊學會",
       "cat": "台灣學會",
       "type": "news",
@@ -1812,7 +1812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=4f233f470&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=01d98370b&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1822,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=4f233f470&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=01d98370b&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1832,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=4f233f470&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=01d98370b&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -1842,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=4f233f470&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=01d98370b&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -1852,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=4f233f470&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=01d98370b&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1903,56 +1903,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
-    },
-    {
-      "id": "44c61c5c5785",
-      "title": "Prolonged tourniquet use in extremity trauma: What you need to know",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005108~prolonged-tourniquet-use-in-extremity-trauma-what-you-need"
-    },
-    {
-      "id": "9b211a9c729f",
-      "title": "Management of carotid artery injuries: What you need to know",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005122~management-of-carotid-artery-injuries-what-you-need-to-know"
-    },
-    {
-      "id": "c952c3038fc5",
-      "title": "American Association for the Surgery of Trauma/American College of Surgeons Committee on Trauma clinical protocol for nutrition support in adult trauma",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005160~american-association-for-the-surgery-of-traumaamerican"
-    },
-    {
-      "id": "7a0a1673df0c",
-      "title": "The provision of palliative care: A Western Trauma Association critical decisions algorithm",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005112~the-provision-of-palliative-care-a-western-trauma"
-    },
-    {
-      "id": "e3e8e9a587eb",
-      "title": "Western Trauma Association critical decisions in trauma: Lung injury",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005127~western-trauma-association-critical-decisions-in-trauma-lung"
     }
   ]
 }
