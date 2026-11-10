@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-10T05:23:31.932413+00:00",
-  "count": 191,
-  "course_count": 80,
+  "updated": "2026-11-10T14:02:53.626138+00:00",
+  "count": 192,
+  "course_count": 81,
   "news_count": 111,
   "items": [
     {
@@ -195,6 +195,16 @@
       "url": "https://www.sem.org.tw/News/11/Details/1674"
     },
     {
+      "id": "e02371258470",
+      "title": "2027年渣打臺北公益馬拉醫護志工線上報名",
+      "source": "中華民國大型活動緊急救護協會",
+      "cat": "台灣協會",
+      "type": "course",
+      "date": "2026-10-27",
+      "deadline": null,
+      "url": "https://www.mgems.org/260111_charter_checkin/"
+    },
+    {
       "id": "370e3418d83a",
       "title": "本會聲明：丙泊酚是鎮靜麻醉藥，不是失眠療程；支持衛福部從嚴把關，守護病人安全",
       "source": "台灣急診醫學會",
@@ -245,16 +255,6 @@
       "url": "https://www.sem.org.tw/Activity/B/Details/33416"
     },
     {
-      "id": "779cfcbc6967",
-      "title": "2026 精進外科系醫師醫療韌性系列活動（11月7日實體/線上同步登場）...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/91.html"
-    },
-    {
       "id": "ac1f06148f8a",
       "title": "【ATLS課表公告】115年度第9梯次ATLS課程（林口長庚醫院）...",
       "source": "台灣外傷醫學會",
@@ -275,24 +275,34 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/88.html"
     },
     {
-      "id": "309f6bccc52a",
-      "title": "115年精進外科系醫師醫療韌性訓練計畫，將辦理DSTC/DATC/DPNTC課程...",
+      "id": "ec8bf62e3318",
+      "title": "【論文邀稿資訊】116年年會暨學術演講會邀稿，敬請全體會員踴躍投稿（投稿截止時間延至115年10月30日23:59:59截止）...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/84.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/82.html"
     },
     {
-      "id": "e85ef2684575",
-      "title": "2026精進外科系醫師醫療韌性國際研討會，歡迎踴躍報名...",
+      "id": "57654c31c3ba",
+      "title": "【甄審資訊】115年專科醫師甄審公告...",
       "source": "台灣外傷醫學會",
       "cat": "台灣學會",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/83.html"
+      "url": "http://www.trauma.org.tw/news/index.asp?/78.html"
+    },
+    {
+      "id": "1cfee8fade00",
+      "title": "誠徵醫學會秘書...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/74.html"
     },
     {
       "id": "86005a8326cc",
@@ -1822,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=c7d6bca95&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9f4d1dfec&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1832,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=c7d6bca95&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=9f4d1dfec&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1842,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=c7d6bca95&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=9f4d1dfec&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -1852,7 +1862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=c7d6bca95&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=9f4d1dfec&_ss=r"
     },
     {
       "id": "caf15fd242f7",
@@ -1862,7 +1872,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-clear-wall-case?_pos=5&_sid=c7d6bca95&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-clear-wall-case?_pos=5&_sid=9f4d1dfec&_ss=r"
     },
     {
       "id": "715383a36e2a",
