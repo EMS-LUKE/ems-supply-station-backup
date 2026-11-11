@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-11T03:55:38.374053+00:00",
-  "count": 189,
-  "course_count": 81,
-  "news_count": 108,
+  "updated": "2026-11-11T13:18:33.427376+00:00",
+  "count": 194,
+  "course_count": 79,
+  "news_count": 115,
   "items": [
     {
       "id": "3ecafedc2376",
@@ -27,16 +27,6 @@
     {
       "id": "a5b6f0731389",
       "title": "2026/11/14(六) 台灣實證醫學學會學術年會2026-06-08",
-      "source": "台灣實證醫學學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-14",
-      "deadline": null,
-      "url": "https://www.tebma.org.tw/event/list"
-    },
-    {
-      "id": "d31ff383b8c0",
-      "title": "2026/11/14 台灣實證醫學學會學術年會",
       "source": "台灣實證醫學學會",
       "cat": "台灣學會",
       "type": "course",
@@ -425,6 +415,16 @@
       "url": "https://tamis.org.tw/activity/42"
     },
     {
+      "id": "c5327a6d0a2a",
+      "title": "| 🌟 【TAMIS 超級心光大道－24首金曲】第十二首重磅登場：《你是我的眼》 🌟 公告日期：2026 / 11 / 11",
+      "source": "台灣心肌梗塞學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://tamis.org.tw/activity/44/1287"
+    },
+    {
       "id": "97cf3fd9afe8",
       "title": "| 【悼 仁醫遠行】深切懷念本會傑出夥伴 朱志生醫師 公告日期：2026 / 10 / 18",
       "source": "台灣心肌梗塞學會",
@@ -445,16 +445,6 @@
       "url": "https://tamis.org.tw/activity/44/1284"
     },
     {
-      "id": "f1f303ad451a",
-      "title": "| 📣 【TAMIS 超級心光大道－24首金曲】第十首重磅登場：《依靠》 📣 公告日期：2026 / 9 / 18",
-      "source": "台灣心肌梗塞學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://tamis.org.tw/activity/44/1281"
-    },
-    {
       "id": "32dbb30467e3",
       "title": "★★★ 學會醫事課程開課一覽表 ★★★",
       "source": "臺灣醫事繼續教育學會",
@@ -473,6 +463,36 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106"
+    },
+    {
+      "id": "fbce3e42c088",
+      "title": "訂購《醫療資訊雜誌》價格調漲公告！",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
+      "id": "9c1b6c4691ec",
+      "title": "2026下半年醫資管理師/分析師檢定考場公告，請見附件。",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
+      "id": "a6f354046363",
+      "title": "【代轉】誠摯邀請參加10/16(五)2026台灣健康大數據整合服務平台年會 - 推動可信任研究環境：從原則走向可落實的信任機制，歡迎踴躍報名參加！",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
     },
     {
       "id": "e4aa49328311",
@@ -1475,6 +1495,16 @@
       "url": "https://www.c-tecc.org/index.php/our-work/newsletters"
     },
     {
+      "id": "f6e4526fa6bc",
+      "title": "TECC Guidelines Amendment Requests",
+      "source": "C-TECC",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.c-tecc.org/index.php/news/tecc-guidelines-amendments-dec2026"
+    },
+    {
       "id": "d523c6f5cb85",
       "title": "C-TECC x BRITMA",
       "source": "C-TECC",
@@ -1483,16 +1513,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.c-tecc.org/index.php/news/ctecc-britma-partnership"
-    },
-    {
-      "id": "6ee75f979861",
-      "title": "Save-the-Date: December 2026 C-TECC Meeting",
-      "source": "C-TECC",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.c-tecc.org/index.php/news/save-the-date-dec-2026-meeting"
     },
     {
       "id": "fe9e49751244",
@@ -1665,26 +1685,6 @@
       "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
     },
     {
-      "id": "1d5a35aee639",
-      "title": "Future Training and Education Events",
-      "source": "SOMA",
-      "cat": "戰術救護",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://specialoperationsmedicine.org/future-training-and-education-events/"
-    },
-    {
-      "id": "6ae440c231a3",
-      "title": "Journal of Special Operations Medicine (JSOM)",
-      "source": "SOMA",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://specialoperationsmedicine.org/jsom/"
-    },
-    {
       "id": "be65025d0a69",
       "title": "Training Teams for Prolonged Care and Beyond By Ragged Edge Solutions",
       "source": "Next Generation Combat Medic",
@@ -1802,7 +1802,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=78b389401&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=66d860e3b&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1812,7 +1812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=78b389401&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=66d860e3b&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1822,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=78b389401&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=66d860e3b&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -1832,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=78b389401&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=66d860e3b&_ss=r"
     },
     {
       "id": "caf15fd242f7",
@@ -1842,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-clear-wall-case?_pos=5&_sid=78b389401&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-clear-wall-case?_pos=5&_sid=66d860e3b&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1893,6 +1893,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
+    },
+    {
+      "id": "44c61c5c5785",
+      "title": "Prolonged tourniquet use in extremity trauma: What you need to know",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005108~prolonged-tourniquet-use-in-extremity-trauma-what-you-need"
+    },
+    {
+      "id": "9b211a9c729f",
+      "title": "Management of carotid artery injuries: What you need to know",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005122~management-of-carotid-artery-injuries-what-you-need-to-know"
+    },
+    {
+      "id": "c952c3038fc5",
+      "title": "American Association for the Surgery of Trauma/American College of Surgeons Committee on Trauma clinical protocol for nutrition support in adult trauma",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005160~american-association-for-the-surgery-of-traumaamerican"
+    },
+    {
+      "id": "7a0a1673df0c",
+      "title": "The provision of palliative care: A Western Trauma Association critical decisions algorithm",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005112~the-provision-of-palliative-care-a-western-trauma"
+    },
+    {
+      "id": "e3e8e9a587eb",
+      "title": "Western Trauma Association critical decisions in trauma: Lung injury",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005127~western-trauma-association-critical-decisions-in-trauma-lung"
     }
   ]
 }
