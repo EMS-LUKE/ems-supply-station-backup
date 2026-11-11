@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-11T13:18:33.427376+00:00",
-  "count": 194,
-  "course_count": 79,
-  "news_count": 115,
+  "updated": "2026-11-11T21:43:11.673263+00:00",
+  "count": 196,
+  "course_count": 80,
+  "news_count": 116,
   "items": [
     {
       "id": "3ecafedc2376",
@@ -1685,6 +1685,26 @@
       "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
     },
     {
+      "id": "1d5a35aee639",
+      "title": "Future Training and Education Events",
+      "source": "SOMA",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://specialoperationsmedicine.org/future-training-and-education-events/"
+    },
+    {
+      "id": "6ae440c231a3",
+      "title": "Journal of Special Operations Medicine (JSOM)",
+      "source": "SOMA",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://specialoperationsmedicine.org/jsom/"
+    },
+    {
       "id": "be65025d0a69",
       "title": "Training Teams for Prolonged Care and Beyond By Ragged Edge Solutions",
       "source": "Next Generation Combat Medic",
@@ -1802,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=66d860e3b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=fa67bfe5c&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1812,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=66d860e3b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=fa67bfe5c&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1822,7 +1842,17 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=66d860e3b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=fa67bfe5c&_ss=r"
+    },
+    {
+      "id": "cfd2aa6fced7",
+      "title": "TacMed™ SOF® Tourniquet (Gen 5)",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=fa67bfe5c&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -1832,17 +1862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=4&_sid=66d860e3b&_ss=r"
-    },
-    {
-      "id": "caf15fd242f7",
-      "title": "Public Access Clear Wall Case",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-clear-wall-case?_pos=5&_sid=66d860e3b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=fa67bfe5c&_ss=r"
     },
     {
       "id": "715383a36e2a",
