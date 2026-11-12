@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-12T05:02:59.188674+00:00",
-  "count": 178,
-  "course_count": 74,
-  "news_count": 104,
+  "updated": "2026-11-12T14:22:55.410309+00:00",
+  "count": 197,
+  "course_count": 81,
+  "news_count": 116,
   "items": [
     {
       "id": "3ecafedc2376",
@@ -245,6 +245,16 @@
       "url": "https://www.sem.org.tw/Activity/B/Details/33416"
     },
     {
+      "id": "4bc9cbe8a0fb",
+      "title": "【ATLS課表公告】115年第14及15梯次ATLS再認證課程（彰化基督教醫院）...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/93.html"
+    },
+    {
       "id": "ac1f06148f8a",
       "title": "【ATLS課表公告】115年度第9梯次ATLS課程（林口長庚醫院）...",
       "source": "台灣外傷醫學會",
@@ -283,16 +293,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/78.html"
-    },
-    {
-      "id": "1cfee8fade00",
-      "title": "誠徵醫學會秘書...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/74.html"
     },
     {
       "id": "86005a8326cc",
@@ -495,14 +495,24 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "e4aa49328311",
-      "title": "TSBIWH®_第十一屆專業傷口照護訓練課程簡章(招生附件)_20261104.pdf",
+      "id": "540bf270fed2",
+      "title": "2026_Agenda 第二屆大林慈濟醫院整形外科國際研討會_更新.png",
       "source": "臺灣燒傷暨傷口照護學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.burn.org.tw/attachments/article/307/TSBIWH®_第十一屆專業傷口照護訓練課程簡章(招生附件)_20261104.pdf"
+      "url": "https://www.burn.org.tw/attachments/article/308/2026_Agenda 第二屆大林慈濟醫院整形外科國際研討會_更新.png"
+    },
+    {
+      "id": "1ac718b6e065",
+      "title": "榮獲EWMA國際認證｜【課程招生】第十一屆專業傷口照護訓練課程，開放報名！",
+      "source": "臺灣燒傷暨傷口照護學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.burn.org.tw/index.php/news/25-the-project/307-ewma"
     },
     {
       "id": "fb38c785d1dd",
@@ -985,6 +995,86 @@
       "url": "https://www.anne.educationcampus.html"
     },
     {
+      "id": "1a7323e30be9",
+      "title": "2026母親節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "9fdb080fb678",
+      "title": "2026兒童節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "79f4d8162d0b",
+      "title": "2025兒童醫院聖誕節慶活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "ed2ee3e5b76a",
+      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
+    },
+    {
+      "id": "10b170f9e6d5",
+      "title": "健康線上影音課程-115/9/15孩子發燒要不要看醫生？",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1075"
+    },
+    {
+      "id": "5fe5f71089fa",
+      "title": "【家庭資源中心開館公告】",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1080"
+    },
+    {
+      "id": "ed1866c01f90",
+      "title": "【家庭資源中心閉館公告】",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
+    },
+    {
+      "id": "9b54876f3cd3",
+      "title": "115年農曆春節本院服務公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
+    },
+    {
       "id": "80ce9c7cdf7e",
       "title": "聽見AED｜11月活動時程：初冬將至，守護加溫 】🍁🚑",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1375,6 +1465,106 @@
       "url": "https://www.foamfrat.com/shop-merch"
     },
     {
+      "id": "37c0eeae5854",
+      "title": "C-TECC Hosts Workshop at ATMC 2026",
+      "source": "C-TECC",
+      "cat": "戰術救護",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.c-tecc.org/index.php/news/atmc-2026"
+    },
+    {
+      "id": "17fc455f2e13",
+      "title": "Committee for TacticalEmergency Casualty Care C-TECC",
+      "source": "C-TECC",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.c-tecc.org/"
+    },
+    {
+      "id": "a6e5726eee8b",
+      "title": "What is C-TECC?",
+      "source": "C-TECC",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.c-tecc.org/index.php/about-us/what-is-ctecc"
+    },
+    {
+      "id": "ef026e629675",
+      "title": "Newsletters",
+      "source": "C-TECC",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.c-tecc.org/index.php/our-work/newsletters"
+    },
+    {
+      "id": "f6e4526fa6bc",
+      "title": "TECC Guidelines Amendment Requests",
+      "source": "C-TECC",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.c-tecc.org/index.php/news/tecc-guidelines-amendments-dec2026"
+    },
+    {
+      "id": "d523c6f5cb85",
+      "title": "C-TECC x BRITMA",
+      "source": "C-TECC",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.c-tecc.org/index.php/news/ctecc-britma-partnership"
+    },
+    {
+      "id": "fe9e49751244",
+      "title": "info@cbrnprofessionals.com",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "mailto:info@cbrnprofessionals.com"
+    },
+    {
+      "id": "88a83b47cbaa",
+      "title": "CBRN Corner",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-corner/"
+    },
+    {
+      "id": "4fa62a7cd115",
+      "title": "CBRN Reference Material",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-references/"
+    },
+    {
+      "id": "e9b634e786cc",
+      "title": "CBRN Resource Links",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-resource-links/"
+    },
+    {
       "id": "48c630a34218",
       "title": "CTOMS Academy Online Training Online Training",
       "source": "CTOMS",
@@ -1642,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=53d27f8f3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=9c231e4a3&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1652,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=53d27f8f3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=2&_sid=9c231e4a3&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1662,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=53d27f8f3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=3&_sid=9c231e4a3&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -1672,7 +1862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=53d27f8f3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=4&_sid=9c231e4a3&_ss=r"
     },
     {
       "id": "f7190bdfadbb",
@@ -1682,7 +1872,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=53d27f8f3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-5-pack?_pos=5&_sid=9c231e4a3&_ss=r"
     },
     {
       "id": "715383a36e2a",
