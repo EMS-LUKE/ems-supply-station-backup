@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-13T21:09:13.925482+00:00",
-  "count": 196,
+  "updated": "2026-11-14T04:14:12.971313+00:00",
+  "count": 193,
   "course_count": 81,
-  "news_count": 115,
+  "news_count": 112,
   "items": [
     {
-      "id": "3ecafedc2376",
-      "title": "泌尿系統外傷處置 埔基醫療財團法人埔里基督教醫院",
+      "id": "ff0659010883",
+      "title": "外傷繼續教育訓練課程 台北市立聯合醫院和平婦幼院區外科部",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-11-13",
-      "deadline": "2026-11-13",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33440"
+      "date": "2026-11-14",
+      "deadline": "2026-11-14",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33431"
     },
     {
       "id": "ea308325940d",
@@ -453,36 +453,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106"
-    },
-    {
-      "id": "fbce3e42c088",
-      "title": "訂購《醫療資訊雜誌》價格調漲公告！",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "9c1b6c4691ec",
-      "title": "2026下半年醫資管理師/分析師檢定考場公告，請見附件。",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "a6f354046363",
-      "title": "【代轉】誠摯邀請參加10/16(五)2026台灣健康大數據整合服務平台年會 - 推動可信任研究環境：從原則走向可落實的信任機制，歡迎踴躍報名參加！",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
     },
     {
       "id": "540bf270fed2",
@@ -1822,7 +1792,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=da40043ae&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=a53cb3a8b&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1832,7 +1802,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=da40043ae&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=a53cb3a8b&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1842,7 +1812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=da40043ae&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=a53cb3a8b&_ss=r"
     },
     {
       "id": "2acb86d87652",
@@ -1852,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=da40043ae&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=a53cb3a8b&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -1862,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=da40043ae&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=a53cb3a8b&_ss=r"
     },
     {
       "id": "715383a36e2a",
