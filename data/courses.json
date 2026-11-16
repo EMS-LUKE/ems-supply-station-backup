@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-16T00:36:21.796225+00:00",
-  "count": 191,
+  "updated": "2026-11-16T10:26:33.247378+00:00",
+  "count": 193,
   "course_count": 79,
-  "news_count": 112,
+  "news_count": 114,
   "items": [
     {
       "id": "ea047e2213ca",
@@ -433,6 +433,36 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106"
+    },
+    {
+      "id": "fbce3e42c088",
+      "title": "訂購《醫療資訊雜誌》價格調漲公告！",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
+      "id": "9c1b6c4691ec",
+      "title": "2026下半年醫資管理師/分析師檢定考場公告，請見附件。",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
+      "id": "a6f354046363",
+      "title": "【代轉】誠摯邀請參加10/16(五)2026台灣健康大數據整合服務平台年會 - 推動可信任研究環境：從原則走向可落實的信任機制，歡迎踴躍報名參加！",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
     },
     {
       "id": "540bf270fed2",
@@ -965,6 +995,16 @@
       "url": "https://www.ntuh.gov.tw"
     },
     {
+      "id": "30e2beca363b",
+      "title": "「2026年世界抗生素週」活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19575"
+    },
+    {
       "id": "ed2ee3e5b76a",
       "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
       "source": "臺大兒童醫院",
@@ -973,16 +1013,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
-    },
-    {
-      "id": "10b170f9e6d5",
-      "title": "健康線上影音課程-115/9/15孩子發燒要不要看醫生？",
-      "source": "臺大兒童醫院",
-      "cat": "台灣急救社群",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1075"
     },
     {
       "id": "5fe5f71089fa",
@@ -1025,6 +1055,16 @@
       "url": "https://www.hear-aed.com.tw/news/hearaed-updates/%e8%81%bd%e8%a6%8baed%ef%bd%9c11%e6%9c%88%e6%b4%bb%e5%8b%95%e6%99%82%e7%a8%8b%ef%bc%9a%e5%88%9d%e5%86%ac%e5%b0%87%e8%87%b3%ef%bc%8c%e5%ae%88%e8%ad%b7%e5%8a%a0%e6%ba%ab-%e3%80%91%f0%9f%8d%81/"
     },
     {
+      "id": "ad9a66f2a374",
+      "title": "214｜隨機應電 Lightning Drone AED，獲選2026總統盃黑客松國內松卓越團隊！",
+      "source": "臺灣愛陌生安全推廣協會",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.hear-aed.com.tw/news/hearaed-updates/214%ef%bd%9c%e9%9a%a8%e6%a9%9f%e6%87%89%e9%9b%bb-lightning-drone-aed%ef%bc%8c%e7%8d%b2%e9%81%b82026%e7%b8%bd%e7%b5%b1%e7%9b%83%e9%bb%91%e5%ae%a2%e6%9d%be%e5%9c%8b%e5%85%a7%e6%9d%be%e5%8d%93%e8%b6%8a/"
+    },
+    {
       "id": "fcd778a08898",
       "title": "黃泰霖醫師：「對的人、對的時間、對的急救措施」",
       "source": "臺灣愛陌生安全推廣協會",
@@ -1043,16 +1083,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.hear-aed.com.tw/news/guardian-faces/guardian-zhang-youan/"
-    },
-    {
-      "id": "38c215d8bf19",
-      "title": "聽見AED 臉書動態",
-      "source": "臺灣愛陌生安全推廣協會",
-      "cat": "台灣急救社群",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.hear-aed.com.tw/news/category/hearaed-updates/"
     },
     {
       "id": "b22c2e9061fd",
@@ -1403,6 +1433,46 @@
       "date": null,
       "deadline": null,
       "url": "https://www.foamfrat.com/shop-merch"
+    },
+    {
+      "id": "70d34a5fccd1",
+      "title": "JOIN TODAY",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
+    },
+    {
+      "id": "0698483439b7",
+      "title": "Enroll for free",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/enroll/3262146"
+    },
+    {
+      "id": "a56497f44850",
+      "title": "View more courses",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/collections"
+    },
+    {
+      "id": "222cb12ad6aa",
+      "title": "Join Today!",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
     },
     {
       "id": "37c0eeae5854",
@@ -1772,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=c01e543c3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=b0cce643e&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1782,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=c01e543c3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=b0cce643e&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1792,7 +1862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=c01e543c3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=b0cce643e&_ss=r"
     },
     {
       "id": "2acb86d87652",
@@ -1802,7 +1872,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=c01e543c3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=b0cce643e&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -1812,7 +1882,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=c01e543c3&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=b0cce643e&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1863,56 +1933,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
-    },
-    {
-      "id": "44c61c5c5785",
-      "title": "Prolonged tourniquet use in extremity trauma: What you need to know",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005108~prolonged-tourniquet-use-in-extremity-trauma-what-you-need"
-    },
-    {
-      "id": "9b211a9c729f",
-      "title": "Management of carotid artery injuries: What you need to know",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005122~management-of-carotid-artery-injuries-what-you-need-to-know"
-    },
-    {
-      "id": "c952c3038fc5",
-      "title": "American Association for the Surgery of Trauma/American College of Surgeons Committee on Trauma clinical protocol for nutrition support in adult trauma",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005160~american-association-for-the-surgery-of-traumaamerican"
-    },
-    {
-      "id": "7a0a1673df0c",
-      "title": "The provision of palliative care: A Western Trauma Association critical decisions algorithm",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005112~the-provision-of-palliative-care-a-western-trauma"
-    },
-    {
-      "id": "e3e8e9a587eb",
-      "title": "Western Trauma Association critical decisions in trauma: Lung injury",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005127~western-trauma-association-critical-decisions-in-trauma-lung"
     }
   ]
 }
