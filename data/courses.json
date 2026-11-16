@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-16T10:26:33.247378+00:00",
-  "count": 193,
+  "updated": "2026-11-16T21:30:14.626682+00:00",
+  "count": 194,
   "course_count": 79,
-  "news_count": 114,
+  "news_count": 115,
   "items": [
     {
       "id": "ea047e2213ca",
@@ -1435,46 +1435,6 @@
       "url": "https://www.foamfrat.com/shop-merch"
     },
     {
-      "id": "70d34a5fccd1",
-      "title": "JOIN TODAY",
-      "source": "The Medical Lounge",
-      "cat": "資料庫/媒體",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
-    },
-    {
-      "id": "0698483439b7",
-      "title": "Enroll for free",
-      "source": "The Medical Lounge",
-      "cat": "資料庫/媒體",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.themedicallounge.co.uk/enroll/3262146"
-    },
-    {
-      "id": "a56497f44850",
-      "title": "View more courses",
-      "source": "The Medical Lounge",
-      "cat": "資料庫/媒體",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.themedicallounge.co.uk/collections"
-    },
-    {
-      "id": "222cb12ad6aa",
-      "title": "Join Today!",
-      "source": "The Medical Lounge",
-      "cat": "資料庫/媒體",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
-    },
-    {
       "id": "37c0eeae5854",
       "title": "C-TECC Hosts Workshop at ATMC 2026",
       "source": "C-TECC",
@@ -1842,7 +1802,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=b0cce643e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=45b8d1d73&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1852,7 +1812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=b0cce643e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=45b8d1d73&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1862,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=b0cce643e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=45b8d1d73&_ss=r"
     },
     {
       "id": "2acb86d87652",
@@ -1872,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=b0cce643e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=45b8d1d73&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -1882,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=b0cce643e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=45b8d1d73&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1933,6 +1893,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
+    },
+    {
+      "id": "44c61c5c5785",
+      "title": "Prolonged tourniquet use in extremity trauma: What you need to know",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005108~prolonged-tourniquet-use-in-extremity-trauma-what-you-need"
+    },
+    {
+      "id": "9b211a9c729f",
+      "title": "Management of carotid artery injuries: What you need to know",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005122~management-of-carotid-artery-injuries-what-you-need-to-know"
+    },
+    {
+      "id": "c952c3038fc5",
+      "title": "American Association for the Surgery of Trauma/American College of Surgeons Committee on Trauma clinical protocol for nutrition support in adult trauma",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005160~american-association-for-the-surgery-of-traumaamerican"
+    },
+    {
+      "id": "7a0a1673df0c",
+      "title": "The provision of palliative care: A Western Trauma Association critical decisions algorithm",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005112~the-provision-of-palliative-care-a-western-trauma"
+    },
+    {
+      "id": "e3e8e9a587eb",
+      "title": "Western Trauma Association critical decisions in trauma: Lung injury",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005127~western-trauma-association-critical-decisions-in-trauma-lung"
     }
   ]
 }
