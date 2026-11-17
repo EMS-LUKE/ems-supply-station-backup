@@ -1,28 +1,18 @@
 {
-  "updated": "2026-11-16T21:30:14.626682+00:00",
+  "updated": "2026-11-17T05:52:29.899190+00:00",
   "count": 194,
   "course_count": 79,
   "news_count": 115,
   "items": [
     {
-      "id": "ea047e2213ca",
-      "title": "The Next Move in Resuscitation 從實證指引到現場行動｜From Evidence to Action in EMS 佛就慈濟醫療財團法人花蓮慈濟醫院、花蓮縣消防局、ZOLL",
+      "id": "328566ad7f0e",
+      "title": "20261119ACLS Provider hybrid課程 台北馬偕紀念醫院",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-11-16",
-      "deadline": "2026-11-16",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33436"
-    },
-    {
-      "id": "7293478584df",
-      "title": "115 年急診基礎超音波課程-中國附醫場 中國醫藥大學附設醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-16",
-      "deadline": "2026-11-16",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33391"
+      "date": "2026-11-19",
+      "deadline": "2026-11-19",
+      "url": "https://www.sem.org.tw/Activity/B/Details/32300"
     },
     {
       "id": "e41ccd3144ef",
@@ -33,6 +23,16 @@
       "date": "2026-11-20",
       "deadline": null,
       "url": "https://www.sem.org.tw/Activity/A/Details/33324"
+    },
+    {
+      "id": "8aa521f32828",
+      "title": "115年度高級心臟救命術(ACLS)訓練課程_第四梯次 國立臺灣大學醫學院附設醫院雲林分院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-20",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33423"
     },
     {
       "id": "72a765ac53c9",
@@ -1802,7 +1802,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=45b8d1d73&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=e2580da9a&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1812,7 +1812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=45b8d1d73&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=e2580da9a&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1822,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=45b8d1d73&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=e2580da9a&_ss=r"
     },
     {
       "id": "2acb86d87652",
@@ -1832,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=45b8d1d73&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=e2580da9a&_ss=r"
     },
     {
       "id": "cfd2aa6fced7",
@@ -1842,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=45b8d1d73&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=e2580da9a&_ss=r"
     },
     {
       "id": "715383a36e2a",
