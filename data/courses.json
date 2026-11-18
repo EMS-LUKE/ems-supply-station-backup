@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-18T00:19:02.643327+00:00",
-  "count": 186,
-  "course_count": 74,
-  "news_count": 112,
+  "updated": "2026-11-18T10:58:11.491762+00:00",
+  "count": 196,
+  "course_count": 81,
+  "news_count": 115,
   "items": [
     {
       "id": "328566ad7f0e",
@@ -65,6 +65,16 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33322"
     },
     {
+      "id": "7ea067dd1126",
+      "title": "115年災難應變與醫療聯合討論會(台大場) 社團法人台灣急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-08",
+      "deadline": "2026-12-08",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33533"
+    },
+    {
       "id": "62570103abc2",
       "title": "JCMIT 2026 國際醫學資訊聯合研討會",
       "source": "台灣醫學資訊學會",
@@ -113,6 +123,16 @@
       "date": "2027-02-20",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list"
+    },
+    {
+      "id": "fd341b40c662",
+      "title": "116年急診住院醫師期中能力進展評量 社團法人台灣急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2027-02-26",
+      "deadline": "2027-02-26",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33524"
     },
     {
       "id": "3317ef8df1a3",
@@ -615,6 +635,16 @@
       "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
     },
     {
+      "id": "9e061ab30eb6",
+      "title": "麻醉護理衛教教材製作競賽活動開始了喔！",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1099.html"
+    },
+    {
       "id": "c0ae0ce79635",
       "title": "11/8 冬季研討會報到須知與時間提醒",
       "source": "台灣麻醉專科護理學會",
@@ -635,16 +665,6 @@
       "url": "https://www.tana.org.tw/news/learn_info.asp?/799.html"
     },
     {
-      "id": "10a585ef7f40",
-      "title": "115年麻醉專科護理師甄審口試模擬教學課程",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/learn_info.asp?/798.html"
-    },
-    {
       "id": "7f4077aab8c4",
       "title": "國際麻醉護士協會IFNA標準規範",
       "source": "台灣麻醉專科護理學會",
@@ -655,6 +675,16 @@
       "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
     },
     {
+      "id": "10f1f343f668",
+      "title": "116年學術論文發表徵稿暨海報競賽公告",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1098.html"
+    },
+    {
       "id": "0f74c6051b5c",
       "title": "未確認款項認領公告",
       "source": "台灣麻醉專科護理學會",
@@ -663,16 +693,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tana.org.tw/news/news_info.asp?/1095.html"
-    },
-    {
-      "id": "5a11f655bacc",
-      "title": "115上半年度進階相關報告及證書發送公告",
-      "source": "台灣麻醉專科護理學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tana.org.tw/news/news_info.asp?/1094.html"
     },
     {
       "id": "b7d3ba88a411",
@@ -963,6 +983,86 @@
       "date": null,
       "deadline": null,
       "url": "https://www.anne.educationcampus.html"
+    },
+    {
+      "id": "1a7323e30be9",
+      "title": "2026母親節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "9fdb080fb678",
+      "title": "2026兒童節節慶關懷系列活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "79f4d8162d0b",
+      "title": "2025兒童醫院聖誕節慶活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw"
+    },
+    {
+      "id": "30e2beca363b",
+      "title": "「2026年世界抗生素週」活動",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=19575"
+    },
+    {
+      "id": "ed2ee3e5b76a",
+      "title": "「聽那裡說故事！」候診區說故事活動開跑囉！",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=771"
+    },
+    {
+      "id": "5fe5f71089fa",
+      "title": "【家庭資源中心開館公告】",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1080"
+    },
+    {
+      "id": "ed1866c01f90",
+      "title": "【家庭資源中心閉館公告】",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/Activity.action?q_type=A01&q_itemCode=1063"
+    },
+    {
+      "id": "9b54876f3cd3",
+      "title": "115年農曆春節本院服務公告",
+      "source": "臺大兒童醫院",
+      "cat": "台灣急救社群",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ntuh.gov.tw/ntuh/News.action?q_type=-1&q_itemCode=18247"
     },
     {
       "id": "80ce9c7cdf7e",
@@ -1722,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=956a2e868&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-bleeding-control-kit-nylon?_pos=1&_sid=7ac64afdb&_ss=r"
     },
     {
       "id": "fe95ff73d75a",
@@ -1732,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=956a2e868&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/combat-application-tourniquet-cat-tq-gen-7?_pos=2&_sid=7ac64afdb&_ss=r"
     },
     {
       "id": "49625ee4817d",
@@ -1742,27 +1842,27 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=956a2e868&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/public-access-individual-bleeding-control-kit-vacuum-sealed?_pos=3&_sid=7ac64afdb&_ss=r"
     },
     {
-      "id": "2acb86d87652",
-      "title": "Individual Aid Kit",
+      "id": "589abed348db",
+      "title": "Tasmanian Tiger IFAK Pouch - SMALL",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/nar-individual-aid-kit?_pos=4&_sid=956a2e868&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tasmanian-tiger-ifak-pouch-small?_pos=4&_sid=7ac64afdb&_ss=r"
     },
     {
-      "id": "cfd2aa6fced7",
-      "title": "TacMed™ SOF® Tourniquet (Gen 5)",
+      "id": "8d0ac32fa89d",
+      "title": "Rigid Gen 7 C-A-T® Tourniquet Case",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/sof-t-tourniquet-from-tacmed-solutions?_pos=5&_sid=956a2e868&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/rigid-gen-7-cat-tourniquet-case?_pos=5&_sid=7ac64afdb&_ss=r"
     },
     {
       "id": "715383a36e2a",
