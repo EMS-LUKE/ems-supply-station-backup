@@ -1,19 +1,9 @@
 {
-  "updated": "2026-11-19T19:49:50.140214+00:00",
+  "updated": "2026-11-20T02:00:57.679254+00:00",
   "count": 197,
   "course_count": 83,
   "news_count": 114,
   "items": [
-    {
-      "id": "328566ad7f0e",
-      "title": "20261119ACLS Provider hybrid課程 台北馬偕紀念醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-19",
-      "deadline": "2026-11-19",
-      "url": "https://www.sem.org.tw/Activity/B/Details/32300"
-    },
     {
       "id": "e41ccd3144ef",
       "title": "急性中毒救命課程（AILS Training Course）-115年第4場 社團法人台灣急診醫學會",
@@ -25,14 +15,24 @@
       "url": "https://www.sem.org.tw/Activity/A/Details/33324"
     },
     {
-      "id": "8aa521f32828",
-      "title": "115年度高級心臟救命術(ACLS)訓練課程_第四梯次 國立臺灣大學醫學院附設醫院雲林分院",
+      "id": "f40e310127a9",
+      "title": "急診外傷訓練(ETTC) 員榮醫療社團法人員榮醫院員生院區",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
       "type": "course",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33423"
+      "url": "https://www.sem.org.tw/Activity/B/Details/33461"
+    },
+    {
+      "id": "83e800719f41",
+      "title": "烏日林新醫院_2026.11.21-22「高級兒童救命術（APLS）訓練課程」 烏日林新醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-21",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/B/Details/33422"
     },
     {
       "id": "72a765ac53c9",
@@ -1842,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=e97f9cbbd&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=32c92e327&_ss=r"
     },
     {
       "id": "ff8c1aa2d07d",
@@ -1852,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=e97f9cbbd&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=32c92e327&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -1862,7 +1862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=e97f9cbbd&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=32c92e327&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -1872,7 +1872,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=e97f9cbbd&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=32c92e327&_ss=r"
     },
     {
       "id": "715383a36e2a",
