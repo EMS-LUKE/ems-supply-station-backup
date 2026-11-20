@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-20T02:00:57.679254+00:00",
-  "count": 197,
-  "course_count": 83,
+  "updated": "2026-11-20T10:48:42.679893+00:00",
+  "count": 198,
+  "course_count": 84,
   "news_count": 114,
   "items": [
     {
@@ -73,6 +73,16 @@
       "date": "2026-12-08",
       "deadline": "2026-12-08",
       "url": "https://www.sem.org.tw/Activity/A/Details/33533"
+    },
+    {
+      "id": "10bb1eb52411",
+      "title": "急診創傷訓練課程ETTC 高雄榮總",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-12-10",
+      "deadline": "2026-10-31",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33402"
     },
     {
       "id": "62570103abc2",
@@ -1475,6 +1485,46 @@
       "url": "https://www.foamfrat.com/shop-merch"
     },
     {
+      "id": "70d34a5fccd1",
+      "title": "JOIN TODAY",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
+    },
+    {
+      "id": "0698483439b7",
+      "title": "Enroll for free",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/enroll/3262146"
+    },
+    {
+      "id": "a56497f44850",
+      "title": "View more courses",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/collections"
+    },
+    {
+      "id": "222cb12ad6aa",
+      "title": "Join Today!",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
+    },
+    {
       "id": "37c0eeae5854",
       "title": "C-TECC Hosts Workshop at ATMC 2026",
       "source": "C-TECC",
@@ -1533,46 +1583,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.c-tecc.org/index.php/news/ctecc-britma-partnership"
-    },
-    {
-      "id": "fe9e49751244",
-      "title": "info@cbrnprofessionals.com",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "mailto:info@cbrnprofessionals.com"
-    },
-    {
-      "id": "88a83b47cbaa",
-      "title": "CBRN Corner",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://cbrnprofessionals.com/cbrn-corner/"
-    },
-    {
-      "id": "4fa62a7cd115",
-      "title": "CBRN Reference Material",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://cbrnprofessionals.com/cbrn-references/"
-    },
-    {
-      "id": "e9b634e786cc",
-      "title": "CBRN Resource Links",
-      "source": "CBRN Professionals",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://cbrnprofessionals.com/cbrn-resource-links/"
     },
     {
       "id": "48c630a34218",
@@ -1842,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=32c92e327&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=aa927d0ab&_ss=r"
     },
     {
       "id": "ff8c1aa2d07d",
@@ -1852,7 +1862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=32c92e327&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=aa927d0ab&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -1862,7 +1872,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=32c92e327&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=aa927d0ab&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -1872,7 +1882,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=32c92e327&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=aa927d0ab&_ss=r"
     },
     {
       "id": "715383a36e2a",
