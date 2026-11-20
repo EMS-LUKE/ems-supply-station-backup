@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-20T10:48:42.679893+00:00",
-  "count": 198,
+  "updated": "2026-11-20T19:30:41.540946+00:00",
+  "count": 194,
   "course_count": 84,
-  "news_count": 114,
+  "news_count": 110,
   "items": [
     {
       "id": "e41ccd3144ef",
@@ -1485,46 +1485,6 @@
       "url": "https://www.foamfrat.com/shop-merch"
     },
     {
-      "id": "70d34a5fccd1",
-      "title": "JOIN TODAY",
-      "source": "The Medical Lounge",
-      "cat": "資料庫/媒體",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
-    },
-    {
-      "id": "0698483439b7",
-      "title": "Enroll for free",
-      "source": "The Medical Lounge",
-      "cat": "資料庫/媒體",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.themedicallounge.co.uk/enroll/3262146"
-    },
-    {
-      "id": "a56497f44850",
-      "title": "View more courses",
-      "source": "The Medical Lounge",
-      "cat": "資料庫/媒體",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.themedicallounge.co.uk/collections"
-    },
-    {
-      "id": "222cb12ad6aa",
-      "title": "Join Today!",
-      "source": "The Medical Lounge",
-      "cat": "資料庫/媒體",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
-    },
-    {
       "id": "37c0eeae5854",
       "title": "C-TECC Hosts Workshop at ATMC 2026",
       "source": "C-TECC",
@@ -1583,6 +1543,46 @@
       "date": null,
       "deadline": null,
       "url": "https://www.c-tecc.org/index.php/news/ctecc-britma-partnership"
+    },
+    {
+      "id": "fe9e49751244",
+      "title": "info@cbrnprofessionals.com",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "mailto:info@cbrnprofessionals.com"
+    },
+    {
+      "id": "88a83b47cbaa",
+      "title": "CBRN Corner",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-corner/"
+    },
+    {
+      "id": "4fa62a7cd115",
+      "title": "CBRN Reference Material",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-references/"
+    },
+    {
+      "id": "e9b634e786cc",
+      "title": "CBRN Resource Links",
+      "source": "CBRN Professionals",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://cbrnprofessionals.com/cbrn-resource-links/"
     },
     {
       "id": "48c630a34218",
@@ -1785,56 +1785,6 @@
       "url": "https://nextgencombatmedic.com/2025/08/19/teaching-better-tccc/"
     },
     {
-      "id": "a08848dafaae",
-      "title": "Products",
-      "source": "North American Rescue",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.narescue.com"
-    },
-    {
-      "id": "49edf54eac74",
-      "title": "Training",
-      "source": "North American Rescue",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.narescue.com"
-    },
-    {
-      "id": "b9ea67dfe5b1",
-      "title": "NAR Training Courses",
-      "source": "North American Rescue",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.nareducation.com/"
-    },
-    {
-      "id": "0b2ca0f3a06d",
-      "title": "Product Videos",
-      "source": "North American Rescue",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.narescue.com/education/educational-videos.html"
-    },
-    {
-      "id": "e50a7c80c915",
-      "title": "Product Information Sheets",
-      "source": "North American Rescue",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.narescue.com/education/product-information-sheets.html"
-    },
-    {
       "id": "387f40ba4b84",
       "title": "Safeguard Medical Launches RAMPART™ System Across the UK and European Markets, Turning Chaos into Clarity During Trauma Response",
       "source": "Safeguard Medical",
@@ -1845,44 +1795,54 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
-      "id": "25270ec14c56",
-      "title": "BloodBoxx™ Nesting Systems",
+      "id": "6d97b963ef23",
+      "title": "Mini Trauma Aid Kit (Mini-TAK)",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=aa927d0ab&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/mini-trauma-aid-kit-mini-tak?_pos=1&_sid=d11e13f2e&_ss=r"
     },
     {
-      "id": "ff8c1aa2d07d",
-      "title": "TrueClot Inguinal Packing Trainer (IPT)",
+      "id": "b19e6d367f80",
+      "title": "Saline Lock Kit",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=aa927d0ab&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=2&_sid=d11e13f2e&_ss=r"
     },
     {
-      "id": "5224942b5b77",
-      "title": "html sitemap blogs",
+      "id": "40b63028b17c",
+      "title": "TacMed™ Field Blood Transfusion Kit",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=aa927d0ab&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=3&_sid=d11e13f2e&_ss=r"
     },
     {
-      "id": "ca8d21614ded",
-      "title": "html sitemap",
+      "id": "4d680f23a2b4",
+      "title": "TacMed™ Pocket Medical",
       "source": "Tactical Medicine Training & Equipment",
       "cat": "戰術救護",
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=aa927d0ab&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-pocket-medical?_pos=4&_sid=d11e13f2e&_ss=r"
+    },
+    {
+      "id": "c1af4616556c",
+      "title": "EDC Ankle Trauma Holster",
+      "source": "Tactical Medicine Training & Equipment",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tactical-medicine.com/products/edc-ankle-trauma-holster?_pos=5&_sid=d11e13f2e&_ss=r"
     },
     {
       "id": "715383a36e2a",
