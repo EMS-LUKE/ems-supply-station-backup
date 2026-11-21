@@ -1,29 +1,9 @@
 {
-  "updated": "2026-11-20T19:30:41.540946+00:00",
-  "count": 194,
+  "updated": "2026-11-21T01:57:12.282505+00:00",
+  "count": 193,
   "course_count": 84,
-  "news_count": 110,
+  "news_count": 109,
   "items": [
-    {
-      "id": "e41ccd3144ef",
-      "title": "急性中毒救命課程（AILS Training Course）-115年第4場 社團法人台灣急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-20",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/A/Details/33324"
-    },
-    {
-      "id": "f40e310127a9",
-      "title": "急診外傷訓練(ETTC) 員榮醫療社團法人員榮醫院員生院區",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-21",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33461"
-    },
     {
       "id": "83e800719f41",
       "title": "烏日林新醫院_2026.11.21-22「高級兒童救命術（APLS）訓練課程」 烏日林新醫院",
@@ -43,6 +23,16 @@
       "date": "2026-11-25",
       "deadline": "2026-11-06",
       "url": "https://www.sem.org.tw/Activity/A/Details/33319"
+    },
+    {
+      "id": "05ccae8c22e1",
+      "title": "115年度家庭暴力暨性侵害防治 醫事及專業人員繼續教育訓練 衛生福利部臺北醫院",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-26",
+      "deadline": "2026-11-26",
+      "url": "https://www.sem.org.tw/Activity/B/Details/33487"
     },
     {
       "id": "85eff4d1e425",
@@ -165,6 +155,26 @@
       "url": "https://www.sem.org.tw/News/11/Details/967"
     },
     {
+      "id": "e3ff6fa1a47f",
+      "title": "公告「2026年EMS金梧桐獎」獲獎人員/團體",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-29",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1659"
+    },
+    {
+      "id": "a85fd5c0e747",
+      "title": "轉知「第44屆台灣微整形美容醫學會研討會 (預計核發特管時數)」活動訊息",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-10-13",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1667"
+    },
+    {
       "id": "d2c7d48c5c84",
       "title": "公告「115年十大優秀急診護理師獲選名單」",
       "source": "台灣急診醫學會",
@@ -263,6 +273,16 @@
       "date": "2026-11-14",
       "deadline": null,
       "url": "https://www.tebma.org.tw/event/list/view/2c1a39f064c4a01a76c81be6669b0392"
+    },
+    {
+      "id": "e41ccd3144ef",
+      "title": "急性中毒救命課程（AILS Training Course）-115年第4場 社團法人台灣急診醫學會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-20",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/Activity/A/Details/33324"
     },
     {
       "id": "756917ce00ef",
@@ -483,36 +503,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106"
-    },
-    {
-      "id": "fbce3e42c088",
-      "title": "訂購《醫療資訊雜誌》價格調漲公告！",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "9c1b6c4691ec",
-      "title": "2026下半年醫資管理師/分析師檢定考場公告，請見附件。",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "a6f354046363",
-      "title": "【代轉】誠摯邀請參加10/16(五)2026台灣健康大數據整合服務平台年會 - 推動可信任研究環境：從原則走向可落實的信任機制，歡迎踴躍報名參加！",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
     },
     {
       "id": "540bf270fed2",
@@ -1802,7 +1792,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/mini-trauma-aid-kit-mini-tak?_pos=1&_sid=d11e13f2e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/mini-trauma-aid-kit-mini-tak?_pos=1&_sid=ba1faee52&_ss=r"
     },
     {
       "id": "b19e6d367f80",
@@ -1812,7 +1802,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=2&_sid=d11e13f2e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/saline-lock-kit?_pos=2&_sid=ba1faee52&_ss=r"
     },
     {
       "id": "40b63028b17c",
@@ -1822,7 +1812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=3&_sid=d11e13f2e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-field-blood-transfusion-kit?_pos=3&_sid=ba1faee52&_ss=r"
     },
     {
       "id": "4d680f23a2b4",
@@ -1832,7 +1822,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/tacmed-pocket-medical?_pos=4&_sid=d11e13f2e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/tacmed-pocket-medical?_pos=4&_sid=ba1faee52&_ss=r"
     },
     {
       "id": "c1af4616556c",
@@ -1842,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/edc-ankle-trauma-holster?_pos=5&_sid=d11e13f2e&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/edc-ankle-trauma-holster?_pos=5&_sid=ba1faee52&_ss=r"
     },
     {
       "id": "715383a36e2a",
