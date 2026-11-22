@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-22T00:52:20.352779+00:00",
-  "count": 192,
+  "updated": "2026-11-22T10:35:15.309030+00:00",
+  "count": 191,
   "course_count": 84,
-  "news_count": 108,
+  "news_count": 107,
   "items": [
     {
       "id": "72a765ac53c9",
@@ -1475,6 +1475,46 @@
       "url": "https://www.foamfrat.com/shop-merch"
     },
     {
+      "id": "70d34a5fccd1",
+      "title": "JOIN TODAY",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
+    },
+    {
+      "id": "0698483439b7",
+      "title": "Enroll for free",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/enroll/3262146"
+    },
+    {
+      "id": "a56497f44850",
+      "title": "View more courses",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/collections"
+    },
+    {
+      "id": "222cb12ad6aa",
+      "title": "Join Today!",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
+    },
+    {
       "id": "37c0eeae5854",
       "title": "C-TECC Hosts Workshop at ATMC 2026",
       "source": "C-TECC",
@@ -1792,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=92966a1aa&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=da4edc7a9&_ss=r"
     },
     {
       "id": "ff8c1aa2d07d",
@@ -1802,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=92966a1aa&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=da4edc7a9&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -1812,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=92966a1aa&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=da4edc7a9&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -1822,7 +1862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=92966a1aa&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=da4edc7a9&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1873,56 +1913,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
-    },
-    {
-      "id": "a9fa21e4e2bc",
-      "title": "Geriatric trauma care: What you need to know",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005135~geriatric-trauma-care-what-you-need-to-know"
-    },
-    {
-      "id": "85776a5d499b",
-      "title": "Complications of angioembolization in trauma: What you need to know",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005145~complications-of-angioembolization-in-trauma-what-you-need"
-    },
-    {
-      "id": "127c86dffe5c",
-      "title": "Health care costs after operative versus nonoperative appendicitis management utilizing an administrative claims database",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005082~health-care-costs-after-operative-versus-nonoperative"
-    },
-    {
-      "id": "62683cfe9b0c",
-      "title": "Impact of utilization of temporary vascular shunts on outcomes in traumatic peripheral artery repairs: An 11-year review of the PROOVIT registry",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005116~impact-of-utilization-of-temporary-vascular-shunts-on"
-    },
-    {
-      "id": "bd7b86482235",
-      "title": "Trends in length-of-stay per total body surface area burn in pediatric patients: A report from the pediatric injury and quality improvement collaborative",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005043~trends-in-length-of-stay-per-total-body-surface-area-burn-in"
     }
   ]
 }
