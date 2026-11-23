@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-23T01:19:14.531346+00:00",
+  "updated": "2026-11-23T11:35:40.881327+00:00",
   "count": 191,
-  "course_count": 82,
-  "news_count": 109,
+  "course_count": 83,
+  "news_count": 108,
   "items": [
     {
       "id": "72a765ac53c9",
@@ -93,6 +93,16 @@
       "date": "2027-01-04",
       "deadline": "2026-10-15",
       "url": "https://www.sem.org.tw/Activity/A/Details/33459"
+    },
+    {
+      "id": "a613d2e06684",
+      "title": "急診超音波師培課程-第一階段pretest 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2027-01-20",
+      "deadline": "2026-12-24",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33527"
     },
     {
       "id": "ebc0b5bb46b1",
@@ -493,6 +503,46 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106"
+    },
+    {
+      "id": "fbce3e42c088",
+      "title": "訂購《醫療資訊雜誌》價格調漲公告！",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
+      "id": "4a34d6b45756",
+      "title": "2026下半年醫學資訊管理師/分析師檢定考試題目暨答案公告",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
+      "id": "9c1b6c4691ec",
+      "title": "2026下半年醫資管理師/分析師檢定考場公告，請見附件。",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
+    },
+    {
+      "id": "a6f354046363",
+      "title": "【代轉】誠摯邀請參加10/16(五)2026台灣健康大數據整合服務平台年會 - 推動可信任研究環境：從原則走向可落實的信任機制，歡迎踴躍報名參加！",
+      "source": "台灣醫學資訊學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.medinfo.org.tw"
     },
     {
       "id": "540bf270fed2",
@@ -1782,7 +1832,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=25a3d036f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=001e267de&_ss=r"
     },
     {
       "id": "ff8c1aa2d07d",
@@ -1792,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=25a3d036f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=001e267de&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -1802,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=25a3d036f&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=001e267de&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -1812,7 +1862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=25a3d036f&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=001e267de&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1863,56 +1913,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
-    },
-    {
-      "id": "a9fa21e4e2bc",
-      "title": "Geriatric trauma care: What you need to know",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005135~geriatric-trauma-care-what-you-need-to-know"
-    },
-    {
-      "id": "85776a5d499b",
-      "title": "Complications of angioembolization in trauma: What you need to know",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005145~complications-of-angioembolization-in-trauma-what-you-need"
-    },
-    {
-      "id": "127c86dffe5c",
-      "title": "Health care costs after operative versus nonoperative appendicitis management utilizing an administrative claims database",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005082~health-care-costs-after-operative-versus-nonoperative"
-    },
-    {
-      "id": "62683cfe9b0c",
-      "title": "Impact of utilization of temporary vascular shunts on outcomes in traumatic peripheral artery repairs: An 11-year review of the PROOVIT registry",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005116~impact-of-utilization-of-temporary-vascular-shunts-on"
-    },
-    {
-      "id": "bd7b86482235",
-      "title": "Trends in length-of-stay per total body surface area burn in pediatric patients: A report from the pediatric injury and quality improvement collaborative",
-      "source": "JTACS",
-      "cat": "國際期刊/組織",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005043~trends-in-length-of-stay-per-total-body-surface-area-burn-in"
     }
   ]
 }
