@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-22T18:55:01.765533+00:00",
+  "updated": "2026-11-23T01:19:14.531346+00:00",
   "count": 191,
-  "course_count": 84,
-  "news_count": 107,
+  "course_count": 82,
+  "news_count": 109,
   "items": [
     {
       "id": "72a765ac53c9",
@@ -135,6 +135,16 @@
       "url": "https://www.sem.org.tw/News/11/Details/1645"
     },
     {
+      "id": "5c699a656357",
+      "title": "【ED Transforming！急診智慧轉型研討會】—台灣急診管理學會第六屆第一次會員大會暨學術研討會",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-09-08",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/10/Details/1646"
+    },
+    {
       "id": "ac6ac8b858dd",
       "title": "EMS news letter - 雙月刊",
       "source": "台灣急診醫學會",
@@ -265,26 +275,6 @@
       "url": "https://www.tebma.org.tw/event/list/view/2c1a39f064c4a01a76c81be6669b0392"
     },
     {
-      "id": "e41ccd3144ef",
-      "title": "急性中毒救命課程（AILS Training Course）-115年第4場 社團法人台灣急診醫學會",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-20",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/A/Details/33324"
-    },
-    {
-      "id": "83e800719f41",
-      "title": "烏日林新醫院_2026.11.21-22「高級兒童救命術（APLS）訓練課程」 烏日林新醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-21",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33422"
-    },
-    {
       "id": "756917ce00ef",
       "title": "【ATLS報名】116年度「再認證」課程報名資訊（含報名表）...",
       "source": "台灣外傷醫學會",
@@ -305,16 +295,6 @@
       "url": "http://www.trauma.org.tw/news/index.asp?/94.html"
     },
     {
-      "id": "4bc9cbe8a0fb",
-      "title": "【ATLS課表公告】115年第14及15梯次ATLS再認證課程（彰化基督教醫院）...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/93.html"
-    },
-    {
       "id": "5132f2172238",
       "title": "【甄審資訊】115年專科醫師甄審筆試地點公告...",
       "source": "台灣外傷醫學會",
@@ -333,6 +313,16 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/82.html"
+    },
+    {
+      "id": "57654c31c3ba",
+      "title": "【甄審資訊】115年專科醫師甄審公告...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/78.html"
     },
     {
       "id": "86005a8326cc",
@@ -1475,46 +1465,6 @@
       "url": "https://www.foamfrat.com/shop-merch"
     },
     {
-      "id": "70d34a5fccd1",
-      "title": "JOIN TODAY",
-      "source": "The Medical Lounge",
-      "cat": "資料庫/媒體",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
-    },
-    {
-      "id": "0698483439b7",
-      "title": "Enroll for free",
-      "source": "The Medical Lounge",
-      "cat": "資料庫/媒體",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.themedicallounge.co.uk/enroll/3262146"
-    },
-    {
-      "id": "a56497f44850",
-      "title": "View more courses",
-      "source": "The Medical Lounge",
-      "cat": "資料庫/媒體",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.themedicallounge.co.uk/collections"
-    },
-    {
-      "id": "222cb12ad6aa",
-      "title": "Join Today!",
-      "source": "The Medical Lounge",
-      "cat": "資料庫/媒體",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
-    },
-    {
       "id": "37c0eeae5854",
       "title": "C-TECC Hosts Workshop at ATMC 2026",
       "source": "C-TECC",
@@ -1695,6 +1645,16 @@
       "url": "https://ctoms.ca/collections/tactical-clothing"
     },
     {
+      "id": "3f6989d40c6b",
+      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
+      "source": "JTS — Joint Trauma System",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://jts.health.mil/"
+    },
+    {
       "id": "df37b5e4d0b7",
       "title": "Defense Committees on Trauma",
       "source": "JTS — Joint Trauma System",
@@ -1733,16 +1693,6 @@
       "date": null,
       "deadline": null,
       "url": "https://jts.health.mil/index.cfm/CPGs/cpgs"
-    },
-    {
-      "id": "3f6989d40c6b",
-      "title": "Joint Trauma System The Department of Defense Center of Excellence for Trauma Bold, Responsible Practice of Battlefield Medicine",
-      "source": "JTS — Joint Trauma System",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://jts.health.mil/"
     },
     {
       "id": "1d5a35aee639",
@@ -1832,7 +1782,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=4e16d862f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=25a3d036f&_ss=r"
     },
     {
       "id": "ff8c1aa2d07d",
@@ -1842,7 +1792,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=4e16d862f&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=25a3d036f&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -1852,7 +1802,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=4e16d862f&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=25a3d036f&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -1862,7 +1812,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=4e16d862f&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=25a3d036f&_ss=r"
     },
     {
       "id": "715383a36e2a",
@@ -1913,6 +1863,56 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tacmedsolutions.com/blogs/news/matti-the-new-female-trauma-patient-simulator"
+    },
+    {
+      "id": "a9fa21e4e2bc",
+      "title": "Geriatric trauma care: What you need to know",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005135~geriatric-trauma-care-what-you-need-to-know"
+    },
+    {
+      "id": "85776a5d499b",
+      "title": "Complications of angioembolization in trauma: What you need to know",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005145~complications-of-angioembolization-in-trauma-what-you-need"
+    },
+    {
+      "id": "127c86dffe5c",
+      "title": "Health care costs after operative versus nonoperative appendicitis management utilizing an administrative claims database",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005082~health-care-costs-after-operative-versus-nonoperative"
+    },
+    {
+      "id": "62683cfe9b0c",
+      "title": "Impact of utilization of temporary vascular shunts on outcomes in traumatic peripheral artery repairs: An 11-year review of the PROOVIT registry",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005116~impact-of-utilization-of-temporary-vascular-shunts-on"
+    },
+    {
+      "id": "bd7b86482235",
+      "title": "Trends in length-of-stay per total body surface area burn in pediatric patients: A report from the pediatric injury and quality improvement collaborative",
+      "source": "JTACS",
+      "cat": "國際期刊/組織",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.ovid.com/jnls/jtrauma/fulltext/10.1097/ta.0000000000005043~trends-in-length-of-stay-per-total-body-surface-area-burn-in"
     }
   ]
 }
