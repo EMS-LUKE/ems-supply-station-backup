@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-23T23:09:39.483456+00:00",
-  "count": 191,
+  "updated": "2026-11-24T07:44:42.725721+00:00",
+  "count": 192,
   "course_count": 83,
-  "news_count": 108,
+  "news_count": 109,
   "items": [
+    {
+      "id": "7135e71afe6f",
+      "title": "公告AILS Training Course通過名單 (115.11.20~115.11.21)",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-24",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1685"
+    },
     {
       "id": "72a765ac53c9",
       "title": "115年急診進階超音波課程-第三場 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
@@ -1832,7 +1842,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=cd1fc8fcc&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=431c763f7&_ss=r"
     },
     {
       "id": "ff8c1aa2d07d",
@@ -1842,7 +1852,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=cd1fc8fcc&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=431c763f7&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -1852,7 +1862,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=cd1fc8fcc&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=431c763f7&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -1862,7 +1872,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=cd1fc8fcc&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=431c763f7&_ss=r"
     },
     {
       "id": "715383a36e2a",
