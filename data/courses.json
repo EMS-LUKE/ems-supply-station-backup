@@ -1,19 +1,9 @@
 {
-  "updated": "2026-11-24T19:53:01.559904+00:00",
-  "count": 192,
+  "updated": "2026-11-25T03:56:20.996662+00:00",
+  "count": 195,
   "course_count": 83,
-  "news_count": 109,
+  "news_count": 112,
   "items": [
-    {
-      "id": "7135e71afe6f",
-      "title": "公告AILS Training Course通過名單 (115.11.20~115.11.21)",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-11-24",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1685"
-    },
     {
       "id": "72a765ac53c9",
       "title": "115年急診進階超音波課程-第三場 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
@@ -295,6 +285,16 @@
       "url": "https://www.tebma.org.tw/event/list/view/2c1a39f064c4a01a76c81be6669b0392"
     },
     {
+      "id": "7135e71afe6f",
+      "title": "公告AILS Training Course通過名單 (115.11.20~115.11.21)",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": "2026-11-24",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1685"
+    },
+    {
       "id": "756917ce00ef",
       "title": "【ATLS報名】116年度「再認證」課程報名資訊（含報名表）...",
       "source": "台灣外傷醫學會",
@@ -555,24 +555,24 @@
       "url": "https://www.medinfo.org.tw"
     },
     {
-      "id": "540bf270fed2",
-      "title": "2026_Agenda 第二屆大林慈濟醫院整形外科國際研討會_更新.png",
+      "id": "e4aa49328311",
+      "title": "TSBIWH®_第十一屆專業傷口照護訓練課程簡章(招生附件)_20261104.pdf",
       "source": "臺灣燒傷暨傷口照護學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.burn.org.tw/attachments/article/308/2026_Agenda 第二屆大林慈濟醫院整形外科國際研討會_更新.png"
+      "url": "https://www.burn.org.tw/attachments/article/307/TSBIWH®_第十一屆專業傷口照護訓練課程簡章(招生附件)_20261104.pdf"
     },
     {
-      "id": "1ac718b6e065",
-      "title": "榮獲EWMA國際認證｜【課程招生】第十一屆專業傷口照護訓練課程，開放報名！",
+      "id": "ea8224f1c0a7",
+      "title": "推動學術與實務對話｜【研討會轉知】2026第二屆大林慈濟醫院整形外科國際研討會",
       "source": "臺灣燒傷暨傷口照護學會",
       "cat": "台灣學會",
       "type": "course",
       "date": null,
       "deadline": null,
-      "url": "https://www.burn.org.tw/index.php/news/25-the-project/307-ewma"
+      "url": "https://www.burn.org.tw/index.php/news/25-the-project/308-2026"
     },
     {
       "id": "fb38c785d1dd",
@@ -1525,6 +1525,46 @@
       "url": "https://www.foamfrat.com/shop-merch"
     },
     {
+      "id": "70d34a5fccd1",
+      "title": "JOIN TODAY",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
+    },
+    {
+      "id": "0698483439b7",
+      "title": "Enroll for free",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/enroll/3262146"
+    },
+    {
+      "id": "a56497f44850",
+      "title": "View more courses",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/collections"
+    },
+    {
+      "id": "222cb12ad6aa",
+      "title": "Join Today!",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
+    },
+    {
       "id": "37c0eeae5854",
       "title": "C-TECC Hosts Workshop at ATMC 2026",
       "source": "C-TECC",
@@ -1835,16 +1875,6 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
-      "id": "25270ec14c56",
-      "title": "BloodBoxx™ Nesting Systems",
-      "source": "Tactical Medicine Training & Equipment",
-      "cat": "戰術救護",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/bloodboxx-nesting-systems?_pos=1&_sid=8faebff1b&_ss=r"
-    },
-    {
       "id": "ff8c1aa2d07d",
       "title": "TrueClot Inguinal Packing Trainer (IPT)",
       "source": "Tactical Medicine Training & Equipment",
@@ -1852,7 +1882,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=2&_sid=8faebff1b&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=5cb9f2dea&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -1862,7 +1892,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=3&_sid=8faebff1b&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=5cb9f2dea&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -1872,7 +1902,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=4&_sid=8faebff1b&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=5cb9f2dea&_ss=r"
     },
     {
       "id": "715383a36e2a",
