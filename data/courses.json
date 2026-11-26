@@ -1,29 +1,9 @@
 {
-  "updated": "2026-11-25T16:33:51.102709+00:00",
-  "count": 191,
-  "course_count": 83,
-  "news_count": 108,
+  "updated": "2026-11-26T01:24:06.635760+00:00",
+  "count": 194,
+  "course_count": 82,
+  "news_count": 112,
   "items": [
-    {
-      "id": "72a765ac53c9",
-      "title": "115年急診進階超音波課程-第三場 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-25",
-      "deadline": "2026-11-06",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33319"
-    },
-    {
-      "id": "05ccae8c22e1",
-      "title": "115年度家庭暴力暨性侵害防治 醫事及專業人員繼續教育訓練 衛生福利部臺北醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-26",
-      "deadline": "2026-11-26",
-      "url": "https://www.sem.org.tw/Activity/B/Details/33487"
-    },
     {
       "id": "85eff4d1e425",
       "title": "2026年冬季學術討論會暨1119台灣急診日 社團法人台灣急診醫學會、中山醫學大學附設醫院急診部",
@@ -293,6 +273,16 @@
       "date": "2026-11-24",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1685"
+    },
+    {
+      "id": "72a765ac53c9",
+      "title": "115年急診進階超音波課程-第三場 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
+      "source": "台灣急診醫學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": "2026-11-25",
+      "deadline": "2026-11-06",
+      "url": "https://www.sem.org.tw/Activity/A/Details/33319"
     },
     {
       "id": "756917ce00ef",
@@ -1525,6 +1515,46 @@
       "url": "https://www.foamfrat.com/shop-merch"
     },
     {
+      "id": "70d34a5fccd1",
+      "title": "JOIN TODAY",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
+    },
+    {
+      "id": "0698483439b7",
+      "title": "Enroll for free",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/enroll/3262146"
+    },
+    {
+      "id": "a56497f44850",
+      "title": "View more courses",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/collections"
+    },
+    {
+      "id": "222cb12ad6aa",
+      "title": "Join Today!",
+      "source": "The Medical Lounge",
+      "cat": "資料庫/媒體",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.themedicallounge.co.uk/bundles/Prehospital-Academy"
+    },
+    {
       "id": "37c0eeae5854",
       "title": "C-TECC Hosts Workshop at ATMC 2026",
       "source": "C-TECC",
@@ -1842,7 +1872,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=7d20a27d8&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=c9708dc35&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -1852,7 +1882,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=7d20a27d8&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=c9708dc35&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -1862,7 +1892,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=7d20a27d8&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=c9708dc35&_ss=r"
     },
     {
       "id": "715383a36e2a",
