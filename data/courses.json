@@ -1,19 +1,9 @@
 {
-  "updated": "2026-11-26T20:47:19.567942+00:00",
-  "count": 191,
-  "course_count": 82,
-  "news_count": 109,
+  "updated": "2026-11-27T03:26:36.057074+00:00",
+  "count": 185,
+  "course_count": 81,
+  "news_count": 104,
   "items": [
-    {
-      "id": "8143d94443e7",
-      "title": "115年急診超音波相關課程排程表 (115.11.26更新)",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-11-26",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1307"
-    },
     {
       "id": "85eff4d1e425",
       "title": "2026年冬季學術討論會暨1119台灣急診日 社團法人台灣急診醫學會、中山醫學大學附設醫院急診部",
@@ -123,16 +113,6 @@
       "date": "2027-02-26",
       "deadline": "2027-02-26",
       "url": "https://www.sem.org.tw/Activity/A/Details/33524"
-    },
-    {
-      "id": "3317ef8df1a3",
-      "title": "公告AILS Training Course通過名單 (115.08.23~115.08.24)",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": "2026-08-28",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/News/11/Details/1645"
     },
     {
       "id": "5c699a656357",
@@ -285,14 +265,24 @@
       "url": "https://www.sem.org.tw/News/11/Details/1685"
     },
     {
-      "id": "72a765ac53c9",
-      "title": "115年急診進階超音波課程-第三場 社團法人台灣急診醫學會、中國醫藥大學附設醫院急診部",
+      "id": "8143d94443e7",
+      "title": "115年急診超音波相關課程排程表 (115.11.26更新)",
       "source": "台灣急診醫學會",
       "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-25",
-      "deadline": "2026-11-06",
-      "url": "https://www.sem.org.tw/Activity/A/Details/33319"
+      "type": "news",
+      "date": "2026-11-26",
+      "deadline": null,
+      "url": "https://www.sem.org.tw/News/11/Details/1307"
+    },
+    {
+      "id": "c40c7ebe3f11",
+      "title": "【ATLS課表公告】115年第16梯次ATLS再認證課程（台北馬偕紀念醫院）...",
+      "source": "台灣外傷醫學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "http://www.trauma.org.tw/news/index.asp?/96.html"
     },
     {
       "id": "756917ce00ef",
@@ -333,16 +323,6 @@
       "date": null,
       "deadline": null,
       "url": "http://www.trauma.org.tw/news/index.asp?/82.html"
-    },
-    {
-      "id": "57654c31c3ba",
-      "title": "【甄審資訊】115年專科醫師甄審公告...",
-      "source": "台灣外傷醫學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "http://www.trauma.org.tw/news/index.asp?/78.html"
     },
     {
       "id": "86005a8326cc",
@@ -513,46 +493,6 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tmed.com.tw/site_item_content_2.php?site_map_item_id=106"
-    },
-    {
-      "id": "fbce3e42c088",
-      "title": "訂購《醫療資訊雜誌》價格調漲公告！",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "4a34d6b45756",
-      "title": "2026下半年醫學資訊管理師/分析師檢定考試題目暨答案公告",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "9c1b6c4691ec",
-      "title": "2026下半年醫資管理師/分析師檢定考場公告，請見附件。",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
-    },
-    {
-      "id": "a6f354046363",
-      "title": "【代轉】誠摯邀請參加10/16(五)2026台灣健康大數據整合服務平台年會 - 推動可信任研究環境：從原則走向可落實的信任機制，歡迎踴躍報名參加！",
-      "source": "台灣醫學資訊學會",
-      "cat": "台灣學會",
-      "type": "news",
-      "date": null,
-      "deadline": null,
-      "url": "https://www.medinfo.org.tw"
     },
     {
       "id": "e4aa49328311",
@@ -1842,7 +1782,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=99a65be09&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=ac8a5f796&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -1852,7 +1792,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=99a65be09&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=ac8a5f796&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -1862,7 +1802,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=99a65be09&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=ac8a5f796&_ss=r"
     },
     {
       "id": "715383a36e2a",
