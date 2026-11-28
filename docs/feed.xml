@@ -5,7 +5,7 @@
   <link>https://emsipbyluke.netlify.app</link>
   <description>自動彙整台灣及國際急救相關單位課程與最新消息</description>
   <language>zh-TW</language>
-  <lastBuildDate>Fri, 27 Nov 2026 15:55:35 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 00:55:46 +0000</lastBuildDate>
   <ttl>180</ttl>
   <item>
     <title>【課程】2026年冬季學術討論會暨1119台灣急診日 社團法人台灣急診醫學會、中山醫學大學附設醫院急診部</title>
@@ -190,14 +190,6 @@
     <pubDate>2026-11-24</pubDate>
     <category>台灣急診醫學會 - 台灣學會</category>
     <description>【消息】公告AILS Training Course通過名單 (115.11.20~115.11.21)（來源：台灣急診醫學會）</description>
-  </item>
-  <item>
-    <title>【課程】ACLS 林口長庚醫院</title>
-    <link>https://www.sem.org.tw/Activity/B/Details/33429</link>
-    <guid>https://www.sem.org.tw/Activity/B/Details/33429</guid>
-    <pubDate>2026-11-26</pubDate>
-    <category>台灣急診醫學會 - 台灣學會</category>
-    <description>【課程】ACLS 林口長庚醫院（來源：台灣急診醫學會）</description>
   </item>
   <item>
     <title>【消息】115年急診超音波相關課程排程表 (115.11.26更新)</title>
@@ -486,6 +478,14 @@
     <pubDate>None</pubDate>
     <category>台灣呼吸道處理醫學會 - 台灣學會</category>
     <description>【消息】2026年年會報名（來源：台灣呼吸道處理醫學會）</description>
+  </item>
+  <item>
+    <title>【課程】雜誌通訊課程</title>
+    <link>https://www.tana.org.tw/ecu/ecu_ccH.asp</link>
+    <guid>https://www.tana.org.tw/ecu/ecu_ccH.asp</guid>
+    <pubDate>None</pubDate>
+    <category>台灣麻醉專科護理學會 - 台灣學會</category>
+    <description>【課程】雜誌通訊課程（來源：台灣麻醉專科護理學會）</description>
   </item>
 </channel>
 </rss>

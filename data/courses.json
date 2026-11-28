@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-27T15:55:35.997174+00:00",
-  "count": 174,
-  "course_count": 74,
-  "news_count": 100,
+  "updated": "2026-11-28T00:55:46.096658+00:00",
+  "count": 183,
+  "course_count": 78,
+  "news_count": 105,
   "items": [
     {
       "id": "85eff4d1e425",
@@ -233,16 +233,6 @@
       "date": "2026-11-24",
       "deadline": null,
       "url": "https://www.sem.org.tw/News/11/Details/1685"
-    },
-    {
-      "id": "0e1c4c64812d",
-      "title": "ACLS 林口長庚醫院",
-      "source": "台灣急診醫學會",
-      "cat": "台灣學會",
-      "type": "course",
-      "date": "2026-11-26",
-      "deadline": null,
-      "url": "https://www.sem.org.tw/Activity/B/Details/33429"
     },
     {
       "id": "8143d94443e7",
@@ -603,6 +593,96 @@
       "date": null,
       "deadline": null,
       "url": "https://www.tsamairway.org.tw/2026rigistatinformation"
+    },
+    {
+      "id": "c471c32f474a",
+      "title": "雜誌通訊課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/ecu/ecu_ccH.asp"
+    },
+    {
+      "id": "bbf59a0ee0ad",
+      "title": "線上影像學習課程",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/ecu/vedio_list.asp"
+    },
+    {
+      "id": "9e061ab30eb6",
+      "title": "麻醉護理衛教教材製作競賽活動開始了喔！",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1099.html"
+    },
+    {
+      "id": "c0ae0ce79635",
+      "title": "11/8 冬季研討會報到須知與時間提醒",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1097.html"
+    },
+    {
+      "id": "4a249f5358dd",
+      "title": "115年冬季麻醉專科護理師學術研討會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "course",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/799.html"
+    },
+    {
+      "id": "7f4077aab8c4",
+      "title": "國際麻醉護士協會IFNA標準規範",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/files/reg/IFNA.pdf"
+    },
+    {
+      "id": "10f1f343f668",
+      "title": "116年學術論文發表徵稿暨海報競賽公告",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1098.html"
+    },
+    {
+      "id": "0f74c6051b5c",
+      "title": "未確認款項認領公告",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/news_info.asp?/1095.html"
+    },
+    {
+      "id": "b7d3ba88a411",
+      "title": "代登~台灣麻醉醫學會雲嘉地區聯合討論會",
+      "source": "台灣麻醉專科護理學會",
+      "cat": "台灣學會",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.tana.org.tw/news/learn_info.asp?/796.html"
     },
     {
       "id": "5bfcff8d3c72",
@@ -1665,6 +1745,16 @@
       "url": "https://safeguardmedical.com/blogs/news/rampart%E2%84%A2-across-the-uk-and-european-markets"
     },
     {
+      "id": "d4f9e11c8f3c",
+      "title": "Quick Response Sling",
+      "source": "Snakestaff Systems",
+      "cat": "戰術救護",
+      "type": "news",
+      "date": null,
+      "deadline": null,
+      "url": "https://www.snakestaffsystems.com/product/quick-response-sling"
+    },
+    {
       "id": "ff8c1aa2d07d",
       "title": "TrueClot Inguinal Packing Trainer (IPT)",
       "source": "Tactical Medicine Training & Equipment",
@@ -1672,7 +1762,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=5497573ed&_ss=r"
+      "url": "https://www.tactical-medicine.com/products/trueclot-inguinal-packing-trainer-ipt?_pos=1&_sid=be9a5a60d&_ss=r"
     },
     {
       "id": "5224942b5b77",
@@ -1682,7 +1772,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=5497573ed&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap-blogs?_pos=2&_sid=be9a5a60d&_ss=r"
     },
     {
       "id": "ca8d21614ded",
@@ -1692,7 +1782,7 @@
       "type": "news",
       "date": null,
       "deadline": null,
-      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=5497573ed&_ss=r"
+      "url": "https://www.tactical-medicine.com/pages/html-sitemap?_pos=3&_sid=be9a5a60d&_ss=r"
     },
     {
       "id": "715383a36e2a",
